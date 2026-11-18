@@ -1,0 +1,11 @@
+# secrets
+.env
+
+# environments / caches
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+
+# vector stores (large, rebuildable; GitHub rejects files >100MB)
+evaluation/mem0_store_obsdate/
+evaluation/mem0paper_store/
