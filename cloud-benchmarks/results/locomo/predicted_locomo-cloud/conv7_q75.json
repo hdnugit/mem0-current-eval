@@ -1,0 +1,379 @@
+{
+  "question_id": "conv7_q75",
+  "conversation_idx": 7,
+  "category": 3,
+  "category_name": "open-domain",
+  "question": "What card game is Deborah talking about?",
+  "ground_truth_answer": "Exploding Kittens",
+  "evidence": [
+    "D27:12"
+  ],
+  "user_id": "locomo_7_fe8ec031",
+  "reference_date": "10:17 am on 20 September, 2023",
+  "retrieval": {
+    "search_query": "What card game is Deborah talking about?",
+    "search_results": [
+      {
+        "memory": "Deborah shared a photo showing a game board with a bunch of cards.",
+        "score": 0.7002,
+        "id": "7bc94fcd-9a65-4279-9c34-fda32d819878",
+        "created_at": "2023-07-09T19:37:00+00:00",
+        "updated_at": "2026-11-19T04:55:02.444695+00:00"
+      },
+      {
+        "memory": "Deborah recently played an unnamed cat-themed card game where players draw cards from a deck and can attack opponents",
+        "score": 0.669,
+        "id": "143d8c5d-3ffb-44f7-882f-0b7d0d60826e",
+        "created_at": "2023-09-12T14:18:00+00:00",
+        "updated_at": "2026-11-19T05:47:16.240892+00:00"
+      },
+      {
+        "memory": "Deborah is interested in gaming together and asks what the other person likes best about gaming together",
+        "score": 0.4648,
+        "id": "a4a2c263-c8b0-4a0d-bbbd-fd136caf4185",
+        "created_at": "2023-07-09T19:37:00+00:00",
+        "updated_at": "2026-11-19T04:53:22.937442+00:00"
+      },
+      {
+        "memory": "Deborah prefers to play detective games together with Jolene",
+        "score": 0.4586,
+        "id": "8513787c-a4ea-44a3-a836-d3c77eab6d79",
+        "created_at": "2023-08-19T00:52:00+00:00",
+        "updated_at": "2026-11-19T05:12:55.320400+00:00"
+      },
+      {
+        "memory": "Around March 22, 2023, Deborah and her neighbor Anna sat by the sea, watched the sunset, and talked about each other.",
+        "score": 0.4308,
+        "id": "c7137e91-198d-466a-add9-c6ff2d8aedea",
+        "created_at": "2023-03-22T17:35:00+00:00",
+        "updated_at": "2026-11-19T04:39:33.234561+00:00"
+      },
+      {
+        "memory": "Deborah feels that getting immersed in a game is freeing",
+        "score": 0.4202,
+        "id": "e773a528-3759-41a3-b466-1677cf7b29e4",
+        "created_at": "2023-09-03T14:14:00+00:00",
+        "updated_at": "2026-11-19T05:38:00.805975+00:00"
+      },
+      {
+        "memory": "Jolene looks forward to meeting Deborah and playing this game together",
+        "score": 0.4148,
+        "id": "a6f476c3-d859-4ef3-a35e-dda177ef80e8",
+        "created_at": "2023-09-12T14:18:00+00:00",
+        "updated_at": "2026-11-19T05:47:29.760738+00:00"
+      },
+      {
+        "memory": "Deborah plans to check out the video game recommendations she received",
+        "score": 0.4141,
+        "id": "14556557-0fac-49d0-9254-b852081e7078",
+        "created_at": "2023-08-19T00:52:00+00:00",
+        "updated_at": "2026-11-19T05:12:03.941798+00:00"
+      },
+      {
+        "memory": "Deborah used to play video games but hasn't played in a while, says they are a good way to relax after a busy day, and asks for game suggestions and the assistant's favorite game",
+        "score": 0.4065,
+        "id": "84d2a065-8f60-4ae5-b21c-c8fb268470d6",
+        "created_at": "2023-08-19T00:52:00+00:00",
+        "updated_at": "2026-11-19T05:11:34.379131+00:00"
+      },
+      {
+        "memory": "Deborah is interested in gaming and asks whether the other person plays only old games or also tries new ones",
+        "score": 0.3882,
+        "id": "36583a07-5600-4a76-80d6-04c9817c405c",
+        "created_at": "2023-01-27T09:49:00+00:00",
+        "updated_at": "2026-11-19T04:09:27.842760+00:00"
+      },
+      {
+        "memory": "Deborah used to play video games with her husband, taking turns, and says gaming is a great way to bond, create memories, and bring people closer",
+        "score": 0.3118,
+        "id": "115b76fc-ba6c-4db3-80f1-3c77e25ecaf3",
+        "created_at": "2023-08-19T00:52:00+00:00",
+        "updated_at": "2026-11-19T05:12:42.902056+00:00"
+      },
+      {
+        "memory": "Deborah has a friend named Karlie",
+        "score": 0.2826,
+        "id": "5f8ce6dc-66b2-4683-b0c7-940cfc561919",
+        "created_at": "2023-02-22T16:12:00+00:00",
+        "updated_at": "2026-11-19T04:24:01.647382+00:00"
+      },
+      {
+        "memory": "Deborah mentions that she has an offer she cannot refuse",
+        "score": 0.2782,
+        "id": "3a736805-acb3-4e75-a5e1-2acac91dcaf0",
+        "created_at": "2023-09-06T20:31:00+00:00",
+        "updated_at": "2026-11-19T05:41:28.990420+00:00"
+      },
+      {
+        "memory": "Deborah spends evenings with loved ones",
+        "score": 0.2745,
+        "id": "7bf39d49-bf62-48ef-b54e-815b6e95172c",
+        "created_at": "2023-02-25T16:50:00+00:00",
+        "updated_at": "2026-11-19T04:28:57.289489+00:00"
+      },
+      {
+        "memory": "Deborah wants to eat this now",
+        "score": 0.2744,
+        "id": "64875339-611d-4c74-b409-b452cc9e0315",
+        "created_at": "2023-09-17T13:24:00+00:00",
+        "updated_at": "2026-11-19T05:53:13.389390+00:00"
+      },
+      {
+        "memory": "Deborah (Deborah) felt fond memories while relaxing outside",
+        "score": 0.2742,
+        "id": "dd82b336-8204-4027-9fd2-46d326916ab0",
+        "created_at": "2023-08-30T11:46:00+00:00",
+        "updated_at": "2026-11-19T05:30:49.831699+00:00"
+      },
+      {
+        "memory": "Deborah says she will always be by Jolene's side",
+        "score": 0.2697,
+        "id": "2e3472db-0410-41f3-8634-3bdac5f5d74a",
+        "created_at": "2023-08-24T09:34:00+00:00",
+        "updated_at": "2026-11-19T05:23:41.257302+00:00"
+      },
+      {
+        "memory": "Deborah noted that Jolene and others had fun",
+        "score": 0.269,
+        "id": "4b4f2518-70d6-479f-932a-88f6dcf69c94",
+        "created_at": "2023-03-02T19:18:00+00:00",
+        "updated_at": "2026-11-19T04:31:37.817663+00:00"
+      },
+      {
+        "memory": "Deborah is really thankful for all the time she had with her friend",
+        "score": 0.2615,
+        "id": "7f700f16-cd48-474e-8fe7-3a3061ca277c",
+        "created_at": "2023-08-19T00:52:00+00:00",
+        "updated_at": "2026-11-19T05:14:46.935623+00:00"
+      },
+      {
+        "memory": "Deborah expressed that she felt something was wonderful",
+        "score": 0.2602,
+        "id": "fb18aff3-507d-48b1-ab8f-ca3a1c78a26c",
+        "created_at": "2023-02-25T16:50:00+00:00",
+        "updated_at": "2026-11-19T04:26:15.505958+00:00"
+      },
+      {
+        "memory": "Deborah feels great about having proven her skills",
+        "score": 0.2601,
+        "id": "51ec520e-b3b6-4937-b40d-1782bc420fbc",
+        "created_at": "2023-03-28T16:03:00+00:00",
+        "updated_at": "2026-11-19T04:40:40.147088+00:00"
+      },
+      {
+        "memory": "Jolene said catching up with Deborah was great",
+        "score": 0.2601,
+        "id": "22266d61-a687-48c0-be18-2e2d239dfec9",
+        "created_at": "2023-09-20T10:17:00+00:00",
+        "updated_at": "2026-11-19T05:58:41.102186+00:00"
+      },
+      {
+        "memory": "Deborah thinks it's good that Jolene has something to do together",
+        "score": 0.2593,
+        "id": "75b50214-7dd6-47eb-b3dc-c7bfd4b0d6d0",
+        "created_at": "2023-02-01T19:03:00+00:00",
+        "updated_at": "2026-11-19T04:12:44.046148+00:00"
+      },
+      {
+        "memory": "Deborah asks Jolene about her career aspirations",
+        "score": 0.2592,
+        "id": "7ef5be6b-14db-45c0-b5a3-096c4ee2da9c",
+        "created_at": "2023-02-04T09:48:00+00:00",
+        "updated_at": "2026-11-19T04:14:27.519298+00:00"
+      },
+      {
+        "memory": "Deborah wants to learn more about how Jolene does it",
+        "score": 0.2588,
+        "id": "649bc006-aec7-4ead-85b3-9660be8e63f8",
+        "created_at": "2023-09-08T19:39:00+00:00",
+        "updated_at": "2026-11-19T05:42:46.589339+00:00"
+      },
+      {
+        "memory": "Deborah wishes Jolene good luck on her exams and tells her to take care",
+        "score": 0.2584,
+        "id": "891e7e11-a277-4f33-a831-e1a299e0e420",
+        "created_at": "2023-03-02T19:18:00+00:00",
+        "updated_at": "2026-11-19T04:33:44.938873+00:00"
+      },
+      {
+        "memory": "Deborah offered to suggest routines for Jolene to try",
+        "score": 0.2581,
+        "id": "75dc2fff-a7b3-4ab1-b2c3-dba567ada23f",
+        "created_at": "2023-08-01T09:26:00+00:00",
+        "updated_at": "2026-11-19T05:01:42.949765+00:00"
+      },
+      {
+        "memory": "Deborah (Deborah) expressed enthusiasm for a special self‑discovery book and said her cozy nook for chilling is her favorite spot.",
+        "score": 0.2576,
+        "id": "a8080611-e797-4120-bd9c-33742ce808f1",
+        "created_at": "2023-09-17T13:24:00+00:00",
+        "updated_at": "2026-11-19T05:54:18.085155+00:00"
+      },
+      {
+        "memory": "Deborah believes that something is one of life's best parts",
+        "score": 0.2571,
+        "id": "c55a1fe8-a2dd-44f5-9c0b-1d9e1105bfb4",
+        "created_at": "2023-03-13T11:22:00+00:00",
+        "updated_at": "2026-11-19T04:35:00.378896+00:00"
+      },
+      {
+        "memory": "Deborah reports feeling all good",
+        "score": 0.2566,
+        "id": "5c2516e2-ea11-43e7-a9e1-ca1dfa9d536c",
+        "created_at": "2023-02-04T09:48:00+00:00",
+        "updated_at": "2026-11-19T04:13:55.865262+00:00"
+      },
+      {
+        "memory": "Deborah described the picture as peaceful",
+        "score": 0.2562,
+        "id": "290fdf5b-3ea8-4904-a025-3ce9cc317bce",
+        "created_at": "2023-09-08T19:39:00+00:00",
+        "updated_at": "2026-11-19T05:43:45.168657+00:00"
+      },
+      {
+        "memory": "Deborah is waiting to hear how everything turns out and encourages Jolene to keep up the good work",
+        "score": 0.2559,
+        "id": "88c0d67d-b9cd-4d3c-b26f-65ecf82e12cb",
+        "created_at": "2023-04-09T16:30:00+00:00",
+        "updated_at": "2026-11-19T04:44:43.048570+00:00"
+      },
+      {
+        "memory": "Deborah suggested trying it together sometime",
+        "score": 0.2557,
+        "id": "1a4f1f13-38a2-4e92-9f32-0bedae0911b4",
+        "created_at": "2023-09-17T13:24:00+00:00",
+        "updated_at": "2026-11-19T05:54:47.919437+00:00"
+      },
+      {
+        "memory": "Deborah thanks Jolene for understanding and says they are waiting",
+        "score": 0.2552,
+        "id": "e6b320c0-2d80-44ce-820d-269a00be6d76",
+        "created_at": "2023-09-08T19:39:00+00:00",
+        "updated_at": "2026-11-19T05:44:13.454874+00:00"
+      },
+      {
+        "memory": "Deborah's friend will never be able to support her and she misses him",
+        "score": 0.2551,
+        "id": "da5f6dd5-e613-4d0b-8ce0-529f571e22a8",
+        "created_at": "2023-08-30T11:46:00+00:00",
+        "updated_at": "2026-11-19T05:34:48.633209+00:00"
+      },
+      {
+        "memory": "Deborah perceives the spot as looking calm",
+        "score": 0.254,
+        "id": "decb7423-2f73-477c-9414-8676422ee674",
+        "created_at": "2023-07-09T19:37:00+00:00",
+        "updated_at": "2026-11-19T04:58:59.228955+00:00"
+      },
+      {
+        "memory": "Deborah said a photo was funny",
+        "score": 0.2533,
+        "id": "c77d4407-b440-4a33-93c4-5e0d1ea5f2c3",
+        "created_at": "2023-08-21T09:11:00+00:00",
+        "updated_at": "2026-11-19T05:19:13.321315+00:00"
+      },
+      {
+        "memory": "Deborah believes her pendant should give her strength and energy",
+        "score": 0.2525,
+        "id": "598232c3-2a42-435a-975e-6f024ec42815",
+        "created_at": "2023-01-23T16:06:00+00:00",
+        "updated_at": "2026-11-19T04:03:56.777960+00:00"
+      },
+      {
+        "memory": "Deborah asks where the other went on their trip and what is something they will never forget",
+        "score": 0.2521,
+        "id": "69c00722-80ae-4691-bea2-819638f9f819",
+        "created_at": "2023-09-20T10:17:00+00:00",
+        "updated_at": "2026-11-19T05:56:32.036032+00:00"
+      },
+      {
+        "memory": "Jolene expressed excitement for the upcoming coffee date with Deborah",
+        "score": 0.2519,
+        "id": "c7347752-48d4-4f86-94a2-aaa8343efb20",
+        "created_at": "2023-09-08T19:39:00+00:00",
+        "updated_at": "2026-11-19T05:45:03.395065+00:00"
+      },
+      {
+        "memory": "Deborah tells Jolene she is awesome and wishes her to take care",
+        "score": 0.2518,
+        "id": "b131e777-e314-474a-8084-96a46c4e6ee1",
+        "created_at": "2023-02-09T21:03:00+00:00",
+        "updated_at": "2026-11-19T04:22:39.694930+00:00"
+      },
+      {
+        "memory": "Jolene expressed appreciation for Deborah's support",
+        "score": 0.2518,
+        "id": "3d1b456d-d380-473b-b23a-f73aff0ec6c7",
+        "created_at": "2023-08-12T20:50:00+00:00",
+        "updated_at": "2026-11-19T05:03:50.294870+00:00"
+      },
+      {
+        "memory": "Deborah told Jolene that she’s been great to see her progress since their last chat and encouraged her to keep it up",
+        "score": 0.2516,
+        "id": "bff8ac78-3c53-403e-9804-8618baa579a1",
+        "created_at": "2023-02-25T16:50:00+00:00",
+        "updated_at": "2026-11-19T04:28:12.990109+00:00"
+      },
+      {
+        "memory": "Deborah received a handwritten letter on 2023-01-26",
+        "score": 0.251,
+        "id": "0ced456a-fe64-464b-99dd-10d5a98b2af5",
+        "created_at": "2023-01-27T09:49:00+00:00",
+        "updated_at": "2026-11-19T04:05:31.292542+00:00"
+      },
+      {
+        "memory": "Jolene expressed sympathy for Deborah's tough week and asked how Deborah is feeling now",
+        "score": 0.2509,
+        "id": "f2cff4f7-3000-414e-86d6-dcb841e2995c",
+        "created_at": "2023-09-08T19:39:00+00:00",
+        "updated_at": "2026-11-19T05:41:52.999326+00:00"
+      },
+      {
+        "memory": "Deborah shared a photo and asked Jolene if it reminded her of something",
+        "score": 0.2505,
+        "id": "d791993b-d93f-4a76-ab9a-9f68040beff9",
+        "created_at": "2023-09-06T20:31:00+00:00",
+        "updated_at": "2026-11-19T05:40:58.456141+00:00"
+      },
+      {
+        "memory": "Jolene said it’s great that Deborah could reconnect with her mother’s old friends",
+        "score": 0.2503,
+        "id": "0b2cb4b6-be0d-419d-b0b2-5fcbc572cbf6",
+        "created_at": "2023-09-15T15:09:00+00:00",
+        "updated_at": "2026-11-19T05:48:28.001615+00:00"
+      },
+      {
+        "memory": "Deborah says that the photo brought back good memories",
+        "score": 0.2499,
+        "id": "fa9a2842-713c-4b96-bd7e-55df644ba93c",
+        "created_at": "2023-09-06T20:31:00+00:00",
+        "updated_at": "2026-11-19T05:41:17.046373+00:00"
+      },
+      {
+        "memory": "Deborah says she finds Jolene inspiring",
+        "score": 0.2494,
+        "id": "18c4bf60-d377-463e-85cb-c16d20797567",
+        "created_at": "2023-08-26T17:33:00+00:00",
+        "updated_at": "2026-11-19T05:26:05.067876+00:00"
+      },
+      {
+        "memory": "Deborah expresses love for Jolene's commitment and encourages her to keep going",
+        "score": 0.2493,
+        "id": "ddae14e9-d328-4be7-a588-e34f3a982ecf",
+        "created_at": "2023-08-12T20:50:00+00:00",
+        "updated_at": "2026-11-19T05:06:22.910127+00:00"
+      }
+    ],
+    "search_latency_ms": 412.5,
+    "total_results": 50
+  },
+  "cutoff_results": {
+    "top_50": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Exploding Kittens",
+      "memories_evaluated": 50,
+      "reason": "The generated answer exactly matches the gold answer."
+    }
+  }
+}

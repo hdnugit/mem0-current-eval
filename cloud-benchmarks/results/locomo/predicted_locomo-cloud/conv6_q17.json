@@ -1,0 +1,379 @@
+{
+  "question_id": "conv6_q17",
+  "conversation_idx": 6,
+  "category": 3,
+  "category_name": "open-domain",
+  "question": "What is the board game where you have to find the imposter that John mentions to James?",
+  "ground_truth_answer": "Mafia",
+  "evidence": [
+    "D8:36"
+  ],
+  "user_id": "locomo_6_fe8ec031",
+  "reference_date": "8:57 pm on 7 November, 2022",
+  "retrieval": {
+    "search_query": "What is the board game where you have to find the imposter that John mentions to James?",
+    "search_results": [
+      {
+        "memory": "James asked John what kind of board game he was referring to",
+        "score": 0.5949,
+        "id": "1e23dcbb-9d2a-4489-bbdb-4e20f15c6d66",
+        "created_at": "2022-09-18T18:02:00+00:00",
+        "updated_at": "2026-11-19T05:34:07.748966+00:00"
+      },
+      {
+        "memory": "James cannot remember the game John mentioned",
+        "score": 0.5912,
+        "id": "df3f3327-8724-49b6-8cb9-51dca6e8a579",
+        "created_at": "2022-04-29T14:36:00+00:00",
+        "updated_at": "2026-11-19T04:37:57.739820+00:00"
+      },
+      {
+        "memory": "John played a strategy board game with friends two days ago, found it very exciting, and says he enjoys games that make him think; the board game featured many cards as shown in the shared photo.",
+        "score": 0.5318,
+        "id": "56a0679d-1bd3-4c23-bd9a-3f1964ce3403",
+        "created_at": "2022-04-29T14:36:00+00:00",
+        "updated_at": "2026-11-19T04:37:14.527160+00:00"
+      },
+      {
+        "memory": "James says board games are always a blast when he hangs out with friends",
+        "score": 0.5208,
+        "id": "32988afa-e53a-45ef-b3ca-ca9612f6c53e",
+        "created_at": "2022-04-29T14:36:00+00:00",
+        "updated_at": "2026-11-19T04:37:35.971409+00:00"
+      },
+      {
+        "memory": "James congratulated John on achieving his major career milestone of creating a mobile game and asked why John hadn't mentioned it earlier",
+        "score": 0.4673,
+        "id": "99d30449-9969-401b-b8fc-691bae6e33b1",
+        "created_at": "2022-09-20T20:56:00+00:00",
+        "updated_at": "2026-11-19T05:38:03.776300+00:00"
+      },
+      {
+        "memory": "John mentioned a game called \"Dungeons of the Dragon\" and described it as very exciting",
+        "score": 0.4521,
+        "id": "58ae5f24-377c-4ce1-a45c-5699a7d1b0ad",
+        "created_at": "2022-09-18T18:02:00+00:00",
+        "updated_at": "2026-11-19T05:34:34.140828+00:00"
+      },
+      {
+        "memory": "John collaborated with a game developer to create an online board game, describing it as a fun and unique experience",
+        "score": 0.4317,
+        "id": "62ee7be0-c7e4-4bec-9709-9926818d4c4f",
+        "created_at": "2022-11-07T20:57:00+00:00",
+        "updated_at": "2026-11-19T05:56:12.813985+00:00"
+      },
+      {
+        "memory": "John started getting into board games and tried one last week, which turned out to be a lot of fun",
+        "score": 0.4184,
+        "id": "f95630ff-0263-4c7c-8342-993568412d5e",
+        "created_at": "2022-09-18T18:02:00+00:00",
+        "updated_at": "2026-11-19T05:33:53.292573+00:00"
+      },
+      {
+        "memory": "James asked John how he's doing and what new games he's into",
+        "score": 0.405,
+        "id": "0ba8fc9b-1662-4b44-a7dd-001902f37eb3",
+        "created_at": "2022-05-08T00:45:00+00:00",
+        "updated_at": "2026-11-19T04:42:47.731125+00:00"
+      },
+      {
+        "memory": "James asks John what the most difficult aspect of the game is",
+        "score": 0.4024,
+        "id": "20f68089-2513-4821-a890-af1fcf26cfca",
+        "created_at": "2022-10-21T19:36:00+00:00",
+        "updated_at": "2026-11-19T05:50:26.687404+00:00"
+      },
+      {
+        "memory": "John asked James to share more screenshots of his game",
+        "score": 0.3944,
+        "id": "1bd55413-86de-41e4-a012-a74da87c5b4f",
+        "created_at": "2022-09-01T18:53:00+00:00",
+        "updated_at": "2026-11-19T05:27:47.224854+00:00"
+      },
+      {
+        "memory": "John congratulated James on releasing his game",
+        "score": 0.3849,
+        "id": "319d79ff-ac95-4f57-86ed-1217432d01ed",
+        "created_at": "2022-10-13T14:14:00+00:00",
+        "updated_at": "2026-11-19T05:43:04.798685+00:00"
+      },
+      {
+        "memory": "John shared an image of a wooden board game featuring four wooden pieces and four colored balls, indicating a family game night collaboration online game",
+        "score": 0.3843,
+        "id": "b2e3726d-d667-44ab-a98f-e25b6ab9ea4e",
+        "created_at": "2022-11-07T20:57:00+00:00",
+        "updated_at": "2026-11-19T05:55:58.907801+00:00"
+      },
+      {
+        "memory": "John believes that James's advice will help James develop in the game",
+        "score": 0.3825,
+        "id": "23a135b4-102c-4c21-8ec7-3e8243ee32ca",
+        "created_at": "2022-04-04T14:13:00+00:00",
+        "updated_at": "2026-11-19T04:17:35.054210+00:00"
+      },
+      {
+        "memory": "James wishes John to have fun at his family game night",
+        "score": 0.3669,
+        "id": "a25c3ac7-b267-4d08-9ab5-ddf0659b7c4a",
+        "created_at": "2022-08-21T15:57:00+00:00",
+        "updated_at": "2026-11-19T05:24:13.413089+00:00"
+      },
+      {
+        "memory": "James is excited about the world and story of the game John recommended and thanks John for the recommendation",
+        "score": 0.3631,
+        "id": "50fb33a1-78b5-4fb8-98cc-9fe2bb5c9ac2",
+        "created_at": "2022-10-03T09:20:00+00:00",
+        "updated_at": "2026-11-19T05:42:16.722784+00:00"
+      },
+      {
+        "memory": "James asked John for other resources and gaming tips to improve his own game",
+        "score": 0.3558,
+        "id": "68f523db-a257-45b7-9a82-6a7d00b5800a",
+        "created_at": "2022-09-20T20:56:00+00:00",
+        "updated_at": "2026-11-19T05:38:55.781709+00:00"
+      },
+      {
+        "memory": "John says the game mod shared by James has amazing graphics",
+        "score": 0.3516,
+        "id": "bbe2ceb1-02cd-40b7-9099-9aaa00c1b2fa",
+        "created_at": "2022-03-17T15:47:00+00:00",
+        "updated_at": "2026-11-19T04:03:55.762368+00:00"
+      },
+      {
+        "memory": "James expressed enthusiasm and asked John what game he was referring to, calling it a dream",
+        "score": 0.3416,
+        "id": "cdca14c0-ccb3-422b-99de-2d4863a9e3eb",
+        "created_at": "2022-03-27T00:40:00+00:00",
+        "updated_at": "2026-11-19T04:13:53.818361+00:00"
+      },
+      {
+        "memory": "John has been playing a social deduction game with friends where players identify impostors, and he finds it super fun",
+        "score": 0.3415,
+        "id": "5f0b6cc5-60ba-4278-bb34-b78ee74bff9d",
+        "created_at": "2022-04-29T14:36:00+00:00",
+        "updated_at": "2026-11-19T04:38:05.700712+00:00"
+      },
+      {
+        "memory": "John expressed that he loves the games James created, showing enthusiasm for James's Unity strategy game.",
+        "score": 0.3359,
+        "id": "8de5dca7-d98d-4221-b4d3-201c4da8a299",
+        "created_at": "2022-09-01T18:53:00+00:00",
+        "updated_at": "2026-11-19T05:27:56.665522+00:00"
+      },
+      {
+        "memory": "John said James has found someone other than his dogs who brings him joy",
+        "score": 0.327,
+        "id": "d76bf0ef-8f53-4da2-b442-f3d1c8764814",
+        "created_at": "2022-09-04T21:23:00+00:00",
+        "updated_at": "2026-11-19T05:31:41.429001+00:00"
+      },
+      {
+        "memory": "James encourages John to find places where he can showcase his skills to make a difference",
+        "score": 0.3263,
+        "id": "dcf4d9d3-63f5-4ea8-abef-ec2b593fc534",
+        "created_at": "2022-05-11T17:00:00+00:00",
+        "updated_at": "2026-11-19T04:47:19.495389+00:00"
+      },
+      {
+        "memory": "John shared an image showing a chess board with a laptop",
+        "score": 0.3258,
+        "id": "60b916af-056e-418f-9749-3ce4e9f7ffc4",
+        "created_at": "2022-07-22T09:49:00+00:00",
+        "updated_at": "2026-11-19T05:08:23.523602+00:00"
+      },
+      {
+        "memory": "James expressed that John must feel proud seeing his ideas come to life in a game and asked whether the game has been released for others to try",
+        "score": 0.3252,
+        "id": "b13ade64-a5ba-4674-98ac-937b083603c0",
+        "created_at": "2022-11-07T20:57:00+00:00",
+        "updated_at": "2026-11-19T05:56:17.840760+00:00"
+      },
+      {
+        "memory": "James expressed that he is into 2D adventure games with puzzles, citing The Legend of Zelda as an example, and asked to see or help test John's game",
+        "score": 0.3134,
+        "id": "b8a88d4c-25f7-45a5-be92-26e4c07a404f",
+        "created_at": "2022-09-20T20:56:00+00:00",
+        "updated_at": "2026-11-19T05:38:35.935605+00:00"
+      },
+      {
+        "memory": "John said he will let James know when testing for his mobile game is ready",
+        "score": 0.3133,
+        "id": "ec290303-a3ba-4f30-b53e-247210032f2d",
+        "created_at": "2022-09-20T20:56:00+00:00",
+        "updated_at": "2026-11-19T05:38:47.342102+00:00"
+      },
+      {
+        "memory": "John played a game and described it as immersive with an amazing story, saying James would love it",
+        "score": 0.3063,
+        "id": "d201e5ca-9177-4f62-9222-27a195204a9a",
+        "created_at": "2022-10-03T09:20:00+00:00",
+        "updated_at": "2026-11-19T05:42:07.939896+00:00"
+      },
+      {
+        "memory": "James found balancing game mechanics and ensuring fairness challenging, but after trial and error he succeeded in achieving his desired outcome for his Unity strategy game",
+        "score": 0.3058,
+        "id": "9aa67ad5-9017-4e3d-b20a-acefe3f8b730",
+        "created_at": "2022-09-01T18:53:00+00:00",
+        "updated_at": "2026-11-19T05:28:12.241978+00:00"
+      },
+      {
+        "memory": "James intends to invite John to help with some aspects of his game, leveraging John's knowledge of HTML",
+        "score": 0.3024,
+        "id": "b1e71cef-8486-4506-b43d-7798f9d64d2a",
+        "created_at": "2022-03-17T15:47:00+00:00",
+        "updated_at": "2026-11-19T05:25:05.118366+00:00"
+      },
+      {
+        "memory": "John and James are working together on a coding project that is a game designed to help them learn",
+        "score": 0.2989,
+        "id": "323e9add-15ed-44f9-ac88-0beeeaba38a6",
+        "created_at": "2022-08-26T21:18:00+00:00",
+        "updated_at": "2026-11-19T05:25:09.092268+00:00"
+      },
+      {
+        "memory": "James expressed enthusiasm about something John showed, saying it looks awesome and asking if it is an icon of a new game",
+        "score": 0.2965,
+        "id": "b7ea61ee-76d8-4164-a3d1-abfdb43f0672",
+        "created_at": "2022-05-08T00:45:00+00:00",
+        "updated_at": "2026-11-19T04:42:32.817623+00:00"
+      },
+      {
+        "memory": "James has played chess before and says the game really tests strategy",
+        "score": 0.2931,
+        "id": "74784e9c-2ce7-451f-9c6d-01a5b0ec0fae",
+        "created_at": "2022-07-22T09:49:00+00:00",
+        "updated_at": "2026-11-19T05:07:53.481625+00:00"
+      },
+      {
+        "memory": "James has heard of the game and is planning to try it out",
+        "score": 0.2881,
+        "id": "1cfa40f6-23b4-49ce-96eb-ef0321fb6a01",
+        "created_at": "2022-04-29T14:36:00+00:00",
+        "updated_at": "2026-11-19T04:38:13.069522+00:00"
+      },
+      {
+        "memory": "John congratulated James on finishing his Unity strategy game, saying it looks amazing and expressing pride in James's hard work",
+        "score": 0.2845,
+        "id": "24b71649-5145-448a-9690-b5c5c0262e56",
+        "created_at": "2022-09-01T18:53:00+00:00",
+        "updated_at": "2026-11-19T05:27:47.224854+00:00"
+      },
+      {
+        "memory": "On April 12, 2022, James said he would check out the game link John promised and would let John know his thoughts, expressing excitement to try it.",
+        "score": 0.2844,
+        "id": "91ab6168-78dc-4a1f-bbae-8ff2c3b41c1a",
+        "created_at": "2022-04-12T09:52:00+00:00",
+        "updated_at": "2026-11-19T04:23:52.751661+00:00"
+      },
+      {
+        "memory": "James finds chess tough but fun when they figure it out",
+        "score": 0.2825,
+        "id": "c94d6a41-54aa-4f26-9eca-046bfb507e06",
+        "created_at": "2022-07-22T09:49:00+00:00",
+        "updated_at": "2026-11-19T05:08:05.264651+00:00"
+      },
+      {
+        "memory": "James says video games are a shared language and passion with John and have been a refuge for him during tough times",
+        "score": 0.2816,
+        "id": "84ba9f28-36d9-4315-9dc4-1955b791b6fa",
+        "created_at": "2022-03-20T21:26:00+00:00",
+        "updated_at": "2026-11-19T04:09:17.839672+00:00"
+      },
+      {
+        "memory": "James has been trying out different genres of games",
+        "score": 0.2812,
+        "id": "7e294314-b1a7-4786-a827-fc2199c1c5e7",
+        "created_at": "2022-08-26T21:18:00+00:00",
+        "updated_at": "2026-11-19T05:25:40.728014+00:00"
+      },
+      {
+        "memory": "At the convention, John tried out many games",
+        "score": 0.2802,
+        "id": "50025765-6397-4a2a-97ff-c2060776efc6",
+        "created_at": "2022-03-27T00:40:00+00:00",
+        "updated_at": "2026-11-19T04:13:45.708159+00:00"
+      },
+      {
+        "memory": "James says family game nights are so much fun",
+        "score": 0.28,
+        "id": "28197a8e-4f2e-4d12-91f3-4f503ff05998",
+        "created_at": "2022-08-21T15:57:00+00:00",
+        "updated_at": "2026-11-19T05:24:05.366723+00:00"
+      },
+      {
+        "memory": "James is always looking for new game recommendations",
+        "score": 0.2778,
+        "id": "cb2ead46-3142-465f-9ae0-cb0c0f217c92",
+        "created_at": "2022-11-05T17:20:00+00:00",
+        "updated_at": "2026-11-19T05:54:58.310674+00:00"
+      },
+      {
+        "memory": "James says he has something to show John",
+        "score": 0.2756,
+        "id": "528b2e7f-a5ba-4f7a-8682-9e421618d987",
+        "created_at": "2022-03-20T21:26:00+00:00",
+        "updated_at": "2026-11-19T04:10:46.405596+00:00"
+      },
+      {
+        "memory": "John thanked James for encouraging him to try new game genres and said the conversation made him think about his passions and goals",
+        "score": 0.2741,
+        "id": "b6877788-c05d-45c0-bfb7-55ae6566a2f3",
+        "created_at": "2022-08-10T09:16:00+00:00",
+        "updated_at": "2026-11-19T05:17:04.794554+00:00"
+      },
+      {
+        "memory": "James is eager to try the upcoming game demo, asks to be kept posted when it is released, and wants to support John by providing his thoughts",
+        "score": 0.2701,
+        "id": "5f5072de-2733-4e41-b915-4f3b7d4c1242",
+        "created_at": "2022-11-07T20:57:00+00:00",
+        "updated_at": "2026-11-19T05:56:44.135425+00:00"
+      },
+      {
+        "memory": "James said John's trophy looks awesome",
+        "score": 0.2697,
+        "id": "6cbdbaf1-33a2-4de2-bec1-0385458483ef",
+        "created_at": "2022-05-23T19:33:00+00:00",
+        "updated_at": "2026-11-19T04:49:49.939886+00:00"
+      },
+      {
+        "memory": "James encouraged John, saying \"You got this\" and urging him to keep going and that he'll find the answer",
+        "score": 0.2695,
+        "id": "65335b35-a513-400b-8dda-632be23afc19",
+        "created_at": "2022-04-23T11:04:00+00:00",
+        "updated_at": "2026-11-19T04:32:08.220293+00:00"
+      },
+      {
+        "memory": "James says John is the best",
+        "score": 0.2692,
+        "id": "d712e8cc-094a-4a1c-bd6f-b843d39a35a9",
+        "created_at": "2022-09-01T18:53:00+00:00",
+        "updated_at": "2026-11-19T05:30:41.930426+00:00"
+      },
+      {
+        "memory": "James recommended a gaming magazine with tips and tricks for game developers to John and shared an image of the magazine featuring a cartoon character",
+        "score": 0.2671,
+        "id": "7916c6a9-2da4-4df5-a8de-54f8d8470acd",
+        "created_at": "2022-09-20T20:56:00+00:00",
+        "updated_at": "2026-11-19T05:39:11.599229+00:00"
+      },
+      {
+        "memory": "James describes creating his own game as a really special experience",
+        "score": 0.2663,
+        "id": "3c6d8d4f-58ee-40ed-b49a-b7f539a05810",
+        "created_at": "2022-10-13T14:14:00+00:00",
+        "updated_at": "2026-11-19T05:43:35.559639+00:00"
+      }
+    ],
+    "search_latency_ms": 378.3,
+    "total_results": 50
+  },
+  "cutoff_results": {
+    "top_50": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "Among Us",
+      "memories_evaluated": 50,
+      "reason": "The generated answer names Among Us, which is a different game from the gold answer Mafia, so there is no match."
+    }
+  }
+}

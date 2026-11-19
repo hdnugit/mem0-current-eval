@@ -1,0 +1,379 @@
+{
+  "question_id": "conv8_q46",
+  "conversation_idx": 8,
+  "category": 3,
+  "category_name": "open-domain",
+  "question": "How do Evan and Sam use creative outlets to cope with life's challenges?",
+  "ground_truth_answer": "Evan and Sam use creative activities, like painting and writing, as therapeutic tools to express themselves and cope with stress.",
+  "evidence": [
+    "D21:18 D21:22 D11:15 D11:19"
+  ],
+  "user_id": "locomo_8_fe8ec031",
+  "reference_date": "9:37 pm on 11 January, 2024",
+  "retrieval": {
+    "search_query": "How do Evan and Sam use creative outlets to cope with life's challenges?",
+    "search_results": [
+      {
+        "memory": "Sam said he started thinking about ways to cope with the situation after talking with Evan, but finds it challenging.",
+        "score": 0.6647,
+        "id": "afbba258-c462-4a45-93f9-f85c4f588308",
+        "created_at": "2023-12-17T18:48:00+00:00",
+        "updated_at": "2026-11-19T05:18:15.523665+00:00"
+      },
+      {
+        "memory": "Evan encourages Sam to appreciate the little things in life",
+        "score": 0.5805,
+        "id": "589609e7-1290-4c3d-81f7-95b6a27c2ac5",
+        "created_at": "2023-11-21T19:30:00+00:00",
+        "updated_at": "2026-11-19T05:09:07.768736+00:00"
+      },
+      {
+        "memory": "Evan expressed empathy to Sam about his health challenges, noted that Sam stays positive, and reminded Sam to take care of himself",
+        "score": 0.57,
+        "id": "dd6a323e-5581-414e-8046-725beb7c4e0f",
+        "created_at": "2024-01-11T21:37:00+00:00",
+        "updated_at": "2026-11-19T05:39:04.636692+00:00"
+      },
+      {
+        "memory": "Evan notes that both he and Sam are being compelled to take better care of their health after recent challenges",
+        "score": 0.5619,
+        "id": "df7d5e91-4136-41b4-9c8d-31d46b0c48bc",
+        "created_at": "2023-08-15T16:20:00+00:00",
+        "updated_at": "2026-11-19T04:30:11.751177+00:00"
+      },
+      {
+        "memory": "Evan offered to support Sam in his health journey, expressing willingness to help with Sam's health challenges",
+        "score": 0.5375,
+        "id": "fc1ae038-a016-4bc0-b476-14ab2b6f8d8e",
+        "created_at": "2023-05-24T19:11:00+00:00",
+        "updated_at": "2026-11-19T04:07:48.050206+00:00"
+      },
+      {
+        "memory": "Sam expressed excitement about going on a hike with Evan, calling it a fun challenge and a chance to appreciate the beauty of nature.",
+        "score": 0.4219,
+        "id": "a5ba49e9-3777-4e9d-822a-fe563d2788e9",
+        "created_at": "2023-10-17T13:50:00+00:00",
+        "updated_at": "2026-11-19T04:56:19.740669+00:00"
+      },
+      {
+        "memory": "Evan says his bond with Sam keeps getting stronger, bringing a good feeling to their lives, and emphasizes that family is everything",
+        "score": 0.4147,
+        "id": "bf9c94a6-7a8d-4650-b719-d966cd90e19b",
+        "created_at": "2024-01-06T13:32:00+00:00",
+        "updated_at": "2026-11-19T05:29:51.684474+00:00"
+      },
+      {
+        "memory": "Evan offered to help Sam after hearing about Sam's tough week",
+        "score": 0.4105,
+        "id": "0719f850-0754-41f6-b193-dbb6e4fff851",
+        "created_at": "2023-05-24T19:11:00+00:00",
+        "updated_at": "2026-11-19T04:07:28.510903+00:00"
+      },
+      {
+        "memory": "Evan (Evan) is super pumped for Sam and plans to catch up soon to see how Sam is enjoying his new hobbies",
+        "score": 0.4105,
+        "id": "3e65df91-38a5-4569-9034-c85044b4005b",
+        "created_at": "2023-05-18T13:47:00+00:00",
+        "updated_at": "2026-11-19T04:06:05.974047+00:00"
+      },
+      {
+        "memory": "Evan believes that having an outlet to express thoughts and feelings is important for figuring things out",
+        "score": 0.4079,
+        "id": "714f5019-2edd-4e85-9fd7-ef9b42f57220",
+        "created_at": "2023-10-06T20:57:00+00:00",
+        "updated_at": "2026-11-19T04:47:49.678730+00:00"
+      },
+      {
+        "memory": "Evan thanked Sam for his encouragement",
+        "score": 0.3989,
+        "id": "59c9640c-346d-4143-8aff-7a868407d9ae",
+        "created_at": "2023-08-27T10:18:00+00:00",
+        "updated_at": "2026-11-19T04:40:14.225487+00:00"
+      },
+      {
+        "memory": "Sam says Evan is doing great and Sam wants to feel the same sense of freedom",
+        "score": 0.3987,
+        "id": "c6263835-959e-4854-a7c5-ae19a02b5195",
+        "created_at": "2023-10-25T14:56:00+00:00",
+        "updated_at": "2026-11-19T05:01:33.916944+00:00"
+      },
+      {
+        "memory": "Evan thanked Sam for the suggestion",
+        "score": 0.3981,
+        "id": "3fc07b4f-6860-4c60-87c6-e47707498778",
+        "created_at": "2023-12-05T20:16:00+00:00",
+        "updated_at": "2026-11-19T05:13:39.503469+00:00"
+      },
+      {
+        "memory": "Sam writes in his journal and does creative writing as a way to express his innermost thoughts and feelings",
+        "score": 0.3979,
+        "id": "c550ade5-235d-4e65-9078-6bb0dd9bb17e",
+        "created_at": "2023-10-06T20:57:00+00:00",
+        "updated_at": "2026-11-19T04:47:25.556915+00:00"
+      },
+      {
+        "memory": "Evan (Evan) expressed interest in receiving Sam's recipe and thanked Sam for sharing it",
+        "score": 0.3976,
+        "id": "49164833-c39a-494c-abec-0acac3b012ba",
+        "created_at": "2023-08-19T18:17:00+00:00",
+        "updated_at": "2026-11-19T04:34:46.410150+00:00"
+      },
+      {
+        "memory": "Evan expressed that he is glad to help Sam and hopes Sam enjoys it",
+        "score": 0.3953,
+        "id": "bbbb74a0-75b0-4632-a493-53092ce46092",
+        "created_at": "2023-12-31T11:00:00+00:00",
+        "updated_at": "2026-11-19T05:28:24.649551+00:00"
+      },
+      {
+        "memory": "Evan encourages Sam, telling him it's tough at first but he can do it",
+        "score": 0.3912,
+        "id": "867ff2a1-06f2-4e65-96f2-68df4273420b",
+        "created_at": "2023-07-27T10:52:00+00:00",
+        "updated_at": "2026-11-19T04:16:58.777113+00:00"
+      },
+      {
+        "memory": "Evan appreciates Sam's concern and thanks him",
+        "score": 0.3898,
+        "id": "f0ddae15-98d7-4029-a87a-d7f61e021854",
+        "created_at": "2023-08-27T10:18:00+00:00",
+        "updated_at": "2026-11-19T04:38:55.990082+00:00"
+      },
+      {
+        "memory": "Evan tells Sam he'll be there for him and advises him to take it slow and treat himself",
+        "score": 0.3887,
+        "id": "5568d322-084b-4766-bae0-845aef6bb18c",
+        "created_at": "2023-10-25T14:56:00+00:00",
+        "updated_at": "2026-11-19T04:58:18.997914+00:00"
+      },
+      {
+        "memory": "Evan suggested Sam try picking up a hobby to de‑stress from work stress",
+        "score": 0.3874,
+        "id": "4ad201ed-78d2-47b2-ac11-ee4eeb817b2f",
+        "created_at": "2023-10-14T16:07:00+00:00",
+        "updated_at": "2026-11-19T04:52:11.161088+00:00"
+      },
+      {
+        "memory": "Sam says Evan has serious talent and creativity",
+        "score": 0.3849,
+        "id": "3ebc873a-9f83-48a6-bd21-1c76d23bedb7",
+        "created_at": "2023-12-26T16:25:00+00:00",
+        "updated_at": "2026-11-19T05:24:07.077427+00:00"
+      },
+      {
+        "memory": "Sam offered to accompany Evan to the store and suggested Evan call him there",
+        "score": 0.3836,
+        "id": "b72ffe60-943f-463e-98f9-1b790fec36fd",
+        "created_at": "2023-12-31T11:00:00+00:00",
+        "updated_at": "2026-11-19T05:28:58.294363+00:00"
+      },
+      {
+        "memory": "Evan expressed hope that Sam is doing well",
+        "score": 0.3823,
+        "id": "eaeaefc8-d41a-438c-b46b-d859fa39d62e",
+        "created_at": "2024-01-10T00:17:00+00:00",
+        "updated_at": "2026-11-19T05:33:52.391513+00:00"
+      },
+      {
+        "memory": "Evan told Sam to go to bed and take care",
+        "score": 0.381,
+        "id": "dd98243a-ba71-4742-ab13-9a86b8c268ad",
+        "created_at": "2023-08-13T16:09:00+00:00",
+        "updated_at": "2026-11-19T04:28:21.643756+00:00"
+      },
+      {
+        "memory": "Evan believes in Sam and encourages him to take small steps",
+        "score": 0.3759,
+        "id": "02257016-f5b4-4c5e-b310-fb63de5e3ba7",
+        "created_at": "2023-11-21T19:30:00+00:00",
+        "updated_at": "2026-11-19T05:08:17.164076+00:00"
+      },
+      {
+        "memory": "Sam is super excited to get fit together with Evan",
+        "score": 0.3732,
+        "id": "8be35fb4-4379-4708-862a-68126ae24d0e",
+        "created_at": "2023-10-17T13:50:00+00:00",
+        "updated_at": "2026-11-19T04:56:51.813754+00:00"
+      },
+      {
+        "memory": "Assistant Sam is keen to try painting, describing it as a nice way to chill and get creative",
+        "score": 0.373,
+        "id": "d53ffd22-1ef8-4d42-a211-6bbe79f1175a",
+        "created_at": "2023-05-18T13:47:00+00:00",
+        "updated_at": "2026-11-19T04:11:46.058194+00:00"
+      },
+      {
+        "memory": "Evan expresses appreciation for Sam's support during this difficult period",
+        "score": 0.3704,
+        "id": "8edc9f27-bd8b-421c-8d19-8284012ad660",
+        "created_at": "2023-11-09T21:13:00+00:00",
+        "updated_at": "2026-11-19T05:04:48.523794+00:00"
+      },
+      {
+        "memory": "Sam wishes he could feel the same about love as Evan",
+        "score": 0.3698,
+        "id": "2d71606e-d78f-4caf-96ac-1d6d7801b558",
+        "created_at": "2023-12-26T16:25:00+00:00",
+        "updated_at": "2026-11-19T05:22:18.630823+00:00"
+      },
+      {
+        "memory": "Evan greeted Sam, noting it had been a while since they last talked and hoping Sam is doing well",
+        "score": 0.3693,
+        "id": "c176400a-4583-4c23-ad68-12fcbcddc636",
+        "created_at": "2023-10-14T16:07:00+00:00",
+        "updated_at": "2026-11-19T04:51:15.102189+00:00"
+      },
+      {
+        "memory": "Evan agrees with Sam's \"progress over perfection\" mindset",
+        "score": 0.3678,
+        "id": "55ddabc5-ff46-4ab3-ba5a-7550085e1d01",
+        "created_at": "2023-08-13T16:09:00+00:00",
+        "updated_at": "2026-11-19T04:26:12.329880+00:00"
+      },
+      {
+        "memory": "Evan decided to try yoga as suggested by Sam",
+        "score": 0.3677,
+        "id": "1df39acb-ceb5-4146-a0d9-14dbf0e56895",
+        "created_at": "2023-12-05T20:16:00+00:00",
+        "updated_at": "2026-11-19T05:13:39.503469+00:00"
+      },
+      {
+        "memory": "Evan tells Sam to enjoy his time in nature and to take care",
+        "score": 0.3676,
+        "id": "70606643-69ec-4bb8-a7e6-850c156b4e8d",
+        "created_at": "2023-08-27T10:18:00+00:00",
+        "updated_at": "2026-11-19T04:41:02.334898+00:00"
+      },
+      {
+        "memory": "Evan says he is ready for an adventure and asks Sam where they will go",
+        "score": 0.3671,
+        "id": "dfcec374-a988-42d2-9b4b-d7b2384f1b57",
+        "created_at": "2023-10-14T16:07:00+00:00",
+        "updated_at": "2026-11-19T04:53:40.860072+00:00"
+      },
+      {
+        "memory": "Sam encouraged Evan, saying he will get through this",
+        "score": 0.3654,
+        "id": "aa0152aa-400d-4a1a-b57d-72ecf9420cc8",
+        "created_at": "2023-11-09T21:13:00+00:00",
+        "updated_at": "2026-11-19T05:05:17.715546+00:00"
+      },
+      {
+        "memory": "Evan will try Sam's recipe and will let Sam know how it went",
+        "score": 0.3653,
+        "id": "b064f41a-1bb0-49a0-9492-bf0f9f9fff29",
+        "created_at": "2023-08-19T18:17:00+00:00",
+        "updated_at": "2026-11-19T04:35:17.545027+00:00"
+      },
+      {
+        "memory": "Evan believes trying out new recipes is a great way to stay busy and creative",
+        "score": 0.3652,
+        "id": "23bc60d2-23de-427f-8646-c9b3385c3c65",
+        "created_at": "2023-08-19T18:17:00+00:00",
+        "updated_at": "2026-11-19T04:35:17.545027+00:00"
+      },
+      {
+        "memory": "Sam says Evan values his family highly",
+        "score": 0.3646,
+        "id": "2831afec-dd4b-4e77-9adb-875a6a9f4b45",
+        "created_at": "2023-12-09T13:45:00+00:00",
+        "updated_at": "2026-11-19T05:16:52.113639+00:00"
+      },
+      {
+        "memory": "Sam says Evan is already good at drawing",
+        "score": 0.3642,
+        "id": "bcecdc12-cfad-4590-9187-d842b243e35d",
+        "created_at": "2023-08-19T18:17:00+00:00",
+        "updated_at": "2026-11-19T04:35:41.054718+00:00"
+      },
+      {
+        "memory": "Assistant Sam hopes to find a hobby he is as passionate about as Evan's watercolor painting",
+        "score": 0.364,
+        "id": "acda0e2b-04dd-4580-95e0-2846713a1723",
+        "created_at": "2023-05-18T13:47:00+00:00",
+        "updated_at": "2026-11-19T04:05:32.686152+00:00"
+      },
+      {
+        "memory": "Evan offered Sam support, asking if Sam needs any help or wants to share anything",
+        "score": 0.3627,
+        "id": "af61b5ce-cb5e-430c-9ca4-4b792c2d50af",
+        "created_at": "2023-11-09T21:13:00+00:00",
+        "updated_at": "2026-11-19T05:04:29.376618+00:00"
+      },
+      {
+        "memory": "Evan encouraged Sam to be patient with himself, emphasized that Sam's health matters, and urged him to stay upbeat and keep going",
+        "score": 0.3626,
+        "id": "f553ec21-3303-41f5-9cc7-5b86e32f009e",
+        "created_at": "2023-10-08T15:09:00+00:00",
+        "updated_at": "2026-11-19T04:49:27.441655+00:00"
+      },
+      {
+        "memory": "Evan told Sam that Sam has come a long way in his quest for better health and expressed excitement about what comes next for Sam",
+        "score": 0.3618,
+        "id": "925a352d-b635-424e-9b83-10454f8b80e0",
+        "created_at": "2023-11-09T21:13:00+00:00",
+        "updated_at": "2026-11-19T05:02:54.510865+00:00"
+      },
+      {
+        "memory": "Evan says Sam inspires others and finds Sam's work of helping others stay committed and motivated rewarding",
+        "score": 0.3604,
+        "id": "0dc1ee91-3d7b-4e68-9387-c237a19980c5",
+        "created_at": "2023-11-09T21:13:00+00:00",
+        "updated_at": "2026-11-19T05:03:50.934770+00:00"
+      },
+      {
+        "memory": "Evan expressed gratitude to Sam, saying Sam's kind words and support mean a lot and that it's great to have Sam here",
+        "score": 0.359,
+        "id": "c0cf95af-ad1a-4d5b-b6ae-492915eff82e",
+        "created_at": "2023-11-09T21:13:00+00:00",
+        "updated_at": "2026-11-19T05:05:50.169548+00:00"
+      },
+      {
+        "memory": "Evan acknowledges that life can be hard sometimes",
+        "score": 0.359,
+        "id": "8f4607c3-285f-4a05-aae8-30fb64e32abe",
+        "created_at": "2023-12-17T18:48:00+00:00",
+        "updated_at": "2026-11-19T05:18:42.026785+00:00"
+      },
+      {
+        "memory": "Evan told Sam that with a little more practice he could learn to control his dreams and asked Sam to let him know once he gets the hang of it, while also encouraging Sam to enjoy fresh air and the views.",
+        "score": 0.3589,
+        "id": "51fd6272-d894-4781-a1d6-74b94c73be8d",
+        "created_at": "2024-01-10T00:17:00+00:00",
+        "updated_at": "2026-11-19T05:37:44.594974+00:00"
+      },
+      {
+        "memory": "Evan advised Sam to find something that motivates them and makes them happy, whether large or tiny, to help conquer struggles",
+        "score": 0.3583,
+        "id": "c22250f2-c77c-413d-a3e6-a147f96979b8",
+        "created_at": "2023-08-07T19:52:00+00:00",
+        "updated_at": "2026-11-19T04:22:44.663828+00:00"
+      },
+      {
+        "memory": "Sam wishes Evan's motivation never goes away",
+        "score": 0.3583,
+        "id": "99af351c-a0ee-4916-aaec-04c50e26d7d5",
+        "created_at": "2023-08-07T19:52:00+00:00",
+        "updated_at": "2026-11-19T04:21:41.153419+00:00"
+      },
+      {
+        "memory": "Sam says Evan looks great and asks how Evan managed the change",
+        "score": 0.358,
+        "id": "4fde90da-dc47-4607-9efb-f519ed4a79ee",
+        "created_at": "2023-10-25T14:56:00+00:00",
+        "updated_at": "2026-11-19T05:00:00.897491+00:00"
+      }
+    ],
+    "search_latency_ms": 458.7,
+    "total_results": 50
+  },
+  "cutoff_results": {
+    "top_50": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "- Sam: He journals and does creative writing to express and process his innermost thoughts and feelings, and he’s looking to painting as a calming, creative way to unwind.\n- Evan: He leans on art—especially watercolor painting and drawing—and also experiments with new recipes to stay busy and creative. He explicitly promotes hobbies and creative outlets as tools to de‑stress and work through tough times.\n\nTogether, they use creativity for expression, relaxation, and resilience when life gets hard.",
+      "memories_evaluated": 50,
+      "reason": "The generated answer matches the gold by stating that Evan and Sam use painting and writing/journaling as creative outlets to express themselves and cope with stress."
+    }
+  }
+}

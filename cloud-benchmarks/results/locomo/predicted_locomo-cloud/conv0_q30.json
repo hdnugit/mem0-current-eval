@@ -1,0 +1,377 @@
+{
+  "question_id": "conv0_q30",
+  "conversation_idx": 0,
+  "category": 3,
+  "category_name": "open-domain",
+  "question": "Would Melanie be considered a member of the LGBTQ community?",
+  "ground_truth_answer": "Likely no, she does not refer to herself as part of it",
+  "evidence": [],
+  "user_id": "locomo_0_fe8ec031",
+  "reference_date": "9:55 am on 22 October, 2023",
+  "retrieval": {
+    "search_query": "Would Melanie be considered a member of the LGBTQ community?",
+    "search_results": [
+      {
+        "memory": "Melanie expressed excitement about Caroline's upcoming LGBTQ art show, saying she can't wait to see it and that the LGBTQ community needs more platforms like this",
+        "score": 0.6429,
+        "id": "7fdc64ec-082a-4fca-bcb8-255c67e3d601",
+        "created_at": "2023-08-25T13:33:00+00:00",
+        "updated_at": "2026-11-19T05:06:11.935485+00:00"
+      },
+      {
+        "memory": "Melanie praised Caroline for spreading awareness and getting others involved in the LGBTQ community, noted that Caroline has come a long way since her transition, and encouraged her to keep inspiring people with her strength and courage",
+        "score": 0.5542,
+        "id": "95a7368a-42ca-496c-99a7-4c921861f0d6",
+        "created_at": "2023-06-09T19:55:00+00:00",
+        "updated_at": "2026-11-19T04:11:18.661885+00:00"
+      },
+      {
+        "memory": "Caroline's activist group 'Connected LGBTQ Activists' brings together diverse members, holds regular meetings, and plans events and campaigns to support each other and LGBTQ rights",
+        "score": 0.5494,
+        "id": "de46a4eb-fb48-438a-8611-5c3776811825",
+        "created_at": "2023-07-20T20:56:00+00:00",
+        "updated_at": "2026-11-19T04:42:55.846842+00:00"
+      },
+      {
+        "memory": "Melanie expressed that she loves the inclusivity and support of the adoption agency being considered",
+        "score": 0.5208,
+        "id": "fc557e8d-6a4d-41aa-99c4-1fb1f831692a",
+        "created_at": "2023-05-25T13:14:00+00:00",
+        "updated_at": "2026-11-19T04:09:14.675841+00:00"
+      },
+      {
+        "memory": "At the school event, Caroline encouraged students to get involved in the LGBTQ community and observed positive reactions from the students",
+        "score": 0.5073,
+        "id": "43995048-effb-4a18-8d81-dbc6214a21d3",
+        "created_at": "2023-06-09T19:55:00+00:00",
+        "updated_at": "2026-11-19T04:11:08.743921+00:00"
+      },
+      {
+        "memory": "Melanie describes Caroline as brave for speaking up for the trans community",
+        "score": 0.4976,
+        "id": "9ac12fdc-3bfe-49a6-87a2-d390140911e7",
+        "created_at": "2023-06-09T19:55:00+00:00",
+        "updated_at": "2026-11-19T04:12:14.203162+00:00"
+      },
+      {
+        "memory": "Melanie thought the adoption agency Caroline was considering looked great",
+        "score": 0.4861,
+        "id": "297b8a6b-c3ef-40c7-baa7-7fef0262d6c2",
+        "created_at": "2023-05-25T13:14:00+00:00",
+        "updated_at": "2026-11-19T04:08:53.106048+00:00"
+      },
+      {
+        "memory": "Caroline joined a mentorship program for LGBTQ youth on the weekend of July 15-16, 2023, and found it rewarding to help the community",
+        "score": 0.4612,
+        "id": "2e2325f1-821d-4590-baa2-813994dd1079",
+        "created_at": "2023-07-17T14:31:00+00:00",
+        "updated_at": "2026-11-19T04:40:19.678755+00:00"
+      },
+      {
+        "memory": "Melanie said that a friend adopted a child in 2022, and the experience made her consider adopting herself",
+        "score": 0.4584,
+        "id": "7339816c-e69d-42b5-a141-e8d1236c1205",
+        "created_at": "2023-10-13T10:31:00+00:00",
+        "updated_at": "2026-11-19T05:15:11.185331+00:00"
+      },
+      {
+        "memory": "The encounter made User realize that there is still much work to be done for LGBTQ rights.",
+        "score": 0.3695,
+        "id": "7e4e6dab-5a93-4c50-b303-319790f5de24",
+        "created_at": "2023-08-17T13:50:00+00:00",
+        "updated_at": "2026-11-19T04:49:58.143739+00:00"
+      },
+      {
+        "memory": "Caroline attended an LGBTQ conference on July 10, 2023, where she met people with similar journeys, felt welcomed and accepted, and expressed gratitude for the community and the importance of fighting trans rights and spreading awareness",
+        "score": 0.351,
+        "id": "be70a375-946e-4eaf-92a5-621c7a3e27a7",
+        "created_at": "2023-07-12T16:33:00+00:00",
+        "updated_at": "2026-11-19T04:27:58.497645+00:00"
+      },
+      {
+        "memory": "Caroline feels accepted and has gained courage to embrace herself thanks to the LGBTQ support group",
+        "score": 0.3468,
+        "id": "f4fd269f-88f6-40a3-8a2e-40857448ae77",
+        "created_at": "2023-05-08T13:56:00+00:00",
+        "updated_at": "2026-11-19T04:03:21.401270+00:00"
+      },
+      {
+        "memory": "Caroline attended an LGBTQ support group on May 7, 2023, and found it powerful",
+        "score": 0.3312,
+        "id": "433e2efa-4ae0-4dd2-90cb-4cfd4c7f6080",
+        "created_at": "2023-05-08T13:56:00+00:00",
+        "updated_at": "2026-11-19T04:02:49.382283+00:00"
+      },
+      {
+        "memory": "Caroline is planning to attend a transgender conference in July 2023, expressing excitement to meet community members and learn about advocacy",
+        "score": 0.2855,
+        "id": "3d5f6622-689d-4350-b08f-661cdd863033",
+        "created_at": "2023-07-03T13:36:00+00:00",
+        "updated_at": "2026-11-19T04:27:50.487309+00:00"
+      },
+      {
+        "memory": "User expressed that Melanie's volunteering is heartwarming and inspirational",
+        "score": 0.2824,
+        "id": "d044f2a3-6d1d-4220-987d-83ab41e286a7",
+        "created_at": "2023-08-25T13:33:00+00:00",
+        "updated_at": "2026-11-19T05:00:57.976998+00:00"
+      },
+      {
+        "memory": "Melanie is doing an awesome job looking after herself and her family",
+        "score": 0.2763,
+        "id": "2829a9f7-711b-4638-9d7b-f37adeceb1ee",
+        "created_at": "2023-05-25T13:14:00+00:00",
+        "updated_at": "2026-11-19T04:07:20.317624+00:00"
+      },
+      {
+        "memory": "Melanie loves live music",
+        "score": 0.275,
+        "id": "2f540624-ceb5-4985-8cc6-1bea0d9ca393",
+        "created_at": "2023-08-28T15:19:00+00:00",
+        "updated_at": "2026-11-19T05:08:14.706788+00:00"
+      },
+      {
+        "memory": "Caroline felt inspired by a pride parade crowd of diverse people celebrating love and acceptance, which motivated her to keep fighting for LGBTQ rights",
+        "score": 0.271,
+        "id": "23d61c10-cb0e-412b-b202-53055148a822",
+        "created_at": "2023-08-14T14:24:00+00:00",
+        "updated_at": "2026-11-19T04:47:21.590394+00:00"
+      },
+      {
+        "memory": "Melanie said the event was thought‑provoking.",
+        "score": 0.2655,
+        "id": "758c7d92-113f-4877-acc2-0934745f0d6c",
+        "created_at": "2023-05-25T13:14:00+00:00",
+        "updated_at": "2026-11-19T04:06:21.049809+00:00"
+      },
+      {
+        "memory": "Caroline uses her art to advocate for the LGBTQ+ community and to push for acceptance.",
+        "score": 0.2637,
+        "id": "b07141fc-8030-4bdf-aa70-69b26a68c1ca",
+        "created_at": "2023-08-14T14:24:00+00:00",
+        "updated_at": "2026-11-19T04:48:50.977428+00:00"
+      },
+      {
+        "memory": "Caroline said Melanie has an awesome family and expressed that she feels lucky for Melanie's beautiful family moment",
+        "score": 0.263,
+        "id": "9001a01b-17b6-4545-a222-02a87065d65f",
+        "created_at": "2023-07-20T20:56:00+00:00",
+        "updated_at": "2026-11-19T04:46:26.769740+00:00"
+      },
+      {
+        "memory": "Melanie believes that talking about inclusivity and acceptance is crucial",
+        "score": 0.2629,
+        "id": "c550f2ff-a367-4325-8e46-bbcdffb1b6dd",
+        "created_at": "2023-06-09T19:55:00+00:00",
+        "updated_at": "2026-11-19T04:12:14.203162+00:00"
+      },
+      {
+        "memory": "Caroline is planning a great night featuring LGBTQ artists to showcase their talents and spread understanding and acceptance",
+        "score": 0.2627,
+        "id": "120dd883-4128-48c7-a019-0b99511ea5da",
+        "created_at": "2023-08-25T13:33:00+00:00",
+        "updated_at": "2026-11-19T05:06:23.098891+00:00"
+      },
+      {
+        "memory": "Melanie said she can't wait to hear about Caroline's upcoming transgender conference and wished her fun and safety",
+        "score": 0.2615,
+        "id": "11c96d85-8ea4-45b4-925b-221e45093e15",
+        "created_at": "2023-07-03T13:36:00+00:00",
+        "updated_at": "2026-11-19T04:24:04.640611+00:00"
+      },
+      {
+        "memory": "Caroline thanked Melanie, expressed excitement, and said she will keep Melanie posted about her upcoming transgender conference this month",
+        "score": 0.2604,
+        "id": "beab1472-df00-4203-aedd-81d942607988",
+        "created_at": "2023-07-03T13:36:00+00:00",
+        "updated_at": "2026-11-19T04:24:00.864678+00:00"
+      },
+      {
+        "memory": "Melanie says her family are her biggest motivation and support",
+        "score": 0.26,
+        "id": "446790e6-9534-41c2-8ba5-28299d856d9f",
+        "created_at": "2023-10-20T18:55:00+00:00",
+        "updated_at": "2026-11-19T05:21:54.914998+00:00"
+      },
+      {
+        "memory": "Melanie said that creativity and family keep her at peace",
+        "score": 0.2566,
+        "id": "c6f74d97-9d46-4757-a3f6-1c87ed882375",
+        "created_at": "2023-07-15T13:51:00+00:00",
+        "updated_at": "2026-11-19T04:38:09.804757+00:00"
+      },
+      {
+        "memory": "Melanie said a recent gathering with the whole gang was a blast and a lot of fun",
+        "score": 0.255,
+        "id": "1a070540-712a-4065-9b8b-7c561c979e66",
+        "created_at": "2023-08-17T13:50:00+00:00",
+        "updated_at": "2026-11-19T04:53:04.901646+00:00"
+      },
+      {
+        "memory": "Melanie is swamped with the kids and work",
+        "score": 0.2546,
+        "id": "4eb9aece-af23-43ec-9f7d-ed500ec1e160",
+        "created_at": "2023-05-08T13:56:00+00:00",
+        "updated_at": "2026-11-19T04:02:41.090773+00:00"
+      },
+      {
+        "memory": "Melanie cherishes time with family and feels alive and happy when she does",
+        "score": 0.2539,
+        "id": "88284b4a-e289-42cc-a42e-0cb878182eb5",
+        "created_at": "2023-06-09T19:55:00+00:00",
+        "updated_at": "2026-11-19T04:18:03.974124+00:00"
+      },
+      {
+        "memory": "Caroline thought Melanie's wedding was special",
+        "score": 0.2535,
+        "id": "eb3d64ce-f00f-46e0-a936-e3aae878b130",
+        "created_at": "2023-07-15T13:51:00+00:00",
+        "updated_at": "2026-11-19T04:35:32.792798+00:00"
+      },
+      {
+        "memory": "Melanie says she is lucky to have her husband and kids, and they keep her motivated",
+        "score": 0.2527,
+        "id": "632ce3bc-1224-46be-bf7b-17f89b676e10",
+        "created_at": "2023-06-09T19:55:00+00:00",
+        "updated_at": "2026-11-19T04:15:43.129556+00:00"
+      },
+      {
+        "memory": "Caroline believes that having supportive people makes a huge difference, acknowledges that LGBTQ rights have progressed but still need further advancement, and expresses a desire to help make a difference",
+        "score": 0.2519,
+        "id": "2018fc87-5e39-4499-9e6b-58d30925af7a",
+        "created_at": "2023-07-12T16:33:00+00:00",
+        "updated_at": "2026-11-19T04:28:07.045528+00:00"
+      },
+      {
+        "memory": "Melanie got married around June 2018, as she mentioned it has been five years since she put on her wedding dress",
+        "score": 0.2501,
+        "id": "65a7217e-a7c4-4e2e-a0cf-4182bcb366aa",
+        "created_at": "2023-06-09T19:55:00+00:00",
+        "updated_at": "2026-11-19T04:16:04.593004+00:00"
+      },
+      {
+        "memory": "Melanie suggested planning a family outing this summer",
+        "score": 0.2493,
+        "id": "fc09cd8b-dfe6-4f09-b121-184ff556ea61",
+        "created_at": "2023-08-17T13:50:00+00:00",
+        "updated_at": "2026-11-19T04:53:04.901646+00:00"
+      },
+      {
+        "memory": "Caroline says she finds Melanie's family time peaceful, calming, and tranquil, and appreciates that Melanie gets to spend quality, tranquil time with her family",
+        "score": 0.2491,
+        "id": "72e4c954-b6a8-4d93-8ac3-55db74cd9b75",
+        "created_at": "2023-10-20T18:55:00+00:00",
+        "updated_at": "2026-11-19T05:23:28.551315+00:00"
+      },
+      {
+        "memory": "Melanie is going swimming with her kids",
+        "score": 0.2488,
+        "id": "5d87d1d0-d866-4708-b212-c9ca7ffe0f90",
+        "created_at": "2023-05-08T13:56:00+00:00",
+        "updated_at": "2026-11-19T04:05:25.313020+00:00"
+      },
+      {
+        "memory": "Melanie said the item was gorgeous",
+        "score": 0.2485,
+        "id": "4764d8b0-34cd-4459-b7e8-295884819ec9",
+        "created_at": "2023-08-25T13:33:00+00:00",
+        "updated_at": "2026-11-19T05:03:22.672950+00:00"
+      },
+      {
+        "memory": "Melanie spent August 24, 2023 volunteering at a homeless shelter with her family",
+        "score": 0.2484,
+        "id": "4719ed74-931b-4576-b7e8-a26bda025ff2",
+        "created_at": "2023-08-25T13:33:00+00:00",
+        "updated_at": "2026-11-19T05:00:38.936628+00:00"
+      },
+      {
+        "memory": "Melanie appreciates her friendship with Caroline and says Caroline has always been there for her",
+        "score": 0.248,
+        "id": "d1d6d808-995e-4e4f-bad3-e78677996701",
+        "created_at": "2023-08-17T13:50:00+00:00",
+        "updated_at": "2026-11-19T04:52:35.668636+00:00"
+      },
+      {
+        "memory": "Melanie says mental health is important to her and that it has made a significant improvement",
+        "score": 0.2472,
+        "id": "7612f30b-200c-4bfd-b8cc-ba2a1e83fe34",
+        "created_at": "2023-07-12T16:33:00+00:00",
+        "updated_at": "2026-11-19T04:32:18.273603+00:00"
+      },
+      {
+        "memory": "Melanie expressed that she feels lucky to be with her family, appreciates life, and values special moments",
+        "score": 0.2462,
+        "id": "9e2bb7da-20f1-4ea8-95ca-be25015f3ef1",
+        "created_at": "2023-07-20T20:56:00+00:00",
+        "updated_at": "2026-11-19T04:46:18.922251+00:00"
+      },
+      {
+        "memory": "Melanie said she loves the necklace (the transgender pendant) that Caroline shared",
+        "score": 0.2455,
+        "id": "43c0b43d-5c06-4502-88e7-4690c68ddecc",
+        "created_at": "2023-06-27T10:37:00+00:00",
+        "updated_at": "2026-11-19T04:17:52.097625+00:00"
+      },
+      {
+        "memory": "Melanie congratulated Caroline on her journey",
+        "score": 0.2446,
+        "id": "5938f145-e096-4ef3-8da4-a629b7eacfc6",
+        "created_at": "2023-10-13T10:31:00+00:00",
+        "updated_at": "2026-11-19T05:14:44.078436+00:00"
+      },
+      {
+        "memory": "Melanie feels proud of Caroline for taking the step toward adoption",
+        "score": 0.2443,
+        "id": "8276b183-716d-4257-a900-6b87e931972d",
+        "created_at": "2023-08-23T15:31:00+00:00",
+        "updated_at": "2026-11-19T04:54:32.904561+00:00"
+      },
+      {
+        "memory": "Caroline expressed that she is glad to have Melanie as a friend to share her journey and thanked her, calling her awesome",
+        "score": 0.2443,
+        "id": "95732dc8-2df7-416e-8379-837acf743af8",
+        "created_at": "2023-07-15T13:51:00+00:00",
+        "updated_at": "2026-11-19T04:39:38.530472+00:00"
+      },
+      {
+        "memory": "Caroline is considering a career working with trans people, helping them accept themselves and supporting their mental health",
+        "score": 0.2443,
+        "id": "08a51e44-78e7-4806-bff0-142ca5123adf",
+        "created_at": "2023-06-27T10:37:00+00:00",
+        "updated_at": "2026-11-19T04:19:33.545821+00:00"
+      },
+      {
+        "memory": "Caroline asked Melanie how she is doing in finding peace",
+        "score": 0.2434,
+        "id": "25467a45-9e82-411a-a31d-5593944eafbc",
+        "created_at": "2023-07-15T13:51:00+00:00",
+        "updated_at": "2026-11-19T04:37:57.499031+00:00"
+      },
+      {
+        "memory": "Melanie expressed that Caroline cares about being authentic and helping others, and wished her the best on her adoption journey",
+        "score": 0.2434,
+        "id": "ceb22d2e-5173-4b01-9ce7-c9380546f515",
+        "created_at": "2023-08-23T15:31:00+00:00",
+        "updated_at": "2026-11-19T04:58:46.252513+00:00"
+      },
+      {
+        "memory": "Caroline reports that her mentorship program for LGBTQ youth is going great, she has met amazing young people, is supporting them, and finds their resilience and strength inspiring",
+        "score": 0.2427,
+        "id": "cc9316f1-a360-4db1-96b6-914a5c2d25de",
+        "created_at": "2023-07-17T14:31:00+00:00",
+        "updated_at": "2026-11-19T04:40:30.511031+00:00"
+      }
+    ],
+    "search_latency_ms": 497.0,
+    "total_results": 50
+  },
+  "cutoff_results": {
+    "top_50": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "No. Based on the memories, Melanie is best described as a supportive ally (married to a husband, actively supportive of LGBTQ causes), not a member of the LGBTQ community herself.",
+      "memories_evaluated": 50,
+      "reason": "The generated answer matches the gold answer’s core claim that Melanie is not a member of the LGBTQ community, framing her instead as a supportive ally."
+    }
+  }
+}

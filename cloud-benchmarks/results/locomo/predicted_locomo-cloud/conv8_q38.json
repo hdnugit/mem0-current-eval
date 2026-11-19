@@ -1,0 +1,379 @@
+{
+  "question_id": "conv8_q38",
+  "conversation_idx": 8,
+  "category": 3,
+  "category_name": "open-domain",
+  "question": "What role does nature and the outdoors play in Evan and Sam's mental well-being?",
+  "ground_truth_answer": "Nature and outdoor activities seem to be significant stress relievers and sources of joy for both Evan and Sam. These activities likely contribute positively to their mental well-being.",
+  "evidence": [
+    "D22:1 D22:2 D9:10 D9:11"
+  ],
+  "user_id": "locomo_8_fe8ec031",
+  "reference_date": "9:37 pm on 11 January, 2024",
+  "retrieval": {
+    "search_query": "What role does nature and the outdoors play in Evan and Sam's mental well-being?",
+    "search_results": [
+      {
+        "memory": "Evan tells Sam to enjoy his time in nature and to take care",
+        "score": 0.6059,
+        "id": "70606643-69ec-4bb8-a7e6-850c156b4e8d",
+        "created_at": "2023-08-27T10:18:00+00:00",
+        "updated_at": "2026-11-19T04:41:02.334898+00:00"
+      },
+      {
+        "memory": "Evan aims to capture the vibe of nature and convey the peacefulness of being outdoors in his paintings",
+        "score": 0.5823,
+        "id": "a3dbee56-9668-4d60-b6ec-a5906e59e036",
+        "created_at": "2023-08-19T18:17:00+00:00",
+        "updated_at": "2026-11-19T04:37:02.110291+00:00"
+      },
+      {
+        "memory": "Sam asks Evan how he captures the tranquil beauty of nature in his paintings",
+        "score": 0.5249,
+        "id": "51f7a9e1-a0ea-4ef7-ab9b-b098c317fdca",
+        "created_at": "2023-08-19T18:17:00+00:00",
+        "updated_at": "2026-11-19T04:36:53.199724+00:00"
+      },
+      {
+        "memory": "Sam asked Evan what type of nature he enjoys painting the most",
+        "score": 0.5066,
+        "id": "ba8da4cf-0c82-4af2-9d48-d563843b4900",
+        "created_at": "2023-08-19T18:17:00+00:00",
+        "updated_at": "2026-11-19T04:36:34.133284+00:00"
+      },
+      {
+        "memory": "Evan tells Sam that kayaking is a fun way to get exercise and enjoy nature, and offers to hook Sam up with a good spot when he’s ready to try it",
+        "score": 0.4902,
+        "id": "38302f1d-7075-496f-a434-0a2f23d92d1f",
+        "created_at": "2023-10-14T16:07:00+00:00",
+        "updated_at": "2026-11-19T04:52:36.845413+00:00"
+      },
+      {
+        "memory": "Evan says hiking is an awesome way to bond with nature and push ourselves, creating a cool memory for both him and Sam",
+        "score": 0.4846,
+        "id": "3838b4e3-045f-446e-bba9-ce2160997598",
+        "created_at": "2023-10-17T13:50:00+00:00",
+        "updated_at": "2026-11-19T04:56:32.167475+00:00"
+      },
+      {
+        "memory": "Evan believes that small moments outdoors can make a big impact on his mood",
+        "score": 0.4833,
+        "id": "1e063860-2d97-45c5-8a11-fc567e3e634d",
+        "created_at": "2024-01-11T21:37:00+00:00",
+        "updated_at": "2026-11-19T05:40:41.962494+00:00"
+      },
+      {
+        "memory": "Sam expressed excitement about going on a hike with Evan, calling it a fun challenge and a chance to appreciate the beauty of nature.",
+        "score": 0.4317,
+        "id": "a5ba49e9-3777-4e9d-822a-fe563d2788e9",
+        "created_at": "2023-10-17T13:50:00+00:00",
+        "updated_at": "2026-11-19T04:56:19.740669+00:00"
+      },
+      {
+        "memory": "Evan says nature has been a great healer",
+        "score": 0.4304,
+        "id": "2160248f-c4c6-4634-9119-5bd46421d8da",
+        "created_at": "2023-12-31T11:00:00+00:00",
+        "updated_at": "2026-11-19T05:26:57.636509+00:00"
+      },
+      {
+        "memory": "Sam is thinking about trying something different outdoors and is asking for suggestions",
+        "score": 0.4259,
+        "id": "8fe7c601-fede-43cf-8d2d-3f1b3f08373b",
+        "created_at": "2023-10-14T16:07:00+00:00",
+        "updated_at": "2026-11-19T04:52:54.685929+00:00"
+      },
+      {
+        "memory": "Evan believes nature brings peace and clarity",
+        "score": 0.4062,
+        "id": "a0156a9f-c554-4466-86f8-5c5b29740998",
+        "created_at": "2023-12-31T11:00:00+00:00",
+        "updated_at": "2026-11-19T05:26:28.495162+00:00"
+      },
+      {
+        "memory": "Evan (Evan) is super pumped for Sam and plans to catch up soon to see how Sam is enjoying his new hobbies",
+        "score": 0.4024,
+        "id": "3e65df91-38a5-4569-9034-c85044b4005b",
+        "created_at": "2023-05-18T13:47:00+00:00",
+        "updated_at": "2026-11-19T04:06:05.974047+00:00"
+      },
+      {
+        "memory": "Evan thanked Sam for his encouragement",
+        "score": 0.398,
+        "id": "59c9640c-346d-4143-8aff-7a868407d9ae",
+        "created_at": "2023-08-27T10:18:00+00:00",
+        "updated_at": "2026-11-19T04:40:14.225487+00:00"
+      },
+      {
+        "memory": "Evan offered to help Sam after hearing about Sam's tough week",
+        "score": 0.3951,
+        "id": "0719f850-0754-41f6-b193-dbb6e4fff851",
+        "created_at": "2023-05-24T19:11:00+00:00",
+        "updated_at": "2026-11-19T04:07:28.510903+00:00"
+      },
+      {
+        "memory": "Sam says Evan is doing great and Sam wants to feel the same sense of freedom",
+        "score": 0.3949,
+        "id": "c6263835-959e-4854-a7c5-ae19a02b5195",
+        "created_at": "2023-10-25T14:56:00+00:00",
+        "updated_at": "2026-11-19T05:01:33.916944+00:00"
+      },
+      {
+        "memory": "Evan tells Sam he'll be there for him and advises him to take it slow and treat himself",
+        "score": 0.3926,
+        "id": "5568d322-084b-4766-bae0-845aef6bb18c",
+        "created_at": "2023-10-25T14:56:00+00:00",
+        "updated_at": "2026-11-19T04:58:18.997914+00:00"
+      },
+      {
+        "memory": "Evan thanked Sam for the suggestion",
+        "score": 0.3923,
+        "id": "3fc07b4f-6860-4c60-87c6-e47707498778",
+        "created_at": "2023-12-05T20:16:00+00:00",
+        "updated_at": "2026-11-19T05:13:39.503469+00:00"
+      },
+      {
+        "memory": "Evan expressed that he is glad to help Sam and hopes Sam enjoys it",
+        "score": 0.391,
+        "id": "bbbb74a0-75b0-4632-a493-53092ce46092",
+        "created_at": "2023-12-31T11:00:00+00:00",
+        "updated_at": "2026-11-19T05:28:24.649551+00:00"
+      },
+      {
+        "memory": "Evan appreciates Sam's concern and thanks him",
+        "score": 0.3883,
+        "id": "f0ddae15-98d7-4029-a87a-d7f61e021854",
+        "created_at": "2023-08-27T10:18:00+00:00",
+        "updated_at": "2026-11-19T04:38:55.990082+00:00"
+      },
+      {
+        "memory": "Evan suggested Sam go on more hikes, saying hiking has always been calming and fun for him, and invited Sam to hike together sometime",
+        "score": 0.388,
+        "id": "bf609d6b-44b1-4156-be66-44604882f1b7",
+        "created_at": "2023-08-27T10:18:00+00:00",
+        "updated_at": "2026-11-19T04:40:20.327536+00:00"
+      },
+      {
+        "memory": "Evan encourages Sam to appreciate the little things in life",
+        "score": 0.3874,
+        "id": "589609e7-1290-4c3d-81f7-95b6a27c2ac5",
+        "created_at": "2023-11-21T19:30:00+00:00",
+        "updated_at": "2026-11-19T05:09:07.768736+00:00"
+      },
+      {
+        "memory": "Evan (Evan) expressed interest in receiving Sam's recipe and thanked Sam for sharing it",
+        "score": 0.3851,
+        "id": "49164833-c39a-494c-abec-0acac3b012ba",
+        "created_at": "2023-08-19T18:17:00+00:00",
+        "updated_at": "2026-11-19T04:34:46.410150+00:00"
+      },
+      {
+        "memory": "Evan expressed empathy to Sam about his health challenges, noted that Sam stays positive, and reminded Sam to take care of himself",
+        "score": 0.3849,
+        "id": "dd6a323e-5581-414e-8046-725beb7c4e0f",
+        "created_at": "2024-01-11T21:37:00+00:00",
+        "updated_at": "2026-11-19T05:39:04.636692+00:00"
+      },
+      {
+        "memory": "Evan encourages Sam, telling him it's tough at first but he can do it",
+        "score": 0.3826,
+        "id": "867ff2a1-06f2-4e65-96f2-68df4273420b",
+        "created_at": "2023-07-27T10:52:00+00:00",
+        "updated_at": "2026-11-19T04:16:58.777113+00:00"
+      },
+      {
+        "memory": "Sam is planning to spend more time in nature",
+        "score": 0.3826,
+        "id": "5c494aa6-e645-4f94-8714-b4ca452adb81",
+        "created_at": "2024-01-11T21:37:00+00:00",
+        "updated_at": "2026-11-19T05:40:17.313288+00:00"
+      },
+      {
+        "memory": "Evan expressed hope that Sam is doing well",
+        "score": 0.3819,
+        "id": "eaeaefc8-d41a-438c-b46b-d859fa39d62e",
+        "created_at": "2024-01-10T00:17:00+00:00",
+        "updated_at": "2026-11-19T05:33:52.391513+00:00"
+      },
+      {
+        "memory": "Evan told Sam to go to bed and take care",
+        "score": 0.3793,
+        "id": "dd98243a-ba71-4742-ab13-9a86b8c268ad",
+        "created_at": "2023-08-13T16:09:00+00:00",
+        "updated_at": "2026-11-19T04:28:21.643756+00:00"
+      },
+      {
+        "memory": "Evan believes in Sam and encourages him to take small steps",
+        "score": 0.3789,
+        "id": "02257016-f5b4-4c5e-b310-fb63de5e3ba7",
+        "created_at": "2023-11-21T19:30:00+00:00",
+        "updated_at": "2026-11-19T05:08:17.164076+00:00"
+      },
+      {
+        "memory": "Sam offered to accompany Evan to the store and suggested Evan call him there",
+        "score": 0.3772,
+        "id": "b72ffe60-943f-463e-98f9-1b790fec36fd",
+        "created_at": "2023-12-31T11:00:00+00:00",
+        "updated_at": "2026-11-19T05:28:58.294363+00:00"
+      },
+      {
+        "memory": "Evan says he is ready for an adventure and asks Sam where they will go",
+        "score": 0.3766,
+        "id": "dfcec374-a988-42d2-9b4b-d7b2384f1b57",
+        "created_at": "2023-10-14T16:07:00+00:00",
+        "updated_at": "2026-11-19T04:53:40.860072+00:00"
+      },
+      {
+        "memory": "Sam is super excited to get fit together with Evan",
+        "score": 0.3766,
+        "id": "8be35fb4-4379-4708-862a-68126ae24d0e",
+        "created_at": "2023-10-17T13:50:00+00:00",
+        "updated_at": "2026-11-19T04:56:51.813754+00:00"
+      },
+      {
+        "memory": "Evan told Sam that Sam has come a long way in his quest for better health and expressed excitement about what comes next for Sam",
+        "score": 0.3726,
+        "id": "925a352d-b635-424e-9b83-10454f8b80e0",
+        "created_at": "2023-11-09T21:13:00+00:00",
+        "updated_at": "2026-11-19T05:02:54.510865+00:00"
+      },
+      {
+        "memory": "Evan decided to try yoga as suggested by Sam",
+        "score": 0.3725,
+        "id": "1df39acb-ceb5-4146-a0d9-14dbf0e56895",
+        "created_at": "2023-12-05T20:16:00+00:00",
+        "updated_at": "2026-11-19T05:13:39.503469+00:00"
+      },
+      {
+        "memory": "Evan greeted Sam, noting it had been a while since they last talked and hoping Sam is doing well",
+        "score": 0.3712,
+        "id": "c176400a-4583-4c23-ad68-12fcbcddc636",
+        "created_at": "2023-10-14T16:07:00+00:00",
+        "updated_at": "2026-11-19T04:51:15.102189+00:00"
+      },
+      {
+        "memory": "Evan asked Sam how far Sam and his dad hiked together",
+        "score": 0.3705,
+        "id": "16b5e199-7be1-45b3-9004-3ccb3d72b263",
+        "created_at": "2023-05-18T13:47:00+00:00",
+        "updated_at": "2026-11-19T04:04:03.659337+00:00"
+      },
+      {
+        "memory": "Evan agrees with Sam's \"progress over perfection\" mindset",
+        "score": 0.3672,
+        "id": "55ddabc5-ff46-4ab3-ba5a-7550085e1d01",
+        "created_at": "2023-08-13T16:09:00+00:00",
+        "updated_at": "2026-11-19T04:26:12.329880+00:00"
+      },
+      {
+        "memory": "Evan would like Sam to join him in winter activities, which he describes as a blast",
+        "score": 0.367,
+        "id": "1038a975-1889-416f-99e3-2a9abc968fe2",
+        "created_at": "2023-08-19T18:17:00+00:00",
+        "updated_at": "2026-11-19T04:39:13.612233+00:00"
+      },
+      {
+        "memory": "Evan expressed gratitude to Sam, saying Sam's kind words and support mean a lot and that it's great to have Sam here",
+        "score": 0.3667,
+        "id": "c0cf95af-ad1a-4d5b-b6ae-492915eff82e",
+        "created_at": "2023-11-09T21:13:00+00:00",
+        "updated_at": "2026-11-19T05:05:50.169548+00:00"
+      },
+      {
+        "memory": "Evan expresses appreciation for Sam's support during this difficult period",
+        "score": 0.3659,
+        "id": "8edc9f27-bd8b-421c-8d19-8284012ad660",
+        "created_at": "2023-11-09T21:13:00+00:00",
+        "updated_at": "2026-11-19T05:04:48.523794+00:00"
+      },
+      {
+        "memory": "Sam says Evan values his family highly",
+        "score": 0.3654,
+        "id": "2831afec-dd4b-4e77-9adb-875a6a9f4b45",
+        "created_at": "2023-12-09T13:45:00+00:00",
+        "updated_at": "2026-11-19T05:16:52.113639+00:00"
+      },
+      {
+        "memory": "Evan encouraged Sam to be patient with himself, emphasized that Sam's health matters, and urged him to stay upbeat and keep going",
+        "score": 0.3628,
+        "id": "f553ec21-3303-41f5-9cc7-5b86e32f009e",
+        "created_at": "2023-10-08T15:09:00+00:00",
+        "updated_at": "2026-11-19T04:49:27.441655+00:00"
+      },
+      {
+        "memory": "Evan suggested Sam try picking up a hobby to de‑stress from work stress",
+        "score": 0.3621,
+        "id": "4ad201ed-78d2-47b2-ac11-ee4eeb817b2f",
+        "created_at": "2023-10-14T16:07:00+00:00",
+        "updated_at": "2026-11-19T04:52:11.161088+00:00"
+      },
+      {
+        "memory": "Evan thanked Sam and said they will have a great time on their upcoming hike together",
+        "score": 0.3611,
+        "id": "7d942340-df93-4faf-a7b5-a5c3e6066795",
+        "created_at": "2023-10-17T13:50:00+00:00",
+        "updated_at": "2026-11-19T04:57:00.552399+00:00"
+      },
+      {
+        "memory": "Sam wishes he could feel the same about love as Evan",
+        "score": 0.3603,
+        "id": "2d71606e-d78f-4caf-96ac-1d6d7801b558",
+        "created_at": "2023-12-26T16:25:00+00:00",
+        "updated_at": "2026-11-19T05:22:18.630823+00:00"
+      },
+      {
+        "memory": "Evan told Sam that with a little more practice he could learn to control his dreams and asked Sam to let him know once he gets the hang of it, while also encouraging Sam to enjoy fresh air and the views.",
+        "score": 0.3602,
+        "id": "51fd6272-d894-4781-a1d6-74b94c73be8d",
+        "created_at": "2024-01-10T00:17:00+00:00",
+        "updated_at": "2026-11-19T05:37:44.594974+00:00"
+      },
+      {
+        "memory": "Sam says Evan has serious talent and creativity",
+        "score": 0.3594,
+        "id": "3ebc873a-9f83-48a6-bd21-1c76d23bedb7",
+        "created_at": "2023-12-26T16:25:00+00:00",
+        "updated_at": "2026-11-19T05:24:07.077427+00:00"
+      },
+      {
+        "memory": "Evan notes that both he and Sam are being compelled to take better care of their health after recent challenges",
+        "score": 0.3581,
+        "id": "df7d5e91-4136-41b4-9c8d-31d46b0c48bc",
+        "created_at": "2023-08-15T16:20:00+00:00",
+        "updated_at": "2026-11-19T04:30:11.751177+00:00"
+      },
+      {
+        "memory": "Evan praised Sam for sticking to his health routine and asked if Sam has noticed any positive changes",
+        "score": 0.3576,
+        "id": "33017013-8543-4dbc-aea2-eb2988dbbca1",
+        "created_at": "2023-08-19T18:17:00+00:00",
+        "updated_at": "2026-11-19T04:33:54.140832+00:00"
+      },
+      {
+        "memory": "Evan offered to support Sam in his health journey, expressing willingness to help with Sam's health challenges",
+        "score": 0.3574,
+        "id": "fc1ae038-a016-4bc0-b476-14ab2b6f8d8e",
+        "created_at": "2023-05-24T19:11:00+00:00",
+        "updated_at": "2026-11-19T04:07:48.050206+00:00"
+      },
+      {
+        "memory": "Sam loves being surrounded by nature, describing it as tranquil and refreshing",
+        "score": 0.3558,
+        "id": "40e032db-8df9-403b-a506-b73d82f9eff9",
+        "created_at": "2023-08-27T10:18:00+00:00",
+        "updated_at": "2026-11-19T04:40:10.673897+00:00"
+      }
+    ],
+    "search_latency_ms": 385.1,
+    "total_results": 50
+  },
+  "cutoff_results": {
+    "top_50": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "For both Evan and Sam, nature and the outdoors function as a restorative force that improves their mental well-being. Evan says nature has been a “great healer,” bringing him “peace and clarity,” and even brief time outside boosts his mood; he finds hiking calming and fun and enjoys activities like kayaking and painting nature’s peacefulness. Sam experiences nature as “tranquil and refreshing,” views hikes as an uplifting challenge to appreciate beauty, and is planning to spend more time outdoors to support how he feels.",
+      "memories_evaluated": 50,
+      "reason": "The generated answer matches the gold by stating that nature is a restorative, mood-boosting source of stress relief and joy for both Evan and Sam, improving their mental well-being."
+    }
+  }
+}

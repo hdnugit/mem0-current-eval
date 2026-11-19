@@ -1,0 +1,380 @@
+{
+  "question_id": "conv6_q44",
+  "conversation_idx": 6,
+  "category": 3,
+  "category_name": "open-domain",
+  "question": "Why didn't John want to go to Starbucks?",
+  "ground_truth_answer": "Possibly because he likes to drink beer on his days off.",
+  "evidence": [
+    "D21:12",
+    "D21:14"
+  ],
+  "user_id": "locomo_6_fe8ec031",
+  "reference_date": "8:57 pm on 7 November, 2022",
+  "retrieval": {
+    "search_query": "Why didn't John want to go to Starbucks?",
+    "search_results": [
+      {
+        "memory": "John is open to meeting up and suggests having a beer somewhere instead of going to Starbucks",
+        "score": 0.6355,
+        "id": "8da38561-6d24-436c-a9aa-54b147f8ef8f",
+        "created_at": "2022-08-26T21:18:00+00:00",
+        "updated_at": "2026-11-19T05:26:03.336655+00:00"
+      },
+      {
+        "memory": "John hasn't gotten a dog yet and still really wants one",
+        "score": 0.5373,
+        "id": "e99dfe05-cb0c-4b5c-9ec6-e03b0158ecdc",
+        "created_at": "2022-11-07T20:57:00+00:00",
+        "updated_at": "2026-11-19T05:57:46.661281+00:00"
+      },
+      {
+        "memory": "James told John he is here for him and asked if there is anything John wants to talk about",
+        "score": 0.5128,
+        "id": "c1430f20-b929-4995-a1d9-09ee5532e20d",
+        "created_at": "2022-04-23T11:04:00+00:00",
+        "updated_at": "2026-11-19T04:28:52.200169+00:00"
+      },
+      {
+        "memory": "John expressed that he loves hearing about James's gaming updates and wants to chat soon",
+        "score": 0.4181,
+        "id": "c2950b4f-5b11-4dcb-a97d-0d4f65c42103",
+        "created_at": "2022-04-04T14:13:00+00:00",
+        "updated_at": "2026-11-19T04:19:45.600881+00:00"
+      },
+      {
+        "memory": "John expressed that he wants to find a place where his skills and passions align perfectly, hoping to make a positive impact there",
+        "score": 0.403,
+        "id": "76f35836-3603-48d2-bfe9-7eb31d791ba9",
+        "created_at": "2022-05-11T17:00:00+00:00",
+        "updated_at": "2026-11-19T04:48:48.640974+00:00"
+      },
+      {
+        "memory": "John has been reflecting on his career and future, feeling driven and passionate, and wants to make a positive impact on the world",
+        "score": 0.3929,
+        "id": "f0a4dd56-5342-4896-96a3-37ecc9b7c518",
+        "created_at": "2022-06-19T21:59:00+00:00",
+        "updated_at": "2026-11-19T05:01:26.400758+00:00"
+      },
+      {
+        "memory": "John has always been drawn to strategy games, wanted to challenge himself, and believes chess can improve decision-making skills",
+        "score": 0.3838,
+        "id": "95e38de4-15be-4287-b581-97582f987df0",
+        "created_at": "2022-07-22T09:49:00+00:00",
+        "updated_at": "2026-11-19T05:08:47.167316+00:00"
+      },
+      {
+        "memory": "John is looking into volunteering and considering non-profit work, wanting to apply his passions and abilities to causes he cares about",
+        "score": 0.3521,
+        "id": "b08e76cf-7234-43be-8c19-0bfa7f0a92d0",
+        "created_at": "2022-06-19T21:59:00+00:00",
+        "updated_at": "2026-11-19T05:02:34.960881+00:00"
+      },
+      {
+        "memory": "James is eager to try the upcoming game demo, asks to be kept posted when it is released, and wants to support John by providing his thoughts",
+        "score": 0.3452,
+        "id": "5f5072de-2733-4e41-b915-4f3b7d4c1242",
+        "created_at": "2022-11-07T20:57:00+00:00",
+        "updated_at": "2026-11-19T05:56:44.135425+00:00"
+      },
+      {
+        "memory": "John received an email about a volunteer gig at a game development non-profit, which he has wanted to do for a while and sees as a potential start to a career that combines his love of gaming and helping others",
+        "score": 0.3208,
+        "id": "a875a450-98f7-44a1-81c7-774eb3a9004f",
+        "created_at": "2022-10-03T09:20:00+00:00",
+        "updated_at": "2026-11-19T05:40:58.852306+00:00"
+      },
+      {
+        "memory": "James suggested going to Starbucks for coffee with John",
+        "score": 0.3121,
+        "id": "e4addfa3-f270-417e-a075-4ea4fd2cbf4e",
+        "created_at": "2022-08-26T21:18:00+00:00",
+        "updated_at": "2026-11-19T05:25:58.725462+00:00"
+      },
+      {
+        "memory": "James will definitely take John's advice and thanks John for avoiding spoilers",
+        "score": 0.2614,
+        "id": "28e08013-5971-4064-b4d7-d52964cfcf76",
+        "created_at": "2022-10-21T19:36:00+00:00",
+        "updated_at": "2026-11-19T05:50:55.795011+00:00"
+      },
+      {
+        "memory": "John needs chill vibes because it has been crazy for him lately",
+        "score": 0.2608,
+        "id": "2814026e-7d7b-4fb9-836e-73071ae2d7a2",
+        "created_at": "2022-04-23T11:04:00+00:00",
+        "updated_at": "2026-11-19T04:28:51.144351+00:00"
+      },
+      {
+        "memory": "John said he was glad James enjoyed it",
+        "score": 0.2586,
+        "id": "e6f6b0ff-b6d5-4b90-b482-68df392a6046",
+        "created_at": "2022-10-31T00:37:00+00:00",
+        "updated_at": "2026-11-19T05:52:06.188365+00:00"
+      },
+      {
+        "memory": "John had never heard of James's desire to cook before this conversation and was surprised.",
+        "score": 0.2579,
+        "id": "abc0c013-412d-45b2-961b-69d4791862f3",
+        "created_at": "2022-09-04T21:23:00+00:00",
+        "updated_at": "2026-11-19T05:33:06.087980+00:00"
+      },
+      {
+        "memory": "John states that he does not like bowling.",
+        "score": 0.2567,
+        "id": "aa729b21-aafc-4691-bf77-2f4696e816aa",
+        "created_at": "2022-03-17T15:47:00+00:00",
+        "updated_at": "2026-11-19T04:07:07.628131+00:00"
+      },
+      {
+        "memory": "James believes that winning felt good for John",
+        "score": 0.2564,
+        "id": "20778c3c-1b95-4f59-a3dd-4ce51635d1ee",
+        "created_at": "2022-11-05T17:20:00+00:00",
+        "updated_at": "2026-11-19T05:54:16.286628+00:00"
+      },
+      {
+        "memory": "James thought John's project sounded amazing",
+        "score": 0.2562,
+        "id": "2ae4d4ad-e2c2-4d3d-ace5-56adc926688b",
+        "created_at": "2022-11-07T20:57:00+00:00",
+        "updated_at": "2026-11-19T05:56:04.481981+00:00"
+      },
+      {
+        "memory": "James feels proud of John",
+        "score": 0.2539,
+        "id": "c429e048-e05a-4098-b7a9-d217a7cb1d4c",
+        "created_at": "2022-05-08T00:45:00+00:00",
+        "updated_at": "2026-11-19T04:44:43.228384+00:00"
+      },
+      {
+        "memory": "James says John is the best",
+        "score": 0.2529,
+        "id": "d712e8cc-094a-4a1c-bd6f-b843d39a35a9",
+        "created_at": "2022-09-01T18:53:00+00:00",
+        "updated_at": "2026-11-19T05:30:41.930426+00:00"
+      },
+      {
+        "memory": "James thanked John for his support and said he hopes to treat John to a dish he creates once he learns more about cooking",
+        "score": 0.2527,
+        "id": "83b00296-ffda-48c0-8a34-1de8c7b5ef0a",
+        "created_at": "2022-09-04T21:23:00+00:00",
+        "updated_at": "2026-11-19T05:33:22.410042+00:00"
+      },
+      {
+        "memory": "John does not like dark beer",
+        "score": 0.2504,
+        "id": "b4035429-108a-4e35-bc1e-d36827bdff0d",
+        "created_at": "2022-08-26T21:18:00+00:00",
+        "updated_at": "2026-11-19T05:26:15.223822+00:00"
+      },
+      {
+        "memory": "John expressed excitement to catch up with James",
+        "score": 0.2502,
+        "id": "177dd8b5-6bfa-43ab-815a-299f8ff59979",
+        "created_at": "2022-10-21T19:36:00+00:00",
+        "updated_at": "2026-11-19T05:45:29.307507+00:00"
+      },
+      {
+        "memory": "James thanked John for his suggestion",
+        "score": 0.248,
+        "id": "a99f85b6-727e-44ed-89fd-7f70950f45d4",
+        "created_at": "2022-11-05T17:20:00+00:00",
+        "updated_at": "2026-11-19T05:54:58.310674+00:00"
+      },
+      {
+        "memory": "James thinks that John’s charity tournament required a lot of effort but was worth it",
+        "score": 0.248,
+        "id": "29ad323c-d403-4f4b-8b0a-005ae589bd0d",
+        "created_at": "2022-05-08T00:45:00+00:00",
+        "updated_at": "2026-11-19T04:42:48.093653+00:00"
+      },
+      {
+        "memory": "John hasn't tried prosciutto yet but has heard it's great",
+        "score": 0.2471,
+        "id": "925126d7-eb0a-41f3-b172-6654978f8f08",
+        "created_at": "2022-05-04T19:01:00+00:00",
+        "updated_at": "2026-11-19T04:41:33.867152+00:00"
+      },
+      {
+        "memory": "John told James that he is a great host",
+        "score": 0.2471,
+        "id": "0fbd7d2d-73e9-4042-89e3-3dab1900b2fd",
+        "created_at": "2022-08-06T13:45:00+00:00",
+        "updated_at": "2026-11-19T05:16:42.800841+00:00"
+      },
+      {
+        "memory": "James expressed enthusiasm about John's news and asked him what he did",
+        "score": 0.2465,
+        "id": "1d78d659-1c2d-486c-b421-8738426ca592",
+        "created_at": "2022-11-05T17:20:00+00:00",
+        "updated_at": "2026-11-19T05:53:37.717205+00:00"
+      },
+      {
+        "memory": "John asked James if he chose the course because he loves football",
+        "score": 0.2458,
+        "id": "1b763cdb-7c40-4d19-8308-4e5205ab8bd2",
+        "created_at": "2022-06-13T16:30:00+00:00",
+        "updated_at": "2026-11-19T04:52:49.625271+00:00"
+      },
+      {
+        "memory": "John says Max seems like a go-getter",
+        "score": 0.2458,
+        "id": "2dbc2342-a56b-4703-87ee-f7c4eb9e76e9",
+        "created_at": "2022-06-16T17:07:00+00:00",
+        "updated_at": "2026-11-19T04:58:48.643663+00:00"
+      },
+      {
+        "memory": "James asked John if he has thought about any ideas on how to make a difference.",
+        "score": 0.2455,
+        "id": "9f11ebcb-02f2-4121-ae95-29130a6caf06",
+        "created_at": "2022-06-19T21:59:00+00:00",
+        "updated_at": "2026-11-19T05:02:02.326070+00:00"
+      },
+      {
+        "memory": "John commented that James really roots for this team",
+        "score": 0.2454,
+        "id": "725d6ac9-a19e-45a1-8228-0a2e0c4a3c22",
+        "created_at": "2022-06-13T16:30:00+00:00",
+        "updated_at": "2026-11-19T04:53:44.041181+00:00"
+      },
+      {
+        "memory": "James is excited about the world and story of the game John recommended and thanks John for the recommendation",
+        "score": 0.245,
+        "id": "50fb33a1-78b5-4fb8-98cc-9fe2bb5c9ac2",
+        "created_at": "2022-10-03T09:20:00+00:00",
+        "updated_at": "2026-11-19T05:42:16.722784+00:00"
+      },
+      {
+        "memory": "James expressed that it would be nice to play with John one day",
+        "score": 0.2433,
+        "id": "a7bc2f8c-515b-4fb0-b22f-4299d3bcde9d",
+        "created_at": "2022-03-17T15:47:00+00:00",
+        "updated_at": "2026-11-19T04:07:16.286348+00:00"
+      },
+      {
+        "memory": "James expressed confidence that John could do cool things with nonprofits because of his skills and passion",
+        "score": 0.2425,
+        "id": "2f74fd5a-b0e9-431f-84ce-a8d5e73b6610",
+        "created_at": "2022-06-19T21:59:00+00:00",
+        "updated_at": "2026-11-19T05:03:00.611848+00:00"
+      },
+      {
+        "memory": "John reported having an eventful week since his last chat with James.",
+        "score": 0.2417,
+        "id": "742e581d-58cf-40df-ad06-1b940237bf93",
+        "created_at": "2022-05-04T19:01:00+00:00",
+        "updated_at": "2026-11-19T04:38:36.342500+00:00"
+      },
+      {
+        "memory": "John says it's really satisfying when plans work out and you win.",
+        "score": 0.2408,
+        "id": "0ae06fad-01da-40f3-94d3-0d23007d1aaf",
+        "created_at": "2022-04-29T14:36:00+00:00",
+        "updated_at": "2026-11-19T04:36:51.379024+00:00"
+      },
+      {
+        "memory": "John said James has found someone other than his dogs who brings him joy",
+        "score": 0.2392,
+        "id": "d76bf0ef-8f53-4da2-b442-f3d1c8764814",
+        "created_at": "2022-09-04T21:23:00+00:00",
+        "updated_at": "2026-11-19T05:31:41.429001+00:00"
+      },
+      {
+        "memory": "James told John that being friendly, polite, and having a strong desire to help people is all that’s needed, and expressed confidence that John will succeed.",
+        "score": 0.2389,
+        "id": "58363d46-0a00-446d-b33b-ee339464eee9",
+        "created_at": "2022-06-19T21:59:00+00:00",
+        "updated_at": "2026-11-19T05:04:25.582570+00:00"
+      },
+      {
+        "memory": "James says John has always been there for him and thanks him for having his back",
+        "score": 0.2378,
+        "id": "e672f29d-4476-4715-929e-1b8cc54906b4",
+        "created_at": "2022-10-13T14:14:00+00:00",
+        "updated_at": "2026-11-19T05:45:24.060630+00:00"
+      },
+      {
+        "memory": "John said James is always looking for a way to improve himself",
+        "score": 0.2377,
+        "id": "7b2a9d94-3269-43ca-aab2-2cf681328f08",
+        "created_at": "2022-09-04T21:23:00+00:00",
+        "updated_at": "2026-11-19T05:33:17.927659+00:00"
+      },
+      {
+        "memory": "John expressed that James' support means a lot to him",
+        "score": 0.2357,
+        "id": "0de1c030-381f-475d-9af9-f358e2ceabb6",
+        "created_at": "2022-10-03T09:20:00+00:00",
+        "updated_at": "2026-11-19T05:41:39.027991+00:00"
+      },
+      {
+        "memory": "James congratulated John on his tournament achievement and imagined the rush John must have felt during the competition",
+        "score": 0.2355,
+        "id": "e7cbbfc6-b19a-43e7-b048-edc8780ca176",
+        "created_at": "2022-05-23T19:33:00+00:00",
+        "updated_at": "2026-11-19T04:48:37.948573+00:00"
+      },
+      {
+        "memory": "John says Jill will be delighted",
+        "score": 0.2355,
+        "id": "7f01e0f8-972a-4009-b4cd-3ce4c310e0e2",
+        "created_at": "2022-07-22T09:49:00+00:00",
+        "updated_at": "2026-11-19T05:11:21.431673+00:00"
+      },
+      {
+        "memory": "John asked James whether he will only be in Toronto or will also visit other destinations",
+        "score": 0.2351,
+        "id": "86bd3e56-fcc9-42a4-9ce6-5ba13ca77e5d",
+        "created_at": "2022-07-09T17:13:00+00:00",
+        "updated_at": "2026-11-19T05:06:54.054083+00:00"
+      },
+      {
+        "memory": "James told John to take time for himself and offered encouragement, saying \"You've got this\" after noting John's busy week",
+        "score": 0.2348,
+        "id": "ac230c14-68d2-4d12-96ce-54d950d77470",
+        "created_at": "2022-09-20T20:56:00+00:00",
+        "updated_at": "2026-11-19T05:40:15.962727+00:00"
+      },
+      {
+        "memory": "James says he has something to show John",
+        "score": 0.2345,
+        "id": "528b2e7f-a5ba-4f7a-8682-9e421618d987",
+        "created_at": "2022-03-20T21:26:00+00:00",
+        "updated_at": "2026-11-19T04:10:46.405596+00:00"
+      },
+      {
+        "memory": "James asked John if he is free tomorrow",
+        "score": 0.2345,
+        "id": "130edf5c-990e-4946-b496-fd0986556149",
+        "created_at": "2022-08-26T21:18:00+00:00",
+        "updated_at": "2026-11-19T05:25:50.393733+00:00"
+      },
+      {
+        "memory": "John was inspired by the passion of kids he helped, which motivated him to contribute in any way he could",
+        "score": 0.2341,
+        "id": "847dfcf4-1d55-40d7-a866-9f8dbdce63af",
+        "created_at": "2022-05-11T17:00:00+00:00",
+        "updated_at": "2026-11-19T04:46:21.574315+00:00"
+      },
+      {
+        "memory": "John said he will look after James's pockets",
+        "score": 0.2338,
+        "id": "a531b5cd-48e4-4d83-9140-50c217f0b117",
+        "created_at": "2022-03-17T15:47:00+00:00",
+        "updated_at": "2026-11-19T04:07:40.862452+00:00"
+      }
+    ],
+    "search_latency_ms": 375.8,
+    "total_results": 50
+  },
+  "cutoff_results": {
+    "top_50": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Because he preferred to meet for a beer somewhere instead of getting coffee at Starbucks.",
+      "memories_evaluated": 50,
+      "reason": "The generated answer matches the gold idea that John preferred beer over Starbucks coffee, indicating his inclination to drink beer instead."
+    }
+  }
+}

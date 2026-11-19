@@ -1,0 +1,379 @@
+{
+  "question_id": "conv6_q36",
+  "conversation_idx": 6,
+  "category": 3,
+  "category_name": "open-domain",
+  "question": "Who is Jill?",
+  "ground_truth_answer": "Most likely John's partner.",
+  "evidence": [
+    "D17:24"
+  ],
+  "user_id": "locomo_6_fe8ec031",
+  "reference_date": "8:57 pm on 7 November, 2022",
+  "retrieval": {
+    "search_query": "Who is Jill?",
+    "search_results": [
+      {
+        "memory": "John says Jill will be delighted",
+        "score": 0.6242,
+        "id": "7f01e0f8-972a-4009-b4cd-3ce4c310e0e2",
+        "created_at": "2022-07-22T09:49:00+00:00",
+        "updated_at": "2026-11-19T05:11:21.431673+00:00"
+      },
+      {
+        "memory": "James brought souvenirs for John and his partner Jill after his July 2022 trip",
+        "score": 0.5168,
+        "id": "20836e0b-fb10-4c56-be2d-c6f1886e15c4",
+        "created_at": "2022-07-22T09:49:00+00:00",
+        "updated_at": "2026-11-19T05:11:13.518742+00:00"
+      },
+      {
+        "memory": "James says the army friend is still serving in the military, but also mentions she retired a long time ago",
+        "score": 0.1449,
+        "id": "477ee79f-a7e5-4661-9b02-7539dd093574",
+        "created_at": "2022-10-21T19:36:00+00:00",
+        "updated_at": "2026-11-19T05:49:00.865248+00:00"
+      },
+      {
+        "memory": "James says the girl he met is named Samantha and he will definitely call her",
+        "score": 0.1382,
+        "id": "fa05785c-85ef-434d-8d3e-0d3b6857ddfd",
+        "created_at": "2022-08-10T09:16:00+00:00",
+        "updated_at": "2026-11-19T05:20:16.084604+00:00"
+      },
+      {
+        "memory": "James says his mother and her army friend used to tell him stories about their time in the military and about their pup",
+        "score": 0.133,
+        "id": "f34f5010-0417-4dbe-b67d-49c5de68e4c2",
+        "created_at": "2022-10-21T19:36:00+00:00",
+        "updated_at": "2026-11-19T05:49:00.865248+00:00"
+      },
+      {
+        "memory": "James said he will show John what Samantha looks like",
+        "score": 0.1286,
+        "id": "090013f5-62bc-4762-b529-74df7d710b0b",
+        "created_at": "2022-09-04T21:23:00+00:00",
+        "updated_at": "2026-11-19T05:31:55.104441+00:00"
+      },
+      {
+        "memory": "John will send James resources and tutorials on the new programming approaches and techniques he learned",
+        "score": 0.1271,
+        "id": "1b359005-6a2a-49f2-891d-eecc4fd94cbd",
+        "created_at": "2022-10-21T19:36:00+00:00",
+        "updated_at": "2026-11-19T05:48:29.691178+00:00"
+      },
+      {
+        "memory": "James's mother visited him on October 19, 2022, accompanied by her army friend, and they had fun together.",
+        "score": 0.1247,
+        "id": "b669dba7-e846-411d-8d45-db75bfd50224",
+        "created_at": "2022-10-21T19:36:00+00:00",
+        "updated_at": "2026-11-19T05:48:24.594870+00:00"
+      },
+      {
+        "memory": "John told James that he is a great host",
+        "score": 0.1242,
+        "id": "0fbd7d2d-73e9-4042-89e3-3dab1900b2fd",
+        "created_at": "2022-08-06T13:45:00+00:00",
+        "updated_at": "2026-11-19T05:16:42.800841+00:00"
+      },
+      {
+        "memory": "John shared an image of a notebook containing a written quote",
+        "score": 0.1226,
+        "id": "0ef40b94-9438-4a61-844e-22e60df5579b",
+        "created_at": "2022-04-23T11:04:00+00:00",
+        "updated_at": "2026-11-19T04:32:19.225320+00:00"
+      },
+      {
+        "memory": "James is curious about the types of programs his siblings are creating",
+        "score": 0.1219,
+        "id": "d43fc335-3317-4ccd-b3ce-1245a958bc26",
+        "created_at": "2022-09-01T18:53:00+00:00",
+        "updated_at": "2026-11-19T05:29:02.786043+00:00"
+      },
+      {
+        "memory": "John encouraged James to call the girl and said everything will work out",
+        "score": 0.1203,
+        "id": "86921e12-7737-4763-bd76-e8c8f2ba7d18",
+        "created_at": "2022-08-10T09:16:00+00:00",
+        "updated_at": "2026-11-19T05:20:08.487945+00:00"
+      },
+      {
+        "memory": "James says he has a close bond with his sister and their furry friends, and they have a great time together like a family",
+        "score": 0.12,
+        "id": "d8e03942-53d7-43e8-a031-29002b0ac341",
+        "created_at": "2022-07-22T09:49:00+00:00",
+        "updated_at": "2026-11-19T05:12:22.777132+00:00"
+      },
+      {
+        "memory": "James and Samantha mutually decided to rent an apartment not far from McGee's bar",
+        "score": 0.1191,
+        "id": "89485122-e8b1-4549-8b98-e6b93556311d",
+        "created_at": "2022-10-31T00:37:00+00:00",
+        "updated_at": "2026-11-19T05:52:51.070182+00:00"
+      },
+      {
+        "memory": "John shared an image showing a desk with a computer monitor and keyboard",
+        "score": 0.1181,
+        "id": "d95611a6-0c92-4371-9bac-9bc1366ebaef",
+        "created_at": "2022-08-06T13:45:00+00:00",
+        "updated_at": "2026-11-19T05:15:39.126532+00:00"
+      },
+      {
+        "memory": "James and Samantha have decided to move in together",
+        "score": 0.1179,
+        "id": "01388527-71cc-4b0c-ac1f-fc46a19722d7",
+        "created_at": "2022-10-31T00:37:00+00:00",
+        "updated_at": "2026-11-19T05:52:15.024091+00:00"
+      },
+      {
+        "memory": "James asked John whether his siblings are already working on anything cool together",
+        "score": 0.1178,
+        "id": "da39e34c-8232-46e1-9390-47405d698270",
+        "created_at": "2022-08-26T21:18:00+00:00",
+        "updated_at": "2026-11-19T05:24:56.019738+00:00"
+      },
+      {
+        "memory": "James believes some of the previous staff are still present and offers to introduce John to them",
+        "score": 0.1172,
+        "id": "7f7c347a-bfaa-4de8-abb2-9189f46370e9",
+        "created_at": "2022-06-19T21:59:00+00:00",
+        "updated_at": "2026-11-19T05:04:10.687322+00:00"
+      },
+      {
+        "memory": "James will start looking for a country to travel to with John",
+        "score": 0.1168,
+        "id": "031e7f44-4b11-44f1-9115-33c80c0c1da6",
+        "created_at": "2022-04-20T21:32:00+00:00",
+        "updated_at": "2026-11-19T04:26:33.904274+00:00"
+      },
+      {
+        "memory": "John will start his dream job in July 2022",
+        "score": 0.1162,
+        "id": "72fc980b-b0eb-4879-8f08-255fe9ed1867",
+        "created_at": "2022-06-13T16:30:00+00:00",
+        "updated_at": "2026-11-19T04:51:36.711842+00:00"
+      },
+      {
+        "memory": "James was chilling with his sister and his dogs on July 21, 2022, and says they bring him a great deal of happiness",
+        "score": 0.1161,
+        "id": "2658678d-d44d-4636-bcd6-18ce7f24b529",
+        "created_at": "2022-07-22T09:49:00+00:00",
+        "updated_at": "2026-11-19T05:11:41.565952+00:00"
+      },
+      {
+        "memory": "John loves hearing about the joy that James's furry friends bring into James's life",
+        "score": 0.1159,
+        "id": "4d5193c3-da27-4299-91f6-c30af1240150",
+        "created_at": "2022-05-04T19:01:00+00:00",
+        "updated_at": "2026-11-19T04:40:22.750531+00:00"
+      },
+      {
+        "memory": "John asks if Max has any special talents",
+        "score": 0.1154,
+        "id": "3d87bc2e-9049-41e0-b3bb-7ff9c39fd32e",
+        "created_at": "2022-06-16T17:07:00+00:00",
+        "updated_at": "2026-11-19T04:58:48.643663+00:00"
+      },
+      {
+        "memory": "James has a new computer",
+        "score": 0.1149,
+        "id": "25b5e1d5-23bb-42cd-982d-a61d98dfb093",
+        "created_at": "2022-10-03T09:20:00+00:00",
+        "updated_at": "2026-11-19T05:42:34.410178+00:00"
+      },
+      {
+        "memory": "John observed that James's dogs Max and Daisy look like they're having a blast and asked if they can do any tricks.",
+        "score": 0.1149,
+        "id": "61cc7905-c391-4b7e-b93b-814519c28e2f",
+        "created_at": "2022-03-20T21:26:00+00:00",
+        "updated_at": "2026-11-19T04:11:09.891515+00:00"
+      },
+      {
+        "memory": "James's dog Daisy is a Labrador who loves playing with her toys and especially loves to eat",
+        "score": 0.1148,
+        "id": "de358ef0-e8db-480d-9b78-a302b63f628e",
+        "created_at": "2022-05-04T19:01:00+00:00",
+        "updated_at": "2026-11-19T04:40:03.339629+00:00"
+      },
+      {
+        "memory": "James looks forward to collaborating with John on the dog-walking and pet care app",
+        "score": 0.1146,
+        "id": "38acd93b-1362-4019-9d16-f3601b1c4d0a",
+        "created_at": "2022-03-17T15:47:00+00:00",
+        "updated_at": "2026-11-19T04:06:55.288183+00:00"
+      },
+      {
+        "memory": "James said he finds John's volunteer programming experience inspiring",
+        "score": 0.1141,
+        "id": "306c7f2e-68a0-4075-8ad9-260442fba126",
+        "created_at": "2022-05-11T17:00:00+00:00",
+        "updated_at": "2026-11-19T04:47:05.064532+00:00"
+      },
+      {
+        "memory": "James tells John that he is available to talk or vent with him to help alleviate difficult times",
+        "score": 0.114,
+        "id": "21c02227-b3a6-4bac-80fb-6d7434f44bde",
+        "created_at": "2022-09-01T18:53:00+00:00",
+        "updated_at": "2026-11-19T05:31:03.655885+00:00"
+      },
+      {
+        "memory": "James expressed confidence that John could do cool things with nonprofits because of his skills and passion",
+        "score": 0.1139,
+        "id": "2f74fd5a-b0e9-431f-84ce-a8d5e73b6610",
+        "created_at": "2022-06-19T21:59:00+00:00",
+        "updated_at": "2026-11-19T05:03:00.611848+00:00"
+      },
+      {
+        "memory": "James's dogs Max, Daisy, and Ned love to watch him gaming and often hug him, serving as cuddle buddies.",
+        "score": 0.1138,
+        "id": "009a7553-c370-4da5-8ddd-e630928a2c79",
+        "created_at": "2022-04-29T14:36:00+00:00",
+        "updated_at": "2026-11-19T04:35:29.594852+00:00"
+      },
+      {
+        "memory": "James is asking for the name of a puppy",
+        "score": 0.1136,
+        "id": "129e4bfd-d38a-46ca-8860-d4901f9e5e00",
+        "created_at": "2022-11-07T20:57:00+00:00",
+        "updated_at": "2026-11-19T05:58:44.209086+00:00"
+      },
+      {
+        "memory": "John said that James and Samantha's decision to move in together is a big decision and hopes they have weighed the pros and cons",
+        "score": 0.1134,
+        "id": "a5155fae-0dd6-47e1-8694-db527e98da5f",
+        "created_at": "2022-10-31T00:37:00+00:00",
+        "updated_at": "2026-11-19T05:52:19.569826+00:00"
+      },
+      {
+        "memory": "John shared an image showing a computer screen displaying a number of items",
+        "score": 0.1133,
+        "id": "c5300ba0-8790-434d-ad61-6512fd6c57ad",
+        "created_at": "2022-06-16T17:07:00+00:00",
+        "updated_at": "2026-11-19T04:55:43.549281+00:00"
+      },
+      {
+        "memory": "James will definitely take John's advice and thanks John for avoiding spoilers",
+        "score": 0.1133,
+        "id": "28e08013-5971-4064-b4d7-d52964cfcf76",
+        "created_at": "2022-10-21T19:36:00+00:00",
+        "updated_at": "2026-11-19T05:50:55.795011+00:00"
+      },
+      {
+        "memory": "Samantha loves theater",
+        "score": 0.1131,
+        "id": "99d9f59e-1d2b-4857-a84e-8b9419cc341f",
+        "created_at": "2022-09-04T21:23:00+00:00",
+        "updated_at": "2026-11-19T05:31:15.652758+00:00"
+      },
+      {
+        "memory": "James shared a photo of a woman and two dogs sitting on a couch, showing companionship and happiness",
+        "score": 0.1127,
+        "id": "1e5a7801-7bfa-4405-acb8-ae24b8ede76c",
+        "created_at": "2022-07-22T09:49:00+00:00",
+        "updated_at": "2026-11-19T05:11:29.287366+00:00"
+      },
+      {
+        "memory": "John shared an image showing a medical chart with instructions for the procedure",
+        "score": 0.1126,
+        "id": "4afc5b7b-896d-43ed-9eee-5bdb72fad69b",
+        "created_at": "2022-03-17T15:47:00+00:00",
+        "updated_at": "2026-11-19T04:06:08.068737+00:00"
+      },
+      {
+        "memory": "John looks forward to the upcoming plan with James and encourages him, saying \"you can do it\"",
+        "score": 0.1124,
+        "id": "023b846c-bfb5-4b4f-a3d0-131f68e18630",
+        "created_at": "2022-09-04T21:23:00+00:00",
+        "updated_at": "2026-11-19T05:33:33.406616+00:00"
+      },
+      {
+        "memory": "James asked John what else is new in his life",
+        "score": 0.1123,
+        "id": "f0e5fa1c-1048-43d0-9694-a1ed55af61d7",
+        "created_at": "2022-09-04T21:23:00+00:00",
+        "updated_at": "2026-11-19T05:32:09.035096+00:00"
+      },
+      {
+        "memory": "John shared an image showing a refrigerator with a calendar and a magnet",
+        "score": 0.1123,
+        "id": "ebe2d97d-3cfb-48fc-ba40-6ba26a57ed61",
+        "created_at": "2022-08-10T09:16:00+00:00",
+        "updated_at": "2026-11-19T05:19:53.419698+00:00"
+      },
+      {
+        "memory": "James shared an image of indie game concept art showing a drawing of a girl in a plane",
+        "score": 0.1122,
+        "id": "68911ca4-ebb8-49b6-84a1-67701308dfba",
+        "created_at": "2022-03-17T15:47:00+00:00",
+        "updated_at": "2026-11-19T04:05:46.174346+00:00"
+      },
+      {
+        "memory": "James mentioned that they performed a good deed while traveling to visit friends Mark and Josh",
+        "score": 0.112,
+        "id": "dff2584b-66f1-4d92-83b0-2e18dde79edc",
+        "created_at": "2022-11-07T20:57:00+00:00",
+        "updated_at": "2026-11-19T05:57:08.857992+00:00"
+      },
+      {
+        "memory": "James told John that being friendly, polite, and having a strong desire to help people is all that’s needed, and expressed confidence that John will succeed.",
+        "score": 0.1117,
+        "id": "58363d46-0a00-446d-b33b-ee339464eee9",
+        "created_at": "2022-06-19T21:59:00+00:00",
+        "updated_at": "2026-11-19T05:04:25.582570+00:00"
+      },
+      {
+        "memory": "James shared an image showing a computer case with a red light",
+        "score": 0.1117,
+        "id": "0d90e7f9-d0a4-44db-a6ec-e0f9bb0e2618",
+        "created_at": "2022-10-03T09:20:00+00:00",
+        "updated_at": "2026-11-19T05:41:47.194117+00:00"
+      },
+      {
+        "memory": "James expressed that he and John can do this together",
+        "score": 0.1113,
+        "id": "c88863c3-f4fe-4501-b485-bc9f55cba6fa",
+        "created_at": "2022-06-19T21:59:00+00:00",
+        "updated_at": "2026-11-19T05:04:46.635794+00:00"
+      },
+      {
+        "memory": "James suggested going to McGee's pub, mentioning they serve a great stout",
+        "score": 0.1113,
+        "id": "9835ac59-6d00-4f8b-948e-6ffec48a48aa",
+        "created_at": "2022-08-26T21:18:00+00:00",
+        "updated_at": "2026-11-19T05:26:06.339610+00:00"
+      },
+      {
+        "memory": "James shared an image of a notebook containing a list of programming goals, showing his written goal list",
+        "score": 0.1107,
+        "id": "6e991f1e-93f1-4777-8990-9ece45746a0b",
+        "created_at": "2022-03-17T15:47:00+00:00",
+        "updated_at": "2026-11-19T04:05:31.857923+00:00"
+      },
+      {
+        "memory": "James asked John if he has thought about any ideas on how to make a difference.",
+        "score": 0.1105,
+        "id": "9f11ebcb-02f2-4121-ae95-29130a6caf06",
+        "created_at": "2022-06-19T21:59:00+00:00",
+        "updated_at": "2026-11-19T05:02:02.326070+00:00"
+      },
+      {
+        "memory": "James says his dogs Max, Daisy, and Ned are loyal and bring him joy",
+        "score": 0.1104,
+        "id": "7a6458df-5eda-43fa-93f1-34b42e529aaa",
+        "created_at": "2022-05-04T19:01:00+00:00",
+        "updated_at": "2026-11-19T04:40:15.325580+00:00"
+      }
+    ],
+    "search_latency_ms": 367.7,
+    "total_results": 50
+  },
+  "cutoff_results": {
+    "top_50": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Jill is John’s partner.",
+      "memories_evaluated": 50,
+      "reason": "The generated answer identifies Jill as John’s partner, which matches the gold answer’s core idea."
+    }
+  }
+}

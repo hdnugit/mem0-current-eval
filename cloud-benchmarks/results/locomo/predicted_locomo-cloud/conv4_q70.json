@@ -1,0 +1,381 @@
+{
+  "question_id": "conv4_q70",
+  "conversation_idx": 4,
+  "category": 3,
+  "category_name": "open-domain",
+  "question": "Which Star Wars-related locations would Tim enjoy during his visit to Ireland?",
+  "ground_truth_answer": "Skellig Michael, Malin Head, Loop Head, Ceann Sibéal, and Brow Head because they are Star Wars filming locations.",
+  "evidence": [
+    "D1:18",
+    "D27:21",
+    "D28:1"
+  ],
+  "user_id": "locomo_4_fe8ec031",
+  "reference_date": "1:41 pm on 12 January, 2024",
+  "retrieval": {
+    "search_query": "Which Star Wars-related locations would Tim enjoy during his visit to Ireland?",
+    "search_results": [
+      {
+        "memory": "Tim (Tim) visited a Harry Potter-themed location in London a few years ago and went on an amazing tour there",
+        "score": 0.6174,
+        "id": "c1c3d4d1-a258-4a6c-815e-e4a57f49386b",
+        "created_at": "2023-05-21T19:48:00+00:00",
+        "updated_at": "2026-11-19T04:06:24.002258+00:00"
+      },
+      {
+        "memory": "Tim's favorite fantasy film is Star Wars, which he says never gets old",
+        "score": 0.6099,
+        "id": "179e0587-aacc-497f-94b7-d1f73ed9f190",
+        "created_at": "2024-01-02T17:26:00+00:00",
+        "updated_at": "2026-11-19T05:58:36.670368+00:00"
+      },
+      {
+        "memory": "John shared a photo of his Star Wars movie collection displayed on a table",
+        "score": 0.5651,
+        "id": "bb708378-0b3d-45ad-99c5-9d2144940ca4",
+        "created_at": "2024-01-02T17:26:00+00:00",
+        "updated_at": "2026-11-19T05:58:31.393911+00:00"
+      },
+      {
+        "memory": "Tim will travel to Ireland for a semester starting in February 2024",
+        "score": 0.5606,
+        "id": "14beb7be-9c0d-4934-8711-616e90d24f6d",
+        "created_at": "2024-01-07T17:24:00+00:00",
+        "updated_at": "2026-11-19T06:01:25.259916+00:00"
+      },
+      {
+        "memory": "Tim offered John tips for visiting real Harry Potter locations and encouraged him to add such visits to his list, describing the experience as really fun",
+        "score": 0.5467,
+        "id": "04ac2a36-9557-4cdc-846c-06b2773262a9",
+        "created_at": "2023-05-21T19:48:00+00:00",
+        "updated_at": "2026-11-19T04:06:54.833223+00:00"
+      },
+      {
+        "memory": "Tim says his Harry Potter reminders really help and he plans to visit more Harry Potter locations in the future, feeling like he’s stepping into the books",
+        "score": 0.4853,
+        "id": "21224935-d746-4d86-8858-7d94ba0c8aea",
+        "created_at": "2023-06-15T17:08:00+00:00",
+        "updated_at": "2026-11-19T04:10:20.488373+00:00"
+      },
+      {
+        "memory": "Tim (Tim) would like to explore real Harry Potter locations someday and asks if John has been to any",
+        "score": 0.4744,
+        "id": "87b7bf58-b8e0-4710-96b4-8691e00743c9",
+        "created_at": "2023-05-21T19:48:00+00:00",
+        "updated_at": "2026-11-19T04:06:24.002258+00:00"
+      },
+      {
+        "memory": "John has not visited any real Harry Potter locations yet but plans to go to them, adding them to his to-do list",
+        "score": 0.4326,
+        "id": "2b475a1f-76f3-4dab-b8ac-1a4de76cea0f",
+        "created_at": "2023-05-21T19:48:00+00:00",
+        "updated_at": "2026-11-19T04:06:45.037865+00:00"
+      },
+      {
+        "memory": "Tim (Tim) has Italy on his travel list and is eager to visit the country",
+        "score": 0.4043,
+        "id": "62de6ab4-92e6-4d20-95af-11bc24cd6b41",
+        "created_at": "2024-01-02T17:26:00+00:00",
+        "updated_at": "2026-11-19T05:55:47.619602+00:00"
+      },
+      {
+        "memory": "Tim will stay in Galway, Ireland, describing it as having a vibrant atmosphere with great arts, colorful street art, and traditional Irish music, and shared an image of a woman standing on a street there",
+        "score": 0.3833,
+        "id": "8962fe52-bc52-4601-afbd-25c2b94a3f2c",
+        "created_at": "2024-01-07T17:24:00+00:00",
+        "updated_at": "2026-11-19T06:02:04.696786+00:00"
+      },
+      {
+        "memory": "Tim (Tim) has not been to Universal Studios before and is planning his first visit, feeling super excited about the Harry Potter attractions there",
+        "score": 0.3684,
+        "id": "4463bd91-2f18-45ae-8cfa-c729d5077d58",
+        "created_at": "2023-08-31T14:52:00+00:00",
+        "updated_at": "2026-11-19T04:44:06.281370+00:00"
+      },
+      {
+        "memory": "Tim asked John for recommendations on places to visit",
+        "score": 0.3582,
+        "id": "72f17ebf-37b1-44d5-8034-988c879cc54f",
+        "created_at": "2024-01-12T13:41:00+00:00",
+        "updated_at": "2026-11-19T06:07:01.866303+00:00"
+      },
+      {
+        "memory": "Tim thinks the photoshoot location was gorgeous and incredible, describing it as an amazing setting",
+        "score": 0.3507,
+        "id": "a40f9363-68c2-4862-9071-3a93254f5296",
+        "created_at": "2023-12-19T10:04:00+00:00",
+        "updated_at": "2026-11-19T05:49:01.765940+00:00"
+      },
+      {
+        "memory": "Tim recommends visiting some castles, saying they are magical and hopes John and his partner have a great time",
+        "score": 0.3153,
+        "id": "1d39bd96-b072-4202-b4a9-d0ed0da5e000",
+        "created_at": "2023-11-06T11:41:00+00:00",
+        "updated_at": "2026-11-19T05:14:18.481587+00:00"
+      },
+      {
+        "memory": "Tim added New York City to his travel list and is excited to visit the city",
+        "score": 0.3075,
+        "id": "d69a6708-6295-499f-b737-2da028e9444c",
+        "created_at": "2023-08-26T18:59:00+00:00",
+        "updated_at": "2026-11-19T04:41:33.182597+00:00"
+      },
+      {
+        "memory": "Tim (Tim) recently attended an event in early August 2023, found it fantastic, and enjoyed being with other fans who love it too",
+        "score": 0.2961,
+        "id": "3fdd6bc7-79f1-4682-bf8f-87d33bb842d9",
+        "created_at": "2023-08-11T13:08:00+00:00",
+        "updated_at": "2026-11-19T04:23:55.113926+00:00"
+      },
+      {
+        "memory": "Tim visited a travel agency around December 26, 2023 to learn the requirements for his next dream trip",
+        "score": 0.2877,
+        "id": "e189b6dc-ab2d-43b2-854e-34aeaf979b7c",
+        "created_at": "2023-12-26T15:35:00+00:00",
+        "updated_at": "2026-11-19T05:51:58.706022+00:00"
+      },
+      {
+        "memory": "Tim wants to visit The Cliffs of Moher, describing it as having amazing ocean views and awesome cliffs",
+        "score": 0.2814,
+        "id": "ee6805f9-83b4-445d-bf19-32091e24511e",
+        "created_at": "2024-01-07T17:24:00+00:00",
+        "updated_at": "2026-11-19T06:02:38.915617+00:00"
+      },
+      {
+        "memory": "Tim enjoys reading Harry Potter books during downtime as a magical escape",
+        "score": 0.2791,
+        "id": "2ae1b9ed-f5f8-45da-a93d-0c43dc8d5369",
+        "created_at": "2023-12-26T15:35:00+00:00",
+        "updated_at": "2026-11-19T05:54:02.999314+00:00"
+      },
+      {
+        "memory": "John visited Italy in December 2023, had a blast, and expressed enthusiasm about Tim's globetrotting group",
+        "score": 0.2772,
+        "id": "2f1f075f-5311-4ef6-80ee-a3af04768e30",
+        "created_at": "2024-01-02T17:26:00+00:00",
+        "updated_at": "2026-11-19T05:55:39.221995+00:00"
+      },
+      {
+        "memory": "Tim visited a castle in the UK on Friday, November 10, 2023, during his trip and was amazed by its architecture and history; he shared a photo of the castle with a river running through it",
+        "score": 0.2707,
+        "id": "8ef921c4-7310-4dba-8f24-7c6fcccc15bc",
+        "created_at": "2023-11-16T15:59:00+00:00",
+        "updated_at": "2026-11-19T05:17:24.958705+00:00"
+      },
+      {
+        "memory": "Tim read an awesome book about castles in the UK, found it incredibly interesting and blew him away, and now dreams of visiting those castles one day",
+        "score": 0.2703,
+        "id": "d7c16c2e-43f6-49a1-880e-1775a5eb2e5e",
+        "created_at": "2023-10-21T17:51:00+00:00",
+        "updated_at": "2026-11-19T05:04:52.376985+00:00"
+      },
+      {
+        "memory": "Tim is trying to understand visa requirements for the places he wants to visit, finding it overwhelming but exciting",
+        "score": 0.268,
+        "id": "ad6aacfd-ed19-4569-8eec-b35eb39fcbca",
+        "created_at": "2024-01-12T13:41:00+00:00",
+        "updated_at": "2026-11-19T06:05:52.877010+00:00"
+      },
+      {
+        "memory": "Tim thinks the New York City skyline looks amazing and has been wanting to visit New York City",
+        "score": 0.264,
+        "id": "569eae80-5f2a-42ea-afca-6b2f43c3dfdc",
+        "created_at": "2023-08-26T18:59:00+00:00",
+        "updated_at": "2026-11-19T04:41:14.724498+00:00"
+      },
+      {
+        "memory": "Tim has watched the Harry Potter movies and enjoys comparing them to the books, finding it amazing to see the story come alive",
+        "score": 0.2616,
+        "id": "e6b84be7-c60f-4c28-a2ef-e3f69e031a7a",
+        "created_at": "2023-12-26T15:35:00+00:00",
+        "updated_at": "2026-11-19T05:54:23.491434+00:00"
+      },
+      {
+        "memory": "Tim (Tim) suggested that Edinburgh, Scotland would be a great magical vibe destination, describing it as the birthplace of Harry Potter with awesome history, architecture, and beauty",
+        "score": 0.2609,
+        "id": "d7c8c171-3d08-4ae1-b39f-37860af84c37",
+        "created_at": "2023-09-21T20:17:00+00:00",
+        "updated_at": "2026-11-19T04:46:31.359653+00:00"
+      },
+      {
+        "memory": "Tim loves playing various songs on the piano and his favorite piece to jam to is a theme from a movie he enjoys, which brings back many great memories",
+        "score": 0.2381,
+        "id": "2943bca2-4bdf-4d05-b337-4019c027f6d7",
+        "created_at": "2023-08-21T16:29:00+00:00",
+        "updated_at": "2026-11-19T04:35:08.622106+00:00"
+      },
+      {
+        "memory": "Tim joined a group of globetrotters who share his interests, enjoying getting to know them and hearing about their trips",
+        "score": 0.2355,
+        "id": "2750e0f2-4c00-4f12-aa1c-b037a55bef34",
+        "created_at": "2024-01-02T17:26:00+00:00",
+        "updated_at": "2026-11-19T05:55:34.810139+00:00"
+      },
+      {
+        "memory": "Tim loves going on road trips with friends and family, enjoys exploring, hiking, and playing board games during those trips",
+        "score": 0.2353,
+        "id": "c8a88ea8-9279-45ae-afcb-833b5e04e739",
+        "created_at": "2023-10-21T17:51:00+00:00",
+        "updated_at": "2026-11-19T05:10:40.350599+00:00"
+      },
+      {
+        "memory": "Tim says traveling is eye-opening",
+        "score": 0.2326,
+        "id": "943cb21f-c243-4e77-89d1-259f8d76db8a",
+        "created_at": "2024-01-02T17:26:00+00:00",
+        "updated_at": "2026-11-19T06:01:03.244973+00:00"
+      },
+      {
+        "memory": "John has not visited Universal Studios yet and has added it to his bucket list",
+        "score": 0.2297,
+        "id": "ed8d0779-32be-458e-a1f0-999e43fc79ef",
+        "created_at": "2023-08-31T14:52:00+00:00",
+        "updated_at": "2026-11-19T04:44:01.158122+00:00"
+      },
+      {
+        "memory": "Tim (Tim) is excited to watch the upcoming show \"The Wheel of Time\", which is based on a book series he loves",
+        "score": 0.2296,
+        "id": "bb77cf25-9c57-437c-82fd-4387ab253502",
+        "created_at": "2023-12-26T15:35:00+00:00",
+        "updated_at": "2026-11-19T05:55:13.912384+00:00"
+      },
+      {
+        "memory": "Tim is planning a trip to Universal Studios in September 2023",
+        "score": 0.2289,
+        "id": "23efe274-ed96-49e7-b3d1-d24fdee8acef",
+        "created_at": "2023-08-31T14:52:00+00:00",
+        "updated_at": "2026-11-19T04:43:52.844485+00:00"
+      },
+      {
+        "memory": "John said Tim's Harry Potter-themed Christmas tree looks amazing and that Tim really knows how to get the vibes just right",
+        "score": 0.2268,
+        "id": "a1ca54d4-7cb4-4e41-96e0-558add03591d",
+        "created_at": "2023-08-21T16:29:00+00:00",
+        "updated_at": "2026-11-19T04:39:00.312668+00:00"
+      },
+      {
+        "memory": "Tim enjoys relaxing by watching movies and often hosts movie marathons with friends, as shown in a shared photo of three guys on a couch watching a Harry Potter movie with popcorn",
+        "score": 0.2262,
+        "id": "8a4466fe-7877-49f6-9f96-157672b736c5",
+        "created_at": "2023-12-26T15:35:00+00:00",
+        "updated_at": "2026-11-19T05:54:38.385665+00:00"
+      },
+      {
+        "memory": "Tim (Tim) said he's okay and can look up the spices himself",
+        "score": 0.2247,
+        "id": "f848967d-8d1a-4a55-ab7f-3d7f769b3e6b",
+        "created_at": "2023-08-31T14:52:00+00:00",
+        "updated_at": "2026-11-19T04:43:38.995603+00:00"
+      },
+      {
+        "memory": "John offered to help Tim with his upcoming trip to New York City and said he's excited to hear when Tim is going",
+        "score": 0.2245,
+        "id": "fdbb9f2c-6956-4c11-88a7-06b4f126fdd3",
+        "created_at": "2023-08-26T18:59:00+00:00",
+        "updated_at": "2026-11-19T04:42:56.769330+00:00"
+      },
+      {
+        "memory": "Tim finds Thanksgiving always special, enjoys preparing the feast, talking about what they're thankful for, and watching movies afterwards",
+        "score": 0.2219,
+        "id": "e3c569ab-047c-4e09-90cb-ef067df83839",
+        "created_at": "2023-08-21T16:29:00+00:00",
+        "updated_at": "2026-11-19T04:36:59.090867+00:00"
+      },
+      {
+        "memory": "Tim is adding Barcelona to his travel list",
+        "score": 0.2211,
+        "id": "1f8b7e72-d427-4c7a-bd66-45ac4706eb05",
+        "created_at": "2024-01-12T13:41:00+00:00",
+        "updated_at": "2026-11-19T06:07:12.531627+00:00"
+      },
+      {
+        "memory": "Tim (Tim) is excited to explore nature, describing it as looking amazing",
+        "score": 0.2211,
+        "id": "0799aa9e-8862-4038-963a-9a1bfcb55658",
+        "created_at": "2024-01-07T17:24:00+00:00",
+        "updated_at": "2026-11-19T06:02:18.517976+00:00"
+      },
+      {
+        "memory": "Tim said the shot was awesome and felt like a magical forest, and asked where it was taken",
+        "score": 0.2207,
+        "id": "8be33bf6-4f60-4531-9d74-92aaf037cfb9",
+        "created_at": "2023-12-01T09:52:00+00:00",
+        "updated_at": "2026-11-19T05:29:06.741453+00:00"
+      },
+      {
+        "memory": "John expressed that visiting castles is on his bucket list and he is excited to explore such historic sites, especially in Scotland",
+        "score": 0.22,
+        "id": "fea745b8-4e39-4612-8f77-242cad3f3fbf",
+        "created_at": "2023-10-21T17:51:00+00:00",
+        "updated_at": "2026-11-19T05:05:05.394753+00:00"
+      },
+      {
+        "memory": "Tim says the picture he shared is from MinaLima, loves their work, and feels it brings a piece of the wizarding world into his home",
+        "score": 0.2178,
+        "id": "c66beae4-fe83-41a8-9b62-1439cdd2f809",
+        "created_at": "2023-06-15T17:08:00+00:00",
+        "updated_at": "2026-11-19T04:08:51.475338+00:00"
+      },
+      {
+        "memory": "Tim is interested in favorite characters from the fantasy movies in his collection",
+        "score": 0.217,
+        "id": "189a7c8a-5681-4d48-88f7-284fff40529a",
+        "created_at": "2024-01-02T17:26:00+00:00",
+        "updated_at": "2026-11-19T05:58:51.386405+00:00"
+      },
+      {
+        "memory": "Tim (Tim) described watching a movie with his family as a dream come true, noting they got comfortable with snacks and a blanket, were totally absorbed, and considered it a special memory",
+        "score": 0.2164,
+        "id": "83341f87-b76e-4e7f-a697-e33adffded08",
+        "created_at": "2023-08-21T16:29:00+00:00",
+        "updated_at": "2026-11-19T04:36:07.660994+00:00"
+      },
+      {
+        "memory": "Tim expressed amazement at an amazing view",
+        "score": 0.2158,
+        "id": "c44db124-7069-4312-972d-0c486a9574f5",
+        "created_at": "2023-07-16T16:21:00+00:00",
+        "updated_at": "2026-11-19T04:15:27.915814+00:00"
+      },
+      {
+        "memory": "Tim says he will make sure to have a safe trip",
+        "score": 0.2153,
+        "id": "dae0f689-ff76-4296-b486-e28de249e623",
+        "created_at": "2023-08-31T14:52:00+00:00",
+        "updated_at": "2026-11-19T04:44:43.101512+00:00"
+      },
+      {
+        "memory": "Tim asked John where he went camping",
+        "score": 0.2137,
+        "id": "22b72d79-baef-4ccd-ad4f-2bd49cbcf4a6",
+        "created_at": "2023-12-01T09:52:00+00:00",
+        "updated_at": "2026-11-19T05:30:39.295846+00:00"
+      },
+      {
+        "memory": "Tim (Tim) expressed that he is glad John's journey has been rewarding",
+        "score": 0.213,
+        "id": "b53c34ba-d263-4db3-a6cf-5b9de14b9d58",
+        "created_at": "2023-12-06T17:34:00+00:00",
+        "updated_at": "2026-11-19T05:32:27.057305+00:00"
+      },
+      {
+        "memory": "Tim says his favorite books (e.g., Harry Potter) are still his top favorites and he loves how they transport him to other places",
+        "score": 0.2128,
+        "id": "d2d021d7-5398-433d-93e6-73efc9000a25",
+        "created_at": "2023-11-21T10:22:00+00:00",
+        "updated_at": "2026-11-19T05:22:25.508394+00:00"
+      }
+    ],
+    "search_latency_ms": 501.5,
+    "total_results": 50
+  },
+  "cutoff_results": {
+    "top_50": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "- Skellig Michael (County Kerry) — the Ahch-To Jedi Temple island.\n- Ceann Sibéal/Sybil Head, Dingle Peninsula (County Kerry) — Ahch-To village set location.\n- Dunmore Head, Dingle Peninsula (County Kerry) — coastal filming spot for Ahch-To scenes.\n- Malin Head, Inishowen Peninsula (County Donegal) — dramatic coastline featured in The Last Jedi.\n- Brow Head, near Crookhaven (County Cork) — rugged headland used in The Last Jedi.",
+      "memories_evaluated": 50,
+      "reason": "The generated answer includes multiple gold locations (Skellig Michael, Malin Head, Ceann Sibéal, and Brow Head), satisfying the requirement even though it adds Dunmore Head and omits Loop Head."
+    }
+  }
+}

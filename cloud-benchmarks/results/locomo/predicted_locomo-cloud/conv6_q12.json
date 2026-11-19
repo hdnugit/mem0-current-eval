@@ -1,0 +1,379 @@
+{
+  "question_id": "conv6_q12",
+  "conversation_idx": 6,
+  "category": 3,
+  "category_name": "open-domain",
+  "question": "Did James have a girlfriend during April 2022?",
+  "ground_truth_answer": "Presumably not",
+  "evidence": [
+    "D6:6"
+  ],
+  "user_id": "locomo_6_fe8ec031",
+  "reference_date": "8:57 pm on 7 November, 2022",
+  "retrieval": {
+    "search_query": "Did James have a girlfriend during April 2022?",
+    "search_results": [
+      {
+        "memory": "James asked Samantha to become his girlfriend and she agreed, making them a couple as of September 3, 2022",
+        "score": 0.6699,
+        "id": "64f1dcb5-2096-49c5-867f-fb8f394c7ac5",
+        "created_at": "2022-09-04T21:23:00+00:00",
+        "updated_at": "2026-11-19T05:31:15.652758+00:00"
+      },
+      {
+        "memory": "John said the place looked cool where James took his dogs, on April 23, 2022",
+        "score": 0.6298,
+        "id": "c2eaf64e-5d0f-46dc-92ca-ea20ac0acfec",
+        "created_at": "2022-04-23T11:04:00+00:00",
+        "updated_at": "2026-11-19T04:27:43.168444+00:00"
+      },
+      {
+        "memory": "James and his two dogs enjoyed many trails and breathtaking views during the hike on Thursday, April 21, 2022, and they loved the experience",
+        "score": 0.6107,
+        "id": "4535f121-370a-4ba2-9808-d7cb56c4caea",
+        "created_at": "2022-04-23T11:04:00+00:00",
+        "updated_at": "2026-11-19T04:27:13.395202+00:00"
+      },
+      {
+        "memory": "James bought an adventure book containing fantasy novels and cool artwork on April 26, 2022",
+        "score": 0.6053,
+        "id": "b275f57f-f040-4f8c-82a0-7a6550b979dc",
+        "created_at": "2022-04-29T14:36:00+00:00",
+        "updated_at": "2026-11-19T04:34:28.421420+00:00"
+      },
+      {
+        "memory": "James joined an online gaming tournament on April 3, 2022, and described the event as intense and fun.",
+        "score": 0.6047,
+        "id": "c4ea6030-49c3-48d1-9a1e-fec4b39a4987",
+        "created_at": "2022-04-04T14:13:00+00:00",
+        "updated_at": "2026-11-19T04:16:39.691407+00:00"
+      },
+      {
+        "memory": "James and his girlfriend Samantha are attending a baseball game on Sunday, September 11, 2022, and invited John to join",
+        "score": 0.5999,
+        "id": "9b2b0efe-5387-443b-b93b-f98a26116872",
+        "created_at": "2022-09-04T21:23:00+00:00",
+        "updated_at": "2026-11-19T05:31:55.104441+00:00"
+      },
+      {
+        "memory": "James adopted a puppy named Ned from a shelter in Stamford around April 5, 2022, and says his days have become much happier with him in the family",
+        "score": 0.5997,
+        "id": "4f6ef514-5ea6-4b0f-8f6d-fbb2acbd3214",
+        "created_at": "2022-04-12T09:52:00+00:00",
+        "updated_at": "2026-11-19T04:20:17.923175+00:00"
+      },
+      {
+        "memory": "James felt love at first sight for the stranger he saw during the April 6, 2022 walk but did not approach her, yet he remembered her appearance and used it in his game",
+        "score": 0.5995,
+        "id": "f9e5aeb8-6698-4495-ab62-2040137ea1cf",
+        "created_at": "2022-04-20T21:32:00+00:00",
+        "updated_at": "2026-11-19T04:24:42.473429+00:00"
+      },
+      {
+        "memory": "On April 12, 2022, James said he would check out the game link John promised and would let John know his thoughts, expressing excitement to try it.",
+        "score": 0.5846,
+        "id": "91ab6168-78dc-4a1f-bbae-8ff2c3b41c1a",
+        "created_at": "2022-04-12T09:52:00+00:00",
+        "updated_at": "2026-11-19T04:23:52.751661+00:00"
+      },
+      {
+        "memory": "James took his dogs out for a hike on Thursday, April 21, 2022, exploring nice trails and enjoying fresh air.",
+        "score": 0.5828,
+        "id": "3430874c-9bdb-45cd-8edf-196b362224a8",
+        "created_at": "2022-04-23T11:04:00+00:00",
+        "updated_at": "2026-11-19T04:26:50.150105+00:00"
+      },
+      {
+        "memory": "James walked his dogs in his neighborhood on April 6, 2022, where he encountered a stranger whose appearance inspired a character he later embodied in his game",
+        "score": 0.567,
+        "id": "38dd6406-ba1e-471f-929b-3ad3bce76bc4",
+        "created_at": "2022-04-20T21:32:00+00:00",
+        "updated_at": "2026-11-19T04:24:42.473429+00:00"
+      },
+      {
+        "memory": "On April 29, 2022, James was playing a video game when his dog Daisy came and lay down next to him on the bed beside his computer, making the moment cute",
+        "score": 0.5573,
+        "id": "3e7de69a-e92d-47b5-a30f-57d70ca60530",
+        "created_at": "2022-04-29T14:36:00+00:00",
+        "updated_at": "2026-11-19T04:35:16.798914+00:00"
+      },
+      {
+        "memory": "James collaborated with a gaming pal on a programming project on Thursday, April 14, 2022, creating a virtual world inspired by The Witcher 3",
+        "score": 0.5537,
+        "id": "b293a4ef-3452-4b8c-afbe-c4a82e1d5886",
+        "created_at": "2022-04-20T21:32:00+00:00",
+        "updated_at": "2026-11-19T04:24:10.654485+00:00"
+      },
+      {
+        "memory": "James reached the semifinals and won several rounds in the online gaming tournament on April 3, 2022, describing the experience as a rush",
+        "score": 0.5488,
+        "id": "50c4049d-78f8-4ab9-9835-cd65485dbf7f",
+        "created_at": "2022-04-04T14:13:00+00:00",
+        "updated_at": "2026-11-19T04:16:51.883468+00:00"
+      },
+      {
+        "memory": "James experienced a personal milestone in April 2022, reflecting on tough times, feeling a huge sense of accomplishment and being ready for future opportunities",
+        "score": 0.541,
+        "id": "d33f2fb5-7562-4303-918b-0d268cdc2b77",
+        "created_at": "2022-05-23T19:33:00+00:00",
+        "updated_at": "2026-11-19T04:49:49.939886+00:00"
+      },
+      {
+        "memory": "James spent time with his beloved pets on May 4, 2022",
+        "score": 0.5002,
+        "id": "675e38c9-3eb1-4228-a5a9-b51010c96835",
+        "created_at": "2022-05-04T19:01:00+00:00",
+        "updated_at": "2026-11-19T04:39:54.909439+00:00"
+      },
+      {
+        "memory": "John met three new friends in his programming course on Tuesday, April 19, 2022; they share his passion for programming.",
+        "score": 0.4669,
+        "id": "1741b720-c479-4d92-95be-90dcbfcd67e3",
+        "created_at": "2022-04-20T21:32:00+00:00",
+        "updated_at": "2026-11-19T04:23:46.649195+00:00"
+      },
+      {
+        "memory": "James and Samantha were at McGee's bar around September 4, 2022",
+        "score": 0.4639,
+        "id": "9a8cdb0b-1a62-4db8-8a5c-1f477706864b",
+        "created_at": "2022-09-04T21:23:00+00:00",
+        "updated_at": "2026-11-19T05:31:35.287163+00:00"
+      },
+      {
+        "memory": "James and Samantha attended a theater together on September 3, 2022",
+        "score": 0.452,
+        "id": "309620bd-6eb5-46ed-8343-8c9721ec5d42",
+        "created_at": "2022-09-04T21:23:00+00:00",
+        "updated_at": "2026-11-19T05:31:15.652758+00:00"
+      },
+      {
+        "memory": "James's dogs were seen playing in a fenced backyard on May 4, 2022",
+        "score": 0.4355,
+        "id": "940f855e-61cd-4f5c-8858-7b4f669888c9",
+        "created_at": "2022-05-04T19:01:00+00:00",
+        "updated_at": "2026-11-19T04:39:54.909439+00:00"
+      },
+      {
+        "memory": "James's mother visited him on October 19, 2022, accompanied by her army friend, and they had fun together.",
+        "score": 0.421,
+        "id": "b669dba7-e846-411d-8d45-db75bfd50224",
+        "created_at": "2022-10-21T19:36:00+00:00",
+        "updated_at": "2026-11-19T05:48:24.594870+00:00"
+      },
+      {
+        "memory": "James took his puppy to the clinic on August 5, 2022",
+        "score": 0.4153,
+        "id": "d74f07eb-c402-4c8a-afd9-eec1437cf598",
+        "created_at": "2022-08-06T13:45:00+00:00",
+        "updated_at": "2026-11-19T05:15:44.674742+00:00"
+      },
+      {
+        "memory": "James attempted the final rounds of the online gaming tournament on April 3, 2022, found them tough and did not advance, but considered it a close competition, had a blast competing with talented players, and looks forward to the next tournament; he shared an image of his character—a man in a costume holding a sword",
+        "score": 0.4113,
+        "id": "ffec4ac1-3efd-451f-97c3-85dce74db881",
+        "created_at": "2022-04-04T14:13:00+00:00",
+        "updated_at": "2026-11-19T04:17:18.502830+00:00"
+      },
+      {
+        "memory": "John mentioned that it had been a few days since his last chat with James as of September 20, 2022",
+        "score": 0.4105,
+        "id": "adfcef60-d2a2-414f-93bb-9a8155f4696b",
+        "created_at": "2022-09-20T20:56:00+00:00",
+        "updated_at": "2026-11-19T05:37:39.360066+00:00"
+      },
+      {
+        "memory": "James brought souvenirs for John and his partner Jill after his July 2022 trip",
+        "score": 0.4022,
+        "id": "20836e0b-fb10-4c56-be2d-c6f1886e15c4",
+        "created_at": "2022-07-22T09:49:00+00:00",
+        "updated_at": "2026-11-19T05:11:13.518742+00:00"
+      },
+      {
+        "memory": "James had a vivid dream around August 28, 2022 that sparked creative ideas",
+        "score": 0.3978,
+        "id": "9d025eb3-d707-4329-8c51-69316377f380",
+        "created_at": "2022-09-18T18:02:00+00:00",
+        "updated_at": "2026-11-19T05:35:37.113094+00:00"
+      },
+      {
+        "memory": "James noted that it had been a few days since his last conversation with John as of September 4, 2022",
+        "score": 0.3951,
+        "id": "32e27e02-f245-4bde-aabb-84ce3acbf839",
+        "created_at": "2022-09-04T21:23:00+00:00",
+        "updated_at": "2026-11-19T05:31:15.652758+00:00"
+      },
+      {
+        "memory": "James said VR gaming is awesome and proposed to do it on Saturday, March 19, 2022",
+        "score": 0.3907,
+        "id": "a8ee2041-b5d2-41bd-ad6a-6c365178fcec",
+        "created_at": "2022-03-17T15:47:00+00:00",
+        "updated_at": "2026-11-19T04:08:11.436478+00:00"
+      },
+      {
+        "memory": "James went bowling on March 16, 2022, got two strikes, and says he loves bowling",
+        "score": 0.3904,
+        "id": "5823d9c6-6652-4c20-874b-e28411ae7851",
+        "created_at": "2022-03-17T15:47:00+00:00",
+        "updated_at": "2026-11-19T04:06:55.288183+00:00"
+      },
+      {
+        "memory": "As of September 18, 2022, James started streaming games (no details provided yet)",
+        "score": 0.3889,
+        "id": "45be7c4d-1cb3-4446-bfc2-1d256b25ae7d",
+        "created_at": "2022-09-18T18:02:00+00:00",
+        "updated_at": "2026-11-19T05:36:28.969014+00:00"
+      },
+      {
+        "memory": "James plans to return on July 20, 2022 and says he will bring John a souvenir",
+        "score": 0.3787,
+        "id": "08342c0c-42ef-498f-bb92-4b3a3446de21",
+        "created_at": "2022-07-09T17:13:00+00:00",
+        "updated_at": "2026-11-19T05:11:08.516629+00:00"
+      },
+      {
+        "memory": "James was chilling with his sister and his dogs on July 21, 2022, and says they bring him a great deal of happiness",
+        "score": 0.3758,
+        "id": "2658678d-d44d-4636-bcd6-18ce7f24b529",
+        "created_at": "2022-07-22T09:49:00+00:00",
+        "updated_at": "2026-11-19T05:11:41.565952+00:00"
+      },
+      {
+        "memory": "James rode the Ferris wheel, electric cars, and buggies at the amusement park around May 22, 2022",
+        "score": 0.3675,
+        "id": "f0d3110d-346f-4cc3-b4e7-dd329979c0fc",
+        "created_at": "2022-05-23T19:33:00+00:00",
+        "updated_at": "2026-11-19T04:48:19.555859+00:00"
+      },
+      {
+        "memory": "James's puppy underwent a routine examination at the clinic on August 5, 2022",
+        "score": 0.3654,
+        "id": "36518390-66e8-479b-adc2-41dbf6de36cc",
+        "created_at": "2022-08-06T13:45:00+00:00",
+        "updated_at": "2026-11-19T05:16:56.130623+00:00"
+      },
+      {
+        "memory": "James and his family are on a road trip as of November 7, 2022 and have already visited friends Josh and Mark during the trip",
+        "score": 0.3649,
+        "id": "657a2b2e-4b97-415a-ba17-253dd0e75e7e",
+        "created_at": "2022-11-07T20:57:00+00:00",
+        "updated_at": "2026-11-19T05:55:49.285423+00:00"
+      },
+      {
+        "memory": "James took his three dogs to a beach outing on August 9, 2022, to have fun and bond with other dogkeepers",
+        "score": 0.3625,
+        "id": "88e8f278-eba6-4265-9e05-1d1b568a193e",
+        "created_at": "2022-08-10T09:16:00+00:00",
+        "updated_at": "2026-11-19T05:19:47.083049+00:00"
+      },
+      {
+        "memory": "James bought air tickets to Toronto and will depart on the evening of July 11, 2022",
+        "score": 0.3593,
+        "id": "b0c02ba1-4a76-40da-a692-af8ccd09e7d0",
+        "created_at": "2022-07-09T17:13:00+00:00",
+        "updated_at": "2026-11-19T05:06:43.176672+00:00"
+      },
+      {
+        "memory": "James took many photos on July 21, 2022, selected the best one, and sent it to John, describing it as just a good shot",
+        "score": 0.3467,
+        "id": "20d4b707-6fe4-436e-9051-f3eb0189aa7d",
+        "created_at": "2022-07-22T09:49:00+00:00",
+        "updated_at": "2026-11-19T05:13:07.087403+00:00"
+      },
+      {
+        "memory": "James is not currently a member of any online groups as of August 21, 2022, but he regularly plays with his own gaming group, streams their sessions, and they recently held a get‑together around August 15, 2022, which he described as super fun",
+        "score": 0.3461,
+        "id": "d6fc1046-17fa-4dd7-b499-bd33118ab5bc",
+        "created_at": "2022-08-21T15:57:00+00:00",
+        "updated_at": "2026-11-19T05:21:37.475834+00:00"
+      },
+      {
+        "memory": "James volunteered at a donation center in May 2022, took a photo of a group of people standing outside the building, and felt it was rewarding to see how little gifts can do so much",
+        "score": 0.3438,
+        "id": "3c21d43d-4d76-4e93-94aa-7b879865354c",
+        "created_at": "2022-06-19T21:59:00+00:00",
+        "updated_at": "2026-11-19T05:03:00.611848+00:00"
+      },
+      {
+        "memory": "James resolved the major bug in his game code on May 4, 2022 by teaming up with a group of friends, fixing it after some work.",
+        "score": 0.3428,
+        "id": "3f139340-accd-428f-9729-d4ea9ab6b30a",
+        "created_at": "2022-05-04T19:01:00+00:00",
+        "updated_at": "2026-11-19T04:39:20.452862+00:00"
+      },
+      {
+        "memory": "James has been working on a project for several weeks and on Friday, May 2, 2022, encountered a frustrating setback that stopped him from finishing it despite being close to completion",
+        "score": 0.3397,
+        "id": "ab44c10a-6a1a-416b-bcfc-1002de647519",
+        "created_at": "2022-05-04T19:01:00+00:00",
+        "updated_at": "2026-11-19T04:50:09.335685+00:00"
+      },
+      {
+        "memory": "James's dog came to him while he was playing on a console on August 26, 2022, and he was holding the dog on a couch",
+        "score": 0.3306,
+        "id": "20474e0c-bdd9-428a-a647-93c1e0b21d66",
+        "created_at": "2022-08-26T21:18:00+00:00",
+        "updated_at": "2026-11-19T05:24:36.149109+00:00"
+      },
+      {
+        "memory": "James acquired a cutting‑edge gaming system around March 27, 2022, noting its incredible graphics, using it to play a variety of new games as a way to relax after work and to connect with friends who share his gaming passion",
+        "score": 0.3281,
+        "id": "0e5d2ad4-cfdd-4d1c-b37c-07d16568c440",
+        "created_at": "2022-03-27T00:40:00+00:00",
+        "updated_at": "2026-11-19T04:13:40.310517+00:00"
+      },
+      {
+        "memory": "James met a beautiful girl, exchanged phone numbers, and plans to call her on August 11, 2022 to ask her out on a date",
+        "score": 0.3267,
+        "id": "213a8fc7-2d97-4551-b837-7d43c7467030",
+        "created_at": "2022-08-10T09:16:00+00:00",
+        "updated_at": "2026-11-19T05:20:06.343931+00:00"
+      },
+      {
+        "memory": "John took a day off on May 4, 2022, had a few new friends over to watch movies, is trying to socialize more and finds it great, believes balancing work and enjoyment is important, and invited James to join next time",
+        "score": 0.321,
+        "id": "45dddd4a-98f7-4fc7-920a-0344c606591a",
+        "created_at": "2022-05-04T19:01:00+00:00",
+        "updated_at": "2026-11-19T04:39:43.746129+00:00"
+      },
+      {
+        "memory": "James surfed on July 6, 2022, saying catching a wave was cool and very relaxing for him",
+        "score": 0.3161,
+        "id": "c24bfbd7-bc64-49b5-81dc-0b4251926de6",
+        "created_at": "2022-07-09T17:13:00+00:00",
+        "updated_at": "2026-11-19T05:06:26.305761+00:00"
+      },
+      {
+        "memory": "James streamed a game on September 19, 2022, received nice comments from the gaming community, and felt stoked and inspired to keep going",
+        "score": 0.3149,
+        "id": "01b3fe08-8f89-4d89-8acb-30887fbccd0a",
+        "created_at": "2022-09-20T20:56:00+00:00",
+        "updated_at": "2026-11-19T05:37:12.093654+00:00"
+      },
+      {
+        "memory": "James started a road trip on November 4, 2022 with his family and his dogs, enjoying exploring new places and nature together",
+        "score": 0.308,
+        "id": "de38bf4e-c790-4766-abbd-128356767d21",
+        "created_at": "2022-11-05T17:20:00+00:00",
+        "updated_at": "2026-11-19T05:53:27.743774+00:00"
+      },
+      {
+        "memory": "John agreed to meet James on August 27, 2022 at McGee's Pub",
+        "score": 0.3071,
+        "id": "29736935-a931-4f3b-99d0-56fb88f81dd5",
+        "created_at": "2022-08-26T21:18:00+00:00",
+        "updated_at": "2026-11-19T05:26:27.868566+00:00"
+      }
+    ],
+    "search_latency_ms": 413.6,
+    "total_results": 50
+  },
+  "cutoff_results": {
+    "top_50": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "No. James did not have a girlfriend in April 2022; he became part of a couple on September 3, 2022.",
+      "memories_evaluated": 50,
+      "reason": "The generated answer matches the gold answer's conclusion that James did not have a girlfriend in April 2022, with extra detail that is acceptable."
+    }
+  }
+}

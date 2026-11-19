@@ -1,0 +1,380 @@
+{
+  "question_id": "conv4_q53",
+  "conversation_idx": 4,
+  "category": 3,
+  "category_name": "open-domain",
+  "question": "What other exercises can help John with his basketball performance?",
+  "ground_truth_answer": "Sprinting, long-distance running, and boxing.",
+  "evidence": [
+    "D8:5",
+    "D20:2"
+  ],
+  "user_id": "locomo_4_fe8ec031",
+  "reference_date": "1:41 pm on 12 January, 2024",
+  "retrieval": {
+    "search_query": "What other exercises can help John with his basketball performance?",
+    "search_results": [
+      {
+        "memory": "Tim asked whether strength training positively impacts his basketball performance, noting that the holistic approach seems to have numerous benefits",
+        "score": 0.5412,
+        "id": "0c264352-f38c-4b4a-b2b3-e74219d0ac55",
+        "created_at": "2023-08-21T16:29:00+00:00",
+        "updated_at": "2026-11-19T04:33:55.677131+00:00"
+      },
+      {
+        "memory": "John found a new gym with a basketball court and cones to train for his professional basketball career",
+        "score": 0.5289,
+        "id": "2ead3d8f-4755-42a1-b6e6-28fb66901844",
+        "created_at": "2023-08-21T16:29:00+00:00",
+        "updated_at": "2026-11-19T04:32:12.797645+00:00"
+      },
+      {
+        "memory": "John says his team has seen the most growth in communication and bonding, which has improved performance by helping them understand each other's strengths and weaknesses",
+        "score": 0.527,
+        "id": "a7ef26b1-9f84-4a8d-b2c3-67dd5c84c62b",
+        "created_at": "2023-12-19T10:04:00+00:00",
+        "updated_at": "2026-11-19T05:50:14.883495+00:00"
+      },
+      {
+        "memory": "John hates not being on the basketball court",
+        "score": 0.4952,
+        "id": "284ff08e-1b32-48ee-ae27-ba8c45cc5cf6",
+        "created_at": "2023-11-16T15:59:00+00:00",
+        "updated_at": "2026-11-19T05:19:25.710145+00:00"
+      },
+      {
+        "memory": "John says his family brings him a lot of happiness and helps him remember what's important, and he considers his basketball team as a second family too",
+        "score": 0.489,
+        "id": "f8112485-26be-4820-85ef-6c7ffbb22e4b",
+        "created_at": "2023-10-21T17:51:00+00:00",
+        "updated_at": "2026-11-19T05:10:21.169169+00:00"
+      },
+      {
+        "memory": "John shared an image of a basketball card that depicts a man holding a basketball",
+        "score": 0.4749,
+        "id": "4f5e6bbc-3ea4-427a-9e47-91c01958c8af",
+        "created_at": "2023-07-16T16:21:00+00:00",
+        "updated_at": "2026-11-19T04:13:34.352824+00:00"
+      },
+      {
+        "memory": "John says he is getting better at his overall basketball game.",
+        "score": 0.4733,
+        "id": "1a3be8f2-7b23-498b-aecb-14ad12729be0",
+        "created_at": "2023-12-06T17:34:00+00:00",
+        "updated_at": "2026-11-19T05:32:48.817075+00:00"
+      },
+      {
+        "memory": "John shared a photo showing a basketball ball on the ground with a basketball hoop in the background",
+        "score": 0.4708,
+        "id": "40428a5f-0c38-4cc0-b8d3-3605610d8dd6",
+        "created_at": "2024-01-02T17:26:00+00:00",
+        "updated_at": "2026-11-19T05:57:29.110664+00:00"
+      },
+      {
+        "memory": "Tim congratulated John on his recent performance making plays",
+        "score": 0.4704,
+        "id": "583c5de4-b3c9-4ac3-846b-ffe5e085371c",
+        "created_at": "2023-12-11T20:28:00+00:00",
+        "updated_at": "2026-11-19T05:40:39.280126+00:00"
+      },
+      {
+        "memory": "Tim asked John what he loves most about his basketball career",
+        "score": 0.4607,
+        "id": "6511c94d-25ee-48a2-bb71-d1a4b8d7f099",
+        "created_at": "2023-09-21T20:17:00+00:00",
+        "updated_at": "2026-11-19T04:47:19.740948+00:00"
+      },
+      {
+        "memory": "Tim believes John’s basketball shoes reflect his hard work, successes, and the amazing times he’s had playing basketball",
+        "score": 0.4595,
+        "id": "50f9ec63-a132-4e0f-9666-8e50ce0f7a10",
+        "created_at": "2023-08-11T13:08:00+00:00",
+        "updated_at": "2026-11-19T04:26:14.673234+00:00"
+      },
+      {
+        "memory": "John likes to collect basketball jerseys",
+        "score": 0.4442,
+        "id": "980cce8a-9775-4760-896c-f1463f7980dc",
+        "created_at": "2023-10-02T15:00:00+00:00",
+        "updated_at": "2026-11-19T04:54:09.504492+00:00"
+      },
+      {
+        "memory": "John says that personal growth and getting better, both on and off the basketball court, are his focus",
+        "score": 0.4388,
+        "id": "fc989782-b0bc-464c-a5ce-ea883b261afb",
+        "created_at": "2023-11-21T10:22:00+00:00",
+        "updated_at": "2026-11-19T05:22:02.149615+00:00"
+      },
+      {
+        "memory": "John shared an image of a basketball game being played in a gym",
+        "score": 0.4387,
+        "id": "d7c592f1-5f8a-4b8a-91e9-37de280a8832",
+        "created_at": "2023-06-15T17:08:00+00:00",
+        "updated_at": "2026-11-19T04:09:57.987131+00:00"
+      },
+      {
+        "memory": "John says playing basketball is a blast and he gives his all every time he's on the court",
+        "score": 0.4287,
+        "id": "95e789d1-e8e6-4c36-8b42-8809973950a3",
+        "created_at": "2023-06-15T17:08:00+00:00",
+        "updated_at": "2026-11-19T04:10:43.304599+00:00"
+      },
+      {
+        "memory": "Tim told John that basketball has done great things for him and urged him to keep going with his dreams",
+        "score": 0.4277,
+        "id": "05c336fa-0dd8-4983-81a4-85a5afba9c41",
+        "created_at": "2023-12-11T20:28:00+00:00",
+        "updated_at": "2026-11-19T05:42:05.424447+00:00"
+      },
+      {
+        "memory": "John says basketball brings people together and creates a positive impact",
+        "score": 0.4216,
+        "id": "5e11eec3-211e-4128-8005-13c66d01761c",
+        "created_at": "2024-01-07T17:24:00+00:00",
+        "updated_at": "2026-11-19T06:04:25.284589+00:00"
+      },
+      {
+        "memory": "John shared an image showing a boy dribbling a basketball on a court, related to the charity basketball tournament",
+        "score": 0.4205,
+        "id": "a1c7f232-02b9-4230-9b0f-f647702726ab",
+        "created_at": "2024-01-07T17:24:00+00:00",
+        "updated_at": "2026-11-19T06:03:41.306952+00:00"
+      },
+      {
+        "memory": "John shared an image of a basketball game being played in a large arena",
+        "score": 0.4146,
+        "id": "d9f5bf94-7a0e-4ca6-8371-a96e160053d4",
+        "created_at": "2023-08-09T10:29:00+00:00",
+        "updated_at": "2026-11-19T04:20:57.250853+00:00"
+      },
+      {
+        "memory": "Tim is still thinking about the basketball court sunset image that John sent earlier, which shows a basketball on the ground with a hoop in the background",
+        "score": 0.414,
+        "id": "c040cb16-0939-4b51-a89c-c6f266334e7b",
+        "created_at": "2023-12-11T20:28:00+00:00",
+        "updated_at": "2026-11-19T05:41:24.030364+00:00"
+      },
+      {
+        "memory": "John said he also encounters tough moments on the basketball court and has to tough it out to keep things flowing",
+        "score": 0.4125,
+        "id": "08c14ac6-6f92-4a11-bf30-41821bffb3fd",
+        "created_at": "2023-11-06T11:41:00+00:00",
+        "updated_at": "2026-11-19T05:12:11.895107+00:00"
+      },
+      {
+        "memory": "John has a basketball game scheduled in Seattle in August 2023",
+        "score": 0.4119,
+        "id": "adcf5137-3527-46ac-ad71-d3e203eff51d",
+        "created_at": "2023-07-16T16:21:00+00:00",
+        "updated_at": "2026-11-19T04:15:45.679608+00:00"
+      },
+      {
+        "memory": "John says his teammates encourage him when he's down and they hang out frequently, offering support beyond basketball",
+        "score": 0.4103,
+        "id": "611973f2-10ae-48ec-ac99-125e993796fa",
+        "created_at": "2023-08-09T10:29:00+00:00",
+        "updated_at": "2026-11-19T04:22:15.738397+00:00"
+      },
+      {
+        "memory": "John is doing physical therapy exercises every day as part of his rehab and is trying to stay active despite it being tough",
+        "score": 0.4075,
+        "id": "e9f273a1-b99b-4b84-b628-5ac5d5d25ab2",
+        "created_at": "2023-12-16T15:37:00+00:00",
+        "updated_at": "2026-11-19T05:46:23.578553+00:00"
+      },
+      {
+        "memory": "John shared an image of a crowd of people watching a basketball game at a Seattle basketball court with bright lights",
+        "score": 0.4065,
+        "id": "f54dbe47-6c34-4f37-ab2a-dc92b1979a19",
+        "created_at": "2023-07-16T16:21:00+00:00",
+        "updated_at": "2026-11-19T04:15:45.679608+00:00"
+      },
+      {
+        "memory": "John says that when he faces challenges on the basketball court, he reflects on what went wrong and looks for ways to improve",
+        "score": 0.4034,
+        "id": "cab522c6-c66c-46ff-beba-39a98f6287cd",
+        "created_at": "2023-11-21T10:22:00+00:00",
+        "updated_at": "2026-11-19T05:20:32.435141+00:00"
+      },
+      {
+        "memory": "Tim asked John about any recent meet-ups with his basketball team",
+        "score": 0.4013,
+        "id": "7274db8c-9727-4268-bfc0-62bcaba85218",
+        "created_at": "2023-12-08T19:42:00+00:00",
+        "updated_at": "2026-11-19T05:36:08.244175+00:00"
+      },
+      {
+        "memory": "John shared an image of a rack of basketball jerseys displayed in a store",
+        "score": 0.3984,
+        "id": "f5d36ae2-3f3d-47c3-b990-df2e73489ac2",
+        "created_at": "2023-07-16T16:21:00+00:00",
+        "updated_at": "2026-11-19T04:12:20.977048+00:00"
+      },
+      {
+        "memory": "Tim (Tim) reached out to John to catch up and asked about recent basketball games",
+        "score": 0.3981,
+        "id": "3e1a0d35-caa1-4d8a-90ba-ea9cdebc59ba",
+        "created_at": "2023-12-16T15:37:00+00:00",
+        "updated_at": "2026-11-19T05:43:17.174198+00:00"
+      },
+      {
+        "memory": "John expressed gratitude for his basketball career and shared a photo taken during practice showing a basketball on the ground with a hoop against a sunset backdrop, noting the sunset looked amazing on the court",
+        "score": 0.397,
+        "id": "95087516-2ba7-48e5-9c6a-17b42ab46298",
+        "created_at": "2023-09-21T20:17:00+00:00",
+        "updated_at": "2026-11-19T04:46:58.570860+00:00"
+      },
+      {
+        "memory": "John held a benefit basketball game last week as a charity tournament for children",
+        "score": 0.3956,
+        "id": "34d10d2a-8dbd-4285-aa77-9dd4eabe36a3",
+        "created_at": "2024-01-07T17:24:00+00:00",
+        "updated_at": "2026-11-19T06:03:41.306952+00:00"
+      },
+      {
+        "memory": "John shared an image of a basketball with his teammates' autographs on it, displayed on a table",
+        "score": 0.3954,
+        "id": "45af0c7c-61b6-4528-bc2c-7eb86429fea2",
+        "created_at": "2023-08-17T19:54:00+00:00",
+        "updated_at": "2026-11-19T04:30:53.130946+00:00"
+      },
+      {
+        "memory": "John shared an image showing a gym featuring a basketball court and cones",
+        "score": 0.387,
+        "id": "eaca6a33-309b-4745-8218-f41d9f152486",
+        "created_at": "2023-08-21T16:29:00+00:00",
+        "updated_at": "2026-11-19T04:32:12.797645+00:00"
+      },
+      {
+        "memory": "John said strength training is important for basketball because it builds muscle, increases power, prevents injuries, makes him more explosive, and boosts his overall athleticism",
+        "score": 0.3843,
+        "id": "6a475376-083d-4267-9f04-8af661179d57",
+        "created_at": "2023-08-21T16:29:00+00:00",
+        "updated_at": "2026-11-19T04:33:49.231270+00:00"
+      },
+      {
+        "memory": "John practices and trains every day to stay in shape and improve, saying basketball is his passion and essential to his life",
+        "score": 0.3832,
+        "id": "d3d981f3-d635-4553-b9eb-c5c6a01da2e4",
+        "created_at": "2024-01-02T17:26:00+00:00",
+        "updated_at": "2026-11-19T05:57:48.833231+00:00"
+      },
+      {
+        "memory": "John says LeBron's moments of determination and heart are incredible, and that this inspires him to enjoy playing basketball and pushing himself.",
+        "score": 0.3824,
+        "id": "8e6c3e0c-c65d-4cf1-a434-0230bbfe2084",
+        "created_at": "2023-11-06T11:41:00+00:00",
+        "updated_at": "2026-11-19T05:13:36.073739+00:00"
+      },
+      {
+        "memory": "John tries to remember why he's passionate about basketball, saying his love and enthusiasm keep him motivated during tough times",
+        "score": 0.3822,
+        "id": "0dd9439a-aafa-43b7-9803-8568baeb1bc4",
+        "created_at": "2023-11-21T10:22:00+00:00",
+        "updated_at": "2026-11-19T05:21:07.610080+00:00"
+      },
+      {
+        "memory": "John shared an image showing a collection of basketball jerseys laid on a bed",
+        "score": 0.3797,
+        "id": "3adbec61-0354-4d6e-9635-7b7030882ecf",
+        "created_at": "2023-05-21T19:48:00+00:00",
+        "updated_at": "2026-11-19T04:03:59.480812+00:00"
+      },
+      {
+        "memory": "John is focusing on improving his shooting and making a greater impact on the court, aiming to be known as a consistent performer who helps his team; off the court he is pursuing more endorsements and building his personal brand, thinking about life after basketball.",
+        "score": 0.3773,
+        "id": "04468881-30ec-4461-bf7d-a50abbea249e",
+        "created_at": "2023-09-21T20:17:00+00:00",
+        "updated_at": "2026-11-19T04:47:53.377429+00:00"
+      },
+      {
+        "memory": "John is now mentoring the younger players on his team, finding it rewarding and a way to stay involved in basketball during the off-season",
+        "score": 0.3726,
+        "id": "be041962-6b40-4416-baff-c0cc74c3babd",
+        "created_at": "2023-10-17T13:50:00+00:00",
+        "updated_at": "2026-11-19T05:01:05.704289+00:00"
+      },
+      {
+        "memory": "Tim observes that John's basketball team relies on each other like characters in a series, pushing through challenges together",
+        "score": 0.369,
+        "id": "7b02b712-19b1-4c68-b896-7f17db68ce06",
+        "created_at": "2023-12-08T19:42:00+00:00",
+        "updated_at": "2026-11-19T05:37:46.794871+00:00"
+      },
+      {
+        "memory": "Tim (Tim) is asking John about his favorite basketball team or player",
+        "score": 0.3685,
+        "id": "d07e61d3-ce6f-40d8-bc67-b99e1fabf702",
+        "created_at": "2023-10-02T15:00:00+00:00",
+        "updated_at": "2026-11-19T04:54:11.454199+00:00"
+      },
+      {
+        "memory": "John shared an image showing a group of people standing on a basketball court",
+        "score": 0.363,
+        "id": "3d65fcb6-67dd-4ee3-bd58-1655455cb254",
+        "created_at": "2023-10-02T15:00:00+00:00",
+        "updated_at": "2026-11-19T04:54:40.795524+00:00"
+      },
+      {
+        "memory": "John played a basketball game on June 15, 2023 and described it as an awesome feeling, loving being out there doing what he loves",
+        "score": 0.3602,
+        "id": "7a9d6e9f-7b5e-4671-bacb-01383345b243",
+        "created_at": "2023-06-15T17:08:00+00:00",
+        "updated_at": "2026-11-19T04:10:30.495337+00:00"
+      },
+      {
+        "memory": "John felt the energy at the basketball game was crazy and motivating, especially after seeing top players, which made him want to work harder",
+        "score": 0.3601,
+        "id": "06efc704-4c7a-4843-99d1-90bc86f91407",
+        "created_at": "2023-10-02T15:00:00+00:00",
+        "updated_at": "2026-11-19T04:55:25.257971+00:00"
+      },
+      {
+        "memory": "John shared an image showing a basketball court with a crowd of people watching",
+        "score": 0.3584,
+        "id": "8f40cf46-9e02-4f99-b8c5-f7354029e9ce",
+        "created_at": "2023-12-26T15:35:00+00:00",
+        "updated_at": "2026-11-19T05:50:51.672361+00:00"
+      },
+      {
+        "memory": "John shared an image showing a basketball team posing for a team photo",
+        "score": 0.3572,
+        "id": "5394ad77-2c3b-46f2-856a-d677225093d3",
+        "created_at": "2023-10-13T13:50:00+00:00",
+        "updated_at": "2026-11-19T04:56:33.651158+00:00"
+      },
+      {
+        "memory": "John says they have team dinners, outings, and basketball games, and that moments away from practice build and strengthen their unity",
+        "score": 0.3571,
+        "id": "a7f90351-1495-4057-8a2a-8531a7d88147",
+        "created_at": "2023-12-08T19:42:00+00:00",
+        "updated_at": "2026-11-19T05:37:32.472368+00:00"
+      },
+      {
+        "memory": "John shared an image showing two men standing next to a basketball machine",
+        "score": 0.3559,
+        "id": "44affae8-8451-4e4a-8d53-1e4be297c9cc",
+        "created_at": "2023-05-21T19:48:00+00:00",
+        "updated_at": "2026-11-19T04:04:24.088418+00:00"
+      },
+      {
+        "memory": "John shared an image showing a group of kids playing basketball in a gym.",
+        "score": 0.3526,
+        "id": "aa54f9c3-021d-4f9d-85db-e6cbea330e46",
+        "created_at": "2023-12-26T15:35:00+00:00",
+        "updated_at": "2026-11-19T05:53:18.339135+00:00"
+      }
+    ],
+    "search_latency_ms": 1005.3,
+    "total_results": 50
+  },
+  "cutoff_results": {
+    "top_50": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "- Plyometrics: box jumps, depth jumps, lateral bounds, jump rope to boost vertical and first-step explosiveness.\n- Agility and footwork (use the cones at your new gym): zig-zag change-of-direction, defensive slide shuttles, closeout → turn-and-sprint, ladder drills.\n- Game-paced conditioning: suicides, 17s, 30:30 or 15:15 shuttle runs, slide–sprint circuits; on low-impact days, bike or rower intervals.\n- Core and single‑leg stability: Pallof presses/holds, planks, Copenhagen planks, single‑leg RDLs, split squats, hop‑to‑stick landing drills.\n- Mobility/prehab: ankle dorsiflexion work, hip flexor and glute mobility, T‑spine rotations, calf raises, banded shoulder external rotations, mini‑band lateral walks.\n- Skill reps to match your shooting focus: form shooting/Mikan, spot-up into off‑the‑dribble progressions, free‑throw routines; ball‑handling with two balls, cone dribble combos, pick‑and‑roll reads.\n\nCoordinate these with your daily PT so progressions fit your current rehab and practice load.",
+      "memories_evaluated": 50,
+      "reason": "The generated answer includes sprinting-related drills (e.g., suicides and slide–sprint circuits), matching the gold item 'sprinting' and thus meeting partial credit."
+    }
+  }
+}

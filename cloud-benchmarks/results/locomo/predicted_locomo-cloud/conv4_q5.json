@@ -1,0 +1,379 @@
+{
+  "question_id": "conv4_q5",
+  "conversation_idx": 4,
+  "category": 3,
+  "category_name": "open-domain",
+  "question": "Based on Tim's collections, what is a shop that he would enjoy visiting in New York city?",
+  "ground_truth_answer": "House of MinaLima",
+  "evidence": [
+    "D2:9"
+  ],
+  "user_id": "locomo_4_fe8ec031",
+  "reference_date": "1:41 pm on 12 January, 2024",
+  "retrieval": {
+    "search_query": "Based on Tim's collections, what is a shop that he would enjoy visiting in New York city?",
+    "search_results": [
+      {
+        "memory": "Tim added New York City to his travel list and is excited to visit the city",
+        "score": 0.6258,
+        "id": "d69a6708-6295-499f-b737-2da028e9444c",
+        "created_at": "2023-08-26T18:59:00+00:00",
+        "updated_at": "2026-11-19T04:41:33.182597+00:00"
+      },
+      {
+        "memory": "Tim thinks the New York City skyline looks amazing and has been wanting to visit New York City",
+        "score": 0.6095,
+        "id": "569eae80-5f2a-42ea-afca-6b2f43c3dfdc",
+        "created_at": "2023-08-26T18:59:00+00:00",
+        "updated_at": "2026-11-19T04:41:14.724498+00:00"
+      },
+      {
+        "memory": "John offered to help Tim with his upcoming trip to New York City and said he's excited to hear when Tim is going",
+        "score": 0.6012,
+        "id": "fdbb9f2c-6956-4c11-88a7-06b4f126fdd3",
+        "created_at": "2023-08-26T18:59:00+00:00",
+        "updated_at": "2026-11-19T04:42:56.769330+00:00"
+      },
+      {
+        "memory": "Tim offered John tips for visiting real Harry Potter locations and encouraged him to add such visits to his list, describing the experience as really fun",
+        "score": 0.5048,
+        "id": "04ac2a36-9557-4cdc-846c-06b2773262a9",
+        "created_at": "2023-05-21T19:48:00+00:00",
+        "updated_at": "2026-11-19T04:06:54.833223+00:00"
+      },
+      {
+        "memory": "Tim recommends visiting some castles, saying they are magical and hopes John and his partner have a great time",
+        "score": 0.4803,
+        "id": "1d39bd96-b072-4202-b4a9-d0ed0da5e000",
+        "created_at": "2023-11-06T11:41:00+00:00",
+        "updated_at": "2026-11-19T05:14:18.481587+00:00"
+      },
+      {
+        "memory": "Tim expressed enthusiasm for the DVD and game collection, calling it an awesome collection",
+        "score": 0.4662,
+        "id": "3204567c-6291-46fe-a848-5c42a3258587",
+        "created_at": "2024-01-02T17:26:00+00:00",
+        "updated_at": "2026-11-19T05:58:51.386405+00:00"
+      },
+      {
+        "memory": "Tim is interested in favorite characters from the fantasy movies in his collection",
+        "score": 0.4272,
+        "id": "189a7c8a-5681-4d48-88f7-284fff40529a",
+        "created_at": "2024-01-02T17:26:00+00:00",
+        "updated_at": "2026-11-19T05:58:51.386405+00:00"
+      },
+      {
+        "memory": "Tim (Tim) is excited to watch the upcoming show \"The Wheel of Time\", which is based on a book series he loves",
+        "score": 0.4077,
+        "id": "bb77cf25-9c57-437c-82fd-4387ab253502",
+        "created_at": "2023-12-26T15:35:00+00:00",
+        "updated_at": "2026-11-19T05:55:13.912384+00:00"
+      },
+      {
+        "memory": "John visited New York City and shared a photo of its skyline featuring a skyscraper",
+        "score": 0.3949,
+        "id": "c14135d8-be59-443d-81cf-ae9c52d10a8a",
+        "created_at": "2023-08-26T18:59:00+00:00",
+        "updated_at": "2026-11-19T04:41:07.621721+00:00"
+      },
+      {
+        "memory": "Tim (Tim) has Italy on his travel list and is eager to visit the country",
+        "score": 0.363,
+        "id": "62de6ab4-92e6-4d20-95af-11bc24cd6b41",
+        "created_at": "2024-01-02T17:26:00+00:00",
+        "updated_at": "2026-11-19T05:55:47.619602+00:00"
+      },
+      {
+        "memory": "Tim shared an image showing a collection of movies and DVDs arranged on a carpet",
+        "score": 0.3595,
+        "id": "3d96f828-1b47-4ce4-87aa-bf0d9cb9a522",
+        "created_at": "2024-01-02T17:26:00+00:00",
+        "updated_at": "2026-11-19T05:58:28.510148+00:00"
+      },
+      {
+        "memory": "Tim (Tim) visited a Harry Potter-themed location in London a few years ago and went on an amazing tour there",
+        "score": 0.3415,
+        "id": "c1c3d4d1-a258-4a6c-815e-e4a57f49386b",
+        "created_at": "2023-05-21T19:48:00+00:00",
+        "updated_at": "2026-11-19T04:06:24.002258+00:00"
+      },
+      {
+        "memory": "Tim (Tim) has not been to Universal Studios before and is planning his first visit, feeling super excited about the Harry Potter attractions there",
+        "score": 0.3205,
+        "id": "4463bd91-2f18-45ae-8cfa-c729d5077d58",
+        "created_at": "2023-08-31T14:52:00+00:00",
+        "updated_at": "2026-11-19T04:44:06.281370+00:00"
+      },
+      {
+        "memory": "Tim asked John for recommendations on places to visit",
+        "score": 0.3181,
+        "id": "72f17ebf-37b1-44d5-8034-988c879cc54f",
+        "created_at": "2024-01-12T13:41:00+00:00",
+        "updated_at": "2026-11-19T06:07:01.866303+00:00"
+      },
+      {
+        "memory": "Tim thinks Chicago is great and enjoys trying new experiences and connecting with people from different backgrounds",
+        "score": 0.2966,
+        "id": "c2c987ac-e0de-44e8-b9e5-e95fc7408cc0",
+        "created_at": "2023-08-11T13:08:00+00:00",
+        "updated_at": "2026-11-19T04:24:07.187042+00:00"
+      },
+      {
+        "memory": "Tim is starting some big new things",
+        "score": 0.2914,
+        "id": "4610160b-fa96-42cd-bbba-8a96119f3400",
+        "created_at": "2023-12-26T15:35:00+00:00",
+        "updated_at": "2026-11-19T05:51:06.523550+00:00"
+      },
+      {
+        "memory": "John experienced difficulty figuring out the subway during his New York City trip, but after someone helped explain it, the issue was resolved and the trip went okay",
+        "score": 0.2871,
+        "id": "3a39f04b-3e4c-4cf0-9b68-5d467aa0ed9f",
+        "created_at": "2023-08-31T14:52:00+00:00",
+        "updated_at": "2026-11-19T04:43:05.808216+00:00"
+      },
+      {
+        "memory": "Tim (Tim) recently attended an event in early August 2023, found it fantastic, and enjoyed being with other fans who love it too",
+        "score": 0.2802,
+        "id": "3fdd6bc7-79f1-4682-bf8f-87d33bb842d9",
+        "created_at": "2023-08-11T13:08:00+00:00",
+        "updated_at": "2026-11-19T04:23:55.113926+00:00"
+      },
+      {
+        "memory": "Tim shared an image of a collection of fantasy novels and movies displayed on a wooden floor, describing the books as companions on his growth journey",
+        "score": 0.2738,
+        "id": "730b1ced-36db-410b-ac49-92035f218f01",
+        "created_at": "2023-11-21T10:22:00+00:00",
+        "updated_at": "2026-11-19T05:22:10.687376+00:00"
+      },
+      {
+        "memory": "Tim says his Harry Potter reminders really help and he plans to visit more Harry Potter locations in the future, feeling like he’s stepping into the books",
+        "score": 0.2703,
+        "id": "21224935-d746-4d86-8858-7d94ba0c8aea",
+        "created_at": "2023-06-15T17:08:00+00:00",
+        "updated_at": "2026-11-19T04:10:20.488373+00:00"
+      },
+      {
+        "memory": "Tim loves traveling to new places to experience different kinds of magic",
+        "score": 0.262,
+        "id": "64ad7bf4-e4c1-4de6-bb67-59b2e00487b8",
+        "created_at": "2023-08-26T18:59:00+00:00",
+        "updated_at": "2026-11-19T04:41:01.720261+00:00"
+      },
+      {
+        "memory": "Tim (Tim) would like to explore real Harry Potter locations someday and asks if John has been to any",
+        "score": 0.2544,
+        "id": "87b7bf58-b8e0-4710-96b4-8691e00743c9",
+        "created_at": "2023-05-21T19:48:00+00:00",
+        "updated_at": "2026-11-19T04:06:24.002258+00:00"
+      },
+      {
+        "memory": "Tim visited a travel agency around December 26, 2023 to learn the requirements for his next dream trip",
+        "score": 0.2502,
+        "id": "e189b6dc-ab2d-43b2-854e-34aeaf979b7c",
+        "created_at": "2023-12-26T15:35:00+00:00",
+        "updated_at": "2026-11-19T05:51:58.706022+00:00"
+      },
+      {
+        "memory": "Tim read an awesome book about castles in the UK, found it incredibly interesting and blew him away, and now dreams of visiting those castles one day",
+        "score": 0.2471,
+        "id": "d7c16c2e-43f6-49a1-880e-1775a5eb2e5e",
+        "created_at": "2023-10-21T17:51:00+00:00",
+        "updated_at": "2026-11-19T05:04:52.376985+00:00"
+      },
+      {
+        "memory": "Tim enjoys reading Harry Potter books during downtime as a magical escape",
+        "score": 0.2467,
+        "id": "2ae1b9ed-f5f8-45da-a93d-0c43dc8d5369",
+        "created_at": "2023-12-26T15:35:00+00:00",
+        "updated_at": "2026-11-19T05:54:02.999314+00:00"
+      },
+      {
+        "memory": "Tim (Tim) shared an image showing a book sitting on a table next to a wall",
+        "score": 0.2449,
+        "id": "65a7a6b8-d6f6-4e3b-b191-f5ff38f58793",
+        "created_at": "2024-01-02T17:26:00+00:00",
+        "updated_at": "2026-11-19T05:56:41.841797+00:00"
+      },
+      {
+        "memory": "Tim is trying to understand visa requirements for the places he wants to visit, finding it overwhelming but exciting",
+        "score": 0.2444,
+        "id": "ad6aacfd-ed19-4569-8eec-b35eb39fcbca",
+        "created_at": "2024-01-12T13:41:00+00:00",
+        "updated_at": "2026-11-19T06:05:52.877010+00:00"
+      },
+      {
+        "memory": "Tim (Tim) said he's okay and can look up the spices himself",
+        "score": 0.244,
+        "id": "f848967d-8d1a-4a55-ab7f-3d7f769b3e6b",
+        "created_at": "2023-08-31T14:52:00+00:00",
+        "updated_at": "2026-11-19T04:43:38.995603+00:00"
+      },
+      {
+        "memory": "Tim shared an image of his bookshelf displaying many books, including his favorite fantasy titles Harry Potter, Game of Thrones, and Lord of the Rings, describing the collection as an amazing journey",
+        "score": 0.2428,
+        "id": "1fbf0e53-a868-4a64-b7b9-82ebfd8e2b15",
+        "created_at": "2023-12-01T09:52:00+00:00",
+        "updated_at": "2026-11-19T05:28:06.843494+00:00"
+      },
+      {
+        "memory": "Tim has always wanted to try the seafood in Seattle",
+        "score": 0.2426,
+        "id": "3605a229-caa5-41fc-95f1-ec203e802148",
+        "created_at": "2023-07-16T16:21:00+00:00",
+        "updated_at": "2026-11-19T04:16:06.498299+00:00"
+      },
+      {
+        "memory": "Tim says books, movies, and real-life experiences all fire up his creativity",
+        "score": 0.2373,
+        "id": "ede70c48-e877-4a5d-8c77-61901ad00cc7",
+        "created_at": "2023-10-21T17:51:00+00:00",
+        "updated_at": "2026-11-19T05:06:28.141714+00:00"
+      },
+      {
+        "memory": "Tim joined a group of globetrotters who share his interests, enjoying getting to know them and hearing about their trips",
+        "score": 0.2365,
+        "id": "2750e0f2-4c00-4f12-aa1c-b037a55bef34",
+        "created_at": "2024-01-02T17:26:00+00:00",
+        "updated_at": "2026-11-19T05:55:34.810139+00:00"
+      },
+      {
+        "memory": "Tim has watched the Harry Potter movies and enjoys comparing them to the books, finding it amazing to see the story come alive",
+        "score": 0.2356,
+        "id": "e6b84be7-c60f-4c28-a2ef-e3f69e031a7a",
+        "created_at": "2023-12-26T15:35:00+00:00",
+        "updated_at": "2026-11-19T05:54:23.491434+00:00"
+      },
+      {
+        "memory": "Tim loves going on road trips with friends and family, enjoys exploring, hiking, and playing board games during those trips",
+        "score": 0.2299,
+        "id": "c8a88ea8-9279-45ae-afcb-833b5e04e739",
+        "created_at": "2023-10-21T17:51:00+00:00",
+        "updated_at": "2026-11-19T05:10:40.350599+00:00"
+      },
+      {
+        "memory": "John shared a photo of his bookshelf that shows a large collection of books",
+        "score": 0.2299,
+        "id": "01b29115-c028-4538-9f4d-32dd0af28b58",
+        "created_at": "2023-09-21T20:17:00+00:00",
+        "updated_at": "2026-11-19T04:49:13.445971+00:00"
+      },
+      {
+        "memory": "Tim says traveling is eye-opening",
+        "score": 0.2297,
+        "id": "943cb21f-c243-4e77-89d1-259f8d76db8a",
+        "created_at": "2024-01-02T17:26:00+00:00",
+        "updated_at": "2026-11-19T06:01:03.244973+00:00"
+      },
+      {
+        "memory": "Tim (Tim) is excited to explore nature, describing it as looking amazing",
+        "score": 0.2293,
+        "id": "0799aa9e-8862-4038-963a-9a1bfcb55658",
+        "created_at": "2024-01-07T17:24:00+00:00",
+        "updated_at": "2026-11-19T06:02:18.517976+00:00"
+      },
+      {
+        "memory": "Tim (Tim) is asking John about his favorite basketball team or player",
+        "score": 0.2291,
+        "id": "d07e61d3-ce6f-40d8-bc67-b99e1fabf702",
+        "created_at": "2023-10-02T15:00:00+00:00",
+        "updated_at": "2026-11-19T04:54:11.454199+00:00"
+      },
+      {
+        "memory": "Tim shared an image of his bookshelf and says it is filled with his favorite fantasy novels",
+        "score": 0.2286,
+        "id": "926d54ff-833f-433f-b501-500a1d7eadec",
+        "created_at": "2023-10-02T15:00:00+00:00",
+        "updated_at": "2026-11-19T04:53:12.901957+00:00"
+      },
+      {
+        "memory": "Tim wants to visit The Cliffs of Moher, describing it as having amazing ocean views and awesome cliffs",
+        "score": 0.2278,
+        "id": "ee6805f9-83b4-445d-bf19-32091e24511e",
+        "created_at": "2024-01-07T17:24:00+00:00",
+        "updated_at": "2026-11-19T06:02:38.915617+00:00"
+      },
+      {
+        "memory": "Tim (Tim) asked John about memorable experiences working with his outdoor gear endorsement partner",
+        "score": 0.2277,
+        "id": "772cfb6a-56a2-4158-8cab-025361c838bd",
+        "created_at": "2023-12-26T15:35:00+00:00",
+        "updated_at": "2026-11-19T05:53:19.991350+00:00"
+      },
+      {
+        "memory": "Tim loves playing various songs on the piano and his favorite piece to jam to is a theme from a movie he enjoys, which brings back many great memories",
+        "score": 0.227,
+        "id": "2943bca2-4bdf-4d05-b337-4019c027f6d7",
+        "created_at": "2023-08-21T16:29:00+00:00",
+        "updated_at": "2026-11-19T04:35:08.622106+00:00"
+      },
+      {
+        "memory": "Tim finds Thanksgiving always special, enjoys preparing the feast, talking about what they're thankful for, and watching movies afterwards",
+        "score": 0.2256,
+        "id": "e3c569ab-047c-4e09-90cb-ef067df83839",
+        "created_at": "2023-08-21T16:29:00+00:00",
+        "updated_at": "2026-11-19T04:36:59.090867+00:00"
+      },
+      {
+        "memory": "Tim loves experimenting with spices",
+        "score": 0.2244,
+        "id": "78561e9c-f04c-447e-b13d-6cf588a6bf20",
+        "created_at": "2023-08-31T14:52:00+00:00",
+        "updated_at": "2026-11-19T04:43:52.844485+00:00"
+      },
+      {
+        "memory": "Tim (Tim) joined a fantasy literature forum on June 14, 2023, and had an enriching discussion about his favorite books.",
+        "score": 0.2213,
+        "id": "7fb694e0-f654-470f-93ff-3c2b63cf3516",
+        "created_at": "2023-06-15T17:08:00+00:00",
+        "updated_at": "2026-11-19T04:07:02.432136+00:00"
+      },
+      {
+        "memory": "Tim says he has been reading regularly as usual",
+        "score": 0.2204,
+        "id": "47fde287-5faa-41f4-9485-df94c2487a7a",
+        "created_at": "2023-11-11T15:36:00+00:00",
+        "updated_at": "2026-11-19T05:14:41.362380+00:00"
+      },
+      {
+        "memory": "Tim asks John what he loves about Seattle",
+        "score": 0.2199,
+        "id": "fdeb734d-1c08-4303-b601-4c3575b1c6c9",
+        "created_at": "2023-07-16T16:21:00+00:00",
+        "updated_at": "2026-11-19T04:15:48.590849+00:00"
+      },
+      {
+        "memory": "Tim lists \"The Alchemist\" as one of his favorite books",
+        "score": 0.2199,
+        "id": "e4f7f034-7733-4ca8-bef3-74b325a52aca",
+        "created_at": "2023-09-21T20:17:00+00:00",
+        "updated_at": "2026-11-19T04:49:32.212593+00:00"
+      },
+      {
+        "memory": "Tim plans to try the black and pink memory‑foam running shoes he recommended, thanking John for the tip",
+        "score": 0.2193,
+        "id": "c0a48c92-c03a-492d-a038-a09802cfeff0",
+        "created_at": "2023-12-01T09:52:00+00:00",
+        "updated_at": "2026-11-19T05:26:38.868255+00:00"
+      },
+      {
+        "memory": "Tim says his favorite books (e.g., Harry Potter) are still his top favorites and he loves how they transport him to other places",
+        "score": 0.2192,
+        "id": "d2d021d7-5398-433d-93e6-73efc9000a25",
+        "created_at": "2023-11-21T10:22:00+00:00",
+        "updated_at": "2026-11-19T05:22:25.508394+00:00"
+      }
+    ],
+    "search_latency_ms": 518.6,
+    "total_results": 50
+  },
+  "cutoff_results": {
+    "top_50": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "The Harry Potter Store New York (the official flagship).",
+      "memories_evaluated": 50,
+      "reason": "The generated answer names The Harry Potter Store New York, which does not match the gold answer House of MinaLima and contains no overlapping item."
+    }
+  }
+}

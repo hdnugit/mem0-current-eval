@@ -1,0 +1,382 @@
+{
+  "question_id": "conv3_q68",
+  "conversation_idx": 3,
+  "category": 3,
+  "category_name": "open-domain",
+  "question": "How many hikes has Joanna been on?",
+  "ground_truth_answer": "Four",
+  "evidence": [
+    "D7:6",
+    "D11:5",
+    "D14:21",
+    "D28:22"
+  ],
+  "user_id": "locomo_3_fe8ec031",
+  "reference_date": "12:06 am on 11 November, 2022",
+  "retrieval": {
+    "search_query": "How many hikes has Joanna been on?",
+    "search_results": [
+      {
+        "memory": "Nate wishes he could have joined Joanna's hikes and says her hikes sound like a blast",
+        "score": 0.623,
+        "id": "2e127b01-6e3d-48ab-b064-64776de0504d",
+        "created_at": "2022-05-12T15:35:00+00:00",
+        "updated_at": "2026-11-19T04:42:00.217041+00:00"
+      },
+      {
+        "memory": "Joanna went hiking on May 12, 2022, discovered several additional amazing trails in her hometown, and now feels she is an expert hiker.",
+        "score": 0.5731,
+        "id": "10cbcd22-0efe-4e22-a508-72f9af618d5c",
+        "created_at": "2022-05-12T15:35:00+00:00",
+        "updated_at": "2026-11-19T04:41:29.481359+00:00"
+      },
+      {
+        "memory": "Joanna plans to hike with friends on the weekend of June 4-5, 2022, checking out a new trail featuring a waterfall",
+        "score": 0.5118,
+        "id": "898ba81a-663b-4224-aa9a-321f8cd58683",
+        "created_at": "2022-06-03T17:44:00+00:00",
+        "updated_at": "2026-11-19T04:59:09.889967+00:00"
+      },
+      {
+        "memory": "Joanna said Nate's boldness inspired her, reminding her of a gorgeous sunset she saw while hiking on April 14, 2022",
+        "score": 0.4889,
+        "id": "3e5c558c-a193-4321-865c-468bdfff8a7d",
+        "created_at": "2022-04-15T19:37:00+00:00",
+        "updated_at": "2026-11-19T04:28:12.294240+00:00"
+      },
+      {
+        "memory": "Joanna enjoyed a waterfall spot with lush greenery and a dark sky during a hike on May 12, 2022, describing the rushing water as soothing",
+        "score": 0.4707,
+        "id": "1e1f9b8d-ba4d-485f-b582-8d4ec28233f6",
+        "created_at": "2022-05-12T15:35:00+00:00",
+        "updated_at": "2026-11-19T04:41:42.002677+00:00"
+      },
+      {
+        "memory": "Joanna took a photo on a hike near Fort Wayne during the summer of 2022, noting the incredible sunset and surrounding beauty as an inspiring reminder of nature's beauty",
+        "score": 0.4394,
+        "id": "2229ce83-4550-48f9-8938-6585a58a2f97",
+        "created_at": "2022-11-09T17:54:00+00:00",
+        "updated_at": "2026-11-19T05:48:09.457056+00:00"
+      },
+      {
+        "memory": "Joanna is named Joanna",
+        "score": 0.3759,
+        "id": "c42b40c9-c84d-49fd-9d1e-0fa19fa72b79",
+        "created_at": "2022-01-21T19:31:00+00:00",
+        "updated_at": "2026-11-19T04:02:50.678921+00:00"
+      },
+      {
+        "memory": "Joanna (Joanna) attributes her recent accomplishment to dedication and late nights, saying it was worth it",
+        "score": 0.3385,
+        "id": "12e53240-9e87-4b8b-b764-2a8dc35a11a6",
+        "created_at": "2022-10-06T11:15:00+00:00",
+        "updated_at": "2026-11-19T05:24:23.590746+00:00"
+      },
+      {
+        "memory": "Joanna invites Nate to join her on the trails sometime",
+        "score": 0.3373,
+        "id": "8c38112b-188e-4dab-9f53-126330895274",
+        "created_at": "2022-05-12T15:35:00+00:00",
+        "updated_at": "2026-11-19T04:43:21.654166+00:00"
+      },
+      {
+        "memory": "Joanna is seeking recommendations for additional good hiking spots",
+        "score": 0.3336,
+        "id": "5bff7888-1707-4ac2-923d-fbbc34ea924c",
+        "created_at": "2022-04-17T18:44:00+00:00",
+        "updated_at": "2026-11-19T04:29:35.994708+00:00"
+      },
+      {
+        "memory": "Joanna feels that the recent period has been a good ride",
+        "score": 0.3265,
+        "id": "931a747b-61cf-4722-b9e4-5c966ec83b7f",
+        "created_at": "2022-03-24T13:43:00+00:00",
+        "updated_at": "2026-11-19T04:25:08.690862+00:00"
+      },
+      {
+        "memory": "Joanna (Joanna) says she will keep Nate posted and loves his creations",
+        "score": 0.3248,
+        "id": "e1122805-4ff4-4f87-8076-478d3c699db4",
+        "created_at": "2022-02-25T13:07:00+00:00",
+        "updated_at": "2026-11-19T04:18:25.678038+00:00"
+      },
+      {
+        "memory": "Joanna finds her meetings exciting",
+        "score": 0.3246,
+        "id": "fd6199a2-0958-4cc1-92e2-ee5ced610def",
+        "created_at": "2022-11-04T15:56:00+00:00",
+        "updated_at": "2026-11-19T05:36:52.343965+00:00"
+      },
+      {
+        "memory": "Joanna (Joanna) asked Nate for his favorite dairy‑free desserts.",
+        "score": 0.3218,
+        "id": "aea8f58c-35ec-4a0d-adac-c5bb91cf4091",
+        "created_at": "2022-09-14T13:43:00+00:00",
+        "updated_at": "2026-11-19T05:21:00.430314+00:00"
+      },
+      {
+        "memory": "Joanna mentioned that crazy things happened to her recently",
+        "score": 0.3191,
+        "id": "fe1e7a34-22bf-4cfe-b8f5-c52d623a9a60",
+        "created_at": "2022-01-23T14:01:00+00:00",
+        "updated_at": "2026-11-19T04:05:58.542708+00:00"
+      },
+      {
+        "memory": "Joanna is already really invested in the turtles",
+        "score": 0.319,
+        "id": "c2d09281-0fd8-47a1-a26c-64ec9052a07d",
+        "created_at": "2022-03-18T18:59:00+00:00",
+        "updated_at": "2026-11-19T04:23:08.261143+00:00"
+      },
+      {
+        "memory": "Joanna started writing some of her favorite memories down",
+        "score": 0.3159,
+        "id": "72aecac3-74e1-4a70-836d-19ec2b316f58",
+        "created_at": "2022-11-07T20:10:00+00:00",
+        "updated_at": "2026-11-19T05:43:20.815296+00:00"
+      },
+      {
+        "memory": "Joanna thinks about her life sometimes when she is out and about, reflecting on personal experiences during outings",
+        "score": 0.3124,
+        "id": "19df5c22-4be9-466a-9252-53a25a423a19",
+        "created_at": "2022-05-12T15:35:00+00:00",
+        "updated_at": "2026-11-19T04:43:05.088909+00:00"
+      },
+      {
+        "memory": "Joanna (Joanna) is tempted to try dairy‑free dessert flavors and expresses a liking for chocolate and mixed‑berry options",
+        "score": 0.3122,
+        "id": "2d745e46-e9af-484b-bcfb-ef4ce6630119",
+        "created_at": "2022-02-07T09:27:00+00:00",
+        "updated_at": "2026-11-19T04:12:57.941240+00:00"
+      },
+      {
+        "memory": "Joanna says writing has always been a passion of hers",
+        "score": 0.3066,
+        "id": "c8154ccd-5a28-4e33-9f17-0edf082997a3",
+        "created_at": "2022-11-07T20:10:00+00:00",
+        "updated_at": "2026-11-19T05:39:21.628463+00:00"
+      },
+      {
+        "memory": "Joanna (Joanna) has been interested in the series Nate recommended, noting it has been on her list forever and she will check it out",
+        "score": 0.3059,
+        "id": "ce2aef41-4f4c-4fe3-8c7b-187c28177220",
+        "created_at": "2022-04-21T19:44:00+00:00",
+        "updated_at": "2026-11-19T04:37:05.935677+00:00"
+      },
+      {
+        "memory": "Joanna is grateful for her supportive friends",
+        "score": 0.3016,
+        "id": "422ee115-34aa-4566-a884-7152fbd20bc2",
+        "created_at": "2022-05-20T19:49:00+00:00",
+        "updated_at": "2026-11-19T04:45:41.552839+00:00"
+      },
+      {
+        "memory": "Joanna (Joanna) expressed that she is glad Nate met people who share his interests, noting that it makes experiences more fun",
+        "score": 0.2994,
+        "id": "e7b79722-42ef-4067-a92e-86b5fdc8feb4",
+        "created_at": "2022-10-09T10:58:00+00:00",
+        "updated_at": "2026-11-19T05:25:29.846269+00:00"
+      },
+      {
+        "memory": "Joanna agreed to see Nate later",
+        "score": 0.2993,
+        "id": "19cf38a8-152c-4b57-a99d-af6e432fb65e",
+        "created_at": "2022-05-12T15:35:00+00:00",
+        "updated_at": "2026-11-19T04:43:35.491889+00:00"
+      },
+      {
+        "memory": "Joanna says goodbye to Nate",
+        "score": 0.2992,
+        "id": "eeaaf75d-e1f4-46ef-bed4-8bd2537db265",
+        "created_at": "2022-10-09T10:58:00+00:00",
+        "updated_at": "2026-11-19T05:28:59.520228+00:00"
+      },
+      {
+        "memory": "Joanna is always down to give movie recommendations",
+        "score": 0.2948,
+        "id": "893ed588-3b00-4677-814d-422a0f6165b8",
+        "created_at": "2022-02-07T09:27:00+00:00",
+        "updated_at": "2026-11-19T04:15:28.886617+00:00"
+      },
+      {
+        "memory": "Joanna (Joanna) expressed that staying happy and de‑stressing is important and encouraged Nate to keep doing what makes him happy",
+        "score": 0.2942,
+        "id": "e7dcfc45-6b71-48a9-9766-b9eb699e6b94",
+        "created_at": "2022-10-09T10:58:00+00:00",
+        "updated_at": "2026-11-19T05:26:40.190087+00:00"
+      },
+      {
+        "memory": "Joanna (Joanna) made a dessert using almond milk on Friday, September 9, 2022, and described it as delicious.",
+        "score": 0.2932,
+        "id": "c3f794c7-01ea-489e-835a-01ff21965654",
+        "created_at": "2022-09-14T13:43:00+00:00",
+        "updated_at": "2026-11-19T05:21:00.430314+00:00"
+      },
+      {
+        "memory": "Assistant praised Joanna for being brave in putting herself out there and congratulated her on her hard work and recognition",
+        "score": 0.2929,
+        "id": "58bc59d4-0a64-4d95-8924-b78d1621e49c",
+        "created_at": "2022-11-04T15:56:00+00:00",
+        "updated_at": "2026-11-19T05:35:12.650908+00:00"
+      },
+      {
+        "memory": "Joanna (Joanna) is all about drama and romantic comedy movies, loving the immersive feelings and plots",
+        "score": 0.2927,
+        "id": "fbcca2e1-58a9-4399-aac1-6f2abd09c022",
+        "created_at": "2022-01-21T19:31:00+00:00",
+        "updated_at": "2026-11-19T04:04:35.828710+00:00"
+      },
+      {
+        "memory": "Joanna (Joanna) says she wants to try making coconut milk ice cream herself or visit Nate to try his version",
+        "score": 0.2923,
+        "id": "f05e7064-516d-4db3-9dc1-dee956bbec42",
+        "created_at": "2022-02-07T09:27:00+00:00",
+        "updated_at": "2026-11-19T04:13:41.920744+00:00"
+      },
+      {
+        "memory": "Joanna (Joanna) told Nate \"No worries\" and expressed gladness about his recent ice cream creation",
+        "score": 0.2899,
+        "id": "6a49ee0f-c47f-4748-beee-895e57499aa2",
+        "created_at": "2022-02-25T13:07:00+00:00",
+        "updated_at": "2026-11-19T04:16:59.191114+00:00"
+      },
+      {
+        "memory": "Joanna (Joanna) expressed excitement about seeing Nate's upcoming project, describing it as liberating, and asked him how he was feeling",
+        "score": 0.2888,
+        "id": "1a94fa30-6f5f-4e58-8ac8-239abee15a62",
+        "created_at": "2022-04-15T19:37:00+00:00",
+        "updated_at": "2026-11-19T04:27:39.981363+00:00"
+      },
+      {
+        "memory": "Joanna last talked with Nate around May 5, 2022",
+        "score": 0.2888,
+        "id": "68b33d6f-93e3-4798-8732-b6f2c21ad3eb",
+        "created_at": "2022-05-12T15:35:00+00:00",
+        "updated_at": "2026-11-19T04:43:51.328803+00:00"
+      },
+      {
+        "memory": "Joanna hopes for good news soon",
+        "score": 0.2872,
+        "id": "086baae4-8dcb-4734-8695-d8239033cbc5",
+        "created_at": "2022-04-15T19:37:00+00:00",
+        "updated_at": "2026-11-19T04:28:31.367147+00:00"
+      },
+      {
+        "memory": "Joanna thanks Nate for his help and says she will keep trying new things",
+        "score": 0.2862,
+        "id": "daf3d384-e616-4eba-8148-95dec11b070f",
+        "created_at": "2022-05-02T11:54:00+00:00",
+        "updated_at": "2026-11-19T04:40:43.264231+00:00"
+      },
+      {
+        "memory": "Joanna has been reading a lot during the week of April 10–16, 2022",
+        "score": 0.2862,
+        "id": "a8e43855-31c8-46ce-a095-7c4af881f856",
+        "created_at": "2022-04-17T18:44:00+00:00",
+        "updated_at": "2026-11-19T04:29:21.551383+00:00"
+      },
+      {
+        "memory": "Nate asked Joanna about her plans for the weekend",
+        "score": 0.2853,
+        "id": "8d8c5c82-427e-4642-8dd4-854c2bb35ae0",
+        "created_at": "2022-06-03T17:44:00+00:00",
+        "updated_at": "2026-11-19T04:59:01.228830+00:00"
+      },
+      {
+        "memory": "Joanna says she won't let this bring her down and remains determined",
+        "score": 0.2849,
+        "id": "3154bd52-eddf-41d6-bee4-e6925082651a",
+        "created_at": "2022-06-03T17:44:00+00:00",
+        "updated_at": "2026-11-19T04:56:57.178227+00:00"
+      },
+      {
+        "memory": "Joanna (Joanna) expressed that being busy can be tiring but rewarding and encouraged Nate to keep it up, noting he seems to be loving life right now",
+        "score": 0.2846,
+        "id": "cbd6d9f0-8c23-4ea7-b463-9c96fcfebbc1",
+        "created_at": "2022-11-07T20:10:00+00:00",
+        "updated_at": "2026-11-19T05:39:07.310251+00:00"
+      },
+      {
+        "memory": "Joanna encourages looking back on fond memories, describing it as a blessing",
+        "score": 0.282,
+        "id": "25ab770d-e878-4866-b4bb-5d0562cfee19",
+        "created_at": "2022-11-07T20:10:00+00:00",
+        "updated_at": "2026-11-19T05:43:31.369850+00:00"
+      },
+      {
+        "memory": "Joanna wishes she could get two turtles today but is prevented by her allergies",
+        "score": 0.281,
+        "id": "b23e148d-d13e-4874-92fd-958ec48475b4",
+        "created_at": "2022-03-18T18:59:00+00:00",
+        "updated_at": "2026-11-19T04:22:53.193804+00:00"
+      },
+      {
+        "memory": "Joanna is an avid hiker who photographs nature (e.g., waterfalls at Whispering Falls), considers herself an expert hiker, and draws inspiration and calm from the outdoors.",
+        "score": 0.2809,
+        "id": "71de84e5-950e-4fe8-80b6-b036c4603a19",
+        "created_at": "2022-07-10T14:34:00+00:00",
+        "updated_at": "2026-11-19T05:08:13.678473+00:00"
+      },
+      {
+        "memory": "Joanna says she would love to do either of the suggested activities with Nate",
+        "score": 0.2796,
+        "id": "e9f86455-d22f-492e-9aad-9caf1db1b029",
+        "created_at": "2022-11-09T17:54:00+00:00",
+        "updated_at": "2026-11-19T05:49:18.931460+00:00"
+      },
+      {
+        "memory": "Joanna asked Nate about his current projects",
+        "score": 0.2796,
+        "id": "a0e45c62-de48-4386-a045-f602478951a5",
+        "created_at": "2022-11-09T17:54:00+00:00",
+        "updated_at": "2026-11-19T05:46:28.398531+00:00"
+      },
+      {
+        "memory": "Joanna is allergic to most reptiles and animals with fur, which she finds a drag but she finds other ways to be happy",
+        "score": 0.2792,
+        "id": "8317ea72-ef23-453c-a1c4-5c7207a382d4",
+        "created_at": "2022-01-23T14:01:00+00:00",
+        "updated_at": "2026-11-19T04:09:01.171288+00:00"
+      },
+      {
+        "memory": "Joanna has been working on a project recently and finds it pretty cool",
+        "score": 0.2785,
+        "id": "0d6b8c64-6f17-499b-95a6-7303d87a6cc9",
+        "created_at": "2022-01-21T19:31:00+00:00",
+        "updated_at": "2026-11-19T04:02:50.678921+00:00"
+      },
+      {
+        "memory": "Joanna thinks Nate's cooking is amazing",
+        "score": 0.2782,
+        "id": "999678f7-c3ac-417d-baa3-8f4505cb246b",
+        "created_at": "2022-02-25T13:07:00+00:00",
+        "updated_at": "2026-11-19T04:22:35.050080+00:00"
+      },
+      {
+        "memory": "Joanna is excited to surprise her family with something delicious",
+        "score": 0.2763,
+        "id": "74713043-0790-4daa-95a0-533821638516",
+        "created_at": "2022-08-14T18:12:00+00:00",
+        "updated_at": "2026-11-19T05:11:06.267324+00:00"
+      },
+      {
+        "memory": "Joanna will see Nate on 2022-11-10",
+        "score": 0.2762,
+        "id": "d7d4b60f-c6ac-40b1-8053-207886a50065",
+        "created_at": "2022-11-09T17:54:00+00:00",
+        "updated_at": "2026-11-19T05:49:30.907604+00:00"
+      }
+    ],
+    "search_latency_ms": 422.5,
+    "total_results": 50
+  },
+  "cutoff_results": {
+    "top_50": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "3",
+      "memories_evaluated": 50,
+      "reason": "The generated answer says 3 hikes, which does not match the gold answer of four hikes."
+    }
+  }
+}

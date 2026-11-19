@@ -1,0 +1,379 @@
+{
+  "question_id": "conv2_q41",
+  "conversation_idx": 2,
+  "category": 3,
+  "category_name": "open-domain",
+  "question": "Does John live close to a beach or the mountains?",
+  "ground_truth_answer": "beach",
+  "evidence": [
+    "D22:15"
+  ],
+  "user_id": "locomo_2_fe8ec031",
+  "reference_date": "11:08 am on 16 August, 2023",
+  "retrieval": {
+    "search_query": "Does John live close to a beach or the mountains?",
+    "search_results": [
+      {
+        "memory": "John had a film camera as a kid and took many beach photographs with it",
+        "score": 0.4071,
+        "id": "d0428664-d1ce-4c7f-a68b-ab105dd0d858",
+        "created_at": "2023-01-01T20:30:00+00:00",
+        "updated_at": "2026-11-19T04:11:33.158607+00:00"
+      },
+      {
+        "memory": "John shared an image showing a man sitting on a mountain with a view of a lake",
+        "score": 0.3728,
+        "id": "7a59730c-0757-499f-9ca0-bb77ede9af85",
+        "created_at": "2023-05-04T15:18:00+00:00",
+        "updated_at": "2026-11-19T04:49:25.783385+00:00"
+      },
+      {
+        "memory": "John says the sunset beach photo reminds him to take a break, breathe, and appreciate nature",
+        "score": 0.372,
+        "id": "42614929-f039-4e8a-a483-31d09c45f0ac",
+        "created_at": "2023-07-05T18:59:00+00:00",
+        "updated_at": "2026-11-19T05:22:21.962821+00:00"
+      },
+      {
+        "memory": "John shared a photo showing himself standing on a mountain peak with a backpack from his mountaineering trip",
+        "score": 0.3569,
+        "id": "377ba103-06b0-4514-9fa3-2b4bb9e889b2",
+        "created_at": "2023-06-12T14:47:00+00:00",
+        "updated_at": "2026-11-19T05:03:50.383504+00:00"
+      },
+      {
+        "memory": "John says meal times are always fun, with good food, laughs, and chats helping his family stay close",
+        "score": 0.3527,
+        "id": "4c8eeb89-866f-4c81-ac95-0d98cae80919",
+        "created_at": "2022-12-22T18:10:00+00:00",
+        "updated_at": "2026-11-19T04:08:02.670775+00:00"
+      },
+      {
+        "memory": "John shared a beach photo of his family showing a couple walking into the ocean at sunset",
+        "score": 0.3485,
+        "id": "1d5aa2e9-e757-43eb-bfed-7b39dd7ae01f",
+        "created_at": "2023-05-25T13:24:00+00:00",
+        "updated_at": "2026-11-19T04:59:31.412055+00:00"
+      },
+      {
+        "memory": "John thanks Maria for letting him help and says moments like these make life worth living",
+        "score": 0.3449,
+        "id": "12811bca-92b0-49d2-8f2e-7fff67535349",
+        "created_at": "2023-05-25T13:24:00+00:00",
+        "updated_at": "2026-11-19T05:00:21.495055+00:00"
+      },
+      {
+        "memory": "John reached the summit of the mountain during his mountaineering trip with workmates, describing the view as stunning and the climb as tough but awesome",
+        "score": 0.3137,
+        "id": "6491c213-3598-423e-9e6d-e16579021c52",
+        "created_at": "2023-06-12T14:47:00+00:00",
+        "updated_at": "2026-11-19T05:04:23.122896+00:00"
+      },
+      {
+        "memory": "John (John) described a chill nature retreat away from noise as a nice break from the everyday hustle and shared a photo of a tent in the woods with a blue tarp",
+        "score": 0.2814,
+        "id": "a67383d1-5221-40f4-8aaa-96a713896720",
+        "created_at": "2023-08-11T00:10:00+00:00",
+        "updated_at": "2026-11-19T05:47:03.574624+00:00"
+      },
+      {
+        "memory": "John (John) and his family love outdoor activities such as hiking, visiting parks, and having picnics",
+        "score": 0.2787,
+        "id": "1e29e849-07a9-411a-8e3c-694689693eca",
+        "created_at": "2023-08-13T15:14:00+00:00",
+        "updated_at": "2026-11-19T05:57:29.793715+00:00"
+      },
+      {
+        "memory": "John is coping with ongoing car trouble and financial strain but stays positive, and he shared a photo of a mountain sunset with foreground flowers that reminds him of a road trip he took in 2022, noting that despite the bumps along the way there was beauty and hope.",
+        "score": 0.2672,
+        "id": "44021e8d-c97a-4cc0-ae6d-66c8e552fc9d",
+        "created_at": "2023-04-10T18:13:00+00:00",
+        "updated_at": "2026-11-19T04:38:32.561706+00:00"
+      },
+      {
+        "memory": "John is planning a trip to the East Coast",
+        "score": 0.2487,
+        "id": "32e6fbcd-4e0c-45d6-9105-33d258816fa7",
+        "created_at": "2023-04-18T19:34:00+00:00",
+        "updated_at": "2026-11-19T04:44:38.243549+00:00"
+      },
+      {
+        "memory": "John (John) and his family enjoy indoor leisure activities including playing board games and having movie nights at home",
+        "score": 0.2465,
+        "id": "5af6cbdd-b196-4b1d-83df-25b47f0fc769",
+        "created_at": "2023-08-13T15:14:00+00:00",
+        "updated_at": "2026-11-19T05:57:29.793715+00:00"
+      },
+      {
+        "memory": "John values special family times and feels they make life great",
+        "score": 0.2438,
+        "id": "c4e36055-864b-4574-aaac-9a932cd281b9",
+        "created_at": "2023-06-16T19:20:00+00:00",
+        "updated_at": "2026-11-19T05:11:36.450681+00:00"
+      },
+      {
+        "memory": "John values his family, exercise, and spending time with friends",
+        "score": 0.2428,
+        "id": "3ad831d5-0ba0-448d-bab6-738d225f9145",
+        "created_at": "2023-07-05T18:59:00+00:00",
+        "updated_at": "2026-11-19T05:21:48.920759+00:00"
+      },
+      {
+        "memory": "John is still finding it tough but is finding comfort in good memories",
+        "score": 0.2411,
+        "id": "1f3404af-80e9-4726-9b6d-cc7d6c01f4a6",
+        "created_at": "2023-06-12T14:47:00+00:00",
+        "updated_at": "2026-11-19T05:03:50.383504+00:00"
+      },
+      {
+        "memory": "John finds it easy to get lost and forget things, and appreciates Maria's support",
+        "score": 0.2389,
+        "id": "beca10df-0aa0-4faa-a9b1-f8f2625f1967",
+        "created_at": "2023-05-06T17:04:00+00:00",
+        "updated_at": "2026-11-19T04:51:32.654945+00:00"
+      },
+      {
+        "memory": "John says his family—his wife and their children—are awesome and always have his back even when times are hard",
+        "score": 0.2388,
+        "id": "2602f92d-fc19-4691-83b1-7b63f071c3d7",
+        "created_at": "2023-08-13T15:14:00+00:00",
+        "updated_at": "2026-11-19T05:57:07.161880+00:00"
+      },
+      {
+        "memory": "Maria finds being around people like John inspiring",
+        "score": 0.2377,
+        "id": "a2ba0a29-2116-40a7-a2e9-51118e16430e",
+        "created_at": "2023-04-18T19:34:00+00:00",
+        "updated_at": "2026-11-19T04:44:29.703543+00:00"
+      },
+      {
+        "memory": "John frequently gets away to nature, finding it an awesome, uncomplicated way to be at one with the outdoors",
+        "score": 0.2365,
+        "id": "10bb9f57-6478-4a6d-ba38-8dc94d0e179b",
+        "created_at": "2023-06-12T14:47:00+00:00",
+        "updated_at": "2026-11-19T05:05:32.337278+00:00"
+      },
+      {
+        "memory": "John says his family is his motivation and keeps him going when times get hard",
+        "score": 0.2344,
+        "id": "ed813a76-56f8-4300-ae09-f3bcb150295a",
+        "created_at": "2023-07-05T18:59:00+00:00",
+        "updated_at": "2026-11-19T05:21:23.981646+00:00"
+      },
+      {
+        "memory": "Maria feels a strong sense of community and appreciates John's kind words",
+        "score": 0.2314,
+        "id": "9e6538c7-560d-4021-afde-7e03a249f5c7",
+        "created_at": "2023-04-10T18:13:00+00:00",
+        "updated_at": "2026-11-19T04:42:22.934234+00:00"
+      },
+      {
+        "memory": "John recalled a special vacation to California where he enjoyed a gorgeous sunset and an evening stroll along the shore, creating memories together",
+        "score": 0.2302,
+        "id": "fed6d9cf-41f8-4a51-a79d-60dad39c7f50",
+        "created_at": "2023-06-16T19:20:00+00:00",
+        "updated_at": "2026-11-19T05:11:03.277295+00:00"
+      },
+      {
+        "memory": "Maria praised John’s dedication to the community, calling it amazing",
+        "score": 0.2274,
+        "id": "37c20dbd-e4ff-4961-b7ce-094e199d996d",
+        "created_at": "2023-01-09T19:06:00+00:00",
+        "updated_at": "2026-11-19T04:14:40.365480+00:00"
+      },
+      {
+        "memory": "Maria says John is a great friend and she'll always be there for him",
+        "score": 0.2263,
+        "id": "de599ec9-1645-4be2-a894-62ba624847a5",
+        "created_at": "2023-02-05T14:33:00+00:00",
+        "updated_at": "2026-11-19T04:24:19.138317+00:00"
+      },
+      {
+        "memory": "John values support from loved ones and feels lucky to have his family—including his wife and kids—on his journey",
+        "score": 0.2261,
+        "id": "6c1a144c-b8d5-4fef-849d-b5fe8dfdedc2",
+        "created_at": "2023-06-16T19:20:00+00:00",
+        "updated_at": "2026-11-19T05:10:01.685816+00:00"
+      },
+      {
+        "memory": "John and his family attended a lively event with an energetic crowd",
+        "score": 0.2261,
+        "id": "cfb0de15-2b30-43a8-a5fa-dab5ff47ffc1",
+        "created_at": "2023-06-27T00:21:00+00:00",
+        "updated_at": "2026-11-19T05:12:47.470264+00:00"
+      },
+      {
+        "memory": "John and Maria had a meaningful experience at a military memorial during the week of July 24–30, 2023, which made a strong impact on John's kids",
+        "score": 0.2256,
+        "id": "e31a9779-7511-402b-ae81-04fa2f570dea",
+        "created_at": "2023-08-03T18:20:00+00:00",
+        "updated_at": "2026-11-19T05:38:04.378048+00:00"
+      },
+      {
+        "memory": "John says life is short and wants to have fun, expressing agreement with Maria",
+        "score": 0.2256,
+        "id": "51765d2c-a0fd-4805-8485-4a8515c1b059",
+        "created_at": "2023-07-17T15:34:00+00:00",
+        "updated_at": "2026-11-19T05:27:29.349687+00:00"
+      },
+      {
+        "memory": "John says his family are his rock in tough times, always cheer him on, and he is thankful for their love; family time means a lot to him",
+        "score": 0.2253,
+        "id": "40010e44-c456-4e94-8d3c-043388657023",
+        "created_at": "2022-12-22T18:10:00+00:00",
+        "updated_at": "2026-11-19T04:07:08.571980+00:00"
+      },
+      {
+        "memory": "John shared a photo of his family posing for a picture in a park",
+        "score": 0.2246,
+        "id": "73117580-6701-4b12-99b4-9dd4fe476b93",
+        "created_at": "2023-08-13T15:14:00+00:00",
+        "updated_at": "2026-11-19T05:57:07.161880+00:00"
+      },
+      {
+        "memory": "John found the stunning views amazing and thought‑provoking, reflecting on how they make him think",
+        "score": 0.2236,
+        "id": "07b4907b-1e52-412c-8d15-52b41652b4a4",
+        "created_at": "2023-04-10T18:13:00+00:00",
+        "updated_at": "2026-11-19T04:38:54.646789+00:00"
+      },
+      {
+        "memory": "John's family looked stoked in the photo he shared",
+        "score": 0.2226,
+        "id": "bc270199-1032-4eae-94c3-f852dd9c4597",
+        "created_at": "2023-07-05T18:59:00+00:00",
+        "updated_at": "2026-11-19T05:21:02.909911+00:00"
+      },
+      {
+        "memory": "John (John) shared a photo showing two children from his family sitting at a table playing a board game",
+        "score": 0.2219,
+        "id": "d3c5b467-3b81-48c1-8f16-87bbdda04cfe",
+        "created_at": "2023-08-13T15:14:00+00:00",
+        "updated_at": "2026-11-19T05:57:29.793715+00:00"
+      },
+      {
+        "memory": "John goes to the park a few times a week for family bonding and letting the kids run around",
+        "score": 0.2217,
+        "id": "8c08537c-0970-4b93-94af-3885d22e2631",
+        "created_at": "2023-03-06T18:03:00+00:00",
+        "updated_at": "2026-11-19T04:27:59.635775+00:00"
+      },
+      {
+        "memory": "John loves helping the community and wants to make it a better place",
+        "score": 0.2216,
+        "id": "4031e0e5-a5c5-452d-a854-d9c0517a6602",
+        "created_at": "2022-12-17T11:01:00+00:00",
+        "updated_at": "2026-11-19T04:03:16.584687+00:00"
+      },
+      {
+        "memory": "John shared a photo of his family enjoying a ride on a swing in a park",
+        "score": 0.221,
+        "id": "06d13ee8-a87f-460d-b246-e1f479a2b944",
+        "created_at": "2022-12-22T18:10:00+00:00",
+        "updated_at": "2026-11-19T04:07:08.571980+00:00"
+      },
+      {
+        "memory": "John returned from a family road trip on December 16, 2022, and said it was fun",
+        "score": 0.2207,
+        "id": "353b4334-87aa-4b10-b105-bf5f1e9513b8",
+        "created_at": "2022-12-17T11:01:00+00:00",
+        "updated_at": "2026-11-19T04:02:47.064502+00:00"
+      },
+      {
+        "memory": "Maria says John has a good support system.",
+        "score": 0.2199,
+        "id": "593d9687-adeb-433b-a7d0-2ef63e344dfc",
+        "created_at": "2023-03-06T18:03:00+00:00",
+        "updated_at": "2026-11-19T04:31:13.299318+00:00"
+      },
+      {
+        "memory": "John says his political journey has been interesting so far",
+        "score": 0.2192,
+        "id": "f611f968-6067-4be1-a79e-2481ca6f981a",
+        "created_at": "2022-12-22T18:10:00+00:00",
+        "updated_at": "2026-11-19T04:05:03.939394+00:00"
+      },
+      {
+        "memory": "John shared a photo of a downtown street map",
+        "score": 0.2182,
+        "id": "f9dbb9a5-02e4-4966-99be-6dc9fb2adde5",
+        "created_at": "2023-08-09T20:06:00+00:00",
+        "updated_at": "2026-11-19T05:43:38.751686+00:00"
+      },
+      {
+        "memory": "John says Maria's kindness ripples and creates incredible relationships",
+        "score": 0.218,
+        "id": "d1eed562-5671-4c61-adf7-e69f81d60868",
+        "created_at": "2023-04-10T18:13:00+00:00",
+        "updated_at": "2026-11-19T04:40:09.551768+00:00"
+      },
+      {
+        "memory": "John took a walk during the week of June 28–July 4, 2023 and captured a sunset over the ocean with a sailboat in the distance, which he shared as an image",
+        "score": 0.218,
+        "id": "5c0894af-f31b-473b-aa71-480b5beb8649",
+        "created_at": "2023-07-05T18:59:00+00:00",
+        "updated_at": "2026-11-19T05:22:21.962821+00:00"
+      },
+      {
+        "memory": "John says helping those in need is important to him",
+        "score": 0.2174,
+        "id": "dc91c077-9634-411c-8d28-11cabbf7cdbd",
+        "created_at": "2023-07-03T20:43:00+00:00",
+        "updated_at": "2026-11-19T05:18:06.650998+00:00"
+      },
+      {
+        "memory": "John went on a mountaineering trip with workmates during the week of June 5–11, 2023, which helped clear his head",
+        "score": 0.217,
+        "id": "c34620a3-eb36-43ab-8edf-14d3d60ea80e",
+        "created_at": "2023-06-12T14:47:00+00:00",
+        "updated_at": "2026-11-19T05:03:50.383504+00:00"
+      },
+      {
+        "memory": "John says he and his family love climbing, sliding, and playing games as an awesome way to connect and have a blast",
+        "score": 0.2167,
+        "id": "6e472084-1b16-4572-a51c-d6d817535e42",
+        "created_at": "2022-12-22T18:10:00+00:00",
+        "updated_at": "2026-11-19T04:07:20.695137+00:00"
+      },
+      {
+        "memory": "John says Maria's volunteering work is incredibly rewarding and amazing to him",
+        "score": 0.2164,
+        "id": "88ebce5e-6c23-42a0-ac02-b353de1393b3",
+        "created_at": "2023-01-28T13:17:00+00:00",
+        "updated_at": "2026-11-19T04:19:54.155859+00:00"
+      },
+      {
+        "memory": "John says Maria has built awesome connections and is making a big impact at the homeless shelter",
+        "score": 0.216,
+        "id": "52b46451-b1d2-4e68-8527-35e17eaa1173",
+        "created_at": "2023-03-06T18:03:00+00:00",
+        "updated_at": "2026-11-19T04:31:27.901053+00:00"
+      },
+      {
+        "memory": "John frequently attends a yoga studio and describes its vibe as really chill",
+        "score": 0.2154,
+        "id": "59c0c6ca-bc79-4acc-ad9a-2830476ad32e",
+        "created_at": "2023-07-22T18:21:00+00:00",
+        "updated_at": "2026-11-19T05:29:49.218046+00:00"
+      },
+      {
+        "memory": "John says Maria is dedicated to helping people",
+        "score": 0.2153,
+        "id": "38885740-d05a-4cdc-8242-4d7281f36cf3",
+        "created_at": "2023-04-18T19:34:00+00:00",
+        "updated_at": "2026-11-19T04:45:05.592124+00:00"
+      }
+    ],
+    "search_latency_ms": 412.2,
+    "total_results": 50
+  },
+  "cutoff_results": {
+    "top_50": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "John lives close to a beach.",
+      "memories_evaluated": 50,
+      "reason": "The generated answer matches the gold answer by stating John lives close to a beach."
+    }
+  }
+}

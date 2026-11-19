@@ -1,0 +1,379 @@
+{
+  "question_id": "conv4_q51",
+  "conversation_idx": 4,
+  "category": 3,
+  "category_name": "open-domain",
+  "question": "What kind of yoga for building core strength might John benefit from?",
+  "ground_truth_answer": "Hatha Yoga",
+  "evidence": [
+    "D20:2"
+  ],
+  "user_id": "locomo_4_fe8ec031",
+  "reference_date": "1:41 pm on 12 January, 2024",
+  "retrieval": {
+    "search_query": "What kind of yoga for building core strength might John benefit from?",
+    "search_results": [
+      {
+        "memory": "John typically holds the yoga pose for 30 to 60 seconds, saying it helps build strength and stability",
+        "score": 0.6038,
+        "id": "07198a15-ac6f-4042-97b2-b45af2ec575e",
+        "created_at": "2023-12-01T09:52:00+00:00",
+        "updated_at": "2026-11-19T05:26:34.541162+00:00"
+      },
+      {
+        "memory": "John shared a photo of himself doing the Warrior II yoga pose on a blue mat, noting it works the legs and core",
+        "score": 0.5924,
+        "id": "fdc27f7f-096e-47a2-a42a-cf60b4a01404",
+        "created_at": "2023-12-01T09:52:00+00:00",
+        "updated_at": "2026-11-19T05:26:11.805284+00:00"
+      },
+      {
+        "memory": "John says yoga has been awesome for him, improving his strength, flexibility, focus, and balance during workouts",
+        "score": 0.5169,
+        "id": "630ea613-f631-4f46-84ee-3ed1989519ac",
+        "created_at": "2023-12-01T09:52:00+00:00",
+        "updated_at": "2026-11-19T05:25:32.216132+00:00"
+      },
+      {
+        "memory": "John is trying out yoga to gain extra strength and flexibility, finding it challenging but worth it",
+        "score": 0.4781,
+        "id": "b640ff1e-80fc-446a-85a4-336e66a69e80",
+        "created_at": "2023-12-01T09:52:00+00:00",
+        "updated_at": "2026-11-19T05:25:05.803405+00:00"
+      },
+      {
+        "memory": "Tim asked whether strength training positively impacts his basketball performance, noting that the holistic approach seems to have numerous benefits",
+        "score": 0.4137,
+        "id": "0c264352-f38c-4b4a-b2b3-e74219d0ac55",
+        "created_at": "2023-08-21T16:29:00+00:00",
+        "updated_at": "2026-11-19T04:33:55.677131+00:00"
+      },
+      {
+        "memory": "John said strength training is important for basketball because it builds muscle, increases power, prevents injuries, makes him more explosive, and boosts his overall athleticism",
+        "score": 0.4064,
+        "id": "6a475376-083d-4267-9f04-8af661179d57",
+        "created_at": "2023-08-21T16:29:00+00:00",
+        "updated_at": "2026-11-19T04:33:49.231270+00:00"
+      },
+      {
+        "memory": "John enjoys specific yoga poses, especially Warrior II which makes him feel strong, and another pose that improves balance and stability; he loves how these poses challenge his body and mind",
+        "score": 0.2814,
+        "id": "a1ae32b4-cdb8-42f3-8a69-937fc9ecbb3b",
+        "created_at": "2023-12-01T09:52:00+00:00",
+        "updated_at": "2026-11-19T05:25:48.553075+00:00"
+      },
+      {
+        "memory": "Tim praised John's workout plan as impressive and thoughtfully designed, and asked why strength training is included in the routine",
+        "score": 0.2652,
+        "id": "cfa24928-7ceb-4cc6-84ea-42c9be305f1c",
+        "created_at": "2023-08-21T16:29:00+00:00",
+        "updated_at": "2026-11-19T04:33:39.323561+00:00"
+      },
+      {
+        "memory": "Tim congratulated John on finding yoga poses that suit him",
+        "score": 0.2649,
+        "id": "23595d2e-19f9-4bb6-aa52-5d16d754eb58",
+        "created_at": "2023-12-01T09:52:00+00:00",
+        "updated_at": "2026-11-19T05:26:02.988019+00:00"
+      },
+      {
+        "memory": "Tim asked John to share a picture of his yoga poses so Tim can try them",
+        "score": 0.2582,
+        "id": "2c3f981d-30e7-4815-a888-bba5f0a2b8fa",
+        "created_at": "2023-12-01T09:52:00+00:00",
+        "updated_at": "2026-11-19T05:26:02.988019+00:00"
+      },
+      {
+        "memory": "John said the best part of the recent win was the camaraderie built both on and off the court",
+        "score": 0.2576,
+        "id": "580f7065-9ddf-4bb1-b688-e79f79e6dfa4",
+        "created_at": "2023-12-08T19:42:00+00:00",
+        "updated_at": "2026-11-19T05:36:50.677651+00:00"
+      },
+      {
+        "memory": "John says they have team dinners, outings, and basketball games, and that moments away from practice build and strengthen their unity",
+        "score": 0.2471,
+        "id": "a7f90351-1495-4057-8a2a-8531a7d88147",
+        "created_at": "2023-12-08T19:42:00+00:00",
+        "updated_at": "2026-11-19T05:37:32.472368+00:00"
+      },
+      {
+        "memory": "Tim asked John how long he usually holds the yoga pose",
+        "score": 0.2447,
+        "id": "3979bd85-0759-4208-bdf9-4efbfb08c15e",
+        "created_at": "2023-12-01T09:52:00+00:00",
+        "updated_at": "2026-11-19T05:26:25.718300+00:00"
+      },
+      {
+        "memory": "John is focusing on improving his shooting and making a greater impact on the court, aiming to be known as a consistent performer who helps his team; off the court he is pursuing more endorsements and building his personal brand, thinking about life after basketball.",
+        "score": 0.2305,
+        "id": "04468881-30ec-4461-bf7d-a50abbea249e",
+        "created_at": "2023-09-21T20:17:00+00:00",
+        "updated_at": "2026-11-19T04:47:53.377429+00:00"
+      },
+      {
+        "memory": "Tim believes yoga is amazing for both body and mind",
+        "score": 0.2236,
+        "id": "e5a5e289-a1e8-4f82-b9ed-dc10ac972667",
+        "created_at": "2023-12-01T09:52:00+00:00",
+        "updated_at": "2026-11-19T05:25:37.147022+00:00"
+      },
+      {
+        "memory": "John says his team has seen the most growth in communication and bonding, which has improved performance by helping them understand each other's strengths and weaknesses",
+        "score": 0.2135,
+        "id": "a7ef26b1-9f84-4a8d-b2c3-67dd5c84c62b",
+        "created_at": "2023-12-19T10:04:00+00:00",
+        "updated_at": "2026-11-19T05:50:14.883495+00:00"
+      },
+      {
+        "memory": "John reported that incorporating strength training improved his shooting accuracy, agility, and speed, gave him an upper hand over opponents, and boosted his confidence on the court",
+        "score": 0.2071,
+        "id": "ff5254f7-8961-48ea-805d-c08725d34c83",
+        "created_at": "2023-08-21T16:29:00+00:00",
+        "updated_at": "2026-11-19T04:34:02.239210+00:00"
+      },
+      {
+        "memory": "John held a benefit basketball game last week as a charity tournament for children",
+        "score": 0.1946,
+        "id": "34d10d2a-8dbd-4285-aa77-9dd4eabe36a3",
+        "created_at": "2024-01-07T17:24:00+00:00",
+        "updated_at": "2026-11-19T06:03:41.306952+00:00"
+      },
+      {
+        "memory": "John figured out a balanced schedule that combines basketball practice with strength training after trial and error, emphasizing listening to his body, getting enough rest, and using the plan to push himself during practice while staying healthy",
+        "score": 0.1923,
+        "id": "d03f8117-f651-45c5-80f4-ffca7d831830",
+        "created_at": "2023-08-21T16:29:00+00:00",
+        "updated_at": "2026-11-19T04:33:20.600373+00:00"
+      },
+      {
+        "memory": "John is doing physical therapy exercises every day as part of his rehab and is trying to stay active despite it being tough",
+        "score": 0.1807,
+        "id": "e9f273a1-b99b-4b84-b628-5ac5d5d25ab2",
+        "created_at": "2023-12-16T15:37:00+00:00",
+        "updated_at": "2026-11-19T05:46:23.578553+00:00"
+      },
+      {
+        "memory": "John and his wife hosted a small get-together with friends and family to celebrate his successful pain‑free jog",
+        "score": 0.1776,
+        "id": "f21dcc44-612b-4c48-b8f3-fc9cbab1ab74",
+        "created_at": "2023-12-16T15:37:00+00:00",
+        "updated_at": "2026-11-19T05:47:08.968568+00:00"
+      },
+      {
+        "memory": "John says nature puts him in a great mood and always energizes him",
+        "score": 0.1753,
+        "id": "a9c5d81d-9ba2-411a-94f7-98c41c38b77c",
+        "created_at": "2023-12-19T10:04:00+00:00",
+        "updated_at": "2026-11-19T05:49:10.861648+00:00"
+      },
+      {
+        "memory": "John says his teammates believing in him and his love for improving his skills keep him going during tough times, and he doesn't want to let them down.",
+        "score": 0.172,
+        "id": "8fe84bbb-5654-483d-9397-a3e5d4e89b41",
+        "created_at": "2023-10-21T17:51:00+00:00",
+        "updated_at": "2026-11-19T05:09:00.077039+00:00"
+      },
+      {
+        "memory": "John said he will not give up on his rehab/training efforts",
+        "score": 0.1707,
+        "id": "a4480d9b-240d-4177-8e73-7dbfb70eaac5",
+        "created_at": "2024-01-02T17:26:00+00:00",
+        "updated_at": "2026-11-19T05:58:01.631041+00:00"
+      },
+      {
+        "memory": "John says learning an instrument is really cool",
+        "score": 0.1704,
+        "id": "9446b731-77b1-4e45-a4f2-8500238ae98f",
+        "created_at": "2023-12-06T17:34:00+00:00",
+        "updated_at": "2026-11-19T05:33:25.248459+00:00"
+      },
+      {
+        "memory": "Tim thinks John has a passion that helps him grow and reach his goals",
+        "score": 0.1701,
+        "id": "adeedb0e-e8ab-43fe-a305-af120afb47be",
+        "created_at": "2023-09-21T20:17:00+00:00",
+        "updated_at": "2026-11-19T04:48:24.913761+00:00"
+      },
+      {
+        "memory": "John wrote motivational quotes and strategies on his whiteboard to stay focused, push through tough workouts, and keep improving",
+        "score": 0.1696,
+        "id": "ae4a967e-7cb2-4fd5-a630-98bd26792d40",
+        "created_at": "2023-10-21T17:51:00+00:00",
+        "updated_at": "2026-11-19T05:07:59.120336+00:00"
+      },
+      {
+        "memory": "Tim believes that overcoming challenges builds strength and promotes personal growth, emphasizing the journey and what is learned rather than just winning",
+        "score": 0.1686,
+        "id": "4bc4d8be-b71d-4eb9-81a8-82c740a9b99b",
+        "created_at": "2023-11-06T11:41:00+00:00",
+        "updated_at": "2026-11-19T05:12:32.274683+00:00"
+      },
+      {
+        "memory": "John started surfing five years ago and loves the connection to nature",
+        "score": 0.1669,
+        "id": "ce8ddf91-7f8e-4c53-a7ed-ecd81180c9b9",
+        "created_at": "2023-07-16T16:21:00+00:00",
+        "updated_at": "2026-11-19T04:16:54.990227+00:00"
+      },
+      {
+        "memory": "John described his journey as tough",
+        "score": 0.166,
+        "id": "f40becd7-ac29-4d9d-9385-952d0e5d4de1",
+        "created_at": "2023-12-26T15:35:00+00:00",
+        "updated_at": "2026-11-19T05:51:51.251113+00:00"
+      },
+      {
+        "memory": "John says mentoring the younger players has been awesome, noting their growth, improvement, and confidence, and that he feels he is making a positive impact on their lives.",
+        "score": 0.1659,
+        "id": "8b5ba589-6654-40a5-a3c1-935b826eef05",
+        "created_at": "2023-10-17T13:50:00+00:00",
+        "updated_at": "2026-11-19T05:01:50.610692+00:00"
+      },
+      {
+        "memory": "Tim said the spot shown in John's morning workout photo is a good spot for a morning workout",
+        "score": 0.1653,
+        "id": "185813a9-2a7a-466a-9b93-296789b729d0",
+        "created_at": "2023-12-16T15:37:00+00:00",
+        "updated_at": "2026-11-19T05:45:24.750230+00:00"
+      },
+      {
+        "memory": "John intends to keep working hard",
+        "score": 0.1643,
+        "id": "c2f8e9d8-0313-4353-a698-33e2f3e90310",
+        "created_at": "2023-11-21T10:22:00+00:00",
+        "updated_at": "2026-11-19T05:22:02.149615+00:00"
+      },
+      {
+        "memory": "User asked John for his favorite recipes to try.",
+        "score": 0.1638,
+        "id": "d2142e36-df53-4ebe-9f58-0ad13724c453",
+        "created_at": "2023-10-21T17:51:00+00:00",
+        "updated_at": "2026-11-19T05:11:05.951471+00:00"
+      },
+      {
+        "memory": "Tim believes that having teammates or supporters cheering him on provides a powerful source of strength",
+        "score": 0.1638,
+        "id": "7ea70105-4f94-4c3b-8787-3e9b70b7ce3b",
+        "created_at": "2023-08-17T19:54:00+00:00",
+        "updated_at": "2026-11-19T04:34:43.430048+00:00"
+      },
+      {
+        "memory": "John said he loves the ocean",
+        "score": 0.1623,
+        "id": "926bc2c9-13df-43f0-ac4f-2d2f7ce8e085",
+        "created_at": "2023-07-16T16:21:00+00:00",
+        "updated_at": "2026-11-19T04:16:17.375921+00:00"
+      },
+      {
+        "memory": "John said training at the new gym is great, but he had to overcome the hurdle of adapting and tweaking his routine, finding the right balance was tricky before eventually getting the hang of it",
+        "score": 0.1621,
+        "id": "b852eee7-e996-4807-b9f5-29b7dc7e4261",
+        "created_at": "2023-08-21T16:29:00+00:00",
+        "updated_at": "2026-11-19T04:32:28.530670+00:00"
+      },
+      {
+        "memory": "John says the team bond is awesome and makes all the hard work worth it",
+        "score": 0.161,
+        "id": "a386e1f5-4eaf-4046-a0da-dd473ebba5e6",
+        "created_at": "2023-08-09T10:29:00+00:00",
+        "updated_at": "2026-11-19T04:21:38.132862+00:00"
+      },
+      {
+        "memory": "John says that personal growth and getting better, both on and off the basketball court, are his focus",
+        "score": 0.1606,
+        "id": "fc989782-b0bc-464c-a5ce-ea883b261afb",
+        "created_at": "2023-11-21T10:22:00+00:00",
+        "updated_at": "2026-11-19T05:22:02.149615+00:00"
+      },
+      {
+        "memory": "John shared a photo showing a man sitting on a chair with a blue ball while performing physical therapy exercises",
+        "score": 0.1599,
+        "id": "b12b994e-d8fb-44ea-bbea-c9b5bdff78a9",
+        "created_at": "2023-12-16T15:37:00+00:00",
+        "updated_at": "2026-11-19T05:46:23.578553+00:00"
+      },
+      {
+        "memory": "John says winning experiences make him love the game",
+        "score": 0.1598,
+        "id": "f61efabc-a5ce-41a0-8717-b057a00ba49c",
+        "created_at": "2023-12-16T15:37:00+00:00",
+        "updated_at": "2026-11-19T05:44:25.380113+00:00"
+      },
+      {
+        "memory": "John said nature is powerful and beautiful, and that it is humbling to witness such sights",
+        "score": 0.1594,
+        "id": "2b79253d-a4f9-4475-be94-b864cb5cbb17",
+        "created_at": "2023-11-11T15:36:00+00:00",
+        "updated_at": "2026-11-19T05:15:32.177382+00:00"
+      },
+      {
+        "memory": "John says he is a great leader who puts others first and will eventually become king",
+        "score": 0.1593,
+        "id": "15a5201c-63a3-4f79-9d0a-556494d22a6f",
+        "created_at": "2024-01-02T17:26:00+00:00",
+        "updated_at": "2026-11-19T05:59:10.237554+00:00"
+      },
+      {
+        "memory": "Tim expressed empathy about John's recent ankle injury and asked whether John has been able to stay active or maintain his fitness routine while recovering",
+        "score": 0.1587,
+        "id": "87dd8bd8-4930-41cb-bf29-a599bb4b73b0",
+        "created_at": "2023-12-16T15:37:00+00:00",
+        "updated_at": "2026-11-19T05:46:05.224583+00:00"
+      },
+      {
+        "memory": "John expressed that support has been a significant part of his life, allowing him to be himself, pursue his passions, and he intends to keep chasing his dreams",
+        "score": 0.1582,
+        "id": "084c365d-5e43-47bb-add6-07715ff73d47",
+        "created_at": "2023-12-11T20:28:00+00:00",
+        "updated_at": "2026-11-19T05:42:18.294660+00:00"
+      },
+      {
+        "memory": "John expressed that being out in the water is amazing, describing the waves and wind as super exciting and free‑feeling, and said nature is pretty special",
+        "score": 0.1582,
+        "id": "7942c653-c86b-421e-83e6-de937b981af0",
+        "created_at": "2023-07-16T16:21:00+00:00",
+        "updated_at": "2026-11-19T04:17:17.497708+00:00"
+      },
+      {
+        "memory": "John had a milestone on Friday, December 15, 2023, at the gym where he was able to jog a short distance without pain, feeling relief",
+        "score": 0.1579,
+        "id": "dae1cbc1-5103-4223-89e7-c414bc0d724a",
+        "created_at": "2023-12-16T15:37:00+00:00",
+        "updated_at": "2026-11-19T05:47:00.927951+00:00"
+      },
+      {
+        "memory": "Tim says John has tons of determination and passion and will make a difference",
+        "score": 0.1575,
+        "id": "adced3f6-6a0a-4030-8967-e896bb874f19",
+        "created_at": "2023-08-11T13:08:00+00:00",
+        "updated_at": "2026-11-19T04:29:03.740350+00:00"
+      },
+      {
+        "memory": "John says basketball brings people together and creates a positive impact",
+        "score": 0.1573,
+        "id": "5e11eec3-211e-4128-8005-13c66d01761c",
+        "created_at": "2024-01-07T17:24:00+00:00",
+        "updated_at": "2026-11-19T06:04:25.284589+00:00"
+      },
+      {
+        "memory": "John said he will definitely reach out if he needs more suggestions",
+        "score": 0.157,
+        "id": "0176dba4-d958-4b6a-b475-5bb091f0b0c5",
+        "created_at": "2023-09-21T20:17:00+00:00",
+        "updated_at": "2026-11-19T04:46:58.570860+00:00"
+      }
+    ],
+    "search_latency_ms": 1315.6,
+    "total_results": 50
+  },
+  "cutoff_results": {
+    "top_50": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "A core-focused yoga practice built around standing sequences—especially the Warrior series (like Warrior II, which he already uses for legs and core)—plus balance/stability poses held for 30–60 seconds to deepen core engagement.",
+      "memories_evaluated": 50,
+      "reason": "The generated answer does not mention or clearly paraphrase 'Hatha Yoga,' the specific style in the gold answer."
+    }
+  }
+}

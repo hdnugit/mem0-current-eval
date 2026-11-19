@@ -1,0 +1,379 @@
+{
+  "question_id": "conv3_q0",
+  "conversation_idx": 3,
+  "category": 3,
+  "category_name": "open-domain",
+  "question": "Is it likely that Nate has friends besides Joanna?",
+  "ground_truth_answer": "Yesteammates on hisvideo game team.",
+  "evidence": [
+    "D1:7"
+  ],
+  "user_id": "locomo_3_fe8ec031",
+  "reference_date": "12:06 am on 11 November, 2022",
+  "retrieval": {
+    "search_query": "Is it likely that Nate has friends besides Joanna?",
+    "search_results": [
+      {
+        "memory": "Joanna asks Nate whether he will invite his tournament friends",
+        "score": 0.6647,
+        "id": "4a13f7ac-ab91-4565-83fb-9f326bf8401e",
+        "created_at": "2022-06-03T17:44:00+00:00",
+        "updated_at": "2026-11-19T04:59:21.441441+00:00"
+      },
+      {
+        "memory": "Nate suggested that he and Joanna should go together sometime",
+        "score": 0.5354,
+        "id": "acc9bdea-5b8e-45e1-9892-579a3b2eca81",
+        "created_at": "2022-05-12T15:35:00+00:00",
+        "updated_at": "2026-11-19T04:43:15.892518+00:00"
+      },
+      {
+        "memory": "Joanna agreed to see Nate later",
+        "score": 0.5282,
+        "id": "19cf38a8-152c-4b57-a99d-af6e432fb65e",
+        "created_at": "2022-05-12T15:35:00+00:00",
+        "updated_at": "2026-11-19T04:43:35.491889+00:00"
+      },
+      {
+        "memory": "Joanna (Joanna) says she will keep Nate posted and loves his creations",
+        "score": 0.524,
+        "id": "e1122805-4ff4-4f87-8076-478d3c699db4",
+        "created_at": "2022-02-25T13:07:00+00:00",
+        "updated_at": "2026-11-19T04:18:25.678038+00:00"
+      },
+      {
+        "memory": "Joanna is grateful for her supportive friends",
+        "score": 0.5131,
+        "id": "422ee115-34aa-4566-a884-7152fbd20bc2",
+        "created_at": "2022-05-20T19:49:00+00:00",
+        "updated_at": "2026-11-19T04:45:41.552839+00:00"
+      },
+      {
+        "memory": "Nate, Joanna’s friend, frequently shares updates about his gaming tournaments (including a recent win) and vegan cooking experiments, and they exchange mutual encouragement.",
+        "score": 0.5107,
+        "id": "57e7a6e2-c910-451f-99de-7fc0e6d19a1a",
+        "created_at": "2022-07-10T14:34:00+00:00",
+        "updated_at": "2026-11-19T05:07:15.041028+00:00"
+      },
+      {
+        "memory": "Joanna says goodbye to Nate",
+        "score": 0.509,
+        "id": "eeaaf75d-e1f4-46ef-bed4-8bd2537db265",
+        "created_at": "2022-10-09T10:58:00+00:00",
+        "updated_at": "2026-11-19T05:28:59.520228+00:00"
+      },
+      {
+        "memory": "Nate expressed that Joanna can always count on him for support",
+        "score": 0.5032,
+        "id": "5f83f849-8783-4963-bc06-ffa7816dc120",
+        "created_at": "2022-10-06T11:15:00+00:00",
+        "updated_at": "2026-11-19T05:23:58.385723+00:00"
+      },
+      {
+        "memory": "Joanna invites Nate to join her on the trails sometime",
+        "score": 0.4979,
+        "id": "8c38112b-188e-4dab-9f53-126330895274",
+        "created_at": "2022-05-12T15:35:00+00:00",
+        "updated_at": "2026-11-19T04:43:21.654166+00:00"
+      },
+      {
+        "memory": "Nate asked Joanna about her plans for the weekend",
+        "score": 0.4962,
+        "id": "8d8c5c82-427e-4642-8dd4-854c2bb35ae0",
+        "created_at": "2022-06-03T17:44:00+00:00",
+        "updated_at": "2026-11-19T04:59:01.228830+00:00"
+      },
+      {
+        "memory": "Joanna asked Nate what inspired him",
+        "score": 0.4952,
+        "id": "cf4b9d74-00d6-4ca6-bf50-27cd2f73fb67",
+        "created_at": "2022-10-06T11:15:00+00:00",
+        "updated_at": "2026-11-19T05:24:03.546646+00:00"
+      },
+      {
+        "memory": "Nate thanks Joanna for her help and kind words",
+        "score": 0.494,
+        "id": "463c66d4-e437-49a8-9c05-6b22c3e0298a",
+        "created_at": "2022-03-24T13:43:00+00:00",
+        "updated_at": "2026-11-19T04:27:04.658794+00:00"
+      },
+      {
+        "memory": "Nate will invite some old friends and teammates from other tournaments",
+        "score": 0.4938,
+        "id": "6e4a9247-152a-4ea7-807c-15f4e77dab80",
+        "created_at": "2022-06-03T17:44:00+00:00",
+        "updated_at": "2026-11-19T04:59:31.487644+00:00"
+      },
+      {
+        "memory": "Nate says he is not doing anything at the moment and welcomes Joanna to join him",
+        "score": 0.4913,
+        "id": "0b212c0c-eeb8-4481-95fe-5edc2c119ca7",
+        "created_at": "2022-11-04T15:56:00+00:00",
+        "updated_at": "2026-11-19T05:37:24.765881+00:00"
+      },
+      {
+        "memory": "Joanna will see Nate on 2022-11-10",
+        "score": 0.491,
+        "id": "d7d4b60f-c6ac-40b1-8053-207886a50065",
+        "created_at": "2022-11-09T17:54:00+00:00",
+        "updated_at": "2026-11-19T05:49:30.907604+00:00"
+      },
+      {
+        "memory": "Joanna asked Nate about his current projects",
+        "score": 0.4898,
+        "id": "a0e45c62-de48-4386-a045-f602478951a5",
+        "created_at": "2022-11-09T17:54:00+00:00",
+        "updated_at": "2026-11-19T05:46:28.398531+00:00"
+      },
+      {
+        "memory": "Nate frequently plays Street Fighter with his friends",
+        "score": 0.4872,
+        "id": "8778ba0b-94e6-44e3-9ce2-e4822de33958",
+        "created_at": "2022-05-02T11:54:00+00:00",
+        "updated_at": "2026-11-19T04:38:44.651368+00:00"
+      },
+      {
+        "memory": "Joanna thanks Nate and says she is glad he is excited",
+        "score": 0.4869,
+        "id": "602091cf-70b8-4cc5-8bdc-92ea58399505",
+        "created_at": "2022-07-10T14:34:00+00:00",
+        "updated_at": "2026-11-19T05:08:46.508742+00:00"
+      },
+      {
+        "memory": "Joanna thinks Nate's cooking is amazing",
+        "score": 0.4855,
+        "id": "999678f7-c3ac-417d-baa3-8f4505cb246b",
+        "created_at": "2022-02-25T13:07:00+00:00",
+        "updated_at": "2026-11-19T04:22:35.050080+00:00"
+      },
+      {
+        "memory": "Joanna last talked with Nate around May 5, 2022",
+        "score": 0.4853,
+        "id": "68b33d6f-93e3-4798-8732-b6f2c21ad3eb",
+        "created_at": "2022-05-12T15:35:00+00:00",
+        "updated_at": "2026-11-19T04:43:51.328803+00:00"
+      },
+      {
+        "memory": "Joanna thanks Nate for his support and says she will keep him updated",
+        "score": 0.4838,
+        "id": "e1335d5a-3aaf-4daa-ab86-ee9e706888c7",
+        "created_at": "2022-03-24T13:43:00+00:00",
+        "updated_at": "2026-11-19T04:25:45.525199+00:00"
+      },
+      {
+        "memory": "Joanna (Joanna) asked Nate for his favorite dairy‑free desserts.",
+        "score": 0.4803,
+        "id": "aea8f58c-35ec-4a0d-adac-c5bb91cf4091",
+        "created_at": "2022-09-14T13:43:00+00:00",
+        "updated_at": "2026-11-19T05:21:00.430314+00:00"
+      },
+      {
+        "memory": "Nate wishes Joanna good luck with her project",
+        "score": 0.4787,
+        "id": "f9f1fcef-c4c1-411c-9a9b-7b489c26e074",
+        "created_at": "2022-03-24T13:43:00+00:00",
+        "updated_at": "2026-11-19T04:27:04.658794+00:00"
+      },
+      {
+        "memory": "Joanna appreciates Nate's love for dairy‑free desserts",
+        "score": 0.4778,
+        "id": "8fa716e0-55b5-4a7b-877f-2b1d89db89e2",
+        "created_at": "2022-08-14T18:12:00+00:00",
+        "updated_at": "2026-11-19T05:10:42.920576+00:00"
+      },
+      {
+        "memory": "Nate expressed that his support makes a difference for Joanna and that he is there for her",
+        "score": 0.4774,
+        "id": "c4cab6a3-24e0-4490-b3a0-cd76d8a17625",
+        "created_at": "2022-03-18T18:59:00+00:00",
+        "updated_at": "2026-11-19T04:24:37.421448+00:00"
+      },
+      {
+        "memory": "Joanna wonders if her relationship with Nate is weird because they are competitors",
+        "score": 0.4771,
+        "id": "d05cf84d-d64c-4d8b-a11e-fd5b0e430fbe",
+        "created_at": "2022-01-23T14:01:00+00:00",
+        "updated_at": "2026-11-19T04:08:06.409565+00:00"
+      },
+      {
+        "memory": "Joanna asked Nate about his next move in the gaming world",
+        "score": 0.4726,
+        "id": "d4cd752a-3c3b-4e40-a44a-5eff7bc328a4",
+        "created_at": "2022-11-09T17:54:00+00:00",
+        "updated_at": "2026-11-19T05:45:18.224835+00:00"
+      },
+      {
+        "memory": "Joanna says Nate's cooking skills are awesome",
+        "score": 0.4685,
+        "id": "b3f4a4b7-908e-49b8-89f5-3944390364c7",
+        "created_at": "2022-02-07T09:27:00+00:00",
+        "updated_at": "2026-11-19T04:14:34.810321+00:00"
+      },
+      {
+        "memory": "Joanna says she would love to do either of the suggested activities with Nate",
+        "score": 0.4676,
+        "id": "e9f86455-d22f-492e-9aad-9caf1db1b029",
+        "created_at": "2022-11-09T17:54:00+00:00",
+        "updated_at": "2026-11-19T05:49:18.931460+00:00"
+      },
+      {
+        "memory": "Joanna praised Nate for being able to go out and meet people, encouraging him to keep it up",
+        "score": 0.4629,
+        "id": "73fbde29-1e1c-4247-90f1-85868865afc8",
+        "created_at": "2022-05-25T15:00:00+00:00",
+        "updated_at": "2026-11-19T04:48:44.088362+00:00"
+      },
+      {
+        "memory": "Joanna (Joanna) asks Nate to let her know his thoughts on her screenplay after he reads it",
+        "score": 0.4626,
+        "id": "8504a44b-deb9-428d-9960-78a6f6a47f00",
+        "created_at": "2022-02-07T09:27:00+00:00",
+        "updated_at": "2026-11-19T04:15:42.767462+00:00"
+      },
+      {
+        "memory": "Joanna asks Nate whether he will cheer on the team even if they lose",
+        "score": 0.4607,
+        "id": "0cb6051e-1d09-4f64-9ac7-0242e114f042",
+        "created_at": "2022-01-23T14:01:00+00:00",
+        "updated_at": "2026-11-19T04:08:20.391876+00:00"
+      },
+      {
+        "memory": "Joanna expressed that something Nate showed looks awesome",
+        "score": 0.4598,
+        "id": "212cc1df-df89-444f-9b56-1005e187f580",
+        "created_at": "2022-10-06T11:15:00+00:00",
+        "updated_at": "2026-11-19T05:24:03.546646+00:00"
+      },
+      {
+        "memory": "Joanna says she finds Nate's thought cute and loves it",
+        "score": 0.4596,
+        "id": "957873b4-40e2-4f46-a5b3-5f095e230054",
+        "created_at": "2022-05-25T15:00:00+00:00",
+        "updated_at": "2026-11-19T04:54:12.869467+00:00"
+      },
+      {
+        "memory": "Joanna says she will not give up on her goals as long as Nate supports her",
+        "score": 0.4592,
+        "id": "62445e94-e6e8-4aa3-a1ac-0f64a33ead51",
+        "created_at": "2022-10-06T11:15:00+00:00",
+        "updated_at": "2026-11-19T05:23:52.717055+00:00"
+      },
+      {
+        "memory": "Joanna hasn't seen pictures of Nate's turtles in a while",
+        "score": 0.4565,
+        "id": "a4fc11c3-04a7-494c-93d8-d46604492938",
+        "created_at": "2022-11-07T20:10:00+00:00",
+        "updated_at": "2026-11-19T05:39:21.628463+00:00"
+      },
+      {
+        "memory": "Nate said he can't wait to try the desserts Joanna made",
+        "score": 0.4561,
+        "id": "dd8ff652-19d4-47b6-ac06-cfaba67d406c",
+        "created_at": "2022-09-05T18:03:00+00:00",
+        "updated_at": "2026-11-19T05:17:56.164218+00:00"
+      },
+      {
+        "memory": "Joanna will bring some of her recipes to share desserts with Nate",
+        "score": 0.4537,
+        "id": "a95007f1-ee11-4860-8a81-defb432cb52a",
+        "created_at": "2022-11-04T15:56:00+00:00",
+        "updated_at": "2026-11-19T05:37:30.207210+00:00"
+      },
+      {
+        "memory": "Nate believes baking and cooking bring him and Joanna together",
+        "score": 0.4512,
+        "id": "87cbbe43-3bd4-477a-8c44-19051f4df75c",
+        "created_at": "2022-09-05T18:03:00+00:00",
+        "updated_at": "2026-11-19T05:17:56.164218+00:00"
+      },
+      {
+        "memory": "Joanna loves Nate's turtles and says they are cute",
+        "score": 0.4505,
+        "id": "c0f59d48-825e-41a4-adcd-f4b039c4cc13",
+        "created_at": "2022-04-17T18:44:00+00:00",
+        "updated_at": "2026-11-19T04:31:17.161682+00:00"
+      },
+      {
+        "memory": "Joanna wishes to try Nate's dessert but cannot at the moment",
+        "score": 0.4489,
+        "id": "6f468c3e-db3f-472c-a5c6-f27b74a111a1",
+        "created_at": "2022-11-09T17:54:00+00:00",
+        "updated_at": "2026-11-19T05:44:20.970767+00:00"
+      },
+      {
+        "memory": "Joanna hasn't talked with Nate for a few days as of January 23, 2022",
+        "score": 0.4475,
+        "id": "77897cf3-1afa-468a-bce6-38aa090629e1",
+        "created_at": "2022-01-23T14:01:00+00:00",
+        "updated_at": "2026-11-19T04:29:04.372915+00:00"
+      },
+      {
+        "memory": "Joanna asked Nate what game he was playing",
+        "score": 0.4473,
+        "id": "a04247f6-03a2-4d98-8967-ed9b6937f589",
+        "created_at": "2022-05-02T11:54:00+00:00",
+        "updated_at": "2026-11-19T04:39:20.451700+00:00"
+      },
+      {
+        "memory": "Nate said he will give Joanna a shout whenever he runs out of things to watch",
+        "score": 0.4471,
+        "id": "3347d2ca-ec94-4318-b2aa-b6f0e8ab3757",
+        "created_at": "2022-02-07T09:27:00+00:00",
+        "updated_at": "2026-11-19T04:15:38.448676+00:00"
+      },
+      {
+        "memory": "Joanna appreciates mutual support with Nate in reaching their goals",
+        "score": 0.4467,
+        "id": "8e395908-4cb9-425c-ae7d-1d1948661aa5",
+        "created_at": "2022-11-09T17:54:00+00:00",
+        "updated_at": "2026-11-19T05:48:02.246842+00:00"
+      },
+      {
+        "memory": "Joanna asks Nate why he chose turtles as pets",
+        "score": 0.4463,
+        "id": "81310b51-312a-4f03-8218-ac3cf1474ae1",
+        "created_at": "2022-03-18T18:59:00+00:00",
+        "updated_at": "2026-11-19T04:21:18.827584+00:00"
+      },
+      {
+        "memory": "Joanna thanks Nate, says she loves his ideas and is eager to try them out",
+        "score": 0.4461,
+        "id": "52f689a7-2b76-429d-b426-5d04e777c3d3",
+        "created_at": "2022-09-05T18:03:00+00:00",
+        "updated_at": "2026-11-19T05:18:43.261778+00:00"
+      },
+      {
+        "memory": "Nate encouraged Joanna not to quit and said the path forward will show up soon",
+        "score": 0.446,
+        "id": "8278085c-b9e7-48ac-8347-0cdbc4041727",
+        "created_at": "2022-03-18T18:59:00+00:00",
+        "updated_at": "2026-11-19T04:23:55.365149+00:00"
+      },
+      {
+        "memory": "Nate said he hadn't talked with Joanna in a while as of April 17, 2022",
+        "score": 0.4458,
+        "id": "78877b4b-33f0-48a5-b0ab-801656b31e55",
+        "created_at": "2022-04-17T18:44:00+00:00",
+        "updated_at": "2026-11-19T04:41:01.875529+00:00"
+      },
+      {
+        "memory": "Joanna (Joanna) expressed that she is glad Nate met people who share his interests, noting that it makes experiences more fun",
+        "score": 0.4453,
+        "id": "e7b79722-42ef-4067-a92e-86b5fdc8feb4",
+        "created_at": "2022-10-09T10:58:00+00:00",
+        "updated_at": "2026-11-19T05:25:29.846269+00:00"
+      }
+    ],
+    "search_latency_ms": 658.2,
+    "total_results": 50
+  },
+  "cutoff_results": {
+    "top_50": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Yes. Nate frequently plays with his friends, and he mentioned inviting old friends and tournament teammates; Joanna also noted he’s met people who share his interests.",
+      "memories_evaluated": 50,
+      "reason": "The generated answer agrees with the gold answer by saying yes and citing his video game/tournament teammates as friends beyond Joanna."
+    }
+  }
+}

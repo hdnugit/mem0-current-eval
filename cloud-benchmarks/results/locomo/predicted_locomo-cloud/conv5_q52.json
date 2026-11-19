@@ -1,0 +1,382 @@
+{
+  "question_id": "conv5_q52",
+  "conversation_idx": 5,
+  "category": 3,
+  "category_name": "open-domain",
+  "question": "What is something that Andrew could do to make birdwatching hobby to fit in his city schedule?",
+  "ground_truth_answer": "Install a bird feeder outside where he can see the birds without going outdoors.",
+  "evidence": [
+    "D20:5",
+    "D20:21",
+    "D23:1",
+    "D1:14"
+  ],
+  "user_id": "locomo_5_fe8ec031",
+  "reference_date": "9:02 am on 22 November, 2023",
+  "retrieval": {
+    "search_query": "What is something that Andrew could do to make birdwatching hobby to fit in his city schedule?",
+    "search_results": [
+      {
+        "memory": "Andrew says birdwatching is peaceful and calming, offers to give birdwatching advice because he knows a thing or two, and suggests they could all go birdwatching sometime",
+        "score": 0.6775,
+        "id": "7399e1e4-ef2b-47a4-8b94-eb54e72bc9b1",
+        "created_at": "2023-10-01T19:09:00+00:00",
+        "updated_at": "2026-11-19T05:26:07.639858+00:00"
+      },
+      {
+        "memory": "User expressed interest in taking up Andrew's offer for birdwatching advice",
+        "score": 0.6721,
+        "id": "e667f5ff-ff4a-49c0-a906-848fe49cea73",
+        "created_at": "2023-10-01T19:09:00+00:00",
+        "updated_at": "2026-11-19T05:26:14.580565+00:00"
+      },
+      {
+        "memory": "Audrey plans to check her schedule and will follow up about birdwatching, expressing excitement for the activity",
+        "score": 0.6477,
+        "id": "9d9511d1-2602-45d0-9b63-2207016f54c1",
+        "created_at": "2023-10-01T19:09:00+00:00",
+        "updated_at": "2026-11-19T05:26:25.400868+00:00"
+      },
+      {
+        "memory": "Audrey is currently reading a bird‑watching guidebook (shown in a shared image of a book with a bird and binoculars) and plans to use it for birdwatching",
+        "score": 0.5502,
+        "id": "f3edb997-af51-456a-87fb-6c6b6c2c3d16",
+        "created_at": "2023-10-01T19:09:00+00:00",
+        "updated_at": "2026-11-19T05:26:14.580565+00:00"
+      },
+      {
+        "memory": "Andrew will bring binoculars, a notebook, a pen, and a camera to log birdwatching observations during the upcoming trip",
+        "score": 0.5259,
+        "id": "c1afb5e5-a95c-4815-8a5c-2581540df08f",
+        "created_at": "2023-10-01T19:09:00+00:00",
+        "updated_at": "2026-11-19T05:26:54.474516+00:00"
+      },
+      {
+        "memory": "Andrew tries to escape the city at least once a weekend as a much-needed break",
+        "score": 0.4091,
+        "id": "893125d5-aa19-41e0-aeec-fcdd408922a3",
+        "created_at": "2023-05-03T17:41:00+00:00",
+        "updated_at": "2026-11-19T04:19:27.626465+00:00"
+      },
+      {
+        "memory": "Andrew finds it hard to find open spaces in the city",
+        "score": 0.404,
+        "id": "26b71717-ca79-4b4a-8d7c-1da3b3eb59e0",
+        "created_at": "2023-10-04T16:18:00+00:00",
+        "updated_at": "2026-11-19T05:30:41.202085+00:00"
+      },
+      {
+        "memory": "Andrew says he has managed to make it work with dogs while still living in the city",
+        "score": 0.4017,
+        "id": "dc660f2b-10ea-4b4e-94b5-5aa912acd2ae",
+        "created_at": "2023-11-04T19:59:00+00:00",
+        "updated_at": "2026-11-19T05:53:46.123268+00:00"
+      },
+      {
+        "memory": "Andrew said the place shown is far from the city and wishes he could take his dogs there",
+        "score": 0.3879,
+        "id": "6913718c-62e0-4293-b1ae-e984016c5d10",
+        "created_at": "2023-10-19T18:12:00+00:00",
+        "updated_at": "2026-11-19T05:42:03.651531+00:00"
+      },
+      {
+        "memory": "Andrew has been getting into cooking and trying out new recipes as a new hobby because he cannot hike currently",
+        "score": 0.3875,
+        "id": "53f059f6-ea3f-498c-a45f-d9e976da9988",
+        "created_at": "2023-07-03T20:32:00+00:00",
+        "updated_at": "2026-11-19T04:46:41.836744+00:00"
+      },
+      {
+        "memory": "Audrey wants to do birdwatching and finds it peaceful and calming",
+        "score": 0.3667,
+        "id": "8b230d54-4244-42a8-bf01-75234ca1d4b3",
+        "created_at": "2023-10-01T19:09:00+00:00",
+        "updated_at": "2026-11-19T05:25:59.044986+00:00"
+      },
+      {
+        "memory": "Andrew shared a photo of a sunset taken from a mountain peak with a view of the city during his recent hike",
+        "score": 0.353,
+        "id": "bb6b3e6e-b280-4be4-a504-df1f2a49aad4",
+        "created_at": "2023-09-06T19:49:00+00:00",
+        "updated_at": "2026-11-19T05:17:21.698240+00:00"
+      },
+      {
+        "memory": "Andrew asks for advice on how city-dwellers who own a puppy can enjoy hiking or dog‑friendly activities",
+        "score": 0.3446,
+        "id": "509aeafe-a27e-413c-bdbd-63972a648739",
+        "created_at": "2023-08-04T11:05:00+00:00",
+        "updated_at": "2026-11-19T05:06:54.997389+00:00"
+      },
+      {
+        "memory": "Andrew went on a hike during the weekend of September 2–3, 2023, and enjoyed a beautiful sunset from a mountain peak overlooking the city",
+        "score": 0.3323,
+        "id": "c2ed79a8-3662-4c64-821c-ef1df9cd69fc",
+        "created_at": "2023-09-06T19:49:00+00:00",
+        "updated_at": "2026-11-19T05:17:21.698240+00:00"
+      },
+      {
+        "memory": "Andrew finds nature calms his mind and relaxes him, serving as a break from the craziness of city living",
+        "score": 0.3294,
+        "id": "531b6ffe-a20c-4da7-819d-2e00f7544802",
+        "created_at": "2023-08-04T11:05:00+00:00",
+        "updated_at": "2026-11-19T05:04:31.536836+00:00"
+      },
+      {
+        "memory": "Andrew lives in the city, misses nature a lot, and whenever possible he tries to go to nearby parks or on hikes, finding them peaceful and joyful experiences.",
+        "score": 0.3281,
+        "id": "3525ea71-4124-4b86-89e8-719bf68ca037",
+        "created_at": "2023-10-13T16:22:00+00:00",
+        "updated_at": "2026-11-19T05:38:37.540036+00:00"
+      },
+      {
+        "memory": "Andrew tried a new cafe scene in the city during the weekend of April 15–16, 2023, and found it super fun",
+        "score": 0.328,
+        "id": "969496a3-c78b-4209-b550-7f8384e5005b",
+        "created_at": "2023-04-16T16:19:00+00:00",
+        "updated_at": "2026-11-19T04:11:29.273771+00:00"
+      },
+      {
+        "memory": "Andrew finds cooking to be an escape, a way to try something new, a relaxing activity that allows him to express his creativity and is becoming one of his favorite hobbies",
+        "score": 0.3273,
+        "id": "4f2988a2-7b77-449d-a114-6c1a71d98e3c",
+        "created_at": "2023-07-03T20:32:00+00:00",
+        "updated_at": "2026-11-19T04:48:25.359683+00:00"
+      },
+      {
+        "memory": "Andrew says it will be fun to explore and spot birds",
+        "score": 0.3019,
+        "id": "732aa919-902e-44fb-97f8-e9be19569411",
+        "created_at": "2023-10-01T19:09:00+00:00",
+        "updated_at": "2026-11-19T05:26:43.913817+00:00"
+      },
+      {
+        "memory": "Andrew says it is tough to find a pet‑friendly spot in the city, has checked out several places without success, feels a bit discouraged but remains determined to find the right place and a dog",
+        "score": 0.2894,
+        "id": "b39b9386-8d07-46f0-838d-45b2251674eb",
+        "created_at": "2023-06-02T11:27:00+00:00",
+        "updated_at": "2026-11-19T04:31:31.962051+00:00"
+      },
+      {
+        "memory": "Andrew has not specifically gone bird-watching, but he spots birds while hiking",
+        "score": 0.2852,
+        "id": "8709f8c1-93f1-4c6a-a9f2-c0c5f851aace",
+        "created_at": "2023-03-27T13:10:00+00:00",
+        "updated_at": "2026-11-19T04:04:46.223667+00:00"
+      },
+      {
+        "memory": "Andrew has always been awed by birds and admires their power to soar and explore new spots",
+        "score": 0.2736,
+        "id": "87c8f818-8e91-4ee9-8cbe-5bad3ede8e43",
+        "created_at": "2023-03-27T13:10:00+00:00",
+        "updated_at": "2026-11-19T04:04:09.026050+00:00"
+      },
+      {
+        "memory": "Andrew has seen birds up close and says their flight is graceful and free",
+        "score": 0.271,
+        "id": "885077ab-9504-4450-b34d-e9b8814d70b2",
+        "created_at": "2023-10-01T19:09:00+00:00",
+        "updated_at": "2026-11-19T05:25:09.327568+00:00"
+      },
+      {
+        "memory": "Andrew's work is nonstop, making it hard for him to get outdoors",
+        "score": 0.2667,
+        "id": "e984842c-1b99-4ce3-9401-0b609339a64b",
+        "created_at": "2023-07-11T10:05:00+00:00",
+        "updated_at": "2026-11-19T04:57:40.505543+00:00"
+      },
+      {
+        "memory": "Andrew wishes he could go on a road trip with a furry companion",
+        "score": 0.2573,
+        "id": "c84cc544-3f16-4be5-9cd5-e430aed74880",
+        "created_at": "2023-05-06T10:47:00+00:00",
+        "updated_at": "2026-11-19T04:26:32.735839+00:00"
+      },
+      {
+        "memory": "Andrew expressed interest in joining Audrey and her dogs for a walk in nature",
+        "score": 0.25,
+        "id": "4db57d32-fba8-4df5-9692-32288df31402",
+        "created_at": "2023-06-13T17:23:00+00:00",
+        "updated_at": "2026-11-19T04:35:11.586088+00:00"
+      },
+      {
+        "memory": "Andrew said that about an hour is a good amount of time for a nice stroll and to look around with his dogs",
+        "score": 0.2485,
+        "id": "a4aa9aa2-c3e5-432b-95a3-424cf8c0f7e9",
+        "created_at": "2023-06-13T17:23:00+00:00",
+        "updated_at": "2026-11-19T04:36:43.149804+00:00"
+      },
+      {
+        "memory": "Andrew described a recent moment as lovely being out in the open, hearing bird songs and smelling the trees",
+        "score": 0.2483,
+        "id": "f20b251b-f4a6-468a-af7b-5df3b6f0e76c",
+        "created_at": "2023-06-26T13:51:00+00:00",
+        "updated_at": "2026-11-19T04:43:27.620257+00:00"
+      },
+      {
+        "memory": "Andrew was recommended a great dog park close by and the idea to bring coffee over",
+        "score": 0.2477,
+        "id": "8b4c33ff-23d6-4296-ac93-802d1288670d",
+        "created_at": "2023-10-13T16:22:00+00:00",
+        "updated_at": "2026-11-19T05:36:00.129231+00:00"
+      },
+      {
+        "memory": "Andrew offered to find a nice spot for the upcoming hike",
+        "score": 0.2468,
+        "id": "603bca40-d59d-4ce7-8ba5-bc07b7a78ad8",
+        "created_at": "2023-10-19T18:12:00+00:00",
+        "updated_at": "2026-11-19T05:48:39.247201+00:00"
+      },
+      {
+        "memory": "Andrew says his work has been piling up and he has been stuck inside",
+        "score": 0.2465,
+        "id": "2e76dbfc-03ec-4bf1-89de-b4919c533705",
+        "created_at": "2023-07-11T10:05:00+00:00",
+        "updated_at": "2026-11-19T04:57:24.920140+00:00"
+      },
+      {
+        "memory": "Audrey (Audrey) expressed that Andrew misses being outdoors and being surrounded by nature",
+        "score": 0.2465,
+        "id": "c80183a5-9fce-4a8e-82a6-eee14fbadb98",
+        "created_at": "2023-10-04T16:18:00+00:00",
+        "updated_at": "2026-11-19T05:30:41.090233+00:00"
+      },
+      {
+        "memory": "Audrey says Andrew's hike pictures are always nice and thanks him for them",
+        "score": 0.2457,
+        "id": "fa1c454f-2fe8-4175-9511-c39088042fa7",
+        "created_at": "2023-08-19T21:19:00+00:00",
+        "updated_at": "2026-11-19T05:12:17.423978+00:00"
+      },
+      {
+        "memory": "Andrew plans to try the dog activities suggested by Audrey with his pups",
+        "score": 0.2453,
+        "id": "4a80f80f-e065-4773-af94-bd30046cb66e",
+        "created_at": "2023-11-04T19:59:00+00:00",
+        "updated_at": "2026-11-19T05:54:39.081494+00:00"
+      },
+      {
+        "memory": "Audrey is excited for Andrew and looks forward to seeing where he and his furry friend will hang out",
+        "score": 0.2452,
+        "id": "aac3acd4-ff25-4980-9a89-9555ef149d90",
+        "created_at": "2023-04-02T14:42:00+00:00",
+        "updated_at": "2026-11-19T04:11:07.290657+00:00"
+      },
+      {
+        "memory": "Andrew is excited about Audrey's upcoming pet‑bonding workshop and wishes her a great time",
+        "score": 0.244,
+        "id": "ec412a03-073b-4a51-bbf2-05b1458d3811",
+        "created_at": "2023-05-11T14:03:00+00:00",
+        "updated_at": "2026-11-19T04:29:30.928560+00:00"
+      },
+      {
+        "memory": "Andrew shared a photo of a map of a park trail for the upcoming hike",
+        "score": 0.2438,
+        "id": "b8f02005-f89f-459f-aa3e-8227f4c338ed",
+        "created_at": "2023-07-08T09:48:00+00:00",
+        "updated_at": "2026-11-19T04:52:13.376522+00:00"
+      },
+      {
+        "memory": "Andrew has hiked with her dogs and finds it a fun way to bond and create memories",
+        "score": 0.2423,
+        "id": "c25346af-e621-4881-a7dd-b698de55384d",
+        "created_at": "2023-10-13T16:22:00+00:00",
+        "updated_at": "2026-11-19T05:40:33.214571+00:00"
+      },
+      {
+        "memory": "Andrew has always wanted to learn dog grooming but has never had time to do so",
+        "score": 0.2413,
+        "id": "04a7c6be-00fc-459a-aa50-64961bd14c14",
+        "created_at": "2023-08-19T21:19:00+00:00",
+        "updated_at": "2026-11-19T05:10:53.947433+00:00"
+      },
+      {
+        "memory": "Andrew would enjoy hanging out with a dog and cuddling",
+        "score": 0.2407,
+        "id": "ab308bba-b251-4218-9e37-8081330b5c81",
+        "created_at": "2023-04-02T14:42:00+00:00",
+        "updated_at": "2026-11-19T04:09:26.643504+00:00"
+      },
+      {
+        "memory": "User indicates that Andrew has a dog named Buddy",
+        "score": 0.239,
+        "id": "5e1fd1c7-6b0d-4b71-bbab-f9f5ebb57d1c",
+        "created_at": "2023-11-04T19:59:00+00:00",
+        "updated_at": "2026-11-19T05:52:40.913165+00:00"
+      },
+      {
+        "memory": "Andrew loves being outdoors and enjoys seeing others enjoy it too",
+        "score": 0.2383,
+        "id": "a29e9e15-23a2-4257-b2df-d9e19f0010e0",
+        "created_at": "2023-07-08T09:48:00+00:00",
+        "updated_at": "2026-11-19T04:55:52.433587+00:00"
+      },
+      {
+        "memory": "Andrew has no pets currently but loves animals",
+        "score": 0.237,
+        "id": "baabe1d7-931b-4de7-93a1-f96bd0ac1f07",
+        "created_at": "2023-03-27T13:10:00+00:00",
+        "updated_at": "2026-11-19T04:03:55.760487+00:00"
+      },
+      {
+        "memory": "Andrew intends to take his puppy Toby on a small hike at the local trail",
+        "score": 0.237,
+        "id": "0950c6be-276f-464a-b2dd-4e90b0062e3e",
+        "created_at": "2023-08-04T11:05:00+00:00",
+        "updated_at": "2026-11-19T05:07:29.958158+00:00"
+      },
+      {
+        "memory": "Andrew says he is currently focusing on urban adventures rather than being out on nature trails",
+        "score": 0.2361,
+        "id": "9e8cfe15-50f0-4552-ad6d-3f191dfb8c90",
+        "created_at": "2023-07-03T20:32:00+00:00",
+        "updated_at": "2026-11-19T04:45:32.090433+00:00"
+      },
+      {
+        "memory": "Andrew has not taken his dogs to the groomer yet but plans to do so soon",
+        "score": 0.2358,
+        "id": "80d0de35-461c-4063-ba98-249548140fd0",
+        "created_at": "2023-11-22T09:02:00+00:00",
+        "updated_at": "2026-11-19T05:55:58.016237+00:00"
+      },
+      {
+        "memory": "Andrew plans to visit a cozy cafe this weekend (Saturday‑Sunday, October 14‑15, 2023) and hang out there.",
+        "score": 0.2348,
+        "id": "79dc264a-579c-47d0-88c2-3062368b78a0",
+        "created_at": "2023-10-13T16:22:00+00:00",
+        "updated_at": "2026-11-19T05:35:07.294597+00:00"
+      },
+      {
+        "memory": "Andrew plans to get some awesome pictures to show Audrey when he returns",
+        "score": 0.2343,
+        "id": "713bbe4d-2be5-4f88-995f-ec771a7148f6",
+        "created_at": "2023-08-19T21:19:00+00:00",
+        "updated_at": "2026-11-19T05:12:03.109009+00:00"
+      },
+      {
+        "memory": "Audrey (Audrey) thinks the place Andrew shared looks fun",
+        "score": 0.2342,
+        "id": "be81c991-a230-4c1b-a402-52e9aeab62ce",
+        "created_at": "2023-06-26T13:51:00+00:00",
+        "updated_at": "2026-11-19T04:41:24.875293+00:00"
+      },
+      {
+        "memory": "Andrew expressed that he is glad to have the opportunity to bond with Audrey's pets",
+        "score": 0.2336,
+        "id": "4cc04200-e015-4627-ad5d-89f196b5572d",
+        "created_at": "2023-05-11T14:03:00+00:00",
+        "updated_at": "2026-11-19T04:28:27.792488+00:00"
+      }
+    ],
+    "search_latency_ms": 423.5,
+    "total_results": 50
+  },
+  "cutoff_results": {
+    "top_50": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "Fold birdwatching into your daily dog walks. Take compact binoculars and your notebook on quick trips to a nearby park or dog park, and spend 15–30 minutes logging sightings while Buddy/Toby get their exercise. This uses the time you already have, fits your city routine, and leverages the gear you planned to bring.",
+      "memories_evaluated": 50,
+      "reason": "The generated answer suggests combining birdwatching with dog walks, which does not include the gold item of installing a visible bird feeder to watch from indoors."
+    }
+  }
+}

@@ -1,0 +1,380 @@
+{
+  "question_id": "conv5_q20",
+  "conversation_idx": 5,
+  "category": 3,
+  "category_name": "open-domain",
+  "question": "Which meat does Audrey prefer eating more than others?",
+  "ground_truth_answer": "chicken",
+  "evidence": [
+    "D10:13",
+    "D10:23"
+  ],
+  "user_id": "locomo_5_fe8ec031",
+  "reference_date": "9:02 am on 22 November, 2023",
+  "retrieval": {
+    "search_query": "Which meat does Audrey prefer eating more than others?",
+    "search_results": [
+      {
+        "memory": "Audrey's dogs prefer nice, sunny days in the grass",
+        "score": 0.5975,
+        "id": "505d35f3-0bea-48c7-870e-e10030bf4712",
+        "created_at": "2023-10-13T16:22:00+00:00",
+        "updated_at": "2026-11-19T05:36:20.637529+00:00"
+      },
+      {
+        "memory": "Audrey finds cooking and eating food rewarding, likening it to self-care; she enjoys playing music, pouring a glass of wine, and going with the flow in the kitchen, describing the experience as therapeutic, and shared a photo of a beautifully plated vegetable dish.",
+        "score": 0.5139,
+        "id": "e21fe1a7-548a-431c-a5ea-95a1092664d0",
+        "created_at": "2023-07-03T20:32:00+00:00",
+        "updated_at": "2026-11-19T04:48:02.497399+00:00"
+      },
+      {
+        "memory": "Andrew shared a photo showing a person eating sushi on a wooden board",
+        "score": 0.3768,
+        "id": "efb8fa9b-95b0-4053-a4a4-d5f05d0f5054",
+        "created_at": "2023-10-24T10:14:00+00:00",
+        "updated_at": "2026-11-19T05:47:05.993436+00:00"
+      },
+      {
+        "memory": "Assistant shared an image showing a dog laying on a rug eating lettuce",
+        "score": 0.3707,
+        "id": "727903ca-26f2-4580-87b3-e47487a7beb1",
+        "created_at": "2023-08-16T21:58:00+00:00",
+        "updated_at": "2026-11-19T05:08:08.278650+00:00"
+      },
+      {
+        "memory": "Andrew shared a photo showing a dog eating out of a bowl on the ground at a dog-friendly cafe outdoor seating",
+        "score": 0.3472,
+        "id": "51920d97-b013-4f22-8a72-3b85c51ea616",
+        "created_at": "2023-10-28T14:36:00+00:00",
+        "updated_at": "2026-11-19T05:50:22.089749+00:00"
+      },
+      {
+        "memory": "Audrey (Audrey) is craving pastries after seeing the photo",
+        "score": 0.3375,
+        "id": "289b1c34-6951-422c-94ca-5eba823d8204",
+        "created_at": "2023-04-16T16:19:00+00:00",
+        "updated_at": "2026-11-19T04:16:17.269693+00:00"
+      },
+      {
+        "memory": "Audrey says roasted chicken is one of her favorite dishes",
+        "score": 0.3148,
+        "id": "45a0f880-7fe6-4217-bca5-fe939b8cc924",
+        "created_at": "2023-07-03T20:32:00+00:00",
+        "updated_at": "2026-11-19T04:48:31.263615+00:00"
+      },
+      {
+        "memory": "Audrey (Audrey) would love to take her dogs to Andrew's location soon",
+        "score": 0.3109,
+        "id": "48b99ae4-b8ec-491d-b1e0-5473fbef8e9e",
+        "created_at": "2023-06-26T13:51:00+00:00",
+        "updated_at": "2026-11-19T04:41:24.875293+00:00"
+      },
+      {
+        "memory": "Audrey (Audrey) thinks the pastries in the shared photo look great",
+        "score": 0.3053,
+        "id": "9bca5562-acfc-45ac-8241-a4f0b090e661",
+        "created_at": "2023-04-16T16:19:00+00:00",
+        "updated_at": "2026-11-19T04:16:17.269693+00:00"
+      },
+      {
+        "memory": "Audrey has always loved caring for her pups",
+        "score": 0.3015,
+        "id": "5fa5cae6-bfe5-4542-a34e-535db3fde41d",
+        "created_at": "2023-08-19T21:19:00+00:00",
+        "updated_at": "2026-11-19T05:10:36.572379+00:00"
+      },
+      {
+        "memory": "Audrey (Audrey) will look into a trail for her furry friend to run around",
+        "score": 0.2997,
+        "id": "38737896-afcb-4f14-924c-a9ebed41da1a",
+        "created_at": "2023-07-08T09:48:00+00:00",
+        "updated_at": "2026-11-19T04:52:14.942214+00:00"
+      },
+      {
+        "memory": "Audrey (Audrey) expressed gratitude for friends who understand her love for her pets and appreciated the offer",
+        "score": 0.2987,
+        "id": "2ceb430b-0ae1-4331-861f-c9193e8b00f7",
+        "created_at": "2023-06-26T13:51:00+00:00",
+        "updated_at": "2026-11-19T04:42:20.466006+00:00"
+      },
+      {
+        "memory": "Audrey (Audrey) thinks the place Andrew shared looks fun",
+        "score": 0.2957,
+        "id": "be81c991-a230-4c1b-a402-52e9aeab62ce",
+        "created_at": "2023-06-26T13:51:00+00:00",
+        "updated_at": "2026-11-19T04:41:24.875293+00:00"
+      },
+      {
+        "memory": "Audrey now grooms her dogs herself, which makes her feel closer to them",
+        "score": 0.2921,
+        "id": "dfff9f3f-2777-4ffe-be1b-c4aaedc51673",
+        "created_at": "2023-08-19T21:19:00+00:00",
+        "updated_at": "2026-11-19T05:10:36.572379+00:00"
+      },
+      {
+        "memory": "Audrey (Audrey) is keeping her fingers crossed for Andrew to find a great furry friend and an apartment",
+        "score": 0.2896,
+        "id": "357ffd6e-7e0c-4b59-96ad-a88acc8163d9",
+        "created_at": "2023-04-02T14:42:00+00:00",
+        "updated_at": "2026-11-19T04:07:58.156142+00:00"
+      },
+      {
+        "memory": "Audrey takes good care of her dogs",
+        "score": 0.2895,
+        "id": "740e7b82-0c61-469c-a6bf-c6f03de6386e",
+        "created_at": "2023-05-03T17:41:00+00:00",
+        "updated_at": "2026-11-19T04:22:14.654494+00:00"
+      },
+      {
+        "memory": "Audrey (Audrey) is expecting to receive a picture of Andrew's dog soon",
+        "score": 0.2873,
+        "id": "cb73812f-fe93-439f-b8b2-cbc6fa234f5e",
+        "created_at": "2023-05-06T10:47:00+00:00",
+        "updated_at": "2026-11-19T04:27:26.154185+00:00"
+      },
+      {
+        "memory": "Audrey's dogs bring her so much joy and they never get bored",
+        "score": 0.286,
+        "id": "323babe1-ce13-46ea-b798-67dea3365e1b",
+        "created_at": "2023-07-08T09:48:00+00:00",
+        "updated_at": "2026-11-19T04:53:54.353992+00:00"
+      },
+      {
+        "memory": "Audrey says the sushi she saw looks phenomenal",
+        "score": 0.2859,
+        "id": "f01b7d3c-7b5c-4462-9537-101306210221",
+        "created_at": "2023-10-24T10:14:00+00:00",
+        "updated_at": "2026-11-19T05:43:17.692664+00:00"
+      },
+      {
+        "memory": "Audrey decided to order sushi for tonight",
+        "score": 0.2858,
+        "id": "82c2db9e-125a-48f8-a323-a77caf8b4ab2",
+        "created_at": "2023-10-24T10:14:00+00:00",
+        "updated_at": "2026-11-19T05:45:14.786554+00:00"
+      },
+      {
+        "memory": "Audrey (Audrey) expresses admiration for people who can climb mountains and is fascinated by rock climbing",
+        "score": 0.2858,
+        "id": "439c79f3-bcdc-4015-9253-51dbc51792b6",
+        "created_at": "2023-06-13T17:23:00+00:00",
+        "updated_at": "2026-11-19T04:32:30.896822+00:00"
+      },
+      {
+        "memory": "Audrey's dogs dislike snow",
+        "score": 0.284,
+        "id": "9cc67514-f29f-4c8a-b685-722a6781df61",
+        "created_at": "2023-10-13T16:22:00+00:00",
+        "updated_at": "2026-11-19T05:36:20.637529+00:00"
+      },
+      {
+        "memory": "Audrey refers to her dogs as \"fur babies\"",
+        "score": 0.2835,
+        "id": "11d5726d-137d-47a4-a8f1-130b499213a8",
+        "created_at": "2023-09-24T17:53:00+00:00",
+        "updated_at": "2026-11-19T05:22:48.721704+00:00"
+      },
+      {
+        "memory": "Audrey's dogs are quick learners who love rewards, and Audrey is eager to train them better.",
+        "score": 0.2834,
+        "id": "a68d22ab-c7a1-4f53-b5b4-5ef7219ba977",
+        "created_at": "2023-05-11T14:03:00+00:00",
+        "updated_at": "2026-11-19T04:29:07.870543+00:00"
+      },
+      {
+        "memory": "Andrew feels jealous of the fun outings Audrey has with her dogs",
+        "score": 0.2832,
+        "id": "fc8dedbb-7b85-42ae-b1da-25420b257688",
+        "created_at": "2023-03-27T13:10:00+00:00",
+        "updated_at": "2026-11-19T04:03:37.515314+00:00"
+      },
+      {
+        "memory": "Andrew said Audrey's dogs are a real source of love for her",
+        "score": 0.2826,
+        "id": "4ac436a8-4803-47f4-9945-20665d486bdd",
+        "created_at": "2023-10-13T16:22:00+00:00",
+        "updated_at": "2026-11-19T05:38:28.358890+00:00"
+      },
+      {
+        "memory": "Audrey plans to decide what to get for dinner tonight after seeing the sushi",
+        "score": 0.2824,
+        "id": "dcbd505c-5d09-4320-a4f2-f7a0f4727199",
+        "created_at": "2023-10-24T10:14:00+00:00",
+        "updated_at": "2026-11-19T05:45:10.439371+00:00"
+      },
+      {
+        "memory": "Audrey (Audrey) expressed that Andrew misses being outdoors and being surrounded by nature",
+        "score": 0.2818,
+        "id": "c80183a5-9fce-4a8e-82a6-eee14fbadb98",
+        "created_at": "2023-10-04T16:18:00+00:00",
+        "updated_at": "2026-11-19T05:30:41.090233+00:00"
+      },
+      {
+        "memory": "Audrey (Audrey) offered to help Andrew find a pet‑friendly spot by asking him to email her his criteria",
+        "score": 0.2799,
+        "id": "65150ee9-bf2a-485e-8f5e-4f353501b7dd",
+        "created_at": "2023-06-02T11:27:00+00:00",
+        "updated_at": "2026-11-19T04:31:51.643661+00:00"
+      },
+      {
+        "memory": "Audrey asked Andrew if he has a favorite animal",
+        "score": 0.2787,
+        "id": "6b1eb378-2f8e-4cb8-9a55-f93f49869152",
+        "created_at": "2023-03-27T13:10:00+00:00",
+        "updated_at": "2026-11-19T04:04:00.513998+00:00"
+      },
+      {
+        "memory": "Andrew observes that Audrey's dogs are having a blast",
+        "score": 0.2767,
+        "id": "dfd2e469-8aa0-4e77-9848-3474cefbd052",
+        "created_at": "2023-07-03T20:32:00+00:00",
+        "updated_at": "2026-11-19T04:45:33.334860+00:00"
+      },
+      {
+        "memory": "Audrey (Audrey) says she will definitely have a good time and make the most of it, asserting that it is a must‑learn for any dog owner.",
+        "score": 0.2764,
+        "id": "6b0e18b7-9966-4a41-9d6c-26c60fb131f0",
+        "created_at": "2023-05-11T14:03:00+00:00",
+        "updated_at": "2026-11-19T04:29:38.300782+00:00"
+      },
+      {
+        "memory": "Audrey (Audrey) prioritizes safety for her dogs and got them protective boots, which look funny but are functional",
+        "score": 0.2738,
+        "id": "fef21ba2-4ef5-46a5-b2cc-fafebdff7892",
+        "created_at": "2023-05-03T17:41:00+00:00",
+        "updated_at": "2026-11-19T04:22:02.379019+00:00"
+      },
+      {
+        "memory": "Andrew observes that Audrey's dogs look comfortable in their bed and are clearly well loved",
+        "score": 0.2737,
+        "id": "7cfbc047-7613-4422-8acb-b1708ea9a0e4",
+        "created_at": "2023-07-03T20:32:00+00:00",
+        "updated_at": "2026-11-19T04:46:04.308507+00:00"
+      },
+      {
+        "memory": "Audrey feels she cannot live without her dogs, expressing strong attachment to them",
+        "score": 0.2734,
+        "id": "ac0d8e9c-c845-4ac5-8bfa-fd2ebd50daca",
+        "created_at": "2023-03-27T13:10:00+00:00",
+        "updated_at": "2026-11-19T04:03:21.844311+00:00"
+      },
+      {
+        "memory": "Audrey suggested having a pastry party sometime with Andrew",
+        "score": 0.2723,
+        "id": "76f3c081-db9b-4732-841d-385c42fcb43b",
+        "created_at": "2023-04-16T16:19:00+00:00",
+        "updated_at": "2026-11-19T04:16:17.898201+00:00"
+      },
+      {
+        "memory": "Audrey enjoys checking out new parks with her four dogs",
+        "score": 0.2717,
+        "id": "3c223ed3-1d32-4d3f-ae90-1292eac56462",
+        "created_at": "2023-11-04T19:59:00+00:00",
+        "updated_at": "2026-11-19T05:52:10.365405+00:00"
+      },
+      {
+        "memory": "Audrey has a strong bond with her dogs, they make her happy, and she wants to see their happy faces even when they are not with her.",
+        "score": 0.2712,
+        "id": "71cb1984-f98d-420c-b98e-624df1948463",
+        "created_at": "2023-04-16T16:19:00+00:00",
+        "updated_at": "2026-11-19T04:18:07.358831+00:00"
+      },
+      {
+        "memory": "Andrew thought the photo of Audrey's dogs was cute",
+        "score": 0.2709,
+        "id": "5764da5c-7019-48ed-a1ab-c1155384420d",
+        "created_at": "2023-07-27T15:52:00+00:00",
+        "updated_at": "2026-11-19T05:00:23.796965+00:00"
+      },
+      {
+        "memory": "Audrey's favorite comfort meal is a Mediterranean-inspired dish featuring chicken, garlic, lemon, and herbs, which she describes as tasty, easy to make, and healthy",
+        "score": 0.2708,
+        "id": "305674ea-90f7-4b36-8aaa-b6aeba0d4cb6",
+        "created_at": "2023-07-03T20:32:00+00:00",
+        "updated_at": "2026-11-19T04:48:46.762084+00:00"
+      },
+      {
+        "memory": "Audrey shared a photo of a long plate of sushi with sauce on it",
+        "score": 0.2704,
+        "id": "47bb7375-9fd7-4717-b284-4392b6754ad6",
+        "created_at": "2023-10-24T10:14:00+00:00",
+        "updated_at": "2026-11-19T05:44:16.503028+00:00"
+      },
+      {
+        "memory": "Audrey believes animals are truly amazing",
+        "score": 0.2704,
+        "id": "e84f0436-0e9d-4a81-833e-a9df32e94e42",
+        "created_at": "2023-03-27T13:10:00+00:00",
+        "updated_at": "2026-11-19T04:04:00.513998+00:00"
+      },
+      {
+        "memory": "Audrey's dogs love the larger backyard, enjoying ample space to run, explore, and sniff new smells, and Audrey finds it awesome to see them having fun.",
+        "score": 0.2696,
+        "id": "34e84fa7-0ea3-4a22-8ea6-838871d9f554",
+        "created_at": "2023-06-26T13:51:00+00:00",
+        "updated_at": "2026-11-19T04:40:29.169120+00:00"
+      },
+      {
+        "memory": "Audrey has four dogs and says they are more important to her than anything",
+        "score": 0.269,
+        "id": "2c0e246f-9270-4830-986e-2dfefbe3b7ac",
+        "created_at": "2023-07-27T15:52:00+00:00",
+        "updated_at": "2026-11-19T05:00:21.286476+00:00"
+      },
+      {
+        "memory": "Audrey (Audrey) believes that getting away, such as on a hike, is great",
+        "score": 0.269,
+        "id": "dc01fd0f-bd3b-4bfa-92ce-d8b99a92f55b",
+        "created_at": "2023-05-03T17:41:00+00:00",
+        "updated_at": "2026-11-19T04:19:25.006430+00:00"
+      },
+      {
+        "memory": "Audrey (Audrey) will keep Andrew updated on how her pups are doing, hopes they will be extra behaved, and plans to share training tips for his future dog",
+        "score": 0.2685,
+        "id": "6670f6a2-acdd-4db5-96ab-bb244ada5b85",
+        "created_at": "2023-05-11T14:03:00+00:00",
+        "updated_at": "2026-11-19T04:29:24.835549+00:00"
+      },
+      {
+        "memory": "Audrey's dogs love the new beds, curling up and snuggling like they're in a cloud, which Audrey finds adorable",
+        "score": 0.2683,
+        "id": "1d3dcf8d-a5b0-468f-842e-f96d9b4477b3",
+        "created_at": "2023-09-06T19:49:00+00:00",
+        "updated_at": "2026-11-19T05:17:03.920053+00:00"
+      },
+      {
+        "memory": "Nature always cheers Audrey up and makes her feel grateful",
+        "score": 0.2676,
+        "id": "ade098c5-288f-48e5-965c-4287d9c67076",
+        "created_at": "2023-06-02T11:27:00+00:00",
+        "updated_at": "2026-11-19T04:31:20.420407+00:00"
+      },
+      {
+        "memory": "Andrew believes Audrey's dogs' happy faces mean a lot to her",
+        "score": 0.2674,
+        "id": "1def2ef8-36f8-40cd-ab64-ab8f9292c2e4",
+        "created_at": "2023-04-16T16:19:00+00:00",
+        "updated_at": "2026-11-19T04:17:10.130011+00:00"
+      },
+      {
+        "memory": "Audrey asks Andrew to let her know how it goes",
+        "score": 0.2657,
+        "id": "87bff0a4-b77e-4269-bcc0-1a49441224a0",
+        "created_at": "2023-05-03T17:41:00+00:00",
+        "updated_at": "2026-11-19T04:23:44.891808+00:00"
+      }
+    ],
+    "search_latency_ms": 608.0,
+    "total_results": 50
+  },
+  "cutoff_results": {
+    "top_50": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Chicken",
+      "memories_evaluated": 50,
+      "reason": "The generated answer matches the gold answer exactly (chicken)."
+    }
+  }
+}

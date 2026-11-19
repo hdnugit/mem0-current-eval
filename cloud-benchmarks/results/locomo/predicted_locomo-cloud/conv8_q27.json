@@ -1,0 +1,379 @@
+{
+  "question_id": "conv8_q27",
+  "conversation_idx": 8,
+  "category": 3,
+  "category_name": "open-domain",
+  "question": "What electronic device could Evan gift Sam to help him keep up with his fitness goals?",
+  "ground_truth_answer": "fitness tracker",
+  "evidence": [
+    "D5:7"
+  ],
+  "user_id": "locomo_8_fe8ec031",
+  "reference_date": "9:37 pm on 11 January, 2024",
+  "retrieval": {
+    "search_query": "What electronic device could Evan gift Sam to help him keep up with his fitness goals?",
+    "search_results": [
+      {
+        "memory": "Sam says his fitness goals have been hard to reach",
+        "score": 0.608,
+        "id": "a3d23281-5c29-472d-ab53-2adf99a5d1c2",
+        "created_at": "2023-11-21T19:30:00+00:00",
+        "updated_at": "2026-11-19T05:10:11.149124+00:00"
+      },
+      {
+        "memory": "Evan shared an image of a fitness tracker, showing a box with a fitness watch",
+        "score": 0.5865,
+        "id": "d0c8775c-9e34-422d-b984-c1f5d3283c8d",
+        "created_at": "2023-08-07T19:52:00+00:00",
+        "updated_at": "2026-11-19T04:21:29.581142+00:00"
+      },
+      {
+        "memory": "Evan encouraged Sam to believe in his abilities, reach his goals, and stay motivated",
+        "score": 0.5539,
+        "id": "5c018d5d-8610-42ec-ad7a-88dd62b2b675",
+        "created_at": "2023-10-08T15:09:00+00:00",
+        "updated_at": "2026-11-19T04:50:11.089092+00:00"
+      },
+      {
+        "memory": "Evan has been focusing on fitness, which he says has been very beneficial for his overall well‑being",
+        "score": 0.5206,
+        "id": "ae0dfd81-7ee2-411c-ae92-5e9dd0803743",
+        "created_at": "2023-10-17T13:50:00+00:00",
+        "updated_at": "2026-11-19T04:54:56.381583+00:00"
+      },
+      {
+        "memory": "Evan expressed that he is glad to help Sam and hopes Sam enjoys it",
+        "score": 0.5171,
+        "id": "bbbb74a0-75b0-4632-a493-53092ce46092",
+        "created_at": "2023-12-31T11:00:00+00:00",
+        "updated_at": "2026-11-19T05:28:24.649551+00:00"
+      },
+      {
+        "memory": "Evan offered to meet Sam to demonstrate basic exercises, saying they will reach their goals together",
+        "score": 0.5164,
+        "id": "cb65b1ac-9064-4689-9c13-55101b4952b4",
+        "created_at": "2023-06-06T15:55:00+00:00",
+        "updated_at": "2026-11-19T04:13:40.887422+00:00"
+      },
+      {
+        "memory": "Evan offered to help Sam after hearing about Sam's tough week",
+        "score": 0.5101,
+        "id": "0719f850-0754-41f6-b193-dbb6e4fff851",
+        "created_at": "2023-05-24T19:11:00+00:00",
+        "updated_at": "2026-11-19T04:07:28.510903+00:00"
+      },
+      {
+        "memory": "Sam offered to talk to Evan or help him if needed",
+        "score": 0.4935,
+        "id": "6f145ced-31a1-4936-a196-d08d47a15d30",
+        "created_at": "2023-11-09T21:13:00+00:00",
+        "updated_at": "2026-11-19T05:05:17.715546+00:00"
+      },
+      {
+        "memory": "Evan says his family motivates him to stay healthy and helps a lot with his health goals",
+        "score": 0.4837,
+        "id": "e09ee60b-5403-47c7-a902-93bb79cbb58b",
+        "created_at": "2023-08-07T19:52:00+00:00",
+        "updated_at": "2026-11-19T04:22:07.730400+00:00"
+      },
+      {
+        "memory": "Evan encourages Sam to rock their workouts and reach their goals, stating that exercise clears the mind and is amazing",
+        "score": 0.4823,
+        "id": "98f1827d-221b-41e3-847b-fe499d79e529",
+        "created_at": "2023-06-06T15:55:00+00:00",
+        "updated_at": "2026-11-19T04:13:16.056744+00:00"
+      },
+      {
+        "memory": "Sam asked Evan for help getting started",
+        "score": 0.479,
+        "id": "e85b8df2-3ad4-4545-b2a8-09ec11806cf9",
+        "created_at": "2023-06-06T15:55:00+00:00",
+        "updated_at": "2026-11-19T04:13:26.075219+00:00"
+      },
+      {
+        "memory": "Sam plans to find someone who can help him and will keep Evan posted",
+        "score": 0.4764,
+        "id": "5c61bd68-4d4a-4f00-abc9-debd58e51988",
+        "created_at": "2023-10-08T15:09:00+00:00",
+        "updated_at": "2026-11-19T04:49:00.858266+00:00"
+      },
+      {
+        "memory": "Evan offered to support Sam in his health journey, expressing willingness to help with Sam's health challenges",
+        "score": 0.471,
+        "id": "fc1ae038-a016-4bc0-b476-14ab2b6f8d8e",
+        "created_at": "2023-05-24T19:11:00+00:00",
+        "updated_at": "2026-11-19T04:07:48.050206+00:00"
+      },
+      {
+        "memory": "Evan offered Sam support, asking if Sam needs any help or wants to share anything",
+        "score": 0.464,
+        "id": "af61b5ce-cb5e-430c-9ca4-4b792c2d50af",
+        "created_at": "2023-11-09T21:13:00+00:00",
+        "updated_at": "2026-11-19T05:04:29.376618+00:00"
+      },
+      {
+        "memory": "Evan says painting will not help Sam with his weight problem",
+        "score": 0.4595,
+        "id": "a2e416c7-8f0e-44ba-8a44-bb656dea16fc",
+        "created_at": "2023-05-24T19:11:00+00:00",
+        "updated_at": "2026-11-19T04:09:02.095829+00:00"
+      },
+      {
+        "memory": "Evan has a 1968 Kustom K-200A vintage guitar that he received as a gift from a close friend",
+        "score": 0.4586,
+        "id": "49f14045-d0fc-4d08-953f-bf76d632623e",
+        "created_at": "2023-11-09T21:13:00+00:00",
+        "updated_at": "2026-11-19T05:04:48.523794+00:00"
+      },
+      {
+        "memory": "Evan loves the quote Sam shared and says the mindset helps him too",
+        "score": 0.4558,
+        "id": "76216d63-90e3-4b7f-a2e3-82bd699f7b9f",
+        "created_at": "2023-08-13T16:09:00+00:00",
+        "updated_at": "2026-11-19T04:26:38.608650+00:00"
+      },
+      {
+        "memory": "Sam expressed that he is glad physical therapy is helping Evan",
+        "score": 0.4548,
+        "id": "e7686719-97f8-4fb4-9b24-bd508be7b567",
+        "created_at": "2023-10-06T20:57:00+00:00",
+        "updated_at": "2026-11-19T04:45:30.395563+00:00"
+      },
+      {
+        "memory": "Sam thanked Evan, said the snacks look yummy, and that Evan's help means a lot to him",
+        "score": 0.4414,
+        "id": "5a421c5c-b5c7-4eea-bbd9-2a178fe3b9e9",
+        "created_at": "2023-12-31T11:00:00+00:00",
+        "updated_at": "2026-11-19T05:28:37.736241+00:00"
+      },
+      {
+        "memory": "Evan says Sam inspires others and finds Sam's work of helping others stay committed and motivated rewarding",
+        "score": 0.4303,
+        "id": "0dc1ee91-3d7b-4e68-9387-c237a19980c5",
+        "created_at": "2023-11-09T21:13:00+00:00",
+        "updated_at": "2026-11-19T05:03:50.934770+00:00"
+      },
+      {
+        "memory": "Sam appreciates Evan's help and finds it tough to break out of his comfort zone",
+        "score": 0.4128,
+        "id": "6729f543-a349-4db2-b294-636b62bf7812",
+        "created_at": "2023-12-17T18:48:00+00:00",
+        "updated_at": "2026-11-19T05:19:56.330367+00:00"
+      },
+      {
+        "memory": "Evan advised Sam to find something that motivates them and makes them happy, whether large or tiny, to help conquer struggles",
+        "score": 0.4085,
+        "id": "c22250f2-c77c-413d-a3e6-a147f96979b8",
+        "created_at": "2023-08-07T19:52:00+00:00",
+        "updated_at": "2026-11-19T04:22:44.663828+00:00"
+      },
+      {
+        "memory": "Evan tells Sam to stay safe, offers to help whenever needed, and says he can’t wait to hit the trail",
+        "score": 0.4066,
+        "id": "83e43bf5-2523-4f7e-8618-e9d4bca34373",
+        "created_at": "2023-10-17T13:50:00+00:00",
+        "updated_at": "2026-11-19T04:57:43.571781+00:00"
+      },
+      {
+        "memory": "Evan suggested Sam set specific exercise goals such as a target running distance or a number of push‑ups, and to choose an enjoyable activity possibly with a workout buddy for extra fun and accountability",
+        "score": 0.3949,
+        "id": "488b77b2-125a-4e27-9c5d-444b24ae1a02",
+        "created_at": "2023-10-17T13:50:00+00:00",
+        "updated_at": "2026-11-19T04:56:45.947195+00:00"
+      },
+      {
+        "memory": "Evan (Evan) is super pumped for Sam and plans to catch up soon to see how Sam is enjoying his new hobbies",
+        "score": 0.3909,
+        "id": "3e65df91-38a5-4569-9034-c85044b4005b",
+        "created_at": "2023-05-18T13:47:00+00:00",
+        "updated_at": "2026-11-19T04:06:05.974047+00:00"
+      },
+      {
+        "memory": "Evan thanked Sam for his encouragement",
+        "score": 0.3865,
+        "id": "59c9640c-346d-4143-8aff-7a868407d9ae",
+        "created_at": "2023-08-27T10:18:00+00:00",
+        "updated_at": "2026-11-19T04:40:14.225487+00:00"
+      },
+      {
+        "memory": "Evan thanked Sam for the suggestion",
+        "score": 0.3851,
+        "id": "3fc07b4f-6860-4c60-87c6-e47707498778",
+        "created_at": "2023-12-05T20:16:00+00:00",
+        "updated_at": "2026-11-19T05:13:39.503469+00:00"
+      },
+      {
+        "memory": "Evan encourages Sam that getting started will get easier with time, emphasizes feeling good and reaching goals, and suggests planning a hike soon",
+        "score": 0.3837,
+        "id": "4bd72ea2-4f20-4c4d-af77-45676bfce35c",
+        "created_at": "2023-10-17T13:50:00+00:00",
+        "updated_at": "2026-11-19T04:56:13.726219+00:00"
+      },
+      {
+        "memory": "Sam says he will try setting exercise goals and having a workout buddy, acknowledging that it might help him stay motivated",
+        "score": 0.3808,
+        "id": "964fdc81-c2c2-47d7-a8b2-7d4b2c99d90b",
+        "created_at": "2023-10-17T13:50:00+00:00",
+        "updated_at": "2026-11-19T04:56:47.006133+00:00"
+      },
+      {
+        "memory": "Sam offered to accompany Evan to the store and suggested Evan call him there",
+        "score": 0.3808,
+        "id": "b72ffe60-943f-463e-98f9-1b790fec36fd",
+        "created_at": "2023-12-31T11:00:00+00:00",
+        "updated_at": "2026-11-19T05:28:58.294363+00:00"
+      },
+      {
+        "memory": "Evan (Evan) expressed interest in receiving Sam's recipe and thanked Sam for sharing it",
+        "score": 0.379,
+        "id": "49164833-c39a-494c-abec-0acac3b012ba",
+        "created_at": "2023-08-19T18:17:00+00:00",
+        "updated_at": "2026-11-19T04:34:46.410150+00:00"
+      },
+      {
+        "memory": "Sam is super excited to get fit together with Evan",
+        "score": 0.3764,
+        "id": "8be35fb4-4379-4708-862a-68126ae24d0e",
+        "created_at": "2023-10-17T13:50:00+00:00",
+        "updated_at": "2026-11-19T04:56:51.813754+00:00"
+      },
+      {
+        "memory": "Sam expressed sympathy for Evan's knee injury and offered to help, noting how frustrating it is when bodies don't cooperate",
+        "score": 0.3748,
+        "id": "4316e10b-bfea-4eca-94bf-8f98bcf58307",
+        "created_at": "2023-08-27T10:18:00+00:00",
+        "updated_at": "2026-11-19T04:38:51.110475+00:00"
+      },
+      {
+        "memory": "Evan told Sam that Sam has come a long way in his quest for better health and expressed excitement about what comes next for Sam",
+        "score": 0.3728,
+        "id": "925a352d-b635-424e-9b83-10454f8b80e0",
+        "created_at": "2023-11-09T21:13:00+00:00",
+        "updated_at": "2026-11-19T05:02:54.510865+00:00"
+      },
+      {
+        "memory": "Evan expressed hope that Sam is doing well",
+        "score": 0.3706,
+        "id": "eaeaefc8-d41a-438c-b46b-d859fa39d62e",
+        "created_at": "2024-01-10T00:17:00+00:00",
+        "updated_at": "2026-11-19T05:33:52.391513+00:00"
+      },
+      {
+        "memory": "Sam says Evan is doing great and Sam wants to feel the same sense of freedom",
+        "score": 0.3682,
+        "id": "c6263835-959e-4854-a7c5-ae19a02b5195",
+        "created_at": "2023-10-25T14:56:00+00:00",
+        "updated_at": "2026-11-19T05:01:33.916944+00:00"
+      },
+      {
+        "memory": "Evan tells Sam he'll be there for him and advises him to take it slow and treat himself",
+        "score": 0.3598,
+        "id": "5568d322-084b-4766-bae0-845aef6bb18c",
+        "created_at": "2023-10-25T14:56:00+00:00",
+        "updated_at": "2026-11-19T04:58:18.997914+00:00"
+      },
+      {
+        "memory": "Evan recommends Sam try exercising as a way to address his weight",
+        "score": 0.3597,
+        "id": "647b0219-97a5-4d4a-8dfb-0e3005088f6f",
+        "created_at": "2023-05-24T19:11:00+00:00",
+        "updated_at": "2026-11-19T04:09:02.095829+00:00"
+      },
+      {
+        "memory": "Evan appreciates Sam's concern and thanks him",
+        "score": 0.3585,
+        "id": "f0ddae15-98d7-4029-a87a-d7f61e021854",
+        "created_at": "2023-08-27T10:18:00+00:00",
+        "updated_at": "2026-11-19T04:38:55.990082+00:00"
+      },
+      {
+        "memory": "Evan told Sam to go to bed and take care",
+        "score": 0.3575,
+        "id": "dd98243a-ba71-4742-ab13-9a86b8c268ad",
+        "created_at": "2023-08-13T16:09:00+00:00",
+        "updated_at": "2026-11-19T04:28:21.643756+00:00"
+      },
+      {
+        "memory": "Evan found a fitness routine they really enjoy, consider it their go-to activity, love feeling healthy and strong, and have added smarter diet choices that together improve their wellbeing",
+        "score": 0.3567,
+        "id": "81c96832-fe62-4a8b-aec6-e6cfea344cc7",
+        "created_at": "2023-05-24T19:11:00+00:00",
+        "updated_at": "2026-11-19T04:08:04.355768+00:00"
+      },
+      {
+        "memory": "Sam expressed excitement and gratitude, saying he can't wait to try kayaking and thanked Evan for the help",
+        "score": 0.3566,
+        "id": "635853d4-62ea-40c6-afe2-89a3598ab82b",
+        "created_at": "2023-10-14T16:07:00+00:00",
+        "updated_at": "2026-11-19T04:53:35.492845+00:00"
+      },
+      {
+        "memory": "Evan expressed empathy to Sam about his health challenges, noted that Sam stays positive, and reminded Sam to take care of himself",
+        "score": 0.3566,
+        "id": "dd6a323e-5581-414e-8046-725beb7c4e0f",
+        "created_at": "2024-01-11T21:37:00+00:00",
+        "updated_at": "2026-11-19T05:39:04.636692+00:00"
+      },
+      {
+        "memory": "Evan (Evan) plans to explore an activity with Sam in December 2023",
+        "score": 0.3559,
+        "id": "2f3f49a6-744b-43ff-80b4-467776126105",
+        "created_at": "2023-11-09T21:13:00+00:00",
+        "updated_at": "2026-11-19T05:07:22.582202+00:00"
+      },
+      {
+        "memory": "Sam thanked Evan for the recommendation",
+        "score": 0.3559,
+        "id": "6fdf1302-048f-483c-bcb0-37c9cd6f892c",
+        "created_at": "2023-08-07T19:52:00+00:00",
+        "updated_at": "2026-11-19T04:22:59.627037+00:00"
+      },
+      {
+        "memory": "Evan believes in Sam and encourages him to take small steps",
+        "score": 0.3559,
+        "id": "02257016-f5b4-4c5e-b310-fb63de5e3ba7",
+        "created_at": "2023-11-21T19:30:00+00:00",
+        "updated_at": "2026-11-19T05:08:17.164076+00:00"
+      },
+      {
+        "memory": "Evan encourages Sam to appreciate the little things in life",
+        "score": 0.3543,
+        "id": "589609e7-1290-4c3d-81f7-95b6a27c2ac5",
+        "created_at": "2023-11-21T19:30:00+00:00",
+        "updated_at": "2026-11-19T05:09:07.768736+00:00"
+      },
+      {
+        "memory": "Evan (Evan) plans to try the GPS sensor for his frequently lost keys and will let Sam know the outcome",
+        "score": 0.3535,
+        "id": "16d2c445-9482-4d06-89b5-d9873bd51205",
+        "created_at": "2024-01-06T13:32:00+00:00",
+        "updated_at": "2026-11-19T05:33:20.962753+00:00"
+      },
+      {
+        "memory": "Evan will try Sam's recipe and will let Sam know how it went",
+        "score": 0.3531,
+        "id": "b064f41a-1bb0-49a0-9492-bf0f9f9fff29",
+        "created_at": "2023-08-19T18:17:00+00:00",
+        "updated_at": "2026-11-19T04:35:17.545027+00:00"
+      },
+      {
+        "memory": "Evan says Sam's support means a lot and that he will keep Sam updated",
+        "score": 0.3531,
+        "id": "b1d6d43b-9392-4df4-88ea-aae9fa244593",
+        "created_at": "2023-12-09T13:45:00+00:00",
+        "updated_at": "2026-11-19T05:17:15.208418+00:00"
+      }
+    ],
+    "search_latency_ms": 419.6,
+    "total_results": 50
+  },
+  "cutoff_results": {
+    "top_50": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "A fitness tracker (fitness watch). It fits Sam’s fitness goals and Evan even shared one before (image on 2023-08-07), making it a practical, supportive gift.",
+      "memories_evaluated": 50,
+      "reason": "The generated answer explicitly suggests a fitness tracker, which exactly matches the gold answer."
+    }
+  }
+}

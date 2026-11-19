@@ -1,0 +1,380 @@
+{
+  "question_id": "conv4_q8",
+  "conversation_idx": 4,
+  "category": 3,
+  "category_name": "open-domain",
+  "question": "Which outdoor gear company likely signed up John for an endorsement deal?",
+  "ground_truth_answer": "Under Armour",
+  "evidence": [
+    "D3:15",
+    "D25:2"
+  ],
+  "user_id": "locomo_4_fe8ec031",
+  "reference_date": "1:41 pm on 12 January, 2024",
+  "retrieval": {
+    "search_query": "Which outdoor gear company likely signed up John for an endorsement deal?",
+    "search_results": [
+      {
+        "memory": "John secured an amazing endorsement deal with a renowned outdoor gear company around December 12, 2023 (the week before December 19, 2023).",
+        "score": 0.7051,
+        "id": "02caa323-6d8b-4d24-a425-c9624a4f08ac",
+        "created_at": "2023-12-19T10:04:00+00:00",
+        "updated_at": "2026-11-19T05:48:35.545966+00:00"
+      },
+      {
+        "memory": "Tim said the endorsement deal with the outdoor gear company was awesome",
+        "score": 0.6773,
+        "id": "eb001cc4-2a22-4bc3-9568-893e132d0837",
+        "created_at": "2023-12-19T10:04:00+00:00",
+        "updated_at": "2026-11-19T05:48:42.436882+00:00"
+      },
+      {
+        "memory": "Tim (Tim) asked John about memorable experiences working with his outdoor gear endorsement partner",
+        "score": 0.671,
+        "id": "772cfb6a-56a2-4158-8cab-025361c838bd",
+        "created_at": "2023-12-26T15:35:00+00:00",
+        "updated_at": "2026-11-19T05:53:19.991350+00:00"
+      },
+      {
+        "memory": "John signed a basketball shoe and gear endorsement deal with Nike around July 16, 2023",
+        "score": 0.653,
+        "id": "4e0d29a9-ab69-414a-9a7e-7eadd146ac25",
+        "created_at": "2023-07-16T16:21:00+00:00",
+        "updated_at": "2026-11-19T04:14:03.478812+00:00"
+      },
+      {
+        "memory": "Tim asked John what gear he received in the endorsement deal and how the photoshoot turned out",
+        "score": 0.6374,
+        "id": "429663b0-6b96-4fa7-8dfd-0757cf49f466",
+        "created_at": "2023-12-19T10:04:00+00:00",
+        "updated_at": "2026-11-19T05:48:42.436882+00:00"
+      },
+      {
+        "memory": "John secured an endorsement with a popular beverage company during the week of January 5–11, 2024",
+        "score": 0.6114,
+        "id": "2b09b3ac-0f5e-4149-85ee-b53e55b3fe61",
+        "created_at": "2024-01-12T13:41:00+00:00",
+        "updated_at": "2026-11-19T06:05:37.177514+00:00"
+      },
+      {
+        "memory": "Tim congratulated John on his endorsement deals with Nike and Gatorade and expressed excitement",
+        "score": 0.604,
+        "id": "3f116554-3179-4966-8330-c95674a0341b",
+        "created_at": "2023-07-16T16:21:00+00:00",
+        "updated_at": "2026-11-19T04:14:41.295897+00:00"
+      },
+      {
+        "memory": "Tim congratulated John on sealing the endorsement deal",
+        "score": 0.5897,
+        "id": "905e0c29-93de-4b28-b8d0-9927f5abf961",
+        "created_at": "2024-01-12T13:41:00+00:00",
+        "updated_at": "2026-11-19T06:06:11.006979+00:00"
+      },
+      {
+        "memory": "John reports that he has secured some endorsement deals and is learning how to market himself and boost his personal brand.",
+        "score": 0.5645,
+        "id": "49892b2d-92ef-4529-bee3-95427c7987b6",
+        "created_at": "2023-12-06T17:34:00+00:00",
+        "updated_at": "2026-11-19T05:32:48.817075+00:00"
+      },
+      {
+        "memory": "Tim advises that when selecting endorsements, they should align with his values and brand, and the company should share his desire to make a change and help others, ensuring the endorsement feels authentic to his followers",
+        "score": 0.4904,
+        "id": "8b9b8517-3865-44c9-912a-be1eaa827978",
+        "created_at": "2023-09-21T20:17:00+00:00",
+        "updated_at": "2026-11-19T04:48:43.838504+00:00"
+      },
+      {
+        "memory": "Tim asked John which other brands he dreams of working with for endorsements",
+        "score": 0.3968,
+        "id": "4eb3954e-d931-459f-bf04-d844fef2094b",
+        "created_at": "2023-07-16T16:21:00+00:00",
+        "updated_at": "2026-11-19T04:14:41.295897+00:00"
+      },
+      {
+        "memory": "John said he will keep Tim updated on which brands he chooses for endorsement collaborations.",
+        "score": 0.3952,
+        "id": "c115450e-963b-4657-bd42-667c4aaae34a",
+        "created_at": "2023-06-15T17:08:00+00:00",
+        "updated_at": "2026-11-19T04:08:10.549637+00:00"
+      },
+      {
+        "memory": "Tim asks John which endorsements he has managed to get through networking",
+        "score": 0.3908,
+        "id": "93552cc8-becc-4c2a-b4c3-476499fed3ea",
+        "created_at": "2023-07-16T16:21:00+00:00",
+        "updated_at": "2026-11-19T04:13:40.975799+00:00"
+      },
+      {
+        "memory": "Tim is curious about which brands John is looking to link up with for endorsement opportunities",
+        "score": 0.3799,
+        "id": "e02addaf-9f3a-48e1-82f7-6a9bdbdf07bb",
+        "created_at": "2023-06-15T17:08:00+00:00",
+        "updated_at": "2026-11-19T04:07:27.980585+00:00"
+      },
+      {
+        "memory": "Tim asked John how he managed to connect with big companies",
+        "score": 0.3783,
+        "id": "456dd076-9bbf-409c-a27a-c6e21b04a809",
+        "created_at": "2023-07-16T16:21:00+00:00",
+        "updated_at": "2026-11-19T04:13:38.146998+00:00"
+      },
+      {
+        "memory": "Tim congratulated John on his endorsement pursuits, expressing excitement about the brand partnerships he is seeking",
+        "score": 0.3471,
+        "id": "e6bbaacf-5310-485f-9500-25a16f0be318",
+        "created_at": "2023-06-15T17:08:00+00:00",
+        "updated_at": "2026-11-19T04:07:27.980585+00:00"
+      },
+      {
+        "memory": "John is considering sports brands Nike and Under Armour for potential endorsement collaborations and is also open to other brands that align with his values and interests",
+        "score": 0.3226,
+        "id": "62cf7713-4d9c-4c08-984b-5e5a994e34e0",
+        "created_at": "2023-06-15T17:08:00+00:00",
+        "updated_at": "2026-11-19T04:08:13.607701+00:00"
+      },
+      {
+        "memory": "Tim congratulated John on signing with a new team",
+        "score": 0.3212,
+        "id": "3bd11209-a44e-4a22-b8a5-bb0fb6e11127",
+        "created_at": "2023-05-21T19:48:00+00:00",
+        "updated_at": "2026-11-19T04:03:23.110898+00:00"
+      },
+      {
+        "memory": "John is exploring endorsement opportunities, hoping to work with brands, and feels rewarded that his hard work is paying off",
+        "score": 0.3156,
+        "id": "a0ede6df-b078-4d07-87f6-dd4b1cc5ba4c",
+        "created_at": "2023-06-15T17:08:00+00:00",
+        "updated_at": "2026-11-19T05:32:46.580449+00:00"
+      },
+      {
+        "memory": "John signed with a new team around May 21, 2023 and is excited for the season",
+        "score": 0.3019,
+        "id": "494c67e9-48a0-48b9-b926-a6f037674f57",
+        "created_at": "2023-05-21T19:48:00+00:00",
+        "updated_at": "2026-11-19T04:02:50.356995+00:00"
+      },
+      {
+        "memory": "John used his contacts in the basketball industry and his marketing skills to make connections, emphasizing that networking is crucial for securing endorsements and expressing gratitude for the support he has received",
+        "score": 0.281,
+        "id": "a9a33d97-5e0f-4609-8f2c-e6479ea33d75",
+        "created_at": "2023-07-16T16:21:00+00:00",
+        "updated_at": "2026-11-19T04:13:34.352824+00:00"
+      },
+      {
+        "memory": "John shared an image showing a baseball player holding a bat next to a soda, representing the endorsement drink logo",
+        "score": 0.2763,
+        "id": "ddb00c80-386b-4b32-923d-ffdcaa6c7c78",
+        "created_at": "2024-01-12T13:41:00+00:00",
+        "updated_at": "2026-11-19T06:05:37.177514+00:00"
+      },
+      {
+        "memory": "John explained that his teammates signed the basketball to demonstrate their friendship and appreciation, and that it serves as a reminder of their bond.",
+        "score": 0.2459,
+        "id": "b93158f1-d21a-43e4-ae44-fe75ecacd720",
+        "created_at": "2023-08-17T19:54:00+00:00",
+        "updated_at": "2026-11-19T04:31:07.469565+00:00"
+      },
+      {
+        "memory": "User is making progress on endorsement opportunities, having spoken with several major brands, and says the prospects look promising",
+        "score": 0.231,
+        "id": "75104bb8-3ad5-4d15-9b41-3952adc3eaf7",
+        "created_at": "2023-07-16T16:21:00+00:00",
+        "updated_at": "2026-11-19T04:13:07.012395+00:00"
+      },
+      {
+        "memory": "John is focusing on improving his shooting and making a greater impact on the court, aiming to be known as a consistent performer who helps his team; off the court he is pursuing more endorsements and building his personal brand, thinking about life after basketball.",
+        "score": 0.2227,
+        "id": "04468881-30ec-4461-bf7d-a50abbea249e",
+        "created_at": "2023-09-21T20:17:00+00:00",
+        "updated_at": "2026-11-19T04:47:53.377429+00:00"
+      },
+      {
+        "memory": "John shared an image of an Under Armour advertisement featuring a mannequin in a blue suit and a chair",
+        "score": 0.2194,
+        "id": "3bfddb5a-d5db-4fa0-9e75-5d7950c21ddd",
+        "created_at": "2023-07-16T16:21:00+00:00",
+        "updated_at": "2026-11-19T04:14:45.353897+00:00"
+      },
+      {
+        "memory": "John is in talks with Gatorade about a potential sponsorship around July 16, 2023",
+        "score": 0.2192,
+        "id": "b7811647-fd5f-41f2-9cde-af23acd6daeb",
+        "created_at": "2023-07-16T16:21:00+00:00",
+        "updated_at": "2026-11-19T04:14:03.478812+00:00"
+      },
+      {
+        "memory": "John loves talking to people about his sneaker collection",
+        "score": 0.2097,
+        "id": "c816ed1d-e518-448b-b3ae-ef8fbc3d6070",
+        "created_at": "2023-05-21T19:48:00+00:00",
+        "updated_at": "2026-11-19T04:05:42.335247+00:00"
+      },
+      {
+        "memory": "User appreciates John's encouragement and thanks him for his support",
+        "score": 0.2072,
+        "id": "49f214a1-2fa2-4e05-9948-d24dbf532652",
+        "created_at": "2024-01-02T17:26:00+00:00",
+        "updated_at": "2026-11-19T05:57:38.348431+00:00"
+      },
+      {
+        "memory": "John shared an image of a rack of basketball jerseys displayed in a store",
+        "score": 0.205,
+        "id": "f5d36ae2-3f3d-47c3-b990-df2e73489ac2",
+        "created_at": "2023-07-16T16:21:00+00:00",
+        "updated_at": "2026-11-19T04:12:20.977048+00:00"
+      },
+      {
+        "memory": "John and his wife hosted a small get-together with friends and family to celebrate his successful pain‑free jog",
+        "score": 0.1998,
+        "id": "f21dcc44-612b-4c48-b8f3-fc9cbab1ab74",
+        "created_at": "2023-12-16T15:37:00+00:00",
+        "updated_at": "2026-11-19T05:47:08.968568+00:00"
+      },
+      {
+        "memory": "John started surfing five years ago and loves the connection to nature",
+        "score": 0.1987,
+        "id": "ce8ddf91-7f8e-4c53-a7ed-ecd81180c9b9",
+        "created_at": "2023-07-16T16:21:00+00:00",
+        "updated_at": "2026-11-19T04:16:54.990227+00:00"
+      },
+      {
+        "memory": "John says the team bond is awesome and makes all the hard work worth it",
+        "score": 0.1965,
+        "id": "a386e1f5-4eaf-4046-a0da-dd473ebba5e6",
+        "created_at": "2023-08-09T10:29:00+00:00",
+        "updated_at": "2026-11-19T04:21:38.132862+00:00"
+      },
+      {
+        "memory": "John said the shoes look comfortable",
+        "score": 0.1964,
+        "id": "a125771b-077f-4ea0-983f-9259b1d60a7a",
+        "created_at": "2023-10-13T13:50:00+00:00",
+        "updated_at": "2026-11-19T04:59:39.854811+00:00"
+      },
+      {
+        "memory": "Tim congratulated John on finding yoga poses that suit him",
+        "score": 0.1958,
+        "id": "23595d2e-19f9-4bb6-aa52-5d16d754eb58",
+        "created_at": "2023-12-01T09:52:00+00:00",
+        "updated_at": "2026-11-19T05:26:02.988019+00:00"
+      },
+      {
+        "memory": "John started doing seminars, helping people with their sports and marketing",
+        "score": 0.1949,
+        "id": "b2b57989-51bb-450d-aae8-4e111cbafc1f",
+        "created_at": "2023-12-26T15:35:00+00:00",
+        "updated_at": "2026-11-19T05:50:51.672361+00:00"
+      },
+      {
+        "memory": "John says the team has been really nice and he is having fun",
+        "score": 0.1939,
+        "id": "07ab2c48-a6aa-46ef-8340-0def949b4843",
+        "created_at": "2023-05-21T19:48:00+00:00",
+        "updated_at": "2026-11-19T04:04:57.643870+00:00"
+      },
+      {
+        "memory": "John did a photoshoot in a gorgeous forest, and the photographer captured epic shots of him during the session",
+        "score": 0.1929,
+        "id": "0799a8b0-50a9-4f88-abca-a81498b21a9a",
+        "created_at": "2023-12-19T10:04:00+00:00",
+        "updated_at": "2026-11-19T05:48:55.839374+00:00"
+      },
+      {
+        "memory": "John is excited to play for the Minnesota Wolves",
+        "score": 0.1919,
+        "id": "85469a48-99b0-445e-8bb9-4807dfba909b",
+        "created_at": "2023-05-21T19:48:00+00:00",
+        "updated_at": "2026-11-19T04:03:34.285612+00:00"
+      },
+      {
+        "memory": "Tim appreciated John's encouragement",
+        "score": 0.1917,
+        "id": "30c8a438-8528-49fe-b439-aa50d48286d6",
+        "created_at": "2023-08-31T14:52:00+00:00",
+        "updated_at": "2026-11-19T04:43:13.429923+00:00"
+      },
+      {
+        "memory": "Tim praised John for wanting to make a difference and motivate others, expressed confidence that John will succeed, and asked how he could support John.",
+        "score": 0.1914,
+        "id": "246010a0-af2c-4403-bb32-dcdd5abbbc2b",
+        "created_at": "2023-09-21T20:17:00+00:00",
+        "updated_at": "2026-11-19T04:48:32.646754+00:00"
+      },
+      {
+        "memory": "John shared a photo showing a snow‑covered mountain peak in the distance",
+        "score": 0.1908,
+        "id": "a52420ae-0c56-49d6-b43d-e5f0878eda31",
+        "created_at": "2023-12-01T09:52:00+00:00",
+        "updated_at": "2026-11-19T05:31:10.391419+00:00"
+      },
+      {
+        "memory": "John described his journey as tough",
+        "score": 0.1898,
+        "id": "f40becd7-ac29-4d9d-9385-952d0e5d4de1",
+        "created_at": "2023-12-26T15:35:00+00:00",
+        "updated_at": "2026-11-19T05:51:51.251113+00:00"
+      },
+      {
+        "memory": "Tim believes John's shoes have many stories behind them and asks John to share some of those stories",
+        "score": 0.1896,
+        "id": "70eaf6a2-4b76-4904-85c4-c9999d6b9fe0",
+        "created_at": "2023-08-11T13:08:00+00:00",
+        "updated_at": "2026-11-19T04:25:54.396659+00:00"
+      },
+      {
+        "memory": "John said he needs new shoes after all these games",
+        "score": 0.1891,
+        "id": "7014251c-f5eb-42cb-8571-6c5e9dfaf696",
+        "created_at": "2023-10-13T13:50:00+00:00",
+        "updated_at": "2026-11-19T04:59:55.082539+00:00"
+      },
+      {
+        "memory": "John went camping in the mountains, describing the experience as stunning with refreshing air",
+        "score": 0.1887,
+        "id": "4fa69d10-ec6a-449b-9cc2-d438056ce5cd",
+        "created_at": "2023-12-01T09:52:00+00:00",
+        "updated_at": "2026-11-19T05:30:19.097065+00:00"
+      },
+      {
+        "memory": "John felt great love and happiness celebrating with everyone, and some of his hiking club friends attended even though he had just joined the club",
+        "score": 0.1881,
+        "id": "5507b92e-b4a0-46d0-8fd3-0f4e6c5b65b1",
+        "created_at": "2023-10-02T15:00:00+00:00",
+        "updated_at": "2026-11-19T04:51:17.725236+00:00"
+      },
+      {
+        "memory": "John has a pair of lucky basketball shoes kept in a box, which he says have been with him through good and bad times and each mark tells a story.",
+        "score": 0.1865,
+        "id": "6f430e56-d62a-4108-90ae-8843adeacf28",
+        "created_at": "2023-08-11T13:08:00+00:00",
+        "updated_at": "2026-11-19T04:25:39.865509+00:00"
+      },
+      {
+        "memory": "Tim plans to try the black and pink memory‑foam running shoes he recommended, thanking John for the tip",
+        "score": 0.1864,
+        "id": "c0a48c92-c03a-492d-a038-a09802cfeff0",
+        "created_at": "2023-12-01T09:52:00+00:00",
+        "updated_at": "2026-11-19T05:26:38.868255+00:00"
+      },
+      {
+        "memory": "Tim asked John for tips on motivating others on his team",
+        "score": 0.1854,
+        "id": "e888c7fe-0176-402b-b397-3997f7604025",
+        "created_at": "2023-12-06T17:34:00+00:00",
+        "updated_at": "2026-11-19T05:34:23.244099+00:00"
+      }
+    ],
+    "search_latency_ms": 1049.9,
+    "total_results": 50
+  },
+  "cutoff_results": {
+    "top_50": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "A renowned outdoor gear company (the specific brand isn’t named in the memories; John said he secured the deal around Dec 12, 2023 and did a forest photoshoot for it).",
+      "memories_evaluated": 50,
+      "reason": "The generated answer never identifies Under Armour and thus includes no correct item from the gold answer."
+    }
+  }
+}

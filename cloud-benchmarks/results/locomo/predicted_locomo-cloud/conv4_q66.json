@@ -1,0 +1,380 @@
+{
+  "question_id": "conv4_q66",
+  "conversation_idx": 4,
+  "category": 3,
+  "category_name": "open-domain",
+  "question": "What is a Star Wars book that Tim might enjoy?",
+  "ground_truth_answer": "Star Wars: Jedi Apprentice by Judy Blundell and David Farland. It is a highly rated and immersive series about his favorite movies.",
+  "evidence": [
+    "D27:19",
+    "D27:21"
+  ],
+  "user_id": "locomo_4_fe8ec031",
+  "reference_date": "1:41 pm on 12 January, 2024",
+  "retrieval": {
+    "search_query": "What is a Star Wars book that Tim might enjoy?",
+    "search_results": [
+      {
+        "memory": "Tim's favorite fantasy film is Star Wars, which he says never gets old",
+        "score": 0.6374,
+        "id": "179e0587-aacc-497f-94b7-d1f73ed9f190",
+        "created_at": "2024-01-02T17:26:00+00:00",
+        "updated_at": "2026-11-19T05:58:36.670368+00:00"
+      },
+      {
+        "memory": "John shared a photo of his Star Wars movie collection displayed on a table",
+        "score": 0.5651,
+        "id": "bb708378-0b3d-45ad-99c5-9d2144940ca4",
+        "created_at": "2024-01-02T17:26:00+00:00",
+        "updated_at": "2026-11-19T05:58:31.393911+00:00"
+      },
+      {
+        "memory": "Tim enjoys reading Harry Potter books during downtime as a magical escape",
+        "score": 0.5607,
+        "id": "2ae1b9ed-f5f8-45da-a93d-0c43dc8d5369",
+        "created_at": "2023-12-26T15:35:00+00:00",
+        "updated_at": "2026-11-19T05:54:02.999314+00:00"
+      },
+      {
+        "memory": "Tim has watched the Harry Potter movies and enjoys comparing them to the books, finding it amazing to see the story come alive",
+        "score": 0.5297,
+        "id": "e6b84be7-c60f-4c28-a2ef-e3f69e031a7a",
+        "created_at": "2023-12-26T15:35:00+00:00",
+        "updated_at": "2026-11-19T05:54:23.491434+00:00"
+      },
+      {
+        "memory": "Tim lists \"The Alchemist\" as one of his favorite books",
+        "score": 0.5101,
+        "id": "e4f7f034-7733-4ca8-bef3-74b325a52aca",
+        "created_at": "2023-09-21T20:17:00+00:00",
+        "updated_at": "2026-11-19T04:49:32.212593+00:00"
+      },
+      {
+        "memory": "John enjoys fantasy books with strong characters and cool world‑building, praising the suggested book.",
+        "score": 0.49,
+        "id": "31eb5098-bd26-4208-829e-27529d80ce4c",
+        "created_at": "2023-08-11T13:08:00+00:00",
+        "updated_at": "2026-11-19T04:25:39.865509+00:00"
+      },
+      {
+        "memory": "Tim (Tim) is excited to watch the upcoming show \"The Wheel of Time\", which is based on a book series he loves",
+        "score": 0.4809,
+        "id": "bb77cf25-9c57-437c-82fd-4387ab253502",
+        "created_at": "2023-12-26T15:35:00+00:00",
+        "updated_at": "2026-11-19T05:55:13.912384+00:00"
+      },
+      {
+        "memory": "Tim enjoys curling up with a good book in free time, using reading to escape reality and get lost in different worlds",
+        "score": 0.4784,
+        "id": "b3b9fa8a-10bd-447a-b024-92c770b4c731",
+        "created_at": "2023-10-21T17:51:00+00:00",
+        "updated_at": "2026-11-19T05:10:40.350599+00:00"
+      },
+      {
+        "memory": "Tim and John are both into fantasy books and movies",
+        "score": 0.4624,
+        "id": "a51fab68-80f8-4bdd-91d3-929c549b30d7",
+        "created_at": "2023-12-01T09:52:00+00:00",
+        "updated_at": "2026-11-19T05:28:04.130909+00:00"
+      },
+      {
+        "memory": "Tim finds peace in reading fantasy books",
+        "score": 0.447,
+        "id": "3d4471e6-f35b-47fa-9a6c-c4ea8ad6af8d",
+        "created_at": "2023-08-09T10:29:00+00:00",
+        "updated_at": "2026-11-19T04:22:34.755363+00:00"
+      },
+      {
+        "memory": "Tim shared an image of a book with a Harry Potter cover",
+        "score": 0.4416,
+        "id": "eb1c2e3e-9f89-462a-a50a-69105e9084f1",
+        "created_at": "2023-07-16T16:21:00+00:00",
+        "updated_at": "2026-11-19T04:18:10.501602+00:00"
+      },
+      {
+        "memory": "Tim (Tim) shared an image showing a book sitting on a table next to a wall",
+        "score": 0.4364,
+        "id": "65a7a6b8-d6f6-4e3b-b191-f5ff38f58793",
+        "created_at": "2024-01-02T17:26:00+00:00",
+        "updated_at": "2026-11-19T05:56:41.841797+00:00"
+      },
+      {
+        "memory": "Tim reads great fantasy books to escape and feel free",
+        "score": 0.4261,
+        "id": "dba2d14a-e525-4f5b-b508-6e55e4a34f09",
+        "created_at": "2023-07-16T16:21:00+00:00",
+        "updated_at": "2026-11-19T04:18:10.501602+00:00"
+      },
+      {
+        "memory": "Tim believes books can inspire and help keep dreams alive",
+        "score": 0.4232,
+        "id": "8548482a-ffff-4e7a-b6af-c3032714f880",
+        "created_at": "2023-08-02T16:17:00+00:00",
+        "updated_at": "2026-11-19T04:20:03.938763+00:00"
+      },
+      {
+        "memory": "Tim says his favorite books (e.g., Harry Potter) are still his top favorites and he loves how they transport him to other places",
+        "score": 0.422,
+        "id": "d2d021d7-5398-433d-93e6-73efc9000a25",
+        "created_at": "2023-11-21T10:22:00+00:00",
+        "updated_at": "2026-11-19T05:22:25.508394+00:00"
+      },
+      {
+        "memory": "Tim shared an image of a Harry Potter book stack on a desk",
+        "score": 0.4193,
+        "id": "2b1f52c7-fc33-454e-b8bb-9e5ea4829980",
+        "created_at": "2023-12-26T15:35:00+00:00",
+        "updated_at": "2026-11-19T05:54:02.999314+00:00"
+      },
+      {
+        "memory": "Tim says books, movies, and real-life experiences all fire up his creativity",
+        "score": 0.419,
+        "id": "ede70c48-e877-4a5d-8c77-61901ad00cc7",
+        "created_at": "2023-10-21T17:51:00+00:00",
+        "updated_at": "2026-11-19T05:06:28.141714+00:00"
+      },
+      {
+        "memory": "John is currently reading a book he really enjoys and highly recommends it",
+        "score": 0.4189,
+        "id": "1657df3c-f5b4-44ff-b54c-acc9b8e2bd02",
+        "created_at": "2023-12-08T19:42:00+00:00",
+        "updated_at": "2026-11-19T05:37:59.079943+00:00"
+      },
+      {
+        "memory": "Tim (Tim) joined a fantasy literature forum on June 14, 2023, and had an enriching discussion about his favorite books.",
+        "score": 0.4151,
+        "id": "7fb694e0-f654-470f-93ff-3c2b63cf3516",
+        "created_at": "2023-06-15T17:08:00+00:00",
+        "updated_at": "2026-11-19T04:07:02.432136+00:00"
+      },
+      {
+        "memory": "John suggested attending a book conference together with Tim, noting Tim is a real bookworm",
+        "score": 0.4109,
+        "id": "f8df7672-e375-4416-a61a-e5853e489122",
+        "created_at": "2023-08-17T19:54:00+00:00",
+        "updated_at": "2026-11-19T04:30:53.130946+00:00"
+      },
+      {
+        "memory": "Tim recommended \"The Name of the Wind\" by Patrick Rothfuss as a great book to read while traveling",
+        "score": 0.4048,
+        "id": "9a8736b7-089f-4992-98d4-20e5499fb3fd",
+        "created_at": "2023-09-21T20:17:00+00:00",
+        "updated_at": "2026-11-19T04:49:00.482109+00:00"
+      },
+      {
+        "memory": "Tim shared an image of a bookshelf that displays Harry Potter books and a clock",
+        "score": 0.3965,
+        "id": "5d970791-7914-45ab-9bab-7d7c58028839",
+        "created_at": "2023-08-26T18:59:00+00:00",
+        "updated_at": "2026-11-19T04:41:01.720261+00:00"
+      },
+      {
+        "memory": "Tim shared an image showing a photo of a book with a tag on it",
+        "score": 0.3916,
+        "id": "8fdbeeef-12c7-4a0b-903c-20132c1539e9",
+        "created_at": "2024-01-02T17:26:00+00:00",
+        "updated_at": "2026-11-19T05:55:47.619602+00:00"
+      },
+      {
+        "memory": "Tim shared an image showing a book with a golden cover on a table",
+        "score": 0.3892,
+        "id": "54e9aafc-5366-415e-8062-b58274289f8a",
+        "created_at": "2023-12-26T15:35:00+00:00",
+        "updated_at": "2026-11-19T05:51:06.523550+00:00"
+      },
+      {
+        "memory": "Tim has been reading a book of travel stories from around the world to plan his next adventure, and shared an image of the book cover showing a boy and a girl",
+        "score": 0.3758,
+        "id": "4ae841fb-54af-4c32-b94f-97b6dc6e9b59",
+        "created_at": "2023-12-26T15:35:00+00:00",
+        "updated_at": "2026-11-19T05:51:18.675344+00:00"
+      },
+      {
+        "memory": "Tim finds fantasy books like The Lord of the Rings awesome because they let him get lost in another world and appreciate the tiny details of world‑building",
+        "score": 0.3704,
+        "id": "20455d11-b21e-47ad-94cf-1ccb35a71b11",
+        "created_at": "2024-01-02T17:26:00+00:00",
+        "updated_at": "2026-11-19T05:59:55.153072+00:00"
+      },
+      {
+        "memory": "Tim has been writing about various fantasy novels, studying their characters and themes, and providing book recommendations",
+        "score": 0.3652,
+        "id": "51a1ec3d-f3e0-4386-adec-ab8b91c0181a",
+        "created_at": "2023-08-02T16:17:00+00:00",
+        "updated_at": "2026-11-19T04:19:27.615578+00:00"
+      },
+      {
+        "memory": "John said he hadn't had much time to read, but after talking with Tim he finally picked up a book and is finding it awesome",
+        "score": 0.3616,
+        "id": "43dc4d91-6042-4470-8b4e-c2ec9b55995e",
+        "created_at": "2023-10-17T13:50:00+00:00",
+        "updated_at": "2026-11-19T05:04:44.217403+00:00"
+      },
+      {
+        "memory": "Tim shared an image of a table covered with many books (likely Harry Potter titles) during the California discussion",
+        "score": 0.3572,
+        "id": "863da5b5-c827-4867-abc4-33a4a8997b87",
+        "created_at": "2023-07-16T16:21:00+00:00",
+        "updated_at": "2026-11-19T04:11:23.006867+00:00"
+      },
+      {
+        "memory": "Tim shared an image showing a desk with a bookcase full of books and many other items",
+        "score": 0.3539,
+        "id": "5e1247ff-be0c-4653-b558-0fb31367ac69",
+        "created_at": "2023-10-02T15:00:00+00:00",
+        "updated_at": "2026-11-19T04:51:56.990062+00:00"
+      },
+      {
+        "memory": "Tim shared an image showing a set of three books placed on a wooden table",
+        "score": 0.3531,
+        "id": "c7d1cf07-428b-4d3a-816a-687c4559f61c",
+        "created_at": "2023-08-11T13:08:00+00:00",
+        "updated_at": "2026-11-19T04:25:16.998794+00:00"
+      },
+      {
+        "memory": "Tim is reading a fantasy book that captivates him, takes him to another world, keeps him on the edge of his seat, and makes his imagination soar",
+        "score": 0.3526,
+        "id": "9ff4d654-739d-4599-873b-1582a00bdea2",
+        "created_at": "2023-08-09T10:29:00+00:00",
+        "updated_at": "2026-11-19T04:22:44.966560+00:00"
+      },
+      {
+        "memory": "Tim shared an image depicting a book opened to a page that contains a picture of a man",
+        "score": 0.3482,
+        "id": "2cc36cdf-b1ac-4f65-b6d6-fc2daba87a74",
+        "created_at": "2023-08-11T13:08:00+00:00",
+        "updated_at": "2026-11-19T04:24:34.672059+00:00"
+      },
+      {
+        "memory": "Tim has been focusing on school while reading a large number of fantasy books, using the reading as a stress‑relief break",
+        "score": 0.3468,
+        "id": "bc024f80-7caa-43e8-bd00-e299bffbe66d",
+        "created_at": "2023-08-21T16:29:00+00:00",
+        "updated_at": "2026-11-19T04:34:45.096104+00:00"
+      },
+      {
+        "memory": "Tim shared an image showing a stack of books sitting on top of a counter",
+        "score": 0.3417,
+        "id": "b28e4972-15a0-4678-b37e-f86fdf918f00",
+        "created_at": "2023-09-21T20:17:00+00:00",
+        "updated_at": "2026-11-19T04:48:43.838504+00:00"
+      },
+      {
+        "memory": "Tim shared an image of a well‑read copy of Harry Potter and the Sorcerer's Stone, showing a photo of the book with a page on a table",
+        "score": 0.3414,
+        "id": "923be3fd-658a-415b-8886-5fc0bd22e0a6",
+        "created_at": "2023-10-21T17:51:00+00:00",
+        "updated_at": "2026-11-19T05:07:03.371465+00:00"
+      },
+      {
+        "memory": "Tim (Tim) recently attended an event in early August 2023, found it fantastic, and enjoyed being with other fans who love it too",
+        "score": 0.3393,
+        "id": "3fdd6bc7-79f1-4682-bf8f-87d33bb842d9",
+        "created_at": "2023-08-11T13:08:00+00:00",
+        "updated_at": "2026-11-19T04:23:55.113926+00:00"
+      },
+      {
+        "memory": "Tim shared an image showing a table covered with many Harry Potter books as part of his fan project collaboration",
+        "score": 0.3376,
+        "id": "d96280bd-c58a-4103-bc62-7da8671ea782",
+        "created_at": "2023-05-21T19:48:00+00:00",
+        "updated_at": "2026-11-19T04:05:10.603029+00:00"
+      },
+      {
+        "memory": "Tim believes books open new worlds, inspire, make us think, help us feel better and grow",
+        "score": 0.33,
+        "id": "68ac1839-6e97-4665-a3c2-24112bd408d1",
+        "created_at": "2023-11-21T10:22:00+00:00",
+        "updated_at": "2026-11-19T05:24:05.700300+00:00"
+      },
+      {
+        "memory": "Tim says his Harry Potter reminders really help and he plans to visit more Harry Potter locations in the future, feeling like he’s stepping into the books",
+        "score": 0.328,
+        "id": "21224935-d746-4d86-8858-7d94ba0c8aea",
+        "created_at": "2023-06-15T17:08:00+00:00",
+        "updated_at": "2026-11-19T04:10:20.488373+00:00"
+      },
+      {
+        "memory": "Tim shared an image of a stack of books on a table, described as fantasy novels with bookmarks symbolizing friendship and loyalty",
+        "score": 0.3238,
+        "id": "f921436e-a4ba-49dd-be23-a58248cd5906",
+        "created_at": "2023-12-08T19:42:00+00:00",
+        "updated_at": "2026-11-19T05:37:16.152531+00:00"
+      },
+      {
+        "memory": "Tim recently read a book about how small changes can make big differences, which had a big impact on him and changed the way he does things",
+        "score": 0.3136,
+        "id": "64a5e34e-90e2-4fee-919d-bfe9f9a6b1d8",
+        "created_at": "2023-11-21T10:22:00+00:00",
+        "updated_at": "2026-11-19T05:22:55.113173+00:00"
+      },
+      {
+        "memory": "Tim shared an image of a collection of fantasy novels and movies displayed on a wooden floor, describing the books as companions on his growth journey",
+        "score": 0.3097,
+        "id": "730b1ced-36db-410b-ac49-92035f218f01",
+        "created_at": "2023-11-21T10:22:00+00:00",
+        "updated_at": "2026-11-19T05:22:10.687376+00:00"
+      },
+      {
+        "memory": "Tim shared an image of his bookshelf displaying many books, including his favorite fantasy titles Harry Potter, Game of Thrones, and Lord of the Rings, describing the collection as an amazing journey",
+        "score": 0.3054,
+        "id": "1fbf0e53-a868-4a64-b7b9-82ebfd8e2b15",
+        "created_at": "2023-12-01T09:52:00+00:00",
+        "updated_at": "2026-11-19T05:28:06.843494+00:00"
+      },
+      {
+        "memory": "Tim shared an image showing a stack of textbooks and notes, a photo of a stack of books on a table",
+        "score": 0.3049,
+        "id": "583598f0-7e4e-462d-a9e2-9c510ade73fc",
+        "created_at": "2023-08-26T18:59:00+00:00",
+        "updated_at": "2026-11-19T04:39:58.461720+00:00"
+      },
+      {
+        "memory": "Tim considers J.K. Rowling an inspiring writer whose books are captivating, detailed, and transport readers into another world, and he regularly takes notes on her style for his own writing",
+        "score": 0.2959,
+        "id": "555b7296-098a-4ccb-a2fb-08476d14cc1d",
+        "created_at": "2023-10-21T17:51:00+00:00",
+        "updated_at": "2026-11-19T05:07:03.371465+00:00"
+      },
+      {
+        "memory": "Tim read an awesome book about castles in the UK, found it incredibly interesting and blew him away, and now dreams of visiting those castles one day",
+        "score": 0.2886,
+        "id": "d7c16c2e-43f6-49a1-880e-1775a5eb2e5e",
+        "created_at": "2023-10-21T17:51:00+00:00",
+        "updated_at": "2026-11-19T05:04:52.376985+00:00"
+      },
+      {
+        "memory": "Tim has no big events coming up and hopes to attend a book conference in September 2023, an gathering of authors, publishers, and book lovers discussing favorite novels and new releases, which he is excited about because it will help him learn more about literature and create a stronger bond to it",
+        "score": 0.2882,
+        "id": "3161ca8d-2d52-4d66-862a-8af3dbe39e8a",
+        "created_at": "2023-08-17T19:54:00+00:00",
+        "updated_at": "2026-11-19T04:30:39.864246+00:00"
+      },
+      {
+        "memory": "Tim reports being busy with studies but successfully finding time to relax with books, achieving a good balance",
+        "score": 0.2857,
+        "id": "9825775f-7cbe-44d0-a148-a48141aabbca",
+        "created_at": "2023-10-17T13:50:00+00:00",
+        "updated_at": "2026-11-19T05:04:14.362783+00:00"
+      },
+      {
+        "memory": "Tim joined a group of globetrotters who share his interests, enjoying getting to know them and hearing about their trips",
+        "score": 0.278,
+        "id": "2750e0f2-4c00-4f12-aa1c-b037a55bef34",
+        "created_at": "2024-01-02T17:26:00+00:00",
+        "updated_at": "2026-11-19T05:55:34.810139+00:00"
+      }
+    ],
+    "search_latency_ms": 684.9,
+    "total_results": 50
+  },
+  "cutoff_results": {
+    "top_50": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "Star Wars: The High Republic — Light of the Jedi by Charles Soule. It launches a new era with rich world‑building and epic scope, which fits Tim’s love of Star Wars and the detailed, immersive worlds he enjoys in series like The Lord of the Rings.",
+      "memories_evaluated": 50,
+      "reason": "The generated answer recommends a different Star Wars book (The High Republic: Light of the Jedi by Charles Soule) and does not include the gold item (Star Wars: Jedi Apprentice by Judy Blundell/David Farland), so there is no overlap."
+    }
+  }
+}

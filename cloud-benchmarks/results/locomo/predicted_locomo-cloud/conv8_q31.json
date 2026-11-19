@@ -1,0 +1,379 @@
+{
+  "question_id": "conv8_q31",
+  "conversation_idx": 8,
+  "category": 3,
+  "category_name": "open-domain",
+  "question": "How might Evan and Sam's experiences with health and lifestyle changes influence their approach to stress and challenges?",
+  "ground_truth_answer": "Their experiences likely lead them to view challenges as opportunities for growth and change. They both have embraced healthier lifestyles, indicating a proactive approach to managing stress and challenges.",
+  "evidence": [
+    "D9:1 D4:4 D4:6"
+  ],
+  "user_id": "locomo_8_fe8ec031",
+  "reference_date": "9:37 pm on 11 January, 2024",
+  "retrieval": {
+    "search_query": "How might Evan and Sam's experiences with health and lifestyle changes influence their approach to stress and challenges?",
+    "search_results": [
+      {
+        "memory": "Evan notes that both he and Sam are being compelled to take better care of their health after recent challenges",
+        "score": 0.7008,
+        "id": "df7d5e91-4136-41b4-9c8d-31d46b0c48bc",
+        "created_at": "2023-08-15T16:20:00+00:00",
+        "updated_at": "2026-11-19T04:30:11.751177+00:00"
+      },
+      {
+        "memory": "Evan offered to support Sam in his health journey, expressing willingness to help with Sam's health challenges",
+        "score": 0.6776,
+        "id": "fc1ae038-a016-4bc0-b476-14ab2b6f8d8e",
+        "created_at": "2023-05-24T19:11:00+00:00",
+        "updated_at": "2026-11-19T04:07:48.050206+00:00"
+      },
+      {
+        "memory": "Evan expressed empathy to Sam about his health challenges, noted that Sam stays positive, and reminded Sam to take care of himself",
+        "score": 0.6749,
+        "id": "dd6a323e-5581-414e-8046-725beb7c4e0f",
+        "created_at": "2024-01-11T21:37:00+00:00",
+        "updated_at": "2026-11-19T05:39:04.636692+00:00"
+      },
+      {
+        "memory": "Evan praised Sam for sticking to his health routine and asked if Sam has noticed any positive changes",
+        "score": 0.6654,
+        "id": "33017013-8543-4dbc-aea2-eb2988dbbca1",
+        "created_at": "2023-08-19T18:17:00+00:00",
+        "updated_at": "2026-11-19T04:33:54.140832+00:00"
+      },
+      {
+        "memory": "Evan believes that health improvement involves exercise, diet, and lifestyle changes together",
+        "score": 0.6096,
+        "id": "5763580d-974c-4ad7-99b9-17cc99584dab",
+        "created_at": "2023-07-27T10:52:00+00:00",
+        "updated_at": "2026-11-19T04:15:37.445869+00:00"
+      },
+      {
+        "memory": "Evan experienced a sudden heart palpitation health scare during the week of May 30, 2023, which he described as a serious wake‑up call about his lifestyle",
+        "score": 0.5996,
+        "id": "5f1e4e39-5967-413d-b4d9-5d5b15dd10cd",
+        "created_at": "2023-06-06T15:55:00+00:00",
+        "updated_at": "2026-11-19T04:10:19.138554+00:00"
+      },
+      {
+        "memory": "Sam says handling his health changes has been kinda wild",
+        "score": 0.5902,
+        "id": "15af877e-7d53-431c-a956-e17d2a1758cc",
+        "created_at": "2023-09-11T09:28:00+00:00",
+        "updated_at": "2026-11-19T04:42:19.505193+00:00"
+      },
+      {
+        "memory": "Sam says his health has been challenging lately and that some issues have been hard on his health",
+        "score": 0.5772,
+        "id": "36966d1e-25c3-4c97-be8b-098e27c5f8ca",
+        "created_at": "2023-08-13T16:09:00+00:00",
+        "updated_at": "2026-11-19T04:25:42.490441+00:00"
+      },
+      {
+        "memory": "Evan suggested Sam try picking up a hobby to de‑stress from work stress",
+        "score": 0.5628,
+        "id": "4ad201ed-78d2-47b2-ac11-ee4eeb817b2f",
+        "created_at": "2023-10-14T16:07:00+00:00",
+        "updated_at": "2026-11-19T04:52:11.161088+00:00"
+      },
+      {
+        "memory": "Sam says Evan looks great and asks how Evan managed the change",
+        "score": 0.544,
+        "id": "4fde90da-dc47-4607-9efb-f519ed4a79ee",
+        "created_at": "2023-10-25T14:56:00+00:00",
+        "updated_at": "2026-11-19T05:00:00.897491+00:00"
+      },
+      {
+        "memory": "Evan told Sam that Sam has come a long way in his quest for better health and expressed excitement about what comes next for Sam",
+        "score": 0.543,
+        "id": "925a352d-b635-424e-9b83-10454f8b80e0",
+        "created_at": "2023-11-09T21:13:00+00:00",
+        "updated_at": "2026-11-19T05:02:54.510865+00:00"
+      },
+      {
+        "memory": "Sam says it's inspiring to see how Evan transformed by changing his mindset",
+        "score": 0.5358,
+        "id": "eeeda0d7-3247-4af3-9cba-1b8cef348ef6",
+        "created_at": "2023-10-25T14:56:00+00:00",
+        "updated_at": "2026-11-19T05:00:40.448722+00:00"
+      },
+      {
+        "memory": "Evan encouraged Sam to be patient with himself, emphasized that Sam's health matters, and urged him to stay upbeat and keep going",
+        "score": 0.5285,
+        "id": "f553ec21-3303-41f5-9cc7-5b86e32f009e",
+        "created_at": "2023-10-08T15:09:00+00:00",
+        "updated_at": "2026-11-19T04:49:27.441655+00:00"
+      },
+      {
+        "memory": "Sam is getting into a healthier lifestyle",
+        "score": 0.5203,
+        "id": "6b3c2693-3cb3-454d-afad-e54768da4863",
+        "created_at": "2023-12-31T11:00:00+00:00",
+        "updated_at": "2026-11-19T05:25:32.248858+00:00"
+      },
+      {
+        "memory": "As of August 7, 2023, Evan is dealing with health issues, according to Sam.",
+        "score": 0.4913,
+        "id": "3e87f15f-90b4-4dd2-82a3-af3d6986bc0a",
+        "created_at": "2023-08-07T19:52:00+00:00",
+        "updated_at": "2026-11-19T04:21:33.097890+00:00"
+      },
+      {
+        "memory": "Sam says swimming is a good, low-impact, joint-friendly, refreshing activity and encourages Evan to keep up an active lifestyle",
+        "score": 0.4637,
+        "id": "74d14bf6-6fa9-45f7-8376-e964cabdec52",
+        "created_at": "2023-08-27T10:18:00+00:00",
+        "updated_at": "2026-11-19T04:39:28.785919+00:00"
+      },
+      {
+        "memory": "Evan has been working on his health journey for two years, experiencing ups and downs but staying committed",
+        "score": 0.4559,
+        "id": "91a6887c-5ff1-4262-aed5-c681609c4f64",
+        "created_at": "2023-08-07T19:52:00+00:00",
+        "updated_at": "2026-11-19T04:21:29.581142+00:00"
+      },
+      {
+        "memory": "Sam is feeling a mix of emotions, being somewhat concerned about his health but also motivated to make positive changes, and is taking things one step at a time",
+        "score": 0.4363,
+        "id": "ce5345be-ff4b-449d-848c-8b1afbc22c3c",
+        "created_at": "2023-08-15T16:20:00+00:00",
+        "updated_at": "2026-11-19T04:33:10.691765+00:00"
+      },
+      {
+        "memory": "Evan praised Sam for having a health plan and being dedicated to staying healthy, and asked Sam whether he has consulted his doctor for additional diet and exercise advice",
+        "score": 0.4312,
+        "id": "03d4415a-d424-409f-97a4-b803aef695c3",
+        "created_at": "2024-01-10T00:17:00+00:00",
+        "updated_at": "2026-11-19T05:35:24.362525+00:00"
+      },
+      {
+        "memory": "Sam said he started thinking about ways to cope with the situation after talking with Evan, but finds it challenging.",
+        "score": 0.4148,
+        "id": "afbba258-c462-4a45-93f9-f85c4f588308",
+        "created_at": "2023-12-17T18:48:00+00:00",
+        "updated_at": "2026-11-19T05:18:15.523665+00:00"
+      },
+      {
+        "memory": "Sam had a medical check-up on Monday, October 2, 2023, where his doctor said his weight poses a serious health risk and he needs to make changes soon, which he finds emotionally distressing.",
+        "score": 0.3957,
+        "id": "8b654606-e6df-49dd-8160-9e9e30891967",
+        "created_at": "2023-10-08T15:09:00+00:00",
+        "updated_at": "2026-11-19T04:47:58.468383+00:00"
+      },
+      {
+        "memory": "Evan struggled with his health a few years ago but persisted in improving it",
+        "score": 0.3748,
+        "id": "912ea9fc-a62b-4fab-a1aa-eff64608cd3c",
+        "created_at": "2023-07-27T10:52:00+00:00",
+        "updated_at": "2026-11-19T04:15:37.445869+00:00"
+      },
+      {
+        "memory": "Evan feels that health issues can cramp his style and are frustrating",
+        "score": 0.3733,
+        "id": "98a99cfc-6093-43eb-991f-061f72ab4550",
+        "created_at": "2024-01-11T21:37:00+00:00",
+        "updated_at": "2026-11-19T05:40:41.962494+00:00"
+      },
+      {
+        "memory": "Evan says dealing with health issues has been tough and that it has made him appreciate good moments more",
+        "score": 0.3627,
+        "id": "4f050f11-417e-41fc-b648-fac79f76171f",
+        "created_at": "2023-08-07T19:52:00+00:00",
+        "updated_at": "2026-11-19T04:21:14.406789+00:00"
+      },
+      {
+        "memory": "Sam expressed excitement about going on a hike with Evan, calling it a fun challenge and a chance to appreciate the beauty of nature.",
+        "score": 0.3585,
+        "id": "a5ba49e9-3777-4e9d-822a-fe563d2788e9",
+        "created_at": "2023-10-17T13:50:00+00:00",
+        "updated_at": "2026-11-19T04:56:19.740669+00:00"
+      },
+      {
+        "memory": "Evan offered to help Sam after hearing about Sam's tough week",
+        "score": 0.3547,
+        "id": "0719f850-0754-41f6-b193-dbb6e4fff851",
+        "created_at": "2023-05-24T19:11:00+00:00",
+        "updated_at": "2026-11-19T04:07:28.510903+00:00"
+      },
+      {
+        "memory": "Evan encourages Sam, telling him it's tough at first but he can do it",
+        "score": 0.3467,
+        "id": "867ff2a1-06f2-4e65-96f2-68df4273420b",
+        "created_at": "2023-07-27T10:52:00+00:00",
+        "updated_at": "2026-11-19T04:16:58.777113+00:00"
+      },
+      {
+        "memory": "Evan tells Sam he'll be there for him and advises him to take it slow and treat himself",
+        "score": 0.3457,
+        "id": "5568d322-084b-4766-bae0-845aef6bb18c",
+        "created_at": "2023-10-25T14:56:00+00:00",
+        "updated_at": "2026-11-19T04:58:18.997914+00:00"
+      },
+      {
+        "memory": "When stressed, Evan turns to comforting activities such as painting or going for a drive",
+        "score": 0.3449,
+        "id": "e7e9a943-dc90-4a58-9da4-d8ade46283ae",
+        "created_at": "2023-09-11T09:28:00+00:00",
+        "updated_at": "2026-11-19T04:42:46.330858+00:00"
+      },
+      {
+        "memory": "Evan (Evan) is super pumped for Sam and plans to catch up soon to see how Sam is enjoying his new hobbies",
+        "score": 0.344,
+        "id": "3e65df91-38a5-4569-9034-c85044b4005b",
+        "created_at": "2023-05-18T13:47:00+00:00",
+        "updated_at": "2026-11-19T04:06:05.974047+00:00"
+      },
+      {
+        "memory": "Evan (Evan) had a health scare and went to the hospital around November 14, 2023, where a suspicious finding was later determined to be a misunderstanding, prompting him to realize the importance of monitoring his health",
+        "score": 0.3431,
+        "id": "e66a5de4-f922-4b07-bdf3-cbc7fa250fb3",
+        "created_at": "2023-11-21T19:30:00+00:00",
+        "updated_at": "2026-11-19T05:07:37.057966+00:00"
+      },
+      {
+        "memory": "Evan thanked Sam for his encouragement",
+        "score": 0.3399,
+        "id": "59c9640c-346d-4143-8aff-7a868407d9ae",
+        "created_at": "2023-08-27T10:18:00+00:00",
+        "updated_at": "2026-11-19T04:40:14.225487+00:00"
+      },
+      {
+        "memory": "Evan (Evan) expressed interest in receiving Sam's recipe and thanked Sam for sharing it",
+        "score": 0.3378,
+        "id": "49164833-c39a-494c-abec-0acac3b012ba",
+        "created_at": "2023-08-19T18:17:00+00:00",
+        "updated_at": "2026-11-19T04:34:46.410150+00:00"
+      },
+      {
+        "memory": "Evan appreciates Sam's concern and thanks him",
+        "score": 0.3367,
+        "id": "f0ddae15-98d7-4029-a87a-d7f61e021854",
+        "created_at": "2023-08-27T10:18:00+00:00",
+        "updated_at": "2026-11-19T04:38:55.990082+00:00"
+      },
+      {
+        "memory": "Evan thanked Sam for the suggestion",
+        "score": 0.3356,
+        "id": "3fc07b4f-6860-4c60-87c6-e47707498778",
+        "created_at": "2023-12-05T20:16:00+00:00",
+        "updated_at": "2026-11-19T05:13:39.503469+00:00"
+      },
+      {
+        "memory": "Sam says yoga has greatly improved his flexibility and reduced his stress levels",
+        "score": 0.3348,
+        "id": "22138900-cca3-4d07-870c-dea0510a52ff",
+        "created_at": "2023-12-05T20:16:00+00:00",
+        "updated_at": "2026-11-19T05:13:24.927443+00:00"
+      },
+      {
+        "memory": "Evan encouraged Sam to focus on a balanced diet and low‑impact exercises, reminding him to keep him updated on progress",
+        "score": 0.3347,
+        "id": "18853efc-a2fe-4d76-80dc-d4795b481c5a",
+        "created_at": "2024-01-10T00:17:00+00:00",
+        "updated_at": "2026-11-19T05:36:20.492622+00:00"
+      },
+      {
+        "memory": "Evan decided to try yoga as suggested by Sam",
+        "score": 0.3346,
+        "id": "1df39acb-ceb5-4146-a0d9-14dbf0e56895",
+        "created_at": "2023-12-05T20:16:00+00:00",
+        "updated_at": "2026-11-19T05:13:39.503469+00:00"
+      },
+      {
+        "memory": "Sam says Evan is doing great and Sam wants to feel the same sense of freedom",
+        "score": 0.3346,
+        "id": "c6263835-959e-4854-a7c5-ae19a02b5195",
+        "created_at": "2023-10-25T14:56:00+00:00",
+        "updated_at": "2026-11-19T05:01:33.916944+00:00"
+      },
+      {
+        "memory": "Evan says his family motivates him to stay healthy and helps a lot with his health goals",
+        "score": 0.3341,
+        "id": "e09ee60b-5403-47c7-a902-93bb79cbb58b",
+        "created_at": "2023-08-07T19:52:00+00:00",
+        "updated_at": "2026-11-19T04:22:07.730400+00:00"
+      },
+      {
+        "memory": "Evan believes in Sam and encourages him to take small steps",
+        "score": 0.3323,
+        "id": "02257016-f5b4-4c5e-b310-fb63de5e3ba7",
+        "created_at": "2023-11-21T19:30:00+00:00",
+        "updated_at": "2026-11-19T05:08:17.164076+00:00"
+      },
+      {
+        "memory": "Evan expressed that he is glad to help Sam and hopes Sam enjoys it",
+        "score": 0.331,
+        "id": "bbbb74a0-75b0-4632-a493-53092ce46092",
+        "created_at": "2023-12-31T11:00:00+00:00",
+        "updated_at": "2026-11-19T05:28:24.649551+00:00"
+      },
+      {
+        "memory": "Sam is super excited to get fit together with Evan",
+        "score": 0.3307,
+        "id": "8be35fb4-4379-4708-862a-68126ae24d0e",
+        "created_at": "2023-10-17T13:50:00+00:00",
+        "updated_at": "2026-11-19T04:56:51.813754+00:00"
+      },
+      {
+        "memory": "Evan expressed hope that Sam is doing well",
+        "score": 0.3303,
+        "id": "eaeaefc8-d41a-438c-b46b-d859fa39d62e",
+        "created_at": "2024-01-10T00:17:00+00:00",
+        "updated_at": "2026-11-19T05:33:52.391513+00:00"
+      },
+      {
+        "memory": "Evan encourages Sam to appreciate the little things in life",
+        "score": 0.3302,
+        "id": "589609e7-1290-4c3d-81f7-95b6a27c2ac5",
+        "created_at": "2023-11-21T19:30:00+00:00",
+        "updated_at": "2026-11-19T05:09:07.768736+00:00"
+      },
+      {
+        "memory": "Evan encourages Sam to focus on healthy swaps, take small steps, and stay upbeat",
+        "score": 0.3286,
+        "id": "8794c07b-e538-40ad-b585-ac103a5feccb",
+        "created_at": "2023-07-27T10:52:00+00:00",
+        "updated_at": "2026-11-19T04:17:51.604445+00:00"
+      },
+      {
+        "memory": "Yoga is a great start for Evan, helping him manage stress and stay flexible, which complements his diet",
+        "score": 0.3282,
+        "id": "06abda4d-52f6-4f29-8d04-c98116c09a2e",
+        "created_at": "2024-01-10T00:17:00+00:00",
+        "updated_at": "2026-11-19T05:37:11.138042+00:00"
+      },
+      {
+        "memory": "Evan recommends Sam try exercising as a way to address his weight",
+        "score": 0.3246,
+        "id": "647b0219-97a5-4d4a-8dfb-0e3005088f6f",
+        "created_at": "2023-05-24T19:11:00+00:00",
+        "updated_at": "2026-11-19T04:09:02.095829+00:00"
+      },
+      {
+        "memory": "Evan told Sam to go to bed and take care",
+        "score": 0.3231,
+        "id": "dd98243a-ba71-4742-ab13-9a86b8c268ad",
+        "created_at": "2023-08-13T16:09:00+00:00",
+        "updated_at": "2026-11-19T04:28:21.643756+00:00"
+      },
+      {
+        "memory": "Sam agreed that a trip to the calming spot would be a perfect way to de-stress",
+        "score": 0.323,
+        "id": "54b62988-5fc3-48b0-b9ad-7e5cedd11ee4",
+        "created_at": "2023-11-09T21:13:00+00:00",
+        "updated_at": "2026-11-19T05:07:15.006341+00:00"
+      }
+    ],
+    "search_latency_ms": 394.6,
+    "total_results": 50
+  },
+  "cutoff_results": {
+    "top_50": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Their health journeys have pushed them toward a proactive, steady approach to stress and challenges. After Evan’s health scares and Sam’s doctor’s warning, they favor:\n- Small, sustainable steps with patience and a positive mindset.\n- Low‑impact, de‑stressing movement (yoga—already reducing Sam’s stress and now part of Evan’s routine—plus swimming and hiking together).\n- Rest and recovery habits (Evan telling Sam to get sleep; treating themselves kindly).\n- Creative and calming outlets (Evan’s painting/drives; trips to a calming spot) and appreciating little things.\n- Monitoring health and sticking to balanced diet changes, reinforced by mutual encouragement and, for Evan, family motivation.\n\nTogether, this means they meet stress by regulating it daily with gentle exercise, restorative hobbies, supportive check‑ins, and incremental goals rather than all‑or‑nothing pushes.",
+      "memories_evaluated": 50,
+      "reason": "The generated answer captures their proactive, healthier approach to managing stress and challenges, aligning with the gold answer’s core point."
+    }
+  }
+}

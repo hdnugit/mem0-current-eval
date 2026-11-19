@@ -1,0 +1,382 @@
+{
+  "question_id": "conv3_q66",
+  "conversation_idx": 3,
+  "category": 3,
+  "category_name": "open-domain",
+  "question": "What alternative career might Nate consider after gaming?",
+  "ground_truth_answer": "an animalkeeper at a localzoo and workingwith turtles; as heknows a great dealabout turtles andhow to care for them,and he enjoys it.",
+  "evidence": [
+    "D5:8",
+    "D19:3",
+    "D25:19",
+    "D28:25"
+  ],
+  "user_id": "locomo_3_fe8ec031",
+  "reference_date": "12:06 am on 11 November, 2022",
+  "retrieval": {
+    "search_query": "What alternative career might Nate consider after gaming?",
+    "search_results": [
+      {
+        "memory": "Nate believes that encouragement has been crucial to his gaming career",
+        "score": 0.6725,
+        "id": "2c481cf3-ff1d-42dd-9787-60a1d0025969",
+        "created_at": "2022-10-06T11:15:00+00:00",
+        "updated_at": "2026-11-19T05:24:22.684692+00:00"
+      },
+      {
+        "memory": "Nate said that having a gaming headset and controller is important for his career, otherwise he wouldn't be able to beat the competition",
+        "score": 0.6513,
+        "id": "a970e9d9-159a-4a80-9edc-79906f0731f8",
+        "created_at": "2022-11-07T20:10:00+00:00",
+        "updated_at": "2026-11-19T05:40:57.984620+00:00"
+      },
+      {
+        "memory": "Nate is considering joining a new gaming team after his next tournament, has received a few offers but hasn't decided yet, viewing it as a big step and feeling ready for a shake‑up",
+        "score": 0.5644,
+        "id": "2266c609-b19d-4264-ac34-9a2589127fd0",
+        "created_at": "2022-11-09T17:54:00+00:00",
+        "updated_at": "2026-11-19T05:45:12.298864+00:00"
+      },
+      {
+        "memory": "Joanna asked Nate about his next move in the gaming world",
+        "score": 0.553,
+        "id": "d4cd752a-3c3b-4e40-a44a-5eff7bc328a4",
+        "created_at": "2022-11-09T17:54:00+00:00",
+        "updated_at": "2026-11-19T05:45:18.224835+00:00"
+      },
+      {
+        "memory": "Nate shared an image showing a gaming room with a computer and a gaming chair",
+        "score": 0.5428,
+        "id": "1cf800ce-67aa-4b51-be48-a4b3fecabf02",
+        "created_at": "2022-05-02T11:54:00+00:00",
+        "updated_at": "2026-11-19T04:37:40.171906+00:00"
+      },
+      {
+        "memory": "Nate made friends at the gaming convention and has already planned a gaming session together with them, noting they share his love of games.",
+        "score": 0.5408,
+        "id": "cc918337-8bc3-47f9-b925-ab6cba5654f5",
+        "created_at": "2022-10-09T10:58:00+00:00",
+        "updated_at": "2026-11-19T05:25:04.773547+00:00"
+      },
+      {
+        "memory": "Joanna congratulated Nate on his tournament win and said it must feel great to turn his passion into a career.",
+        "score": 0.5294,
+        "id": "5d4b0ea6-0f9d-48e8-a552-c5723351ac35",
+        "created_at": "2022-08-22T10:57:00+00:00",
+        "updated_at": "2026-11-19T05:11:46.124436+00:00"
+      },
+      {
+        "memory": "Nate said his gaming party was a great success",
+        "score": 0.5183,
+        "id": "41c11335-28c8-41c9-b40c-a9d78f5fc3ae",
+        "created_at": "2022-06-24T10:55:00+00:00",
+        "updated_at": "2026-11-19T05:02:47.813882+00:00"
+      },
+      {
+        "memory": "Nate suggested Joanna consider other animals as pets besides turtles",
+        "score": 0.5174,
+        "id": "b3c4db16-3f23-4675-9731-81a919b639a9",
+        "created_at": "2022-03-18T18:59:00+00:00",
+        "updated_at": "2026-11-19T04:23:04.819377+00:00"
+      },
+      {
+        "memory": "Nate is a big fan of gaming videos and plans to start making them himself to share his love of gaming and connect with others who enjoy it too",
+        "score": 0.5109,
+        "id": "008e70fa-9dfe-4856-a538-37cbe15a7383",
+        "created_at": "2022-11-09T17:54:00+00:00",
+        "updated_at": "2026-11-19T05:47:16.311487+00:00"
+      },
+      {
+        "memory": "Nate says he likes nature and would consider going with someone else to a nature activity",
+        "score": 0.4933,
+        "id": "14ff3cd9-9b12-49da-8133-dc5e887af097",
+        "created_at": "2022-04-17T18:44:00+00:00",
+        "updated_at": "2026-11-19T04:29:58.113335+00:00"
+      },
+      {
+        "memory": "Nate won an international gaming tournament on August 21, 2022, calling it wild, and says his gaming success now lets him make a living from his passion.",
+        "score": 0.479,
+        "id": "ea86b6da-dc01-49f5-a3c5-feb3e2cb21ff",
+        "created_at": "2022-08-22T10:57:00+00:00",
+        "updated_at": "2026-11-19T05:11:29.474136+00:00"
+      },
+      {
+        "memory": "Joanna thinks Nate's idea of making gaming videos is cool",
+        "score": 0.4644,
+        "id": "1f71d668-48fc-493a-96c5-c51c0e7fb2c2",
+        "created_at": "2022-11-09T17:54:00+00:00",
+        "updated_at": "2026-11-19T05:46:58.806105+00:00"
+      },
+      {
+        "memory": "Nate recommended that Joanna consider backing up her work in the future to prevent loss of progress",
+        "score": 0.4635,
+        "id": "6085ef44-922d-4a88-9fd4-a42ef70d7214",
+        "created_at": "2022-09-14T13:43:00+00:00",
+        "updated_at": "2026-11-19T05:19:18.466393+00:00"
+      },
+      {
+        "memory": "Joanna believes Nate must feel great being recognized for his gaming skills after his tournament victory",
+        "score": 0.4593,
+        "id": "01707630-d4f5-4d37-9f03-4dd4319efc38",
+        "created_at": "2022-06-03T17:44:00+00:00",
+        "updated_at": "2026-11-19T04:57:20.911135+00:00"
+      },
+      {
+        "memory": "Joanna says Nate is passionate about gaming and encourages him to keep helping others improve their high scores",
+        "score": 0.4592,
+        "id": "56e7bf71-ce4d-4f94-9403-582d18ba730a",
+        "created_at": "2022-11-04T15:56:00+00:00",
+        "updated_at": "2026-11-19T05:36:41.023762+00:00"
+      },
+      {
+        "memory": "Joanna expressed pride in Nate's gaming room and said it looks great",
+        "score": 0.4587,
+        "id": "bd7f7c91-a3f6-4ea9-a3c7-560ceb24fa5d",
+        "created_at": "2022-05-02T11:54:00+00:00",
+        "updated_at": "2026-11-19T04:37:47.855787+00:00"
+      },
+      {
+        "memory": "Joanna wishes Nate luck with picking the right team as he considers making a switch",
+        "score": 0.4475,
+        "id": "c6fd1e73-3cbe-4e92-8d3d-4d5ec5f31256",
+        "created_at": "2022-11-09T17:54:00+00:00",
+        "updated_at": "2026-11-19T05:45:22.436473+00:00"
+      },
+      {
+        "memory": "Nate is feeling good about his upcoming fourth gaming tournament scheduled for May 2022",
+        "score": 0.4408,
+        "id": "e0a53c63-9218-46d1-a089-34369e0b507e",
+        "created_at": "2022-04-21T19:44:00+00:00",
+        "updated_at": "2026-11-19T04:34:01.501422+00:00"
+      },
+      {
+        "memory": "Nate noted that the gaming session was both competitive and chill, and that they were competing but still had lots of fun",
+        "score": 0.4387,
+        "id": "92e9c02b-343b-45d8-a78e-94a7593d004a",
+        "created_at": "2022-10-09T10:58:00+00:00",
+        "updated_at": "2026-11-19T05:26:18.104651+00:00"
+      },
+      {
+        "memory": "Seven people attended Nate's gaming party, and six of them said they'd want to do it again next month.",
+        "score": 0.4332,
+        "id": "a73177fa-5ad7-46c8-9907-9e1387eaa695",
+        "created_at": "2022-06-24T10:55:00+00:00",
+        "updated_at": "2026-11-19T05:03:53.611026+00:00"
+      },
+      {
+        "memory": "Nate is creating gaming content for YouTube as a way to entertain people and satisfy his video game cravings when there are no tournaments",
+        "score": 0.4249,
+        "id": "a2811b78-4d88-4cc8-b4b4-5beecac5c1a5",
+        "created_at": "2022-11-09T17:54:00+00:00",
+        "updated_at": "2026-11-19T05:46:51.208154+00:00"
+      },
+      {
+        "memory": "Nate said the upcoming gaming party will be a blast and that he is getting custom controller decorations for all attendees",
+        "score": 0.4168,
+        "id": "206ab13f-cb12-4b9a-9f86-2bad77c17c42",
+        "created_at": "2022-06-03T17:44:00+00:00",
+        "updated_at": "2026-11-19T04:59:50.223481+00:00"
+      },
+      {
+        "memory": "Nate shared an image of a man standing in front of a table with board games at a gaming convention.",
+        "score": 0.4099,
+        "id": "3df9b23c-fcbb-46d9-9343-f9c36bda0071",
+        "created_at": "2022-10-09T10:58:00+00:00",
+        "updated_at": "2026-11-19T05:24:50.663767+00:00"
+      },
+      {
+        "memory": "Joanna wishes Nate good luck in his video game tournament, noting it involves many days of intense gaming",
+        "score": 0.4001,
+        "id": "bf6e424d-45a9-4e09-bd77-1185e5533c6a",
+        "created_at": "2022-03-24T13:43:00+00:00",
+        "updated_at": "2026-11-19T04:26:08.487069+00:00"
+      },
+      {
+        "memory": "Nate is organizing a gaming party for the weekend of June 11-12, 2022, which he expects to be hectic but fun",
+        "score": 0.3972,
+        "id": "2b5c20aa-9ae0-4224-8ff1-d11bd9389065",
+        "created_at": "2022-06-03T17:44:00+00:00",
+        "updated_at": "2026-11-19T04:59:18.336125+00:00"
+      },
+      {
+        "memory": "Nate upgraded his home gaming equipment and shared a photo of his new desk setup featuring a computer monitor and a keyboard",
+        "score": 0.3815,
+        "id": "0d605028-e9ae-469c-9206-91946299b4a3",
+        "created_at": "2022-11-07T20:10:00+00:00",
+        "updated_at": "2026-11-19T05:40:03.736726+00:00"
+      },
+      {
+        "memory": "Nate said his focus is gaming, he practices a lot, and has been winning a few tournaments, including his second tournament win in the week of April 25, 2022",
+        "score": 0.3669,
+        "id": "64c887bb-de5d-47f2-a3d4-4e9e074a8887",
+        "created_at": "2022-05-02T11:54:00+00:00",
+        "updated_at": "2026-11-19T04:38:01.704075+00:00"
+      },
+      {
+        "memory": "Nate frequently shares updates about his gaming tournament wins, vegan ice‑cream experiments, and offers mutual encouragement, while Joanna expresses thanks for his support in her writing journey.",
+        "score": 0.3617,
+        "id": "9099a517-439f-4c6a-9d7d-2858dd2d18ca",
+        "created_at": "2022-07-10T14:34:00+00:00",
+        "updated_at": "2026-11-19T05:08:13.678473+00:00"
+      },
+      {
+        "memory": "Nate, Joanna’s friend, frequently shares updates about his gaming tournaments (including a recent win) and vegan cooking experiments, and they exchange mutual encouragement.",
+        "score": 0.3585,
+        "id": "57e7a6e2-c910-451f-99de-7fc0e6d19a1a",
+        "created_at": "2022-07-10T14:34:00+00:00",
+        "updated_at": "2026-11-19T05:07:15.041028+00:00"
+      },
+      {
+        "memory": "Nate has been practicing for his next video game tournament",
+        "score": 0.314,
+        "id": "c84ae421-28b3-4ba3-b2e1-fa42783a9bbc",
+        "created_at": "2022-10-21T14:01:00+00:00",
+        "updated_at": "2026-11-19T05:30:18.481966+00:00"
+      },
+      {
+        "memory": "Nate enjoys connecting with fellow gamers",
+        "score": 0.3103,
+        "id": "b692c7a7-8479-40a2-a32b-a01125127a6d",
+        "created_at": "2022-06-03T17:44:00+00:00",
+        "updated_at": "2026-11-19T04:57:12.265203+00:00"
+      },
+      {
+        "memory": "Nate said that someone asked him for tips on improving their game and he offered to help",
+        "score": 0.3,
+        "id": "5d05f613-4aa6-418e-b480-58723cbb16d9",
+        "created_at": "2022-06-03T17:44:00+00:00",
+        "updated_at": "2026-11-19T04:58:44.887335+00:00"
+      },
+      {
+        "memory": "Nate appreciates Joanna's support and mentions that it has been a while since his first video game tournament",
+        "score": 0.2987,
+        "id": "82e0ee6c-661a-4cba-8684-bca22f6c95a1",
+        "created_at": "2022-06-03T17:44:00+00:00",
+        "updated_at": "2026-11-19T04:58:20.372991+00:00"
+      },
+      {
+        "memory": "Nate says he no longer feels stressed and can enjoy his movies and games",
+        "score": 0.2957,
+        "id": "0653be4a-e4d1-4257-a82d-0348839b38ea",
+        "created_at": "2022-10-06T11:15:00+00:00",
+        "updated_at": "2026-11-19T05:22:52.814175+00:00"
+      },
+      {
+        "memory": "Nate mentioned they played chess afterward just for fun",
+        "score": 0.2936,
+        "id": "809a6f32-3baf-4b31-864f-c2650f04b723",
+        "created_at": "2022-06-24T10:55:00+00:00",
+        "updated_at": "2026-11-19T05:02:47.813882+00:00"
+      },
+      {
+        "memory": "Nate says playing video games is a way for him to express his creativity and passion.",
+        "score": 0.2927,
+        "id": "078d0acb-7d79-4595-8f69-03b656469e5d",
+        "created_at": "2022-04-21T19:44:00+00:00",
+        "updated_at": "2026-11-19T04:35:07.953934+00:00"
+      },
+      {
+        "memory": "Joanna asked Nate what game he was playing",
+        "score": 0.2897,
+        "id": "a04247f6-03a2-4d98-8967-ed9b6937f589",
+        "created_at": "2022-05-02T11:54:00+00:00",
+        "updated_at": "2026-11-19T04:39:20.451700+00:00"
+      },
+      {
+        "memory": "Nate said he might start thinking about a drama himself and publish his own screenplay",
+        "score": 0.2892,
+        "id": "05cb5484-9b73-4ac9-8f09-6b9199cc5198",
+        "created_at": "2022-05-12T15:35:00+00:00",
+        "updated_at": "2026-11-19T04:43:15.892518+00:00"
+      },
+      {
+        "memory": "Nate's game tournament was pushed back",
+        "score": 0.2885,
+        "id": "9b33bca3-4c14-4c78-aeeb-eaee0f4ea286",
+        "created_at": "2022-11-09T17:54:00+00:00",
+        "updated_at": "2026-11-19T05:44:15.474168+00:00"
+      },
+      {
+        "memory": "Nate frequently plays Street Fighter with his friends",
+        "score": 0.2872,
+        "id": "8778ba0b-94e6-44e3-9ce2-e4822de33958",
+        "created_at": "2022-05-02T11:54:00+00:00",
+        "updated_at": "2026-11-19T04:38:44.651368+00:00"
+      },
+      {
+        "memory": "User expressed enthusiasm about Nate's first video game tournament win",
+        "score": 0.2862,
+        "id": "833dbd30-c389-4474-954a-c92fa534c604",
+        "created_at": "2022-01-21T19:31:00+00:00",
+        "updated_at": "2026-11-19T04:03:35.778325+00:00"
+      },
+      {
+        "memory": "Nate prefers to stay around more chill people because some are more competitive",
+        "score": 0.2855,
+        "id": "f1348ef0-785e-4d27-9044-8a8a15709d0d",
+        "created_at": "2022-01-23T14:01:00+00:00",
+        "updated_at": "2026-11-19T04:08:15.782372+00:00"
+      },
+      {
+        "memory": "Nate expressed that he is grateful to have a job he enjoys every day",
+        "score": 0.2852,
+        "id": "81e5b95f-a008-499d-a793-ae35faf15aa0",
+        "created_at": "2022-11-07T20:10:00+00:00",
+        "updated_at": "2026-11-19T05:38:48.711139+00:00"
+      },
+      {
+        "memory": "Joanna says she would love to do either of the suggested activities with Nate",
+        "score": 0.2832,
+        "id": "e9f86455-d22f-492e-9aad-9caf1db1b029",
+        "created_at": "2022-11-09T17:54:00+00:00",
+        "updated_at": "2026-11-19T05:49:18.931460+00:00"
+      },
+      {
+        "memory": "Joanna is not into video games, but thinks Nate's tournament was a fun experience",
+        "score": 0.2825,
+        "id": "0e501afe-4100-412b-ae8e-a712f9e82fd5",
+        "created_at": "2022-01-21T19:31:00+00:00",
+        "updated_at": "2026-11-19T04:35:45.138356+00:00"
+      },
+      {
+        "memory": "Nate mentioned that he has had a busy week.",
+        "score": 0.2816,
+        "id": "55b9af6c-f029-4ea7-8e5c-39032a6c76b6",
+        "created_at": "2022-05-20T19:49:00+00:00",
+        "updated_at": "2026-11-19T04:44:00.053601+00:00"
+      },
+      {
+        "memory": "Joanna agreed to see Nate later",
+        "score": 0.2814,
+        "id": "19cf38a8-152c-4b57-a99d-af6e432fb65e",
+        "created_at": "2022-05-12T15:35:00+00:00",
+        "updated_at": "2026-11-19T04:43:35.491889+00:00"
+      },
+      {
+        "memory": "Nate says it feels good to use his skills to make a difference",
+        "score": 0.2804,
+        "id": "fd0a1ad8-1dea-4f53-a774-949be7db2d88",
+        "created_at": "2022-11-04T15:56:00+00:00",
+        "updated_at": "2026-11-19T05:36:50.646044+00:00"
+      },
+      {
+        "memory": "Joanna asked Nate about his current projects",
+        "score": 0.2802,
+        "id": "a0e45c62-de48-4386-a045-f602478951a5",
+        "created_at": "2022-11-09T17:54:00+00:00",
+        "updated_at": "2026-11-19T05:46:28.398531+00:00"
+      }
+    ],
+    "search_latency_ms": 394.3,
+    "total_results": 50
+  },
+  "cutoff_results": {
+    "top_50": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "Screenwriting—he mentioned he might write and publish his own drama/screenplay.",
+      "memories_evaluated": 50,
+      "reason": "The generated answer suggests screenwriting, which does not match the gold answer about becoming an animal keeper at a local zoo working with turtles."
+    }
+  }
+}

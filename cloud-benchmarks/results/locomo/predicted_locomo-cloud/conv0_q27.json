@@ -1,0 +1,380 @@
+{
+  "question_id": "conv0_q27",
+  "conversation_idx": 0,
+  "category": 3,
+  "category_name": "open-domain",
+  "question": "Would Caroline pursue writing as a career option?",
+  "ground_truth_answer": "LIkely no; though she likes reading, she wants to be a counselor",
+  "evidence": [
+    "D7:5",
+    "D7:9"
+  ],
+  "user_id": "locomo_0_fe8ec031",
+  "reference_date": "9:55 am on 22 October, 2023",
+  "retrieval": {
+    "search_query": "Would Caroline pursue writing as a career option?",
+    "search_results": [
+      {
+        "memory": "Caroline intends to continue her education and explore career options, which she finds exciting",
+        "score": 0.6479,
+        "id": "fc957176-55f1-4277-b9df-12a611b80ef2",
+        "created_at": "2023-05-08T13:56:00+00:00",
+        "updated_at": "2026-11-19T04:03:25.065173+00:00"
+      },
+      {
+        "memory": "Caroline feels motivated and excited to give back after talking to the community, reinforcing her interest in pursuing counseling and mental health to help others",
+        "score": 0.438,
+        "id": "bcae9645-a084-474b-a4b0-0f05abc8ce10",
+        "created_at": "2023-07-03T13:36:00+00:00",
+        "updated_at": "2026-11-19T04:21:05.934964+00:00"
+      },
+      {
+        "memory": "Caroline is considering a career working with trans people, helping them accept themselves and supporting their mental health",
+        "score": 0.4105,
+        "id": "08a51e44-78e7-4806-bff0-142ca5123adf",
+        "created_at": "2023-06-27T10:37:00+00:00",
+        "updated_at": "2026-11-19T04:19:33.545821+00:00"
+      },
+      {
+        "memory": "The meeting made Caroline even more determined to adopt",
+        "score": 0.2919,
+        "id": "2f3f6161-b3ef-44b6-8358-86f18a44cba9",
+        "created_at": "2023-07-15T13:51:00+00:00",
+        "updated_at": "2026-11-19T04:34:47.458232+00:00"
+      },
+      {
+        "memory": "Caroline thought the moment was fun",
+        "score": 0.2784,
+        "id": "d429e6b2-1400-4cb6-b410-29ab99372cff",
+        "created_at": "2023-08-28T15:19:00+00:00",
+        "updated_at": "2026-11-19T05:08:31.303642+00:00"
+      },
+      {
+        "memory": "Melanie expressed that she is super proud of Caroline for being her true self and praised Caroline's painting as amazing, noting her progress",
+        "score": 0.2777,
+        "id": "a1529e0a-34e8-4c47-8f4f-3604d40034bc",
+        "created_at": "2023-09-13T00:09:00+00:00",
+        "updated_at": "2026-11-19T05:13:11.819707+00:00"
+      },
+      {
+        "memory": "Caroline feels excited for the future",
+        "score": 0.2777,
+        "id": "da4a2c6e-e651-40d7-8e70-5d08125728fc",
+        "created_at": "2023-08-23T15:31:00+00:00",
+        "updated_at": "2026-11-19T04:58:34.763880+00:00"
+      },
+      {
+        "memory": "Caroline finds art empowering and cathartic",
+        "score": 0.276,
+        "id": "c82a413a-6de6-4186-a364-6e034c966875",
+        "created_at": "2023-09-13T00:09:00+00:00",
+        "updated_at": "2026-11-19T05:11:41.466336+00:00"
+      },
+      {
+        "memory": "Caroline wants to live authentically and help others do the same",
+        "score": 0.2742,
+        "id": "e7749395-41b2-4ac7-8265-841262213918",
+        "created_at": "2023-08-23T15:31:00+00:00",
+        "updated_at": "2026-11-19T04:57:36.190656+00:00"
+      },
+      {
+        "memory": "Caroline said painting and drawing help her express her feelings and explore her gender identity",
+        "score": 0.2735,
+        "id": "80d6e24f-c0ed-467c-a4c9-fddeb9cbd7f3",
+        "created_at": "2023-09-13T00:09:00+00:00",
+        "updated_at": "2026-11-19T05:12:02.655506+00:00"
+      },
+      {
+        "memory": "Melanie appreciates her friendship with Caroline and says Caroline has always been there for her",
+        "score": 0.2733,
+        "id": "d1d6d808-995e-4e4f-bad3-e78677996701",
+        "created_at": "2023-08-17T13:50:00+00:00",
+        "updated_at": "2026-11-19T04:52:35.668636+00:00"
+      },
+      {
+        "memory": "Caroline finds painting a great way to express herself and loves creating art",
+        "score": 0.2732,
+        "id": "8519c10b-5365-40b2-bdc7-7fecf808ff49",
+        "created_at": "2023-08-23T15:31:00+00:00",
+        "updated_at": "2026-11-19T04:57:04.927402+00:00"
+      },
+      {
+        "memory": "Caroline expressed love that Melanie chose pottery as her artistic medium",
+        "score": 0.2729,
+        "id": "b3dae12c-e40c-403c-9b47-bd244618354b",
+        "created_at": "2023-09-13T00:09:00+00:00",
+        "updated_at": "2026-11-19T05:12:02.655506+00:00"
+      },
+      {
+        "memory": "Caroline is going to do some research",
+        "score": 0.2712,
+        "id": "3e0703b8-d508-44b6-b201-20dcc79bf32e",
+        "created_at": "2023-05-08T13:56:00+00:00",
+        "updated_at": "2026-11-19T04:05:09.067403+00:00"
+      },
+      {
+        "memory": "Caroline wishes she had known Melanie earlier in life",
+        "score": 0.2686,
+        "id": "6e11c886-e3fb-4ace-916c-66760d887749",
+        "created_at": "2023-07-15T13:51:00+00:00",
+        "updated_at": "2026-11-19T04:35:32.792798+00:00"
+      },
+      {
+        "memory": "Caroline intends to pass on the love and support she has received by sharing her story with others",
+        "score": 0.2682,
+        "id": "79243ae5-f11c-41a6-ae81-20952cd70cf1",
+        "created_at": "2023-06-09T19:55:00+00:00",
+        "updated_at": "2026-11-19T04:12:36.016741+00:00"
+      },
+      {
+        "memory": "Caroline expressed gratitude for the support and the role of art in her life",
+        "score": 0.2674,
+        "id": "d810ffb6-98b7-4166-8de5-3ea755d8bac9",
+        "created_at": "2023-09-13T00:09:00+00:00",
+        "updated_at": "2026-11-19T05:12:02.655506+00:00"
+      },
+      {
+        "memory": "Caroline had a busy week since the last conversation",
+        "score": 0.2669,
+        "id": "73d13a87-a8f8-411b-a007-009ee4478cd7",
+        "created_at": "2023-07-15T13:51:00+00:00",
+        "updated_at": "2026-11-19T04:32:27.853867+00:00"
+      },
+      {
+        "memory": "Caroline has been creating art since she was about 17 years old",
+        "score": 0.2667,
+        "id": "3d2cc127-f35e-406f-8e79-cb1eafd515e1",
+        "created_at": "2023-09-13T00:09:00+00:00",
+        "updated_at": "2026-11-19T05:11:41.466336+00:00"
+      },
+      {
+        "memory": "Caroline has started learning piano as a new creative activity",
+        "score": 0.2665,
+        "id": "f04f4037-b201-4c12-a639-fa4267de4ad5",
+        "created_at": "2023-07-03T13:36:00+00:00",
+        "updated_at": "2026-11-19T04:21:43.318983+00:00"
+      },
+      {
+        "memory": "Melanie mentions she has been reading a book that Caroline recommended and painting to keep busy",
+        "score": 0.2662,
+        "id": "dcb1b137-2e94-4ee2-a991-2fd350c335a4",
+        "created_at": "2023-10-13T10:31:00+00:00",
+        "updated_at": "2026-11-19T05:16:56.017518+00:00"
+      },
+      {
+        "memory": "Caroline believes art can express things that are hard to put into words",
+        "score": 0.2654,
+        "id": "bf9ab1f9-0019-4987-ac42-7e3ccf4f0a56",
+        "created_at": "2023-09-13T00:09:00+00:00",
+        "updated_at": "2026-11-19T05:11:41.466336+00:00"
+      },
+      {
+        "memory": "Caroline (Caroline) drew an artwork that represents freedom and authenticity, serving as a reminder to stay true to herself and embrace her womanhood.",
+        "score": 0.2645,
+        "id": "d1f8f08e-cfac-4782-b3aa-adbac8bdc5b2",
+        "created_at": "2023-10-13T10:31:00+00:00",
+        "updated_at": "2026-11-19T05:19:23.116267+00:00"
+      },
+      {
+        "memory": "Caroline has not tried pottery yet but is interested in trying new art forms in the future",
+        "score": 0.2642,
+        "id": "89962bee-65e3-4681-a4c1-b636fdf4a992",
+        "created_at": "2023-09-13T00:09:00+00:00",
+        "updated_at": "2026-11-19T05:12:24.710879+00:00"
+      },
+      {
+        "memory": "Caroline says the experience taught her self-acceptance and how to find support",
+        "score": 0.2632,
+        "id": "78027e6a-c871-45f8-a763-2f3c44b85d05",
+        "created_at": "2023-07-12T16:33:00+00:00",
+        "updated_at": "2026-11-19T04:29:47.883289+00:00"
+      },
+      {
+        "memory": "Caroline feels hopeful and optimistic about achieving her dream of adopting children",
+        "score": 0.263,
+        "id": "b97541af-388a-4df5-ab5f-1c245a449803",
+        "created_at": "2023-05-25T13:14:00+00:00",
+        "updated_at": "2026-11-19T04:08:36.519045+00:00"
+      },
+      {
+        "memory": "Caroline believes that relaxing and expressing oneself is key",
+        "score": 0.2621,
+        "id": "a0d1ab9d-b2dc-46ad-94ef-b8a0eab41a60",
+        "created_at": "2023-05-08T13:56:00+00:00",
+        "updated_at": "2026-11-19T04:05:09.067403+00:00"
+      },
+      {
+        "memory": "Caroline applied to adoption agencies, taking her first step toward becoming a mother",
+        "score": 0.2621,
+        "id": "666b388b-e0c1-4280-8b92-3b108e559bab",
+        "created_at": "2023-08-23T15:31:00+00:00",
+        "updated_at": "2026-11-19T04:54:11.794251+00:00"
+      },
+      {
+        "memory": "Caroline stated that creating art was crucial during her transition, helping her understand and accept herself",
+        "score": 0.2617,
+        "id": "3e3d6963-51dc-4f25-82a3-e2bfde5e19e3",
+        "created_at": "2023-09-13T00:09:00+00:00",
+        "updated_at": "2026-11-19T05:12:02.655506+00:00"
+      },
+      {
+        "memory": "Melanie suggested planning something special with Caroline",
+        "score": 0.261,
+        "id": "05856952-8f50-4472-bd77-de051ac35889",
+        "created_at": "2023-08-17T13:50:00+00:00",
+        "updated_at": "2026-11-19T04:53:49.115021+00:00"
+      },
+      {
+        "memory": "Melanie thanked Caroline for letting her join Caroline's journey, expressed pride in being part of the difference Caroline is making, and said they can make a real impact together",
+        "score": 0.261,
+        "id": "86eb25f7-8be5-4389-8de0-6e60006a769f",
+        "created_at": "2023-06-09T19:55:00+00:00",
+        "updated_at": "2026-11-19T04:13:50.144854+00:00"
+      },
+      {
+        "memory": "Caroline acknowledges that Melanie has creative outlets and asks to see her paintings, expressing interest in checking them out",
+        "score": 0.2609,
+        "id": "7141608e-fab6-46a4-b6c2-b44c1ae8a62a",
+        "created_at": "2023-10-13T10:31:00+00:00",
+        "updated_at": "2026-11-19T05:16:29.460657+00:00"
+      },
+      {
+        "memory": "Caroline looks forward to reading to her future children and opening up their minds",
+        "score": 0.2603,
+        "id": "4191fefc-6dde-448d-99b9-755b1c781d82",
+        "created_at": "2023-07-06T20:18:00+00:00",
+        "updated_at": "2026-11-19T04:26:03.579131+00:00"
+      },
+      {
+        "memory": "Melanie expressed that Caroline cares about being authentic and helping others, and wished her the best on her adoption journey",
+        "score": 0.2594,
+        "id": "ceb22d2e-5173-4b01-9ce7-c9380546f515",
+        "created_at": "2023-08-23T15:31:00+00:00",
+        "updated_at": "2026-11-19T04:58:46.252513+00:00"
+      },
+      {
+        "memory": "Caroline attended a poetry reading on Friday, October 6, 2023, which she found powerful",
+        "score": 0.2577,
+        "id": "ec769682-b6fe-479d-8b6e-48d5fcb2c4fe",
+        "created_at": "2023-10-13T10:31:00+00:00",
+        "updated_at": "2026-11-19T05:18:37.303223+00:00"
+      },
+      {
+        "memory": "Caroline thanked Melanie and expressed pride in how far she has come after a long road",
+        "score": 0.2572,
+        "id": "03566cc7-3c1a-41e1-b7d3-f4bb137ebb8b",
+        "created_at": "2023-07-15T13:51:00+00:00",
+        "updated_at": "2026-11-19T04:37:57.499031+00:00"
+      },
+      {
+        "memory": "Melanie says Caroline's courage is inspiring",
+        "score": 0.2565,
+        "id": "5c30060f-29af-4242-a0b3-9983562e2f91",
+        "created_at": "2023-06-09T19:55:00+00:00",
+        "updated_at": "2026-11-19T04:14:50.313957+00:00"
+      },
+      {
+        "memory": "Melanie congratulated Caroline on her journey",
+        "score": 0.2552,
+        "id": "5938f145-e096-4ef3-8da4-a629b7eacfc6",
+        "created_at": "2023-10-13T10:31:00+00:00",
+        "updated_at": "2026-11-19T05:14:44.078436+00:00"
+      },
+      {
+        "memory": "Caroline feels that being themselves is a great feeling and sees life as an ongoing adventure of learning and growing",
+        "score": 0.2538,
+        "id": "a7c2e8be-a504-42f9-b56c-1519c30b8d59",
+        "created_at": "2023-10-13T10:31:00+00:00",
+        "updated_at": "2026-11-19T05:19:50.805433+00:00"
+      },
+      {
+        "memory": "Caroline says guitar is mostly her thing and playing it helps her get her emotions out",
+        "score": 0.2533,
+        "id": "deb51697-835f-4d1e-82ac-39d31f214c8f",
+        "created_at": "2023-08-28T15:19:00+00:00",
+        "updated_at": "2026-11-19T05:08:58.892627+00:00"
+      },
+      {
+        "memory": "Caroline spoke at a school event during the week of June 2–8, 2023, where she discussed her transgender journey",
+        "score": 0.253,
+        "id": "f3b0112f-7475-45cb-9735-5e02a10d6ba6",
+        "created_at": "2023-06-09T19:55:00+00:00",
+        "updated_at": "2026-11-19T04:11:08.743921+00:00"
+      },
+      {
+        "memory": "Caroline received extensive help from an adoption advice/assistance group she attended",
+        "score": 0.2529,
+        "id": "fb7af2d7-65b5-47ed-8a17-48f4d1f85bdc",
+        "created_at": "2023-08-23T15:31:00+00:00",
+        "updated_at": "2026-11-19T04:54:11.794251+00:00"
+      },
+      {
+        "memory": "Caroline says the experience showed her that tough times don't last and that hope and love exist",
+        "score": 0.2512,
+        "id": "36e89623-07f0-4173-80ea-2240c2d8fb9d",
+        "created_at": "2023-07-12T16:33:00+00:00",
+        "updated_at": "2026-11-19T04:29:47.883289+00:00"
+      },
+      {
+        "memory": "Caroline thought Melanie's wedding was special",
+        "score": 0.2509,
+        "id": "eb3d64ce-f00f-46e0-a936-e3aae878b130",
+        "created_at": "2023-07-15T13:51:00+00:00",
+        "updated_at": "2026-11-19T04:35:32.792798+00:00"
+      },
+      {
+        "memory": "Caroline commits to continue using her voice to share her story, give hope, and lift others up in pursuit of a more inclusive world.",
+        "score": 0.2505,
+        "id": "09792735-0daf-49c4-a9dc-ef364fa39fe1",
+        "created_at": "2023-06-09T19:55:00+00:00",
+        "updated_at": "2026-11-19T04:13:14.128494+00:00"
+      },
+      {
+        "memory": "Caroline observes that kids express their personalities through art and is interested in other creative projects to do with them besides pottery",
+        "score": 0.2504,
+        "id": "1d851a4f-706a-45e6-8764-a055a2a2f36d",
+        "created_at": "2023-07-15T13:51:00+00:00",
+        "updated_at": "2026-11-19T04:33:28.315499+00:00"
+      },
+      {
+        "memory": "Melanie expressed that she loves the self-acceptance and love theme in Caroline's artwork",
+        "score": 0.2504,
+        "id": "8b7f5b6e-979f-4720-8340-838f5847751a",
+        "created_at": "2023-08-14T14:24:00+00:00",
+        "updated_at": "2026-11-19T04:49:08.223235+00:00"
+      },
+      {
+        "memory": "Caroline thinks beach trips are special",
+        "score": 0.2503,
+        "id": "1851b6c8-5719-4e48-b7bf-83d0a5930ab2",
+        "created_at": "2023-07-20T20:56:00+00:00",
+        "updated_at": "2026-11-19T04:43:47.634740+00:00"
+      },
+      {
+        "memory": "Caroline is creating a library for when she has kids",
+        "score": 0.2502,
+        "id": "845a01f3-4b06-47c0-8285-07cd9bccebfa",
+        "created_at": "2023-07-06T20:18:00+00:00",
+        "updated_at": "2026-11-19T04:26:03.579131+00:00"
+      },
+      {
+        "memory": "Caroline looks forward to making awesome memories with Melanie",
+        "score": 0.2502,
+        "id": "b063cdfe-5a2e-4c45-8348-006ed0ec4410",
+        "created_at": "2023-08-17T13:50:00+00:00",
+        "updated_at": "2026-11-19T04:53:42.669868+00:00"
+      }
+    ],
+    "search_latency_ms": 407.2,
+    "total_results": 50
+  },
+  "cutoff_results": {
+    "top_50": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "No. Caroline’s stated career interest is counseling/mental health to support trans people (not writing), reinforced by her community work and commitment to share her story through advocacy and speaking.",
+      "memories_evaluated": 50,
+      "reason": "The generated answer says Caroline would not pursue writing as a career, matching the gold answer's 'Likely no.'"
+    }
+  }
+}

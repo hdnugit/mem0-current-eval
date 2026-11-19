@@ -1,0 +1,379 @@
+{
+  "question_id": "conv3_q87",
+  "conversation_idx": 3,
+  "category": 3,
+  "category_name": "open-domain",
+  "question": "What state did Nate visit?",
+  "ground_truth_answer": "Florida",
+  "evidence": [
+    "D29:6"
+  ],
+  "user_id": "locomo_3_fe8ec031",
+  "reference_date": "12:06 am on 11 November, 2022",
+  "retrieval": {
+    "search_query": "What state did Nate visit?",
+    "search_results": [
+      {
+        "memory": "Nate mentioned that he has had a busy week.",
+        "score": 0.3665,
+        "id": "55b9af6c-f029-4ea7-8e5c-39032a6c76b6",
+        "created_at": "2022-05-20T19:49:00+00:00",
+        "updated_at": "2026-11-19T04:44:00.053601+00:00"
+      },
+      {
+        "memory": "Joanna agreed to see Nate later",
+        "score": 0.3555,
+        "id": "19cf38a8-152c-4b57-a99d-af6e432fb65e",
+        "created_at": "2022-05-12T15:35:00+00:00",
+        "updated_at": "2026-11-19T04:43:35.491889+00:00"
+      },
+      {
+        "memory": "Joanna says goodbye to Nate",
+        "score": 0.3555,
+        "id": "eeaaf75d-e1f4-46ef-bed4-8bd2537db265",
+        "created_at": "2022-10-09T10:58:00+00:00",
+        "updated_at": "2026-11-19T05:28:59.520228+00:00"
+      },
+      {
+        "memory": "Nate apologized for not being around recently",
+        "score": 0.3538,
+        "id": "8f3b0cab-2515-46a5-b1be-a0d33cc5923a",
+        "created_at": "2022-02-25T13:07:00+00:00",
+        "updated_at": "2026-11-19T04:16:28.737552+00:00"
+      },
+      {
+        "memory": "Joanna invites Nate to join her on the trails sometime",
+        "score": 0.3525,
+        "id": "8c38112b-188e-4dab-9f53-126330895274",
+        "created_at": "2022-05-12T15:35:00+00:00",
+        "updated_at": "2026-11-19T04:43:21.654166+00:00"
+      },
+      {
+        "memory": "Nate said he is all about desserts",
+        "score": 0.352,
+        "id": "3f2207fc-12bf-46fb-8642-205328fd494f",
+        "created_at": "2022-02-25T13:07:00+00:00",
+        "updated_at": "2026-11-19T04:18:05.677428+00:00"
+      },
+      {
+        "memory": "Joanna will see Nate on 2022-11-10",
+        "score": 0.3508,
+        "id": "d7d4b60f-c6ac-40b1-8053-207886a50065",
+        "created_at": "2022-11-09T17:54:00+00:00",
+        "updated_at": "2026-11-19T05:49:30.907604+00:00"
+      },
+      {
+        "memory": "Nate suggested that he and Joanna should go together sometime",
+        "score": 0.3488,
+        "id": "acc9bdea-5b8e-45e1-9892-579a3b2eca81",
+        "created_at": "2022-05-12T15:35:00+00:00",
+        "updated_at": "2026-11-19T04:43:15.892518+00:00"
+      },
+      {
+        "memory": "Nate loves dark skies and green scenery",
+        "score": 0.3415,
+        "id": "7a927502-d273-4d62-a2e3-489335b216e5",
+        "created_at": "2022-05-12T15:35:00+00:00",
+        "updated_at": "2026-11-19T04:41:50.715220+00:00"
+      },
+      {
+        "memory": "User congratulated Nate on his recent tournament win",
+        "score": 0.3413,
+        "id": "4c4da7ff-4352-4dca-83d0-bbe8b302eb42",
+        "created_at": "2022-05-02T11:54:00+00:00",
+        "updated_at": "2026-11-19T04:39:20.451700+00:00"
+      },
+      {
+        "memory": "Nate asked Joanna about her plans for the weekend",
+        "score": 0.3384,
+        "id": "8d8c5c82-427e-4642-8dd4-854c2bb35ae0",
+        "created_at": "2022-06-03T17:44:00+00:00",
+        "updated_at": "2026-11-19T04:59:01.228830+00:00"
+      },
+      {
+        "memory": "Joanna asked Nate what inspired him",
+        "score": 0.3353,
+        "id": "cf4b9d74-00d6-4ca6-bf50-27cd2f73fb67",
+        "created_at": "2022-10-06T11:15:00+00:00",
+        "updated_at": "2026-11-19T05:24:03.546646+00:00"
+      },
+      {
+        "memory": "Nate's game tournament was pushed back",
+        "score": 0.3337,
+        "id": "9b33bca3-4c14-4c78-aeeb-eaee0f4ea286",
+        "created_at": "2022-11-09T17:54:00+00:00",
+        "updated_at": "2026-11-19T05:44:15.474168+00:00"
+      },
+      {
+        "memory": "Nate started hanging out with people outside his usual circle at the tournament",
+        "score": 0.3331,
+        "id": "c483dae3-27a2-45a5-b0b0-a35bd4121448",
+        "created_at": "2022-01-23T14:01:00+00:00",
+        "updated_at": "2026-11-19T04:08:01.337285+00:00"
+      },
+      {
+        "memory": "Nate has many books he hasn't read in years",
+        "score": 0.3321,
+        "id": "997c3b71-74d9-43dc-95cd-9359fe4c7aba",
+        "created_at": "2022-04-17T18:44:00+00:00",
+        "updated_at": "2026-11-19T04:29:27.708413+00:00"
+      },
+      {
+        "memory": "Nate says he is not really into hiking but is curious about a nice trail just north of his home",
+        "score": 0.3318,
+        "id": "0a76fd9e-525c-4cf7-a1c3-8396d499f3e6",
+        "created_at": "2022-04-17T18:44:00+00:00",
+        "updated_at": "2026-11-19T04:29:45.284978+00:00"
+      },
+      {
+        "memory": "Nate loves watching classic movies",
+        "score": 0.3317,
+        "id": "bb913e10-d0e0-442a-9ba4-370467163217",
+        "created_at": "2022-01-21T19:31:00+00:00",
+        "updated_at": "2026-11-19T04:05:04.663541+00:00"
+      },
+      {
+        "memory": "Nate is taking time off the weekend of August 27–28, 2022 to chill with his pets",
+        "score": 0.3312,
+        "id": "83c44d25-0757-421f-be7b-f9a9a4bbfbf8",
+        "created_at": "2022-08-22T10:57:00+00:00",
+        "updated_at": "2026-11-19T05:13:41.775016+00:00"
+      },
+      {
+        "memory": "Joanna expressed that something Nate showed looks awesome",
+        "score": 0.3309,
+        "id": "212cc1df-df89-444f-9b56-1005e187f580",
+        "created_at": "2022-10-06T11:15:00+00:00",
+        "updated_at": "2026-11-19T05:24:03.546646+00:00"
+      },
+      {
+        "memory": "Joanna says it's great to hear about Nate's tournaments throughout the years",
+        "score": 0.33,
+        "id": "a51ae8bb-7674-4a26-9f6c-fdbac404fe49",
+        "created_at": "2022-06-03T17:44:00+00:00",
+        "updated_at": "2026-11-19T04:57:38.189588+00:00"
+      },
+      {
+        "memory": "User thanked Nate and appreciated his kind words",
+        "score": 0.3299,
+        "id": "34996be9-a120-4f69-83e0-1a1a8c9b494c",
+        "created_at": "2022-07-10T14:34:00+00:00",
+        "updated_at": "2026-11-19T05:06:43.485777+00:00"
+      },
+      {
+        "memory": "User thanked Nate and expressed appreciation for his help",
+        "score": 0.3296,
+        "id": "5d06c17e-c06b-49ba-befb-8dc98cead43b",
+        "created_at": "2022-05-02T11:54:00+00:00",
+        "updated_at": "2026-11-19T04:40:30.825766+00:00"
+      },
+      {
+        "memory": "Joanna thinks Nate's cooking is amazing",
+        "score": 0.3295,
+        "id": "999678f7-c3ac-417d-baa3-8f4505cb246b",
+        "created_at": "2022-02-25T13:07:00+00:00",
+        "updated_at": "2026-11-19T04:22:35.050080+00:00"
+      },
+      {
+        "memory": "Joanna praised Nate for being able to go out and meet people, encouraging him to keep it up",
+        "score": 0.3292,
+        "id": "73fbde29-1e1c-4247-90f1-85868865afc8",
+        "created_at": "2022-05-25T15:00:00+00:00",
+        "updated_at": "2026-11-19T04:48:44.088362+00:00"
+      },
+      {
+        "memory": "Joanna asked Nate about his current projects",
+        "score": 0.329,
+        "id": "a0e45c62-de48-4386-a045-f602478951a5",
+        "created_at": "2022-11-09T17:54:00+00:00",
+        "updated_at": "2026-11-19T05:46:28.398531+00:00"
+      },
+      {
+        "memory": "Nate says he is not doing anything at the moment and welcomes Joanna to join him",
+        "score": 0.328,
+        "id": "0b212c0c-eeb8-4481-95fe-5edc2c119ca7",
+        "created_at": "2022-11-04T15:56:00+00:00",
+        "updated_at": "2026-11-19T05:37:24.765881+00:00"
+      },
+      {
+        "memory": "Nate practices and competes at the location he mentioned, and sometimes uses it when playing games with friends",
+        "score": 0.328,
+        "id": "64483e4e-f32c-41dc-b10c-0899ce6ab26e",
+        "created_at": "2022-11-07T20:10:00+00:00",
+        "updated_at": "2026-11-19T05:40:22.205198+00:00"
+      },
+      {
+        "memory": "Nate will invite some old friends and teammates from other tournaments",
+        "score": 0.3276,
+        "id": "6e4a9247-152a-4ea7-807c-15f4e77dab80",
+        "created_at": "2022-06-03T17:44:00+00:00",
+        "updated_at": "2026-11-19T04:59:31.487644+00:00"
+      },
+      {
+        "memory": "Nate thanks Joanna for her help and kind words",
+        "score": 0.3275,
+        "id": "463c66d4-e437-49a8-9c05-6b22c3e0298a",
+        "created_at": "2022-03-24T13:43:00+00:00",
+        "updated_at": "2026-11-19T04:27:04.658794+00:00"
+      },
+      {
+        "memory": "Nate has been practicing for his next video game tournament",
+        "score": 0.3267,
+        "id": "c84ae421-28b3-4ba3-b2e1-fa42783a9bbc",
+        "created_at": "2022-10-21T14:01:00+00:00",
+        "updated_at": "2026-11-19T05:30:18.481966+00:00"
+      },
+      {
+        "memory": "Joanna asked Nate about his next move in the gaming world",
+        "score": 0.3262,
+        "id": "d4cd752a-3c3b-4e40-a44a-5eff7bc328a4",
+        "created_at": "2022-11-09T17:54:00+00:00",
+        "updated_at": "2026-11-19T05:45:18.224835+00:00"
+      },
+      {
+        "memory": "Joanna will come over to Nate's place on 2022-11-05",
+        "score": 0.326,
+        "id": "91e4af70-44d3-47bc-b5f7-61359025c06b",
+        "created_at": "2022-11-04T15:56:00+00:00",
+        "updated_at": "2026-11-19T05:37:17.511723+00:00"
+      },
+      {
+        "memory": "Nate shared an image of a bookcase filled with DVDs and movies",
+        "score": 0.3255,
+        "id": "f10a0446-a5b8-4d84-abcd-72419e37d276",
+        "created_at": "2022-10-09T10:58:00+00:00",
+        "updated_at": "2026-11-19T05:27:03.723053+00:00"
+      },
+      {
+        "memory": "Joanna last talked with Nate around May 5, 2022",
+        "score": 0.3235,
+        "id": "68b33d6f-93e3-4798-8732-b6f2c21ad3eb",
+        "created_at": "2022-05-12T15:35:00+00:00",
+        "updated_at": "2026-11-19T04:43:51.328803+00:00"
+      },
+      {
+        "memory": "Nate has liked turtles since he was a boy and says he knows all about them",
+        "score": 0.3233,
+        "id": "d0ab0e4c-0aaa-4756-8db4-40c5cc8b1bef",
+        "created_at": "2022-10-25T20:16:00+00:00",
+        "updated_at": "2026-11-19T05:34:47.892451+00:00"
+      },
+      {
+        "memory": "Joanna thanks Nate and says she is glad he is excited",
+        "score": 0.3231,
+        "id": "602091cf-70b8-4cc5-8bdc-92ea58399505",
+        "created_at": "2022-07-10T14:34:00+00:00",
+        "updated_at": "2026-11-19T05:08:46.508742+00:00"
+      },
+      {
+        "memory": "Nate says he likes nature and would consider going with someone else to a nature activity",
+        "score": 0.3228,
+        "id": "14ff3cd9-9b12-49da-8133-dc5e887af097",
+        "created_at": "2022-04-17T18:44:00+00:00",
+        "updated_at": "2026-11-19T04:29:58.113335+00:00"
+      },
+      {
+        "memory": "Nate is excited about a big decision concerning his future",
+        "score": 0.3226,
+        "id": "70230aa9-3fd0-4ca1-b375-872867dcd6b3",
+        "created_at": "2022-11-09T17:54:00+00:00",
+        "updated_at": "2026-11-19T05:45:20.764168+00:00"
+      },
+      {
+        "memory": "Joanna says Nate's cooking skills are awesome",
+        "score": 0.3221,
+        "id": "b3f4a4b7-908e-49b8-89f5-3944390364c7",
+        "created_at": "2022-02-07T09:27:00+00:00",
+        "updated_at": "2026-11-19T04:14:34.810321+00:00"
+      },
+      {
+        "memory": "Joanna appreciates Nate's love for dairy‑free desserts",
+        "score": 0.3218,
+        "id": "8fa716e0-55b5-4a7b-877f-2b1d89db89e2",
+        "created_at": "2022-08-14T18:12:00+00:00",
+        "updated_at": "2026-11-19T05:10:42.920576+00:00"
+      },
+      {
+        "memory": "Nate said he can't wait to try the desserts Joanna made",
+        "score": 0.321,
+        "id": "dd8ff652-19d4-47b6-ac06-cfaba67d406c",
+        "created_at": "2022-09-05T18:03:00+00:00",
+        "updated_at": "2026-11-19T05:17:56.164218+00:00"
+      },
+      {
+        "memory": "Nate said his gaming party was a great success",
+        "score": 0.3208,
+        "id": "41c11335-28c8-41c9-b40c-a9d78f5fc3ae",
+        "created_at": "2022-06-24T10:55:00+00:00",
+        "updated_at": "2026-11-19T05:02:47.813882+00:00"
+      },
+      {
+        "memory": "Joanna says she would love to do either of the suggested activities with Nate",
+        "score": 0.3195,
+        "id": "e9f86455-d22f-492e-9aad-9caf1db1b029",
+        "created_at": "2022-11-09T17:54:00+00:00",
+        "updated_at": "2026-11-19T05:49:18.931460+00:00"
+      },
+      {
+        "memory": "Nate said his life has been okay and he is just taking care of this",
+        "score": 0.3191,
+        "id": "c97d2a65-7452-4190-99ee-f76c8a9599a2",
+        "created_at": "2022-05-02T11:54:00+00:00",
+        "updated_at": "2026-11-19T04:37:40.171906+00:00"
+      },
+      {
+        "memory": "Nate prefers to stay around more chill people because some are more competitive",
+        "score": 0.3189,
+        "id": "f1348ef0-785e-4d27-9044-8a8a15709d0d",
+        "created_at": "2022-01-23T14:01:00+00:00",
+        "updated_at": "2026-11-19T04:08:15.782372+00:00"
+      },
+      {
+        "memory": "Nate took his pets to the park on a special day, describing it as a memorable experience",
+        "score": 0.317,
+        "id": "6aefeb32-9af3-423f-a9de-78285ece804e",
+        "created_at": "2022-11-07T20:10:00+00:00",
+        "updated_at": "2026-11-19T05:43:08.591733+00:00"
+      },
+      {
+        "memory": "Joanna hasn't seen pictures of Nate's turtles in a while",
+        "score": 0.3168,
+        "id": "a4fc11c3-04a7-494c-93d8-d46604492938",
+        "created_at": "2022-11-07T20:10:00+00:00",
+        "updated_at": "2026-11-19T05:39:21.628463+00:00"
+      },
+      {
+        "memory": "Nate wishes Joanna good luck with her project",
+        "score": 0.3168,
+        "id": "f9f1fcef-c4c1-411c-9a9b-7b489c26e074",
+        "created_at": "2022-03-24T13:43:00+00:00",
+        "updated_at": "2026-11-19T04:27:04.658794+00:00"
+      },
+      {
+        "memory": "Nate mentioned they played chess afterward just for fun",
+        "score": 0.3164,
+        "id": "809a6f32-3baf-4b31-864f-c2650f04b723",
+        "created_at": "2022-06-24T10:55:00+00:00",
+        "updated_at": "2026-11-19T05:02:47.813882+00:00"
+      },
+      {
+        "memory": "Nate says he finds experimenting in the kitchen always fun",
+        "score": 0.3164,
+        "id": "2629af93-499f-49bb-be5a-481699434e83",
+        "created_at": "2022-02-07T09:27:00+00:00",
+        "updated_at": "2026-11-19T04:13:58.791757+00:00"
+      }
+    ],
+    "search_latency_ms": 404.3,
+    "total_results": 50
+  },
+  "cutoff_results": {
+    "top_50": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "The memories do not mention any state Nate visited.",
+      "memories_evaluated": 50,
+      "reason": "The gold answer is Florida, but the generated answer does not mention Florida or any state Nate visited."
+    }
+  }
+}

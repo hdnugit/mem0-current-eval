@@ -1,0 +1,380 @@
+{
+  "question_id": "conv3_q12",
+  "conversation_idx": 3,
+  "category": 3,
+  "category_name": "open-domain",
+  "question": "What underlying condition might Joanna have based on her allergies?",
+  "ground_truth_answer": "asthma",
+  "evidence": [
+    "D5:11",
+    "D2:23"
+  ],
+  "user_id": "locomo_3_fe8ec031",
+  "reference_date": "12:06 am on 11 November, 2022",
+  "retrieval": {
+    "search_query": "What underlying condition might Joanna have based on her allergies?",
+    "search_results": [
+      {
+        "memory": "Joanna says allergies make her not want to get any pets and she is too lazy to research alternative pets for her allergies",
+        "score": 0.6823,
+        "id": "83954723-6161-4acf-84bf-d5a5a5c29e44",
+        "created_at": "2022-05-20T19:49:00+00:00",
+        "updated_at": "2026-11-19T04:45:18.233685+00:00"
+      },
+      {
+        "memory": "Joanna wishes she could get two turtles today but is prevented by her allergies",
+        "score": 0.6345,
+        "id": "b23e148d-d13e-4874-92fd-958ec48475b4",
+        "created_at": "2022-03-18T18:59:00+00:00",
+        "updated_at": "2026-11-19T04:22:53.193804+00:00"
+      },
+      {
+        "memory": "She has allergies to reptiles and furred animals, which is why she does not want a pet, but she appreciates Nate’s dog Max and a stuffed animal gift.",
+        "score": 0.3814,
+        "id": "d849a4e1-cc00-4881-b18e-aa447207bddc",
+        "created_at": "2022-07-10T14:34:00+00:00",
+        "updated_at": "2026-11-19T05:08:13.678473+00:00"
+      },
+      {
+        "memory": "Joanna is filming her own movie based on the road‑trip script as of November 11, 2022",
+        "score": 0.3236,
+        "id": "08884a96-48ef-409c-aa73-862cf2f5827e",
+        "created_at": "2022-11-11T00:06:00+00:00",
+        "updated_at": "2026-11-19T05:49:44.069304+00:00"
+      },
+      {
+        "memory": "Joanna is allergic to cockroaches, a discovery made around March 2022",
+        "score": 0.3006,
+        "id": "766f8730-087a-482e-a5d6-8f46019d34da",
+        "created_at": "2022-03-18T18:59:00+00:00",
+        "updated_at": "2026-11-19T04:22:53.193804+00:00"
+      },
+      {
+        "memory": "Joanna is lactose intolerant",
+        "score": 0.2911,
+        "id": "35040ab7-2538-4d22-8bff-c1dd4ec1c47e",
+        "created_at": "2022-04-17T18:44:00+00:00",
+        "updated_at": "2026-11-19T04:32:15.227071+00:00"
+      },
+      {
+        "memory": "Joanna is allergic to most reptiles and animals with fur, which she finds a drag but she finds other ways to be happy",
+        "score": 0.284,
+        "id": "8317ea72-ef23-453c-a1c4-5c7207a382d4",
+        "created_at": "2022-01-23T14:01:00+00:00",
+        "updated_at": "2026-11-19T04:09:01.171288+00:00"
+      },
+      {
+        "memory": "Joanna's face becomes puffy and itchy when around certain animals, so she avoids them",
+        "score": 0.2817,
+        "id": "e41074de-f5b8-496e-b142-4b10cf50e0c5",
+        "created_at": "2022-01-23T14:01:00+00:00",
+        "updated_at": "2026-11-19T04:08:39.132680+00:00"
+      },
+      {
+        "memory": "Joanna is named Joanna",
+        "score": 0.2802,
+        "id": "c42b40c9-c84d-49fd-9d1e-0fa19fa72b79",
+        "created_at": "2022-01-21T19:31:00+00:00",
+        "updated_at": "2026-11-19T04:02:50.678921+00:00"
+      },
+      {
+        "memory": "Joanna (Joanna) is tempted to try dairy‑free dessert flavors and expresses a liking for chocolate and mixed‑berry options",
+        "score": 0.2743,
+        "id": "2d745e46-e9af-484b-bcfb-ef4ce6630119",
+        "created_at": "2022-02-07T09:27:00+00:00",
+        "updated_at": "2026-11-19T04:12:57.941240+00:00"
+      },
+      {
+        "memory": "Joanna is considering getting a pet of her own soon, but only if she can find one she is not allergic to",
+        "score": 0.272,
+        "id": "1a5d22eb-4fc1-409a-9f08-7d661a304224",
+        "created_at": "2022-01-23T14:01:00+00:00",
+        "updated_at": "2026-11-19T04:45:16.617093+00:00"
+      },
+      {
+        "memory": "Joanna (Joanna) considers dairy‑free options a must, especially for desserts.",
+        "score": 0.2713,
+        "id": "da8cdf93-0010-48f0-a2d8-b4c135be3514",
+        "created_at": "2022-09-14T13:43:00+00:00",
+        "updated_at": "2026-11-19T05:21:00.430314+00:00"
+      },
+      {
+        "memory": "Joanna wants to come over sometime to watch Nate play with the turtles from a distance because she is allergic",
+        "score": 0.2692,
+        "id": "0335536b-9201-431f-8dec-6ab68d8000ab",
+        "created_at": "2022-11-09T17:54:00+00:00",
+        "updated_at": "2026-11-19T05:49:06.750969+00:00"
+      },
+      {
+        "memory": "Joanna mentioned that crazy things happened to her recently",
+        "score": 0.2674,
+        "id": "fe1e7a34-22bf-4cfe-b8f5-c52d623a9a60",
+        "created_at": "2022-01-23T14:01:00+00:00",
+        "updated_at": "2026-11-19T04:05:58.542708+00:00"
+      },
+      {
+        "memory": "Joanna (Joanna) asked Nate for his favorite dairy‑free desserts.",
+        "score": 0.2665,
+        "id": "aea8f58c-35ec-4a0d-adac-c5bb91cf4091",
+        "created_at": "2022-09-14T13:43:00+00:00",
+        "updated_at": "2026-11-19T05:21:00.430314+00:00"
+      },
+      {
+        "memory": "Joanna cannot consume dairy, so she avoids ice cream",
+        "score": 0.2536,
+        "id": "aa09036f-f072-497e-a6b2-4c40d14d7465",
+        "created_at": "2022-02-25T13:07:00+00:00",
+        "updated_at": "2026-11-19T04:18:09.183988+00:00"
+      },
+      {
+        "memory": "Joanna (Joanna) says she will keep Nate posted and loves his creations",
+        "score": 0.2526,
+        "id": "e1122805-4ff4-4f87-8076-478d3c699db4",
+        "created_at": "2022-02-25T13:07:00+00:00",
+        "updated_at": "2026-11-19T04:18:25.678038+00:00"
+      },
+      {
+        "memory": "Joanna previously owned a dog named Tilly in Michigan, but had to give her away because of an allergic reaction to the animal",
+        "score": 0.2474,
+        "id": "5ff09109-bf8c-455a-a9dd-07ba415c012e",
+        "created_at": "2022-10-21T14:01:00+00:00",
+        "updated_at": "2026-11-19T05:29:46.791465+00:00"
+      },
+      {
+        "memory": "Joanna appreciates Nate's love for dairy‑free desserts",
+        "score": 0.2447,
+        "id": "8fa716e0-55b5-4a7b-877f-2b1d89db89e2",
+        "created_at": "2022-08-14T18:12:00+00:00",
+        "updated_at": "2026-11-19T05:10:42.920576+00:00"
+      },
+      {
+        "memory": "Joanna is already really invested in the turtles",
+        "score": 0.2436,
+        "id": "c2d09281-0fd8-47a1-a26c-64ec9052a07d",
+        "created_at": "2022-03-18T18:59:00+00:00",
+        "updated_at": "2026-11-19T04:23:08.261143+00:00"
+      },
+      {
+        "memory": "An actor approached Joanna and told her they liked her script, which made Joanna feel excited and gave her chills",
+        "score": 0.2424,
+        "id": "00f2d70d-e2e9-417b-ae0c-fff84f2bb480",
+        "created_at": "2022-11-11T00:06:00+00:00",
+        "updated_at": "2026-11-19T05:50:31.529609+00:00"
+      },
+      {
+        "memory": "Joanna (Joanna) attributes her recent accomplishment to dedication and late nights, saying it was worth it",
+        "score": 0.2414,
+        "id": "12e53240-9e87-4b8b-b764-2a8dc35a11a6",
+        "created_at": "2022-10-06T11:15:00+00:00",
+        "updated_at": "2026-11-19T05:24:23.590746+00:00"
+      },
+      {
+        "memory": "Joanna is allergic to reptiles and furred animals, which discourages her from getting a pet, though she appreciates Nate’s dog Max and a gifted stuffed animal.",
+        "score": 0.2414,
+        "id": "a79720eb-7aa6-4859-b87d-848ede5e047e",
+        "created_at": "2022-07-10T14:34:00+00:00",
+        "updated_at": "2026-11-19T05:07:15.041028+00:00"
+      },
+      {
+        "memory": "Joanna (Joanna) told Nate \"No worries\" and expressed gladness about his recent ice cream creation",
+        "score": 0.2414,
+        "id": "6a49ee0f-c47f-4748-beee-895e57499aa2",
+        "created_at": "2022-02-25T13:07:00+00:00",
+        "updated_at": "2026-11-19T04:16:59.191114+00:00"
+      },
+      {
+        "memory": "Nate says Joanna makes desserts that work for everyone's diets",
+        "score": 0.2413,
+        "id": "7b6bd701-f228-4ebb-ae66-e5cdabde6cc8",
+        "created_at": "2022-09-05T18:03:00+00:00",
+        "updated_at": "2026-11-19T05:17:19.715371+00:00"
+      },
+      {
+        "memory": "Joanna agreed to see Nate later",
+        "score": 0.2411,
+        "id": "19cf38a8-152c-4b57-a99d-af6e432fb65e",
+        "created_at": "2022-05-12T15:35:00+00:00",
+        "updated_at": "2026-11-19T04:43:35.491889+00:00"
+      },
+      {
+        "memory": "Joanna (Joanna) made a dessert using almond milk on Friday, September 9, 2022, and described it as delicious.",
+        "score": 0.2405,
+        "id": "c3f794c7-01ea-489e-835a-01ff21965654",
+        "created_at": "2022-09-14T13:43:00+00:00",
+        "updated_at": "2026-11-19T05:21:00.430314+00:00"
+      },
+      {
+        "memory": "Joanna feels that the recent period has been a good ride",
+        "score": 0.2388,
+        "id": "931a747b-61cf-4722-b9e4-5c966ec83b7f",
+        "created_at": "2022-03-24T13:43:00+00:00",
+        "updated_at": "2026-11-19T04:25:08.690862+00:00"
+      },
+      {
+        "memory": "Joanna is interested in dairy‑free desserts and asks for favorite flavor suggestions",
+        "score": 0.2387,
+        "id": "1490fcea-d954-494e-b70b-85949fa65ff5",
+        "created_at": "2022-02-07T09:27:00+00:00",
+        "updated_at": "2026-11-19T04:12:19.051164+00:00"
+      },
+      {
+        "memory": "Joanna (Joanna) says she wants to try making coconut milk ice cream herself or visit Nate to try his version",
+        "score": 0.2381,
+        "id": "f05e7064-516d-4db3-9dc1-dee956bbec42",
+        "created_at": "2022-02-07T09:27:00+00:00",
+        "updated_at": "2026-11-19T04:13:41.920744+00:00"
+      },
+      {
+        "memory": "Joanna wishes to try Nate's dessert but cannot at the moment",
+        "score": 0.2367,
+        "id": "6f468c3e-db3f-472c-a5c6-f27b74a111a1",
+        "created_at": "2022-11-09T17:54:00+00:00",
+        "updated_at": "2026-11-19T05:44:20.970767+00:00"
+      },
+      {
+        "memory": "Joanna started writing some of her favorite memories down",
+        "score": 0.2335,
+        "id": "72aecac3-74e1-4a70-836d-19ec2b316f58",
+        "created_at": "2022-11-07T20:10:00+00:00",
+        "updated_at": "2026-11-19T05:43:20.815296+00:00"
+      },
+      {
+        "memory": "Joanna (Joanna) has been interested in the series Nate recommended, noting it has been on her list forever and she will check it out",
+        "score": 0.2332,
+        "id": "ce2aef41-4f4c-4fe3-8c7b-187c28177220",
+        "created_at": "2022-04-21T19:44:00+00:00",
+        "updated_at": "2026-11-19T04:37:05.935677+00:00"
+      },
+      {
+        "memory": "Nate said Joanna is talented at making dairy-free desserts",
+        "score": 0.2331,
+        "id": "135e85e4-68f7-491c-ad6f-a9045a31e084",
+        "created_at": "2022-05-02T11:54:00+00:00",
+        "updated_at": "2026-11-19T04:40:11.455907+00:00"
+      },
+      {
+        "memory": "Joanna hopes for good news soon",
+        "score": 0.2317,
+        "id": "086baae4-8dcb-4734-8695-d8239033cbc5",
+        "created_at": "2022-04-15T19:37:00+00:00",
+        "updated_at": "2026-11-19T04:28:31.367147+00:00"
+      },
+      {
+        "memory": "Joanna (Joanna) asks Nate to let her know his thoughts on her screenplay after he reads it",
+        "score": 0.2311,
+        "id": "8504a44b-deb9-428d-9960-78a6f6a47f00",
+        "created_at": "2022-02-07T09:27:00+00:00",
+        "updated_at": "2026-11-19T04:15:42.767462+00:00"
+      },
+      {
+        "memory": "Joanna thanks Nate for his help and says she will keep trying new things",
+        "score": 0.2304,
+        "id": "daf3d384-e616-4eba-8148-95dec11b070f",
+        "created_at": "2022-05-02T11:54:00+00:00",
+        "updated_at": "2026-11-19T04:40:43.264231+00:00"
+      },
+      {
+        "memory": "Joanna thinks Nate's cooking is amazing",
+        "score": 0.2301,
+        "id": "999678f7-c3ac-417d-baa3-8f4505cb246b",
+        "created_at": "2022-02-25T13:07:00+00:00",
+        "updated_at": "2026-11-19T04:22:35.050080+00:00"
+      },
+      {
+        "memory": "Joanna (Joanna) expressed excitement about seeing Nate's upcoming project, describing it as liberating, and asked him how he was feeling",
+        "score": 0.2295,
+        "id": "1a94fa30-6f5f-4e58-8ac8-239abee15a62",
+        "created_at": "2022-04-15T19:37:00+00:00",
+        "updated_at": "2026-11-19T04:27:39.981363+00:00"
+      },
+      {
+        "memory": "Joanna has been reading a lot during the week of April 10–16, 2022",
+        "score": 0.229,
+        "id": "a8e43855-31c8-46ce-a095-7c4af881f856",
+        "created_at": "2022-04-17T18:44:00+00:00",
+        "updated_at": "2026-11-19T04:29:21.551383+00:00"
+      },
+      {
+        "memory": "Nate said he can't wait to try the desserts Joanna made",
+        "score": 0.2286,
+        "id": "dd8ff652-19d4-47b6-ac06-cfaba67d406c",
+        "created_at": "2022-09-05T18:03:00+00:00",
+        "updated_at": "2026-11-19T05:17:56.164218+00:00"
+      },
+      {
+        "memory": "Joanna finds her meetings exciting",
+        "score": 0.2285,
+        "id": "fd6199a2-0958-4cc1-92e2-ee5ced610def",
+        "created_at": "2022-11-04T15:56:00+00:00",
+        "updated_at": "2026-11-19T05:36:52.343965+00:00"
+      },
+      {
+        "memory": "Nate asked Joanna about her plans for the weekend",
+        "score": 0.2281,
+        "id": "8d8c5c82-427e-4642-8dd4-854c2bb35ae0",
+        "created_at": "2022-06-03T17:44:00+00:00",
+        "updated_at": "2026-11-19T04:59:01.228830+00:00"
+      },
+      {
+        "memory": "Joanna is grateful for her supportive friends",
+        "score": 0.2274,
+        "id": "422ee115-34aa-4566-a884-7152fbd20bc2",
+        "created_at": "2022-05-20T19:49:00+00:00",
+        "updated_at": "2026-11-19T04:45:41.552839+00:00"
+      },
+      {
+        "memory": "Joanna asked Nate about his current projects",
+        "score": 0.226,
+        "id": "a0e45c62-de48-4386-a045-f602478951a5",
+        "created_at": "2022-11-09T17:54:00+00:00",
+        "updated_at": "2026-11-19T05:46:28.398531+00:00"
+      },
+      {
+        "memory": "Joanna shared a photo of a cookie with chocolate drizzle and almonds",
+        "score": 0.2258,
+        "id": "a1479da1-9de0-48c3-998c-b92d44903492",
+        "created_at": "2022-09-05T18:03:00+00:00",
+        "updated_at": "2026-11-19T05:18:43.261778+00:00"
+      },
+      {
+        "memory": "Joanna thanks Nate for his support and says she will keep him updated",
+        "score": 0.2256,
+        "id": "e1335d5a-3aaf-4daa-ab86-ee9e706888c7",
+        "created_at": "2022-03-24T13:43:00+00:00",
+        "updated_at": "2026-11-19T04:25:45.525199+00:00"
+      },
+      {
+        "memory": "Joanna is always up for something sweet and is keen to try Nate's coconut milk ice cream recipe",
+        "score": 0.2254,
+        "id": "36062ca1-c47f-4b57-bc3d-c19d71a8104c",
+        "created_at": "2022-02-25T13:07:00+00:00",
+        "updated_at": "2026-11-19T04:17:50.890851+00:00"
+      },
+      {
+        "memory": "Joanna says goodbye to Nate",
+        "score": 0.2252,
+        "id": "eeaaf75d-e1f4-46ef-bed4-8bd2537db265",
+        "created_at": "2022-10-09T10:58:00+00:00",
+        "updated_at": "2026-11-19T05:28:59.520228+00:00"
+      },
+      {
+        "memory": "Joanna says writing has always been a passion of hers",
+        "score": 0.225,
+        "id": "c8154ccd-5a28-4e33-9f17-0edf082997a3",
+        "created_at": "2022-11-07T20:10:00+00:00",
+        "updated_at": "2026-11-19T05:39:21.628463+00:00"
+      }
+    ],
+    "search_latency_ms": 365.9,
+    "total_results": 50
+  },
+  "cutoff_results": {
+    "top_50": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "An atopic predisposition (atopy)—i.e., a tendency toward environmental allergies such as pet dander and cockroach allergens.",
+      "memories_evaluated": 50,
+      "reason": "The response cites atopy instead of asthma, providing no overlap with the gold answer or its paraphrase."
+    }
+  }
+}

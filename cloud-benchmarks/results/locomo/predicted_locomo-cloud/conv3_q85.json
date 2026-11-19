@@ -1,0 +1,379 @@
+{
+  "question_id": "conv3_q85",
+  "conversation_idx": 3,
+  "category": 3,
+  "category_name": "open-domain",
+  "question": "What kind of job is Joanna beginning to preform the duties of because of her movie scripts?",
+  "ground_truth_answer": "filmmaker.",
+  "evidence": [
+    "D29:1"
+  ],
+  "user_id": "locomo_3_fe8ec031",
+  "reference_date": "12:06 am on 11 November, 2022",
+  "retrieval": {
+    "search_query": "What kind of job is Joanna beginning to preform the duties of because of her movie scripts?",
+    "search_results": [
+      {
+        "memory": "Joanna decided to include a handwritten letter from a young man at the beginning of her next movie script",
+        "score": 0.6625,
+        "id": "0e516978-5fc7-4ce9-be47-03e71449d06c",
+        "created_at": "2022-11-07T20:10:00+00:00",
+        "updated_at": "2026-11-19T05:42:33.643445+00:00"
+      },
+      {
+        "memory": "Joanna completed the introduction of her next movie script on November 7, 2022",
+        "score": 0.6351,
+        "id": "1ba65b4f-a2d6-4fc9-87e8-b149a5b62f46",
+        "created_at": "2022-11-07T20:10:00+00:00",
+        "updated_at": "2026-11-19T05:42:33.643445+00:00"
+      },
+      {
+        "memory": "Joanna is filming her own movie based on the road‑trip script as of November 11, 2022",
+        "score": 0.627,
+        "id": "08884a96-48ef-409c-aa73-862cf2f5827e",
+        "created_at": "2022-11-11T00:06:00+00:00",
+        "updated_at": "2026-11-19T05:49:44.069304+00:00"
+      },
+      {
+        "memory": "Joanna pitched a new script to producers on November 8, 2022, they liked it, and it gave her a confidence boost after creating a plan to get the script made into a movie",
+        "score": 0.6138,
+        "id": "f6a5a0db-43ce-4088-bd6a-25f6cd8350b0",
+        "created_at": "2022-11-09T17:54:00+00:00",
+        "updated_at": "2026-11-19T05:45:37.293835+00:00"
+      },
+      {
+        "memory": "Joanna shared a photo of a notebook containing a handwritten letter related to her movie script presentation for producers",
+        "score": 0.5801,
+        "id": "4002403e-4387-4f61-ba15-545bb7546e95",
+        "created_at": "2022-11-07T20:10:00+00:00",
+        "updated_at": "2026-11-19T05:38:16.526779+00:00"
+      },
+      {
+        "memory": "Joanna has begun writing a book, motivated by the success of her recent movie, and shared a photo of a notebook with a handwritten page",
+        "score": 0.5729,
+        "id": "9a31062d-6101-461d-bc4e-b1cc532591db",
+        "created_at": "2022-07-10T14:34:00+00:00",
+        "updated_at": "2026-11-19T05:08:25.371542+00:00"
+      },
+      {
+        "memory": "Joanna is writing a new movie script that is a love story with many challenges, has put a lot of hard work into it, and hopes to get it on the big screen",
+        "score": 0.5666,
+        "id": "31d3ef44-f03d-485f-85c8-ea857182e4f9",
+        "created_at": "2022-11-07T20:10:00+00:00",
+        "updated_at": "2026-11-19T05:38:54.940959+00:00"
+      },
+      {
+        "memory": "Joanna got the idea for her current script from a dream",
+        "score": 0.5088,
+        "id": "9df78f8b-c0b9-44c6-8c6c-ce0b32358696",
+        "created_at": "2022-11-07T20:10:00+00:00",
+        "updated_at": "2026-11-19T05:39:21.628463+00:00"
+      },
+      {
+        "memory": "An actor approached Joanna and told her they liked her script, which made Joanna feel excited and gave her chills",
+        "score": 0.4975,
+        "id": "00f2d70d-e2e9-417b-ae0c-fff84f2bb480",
+        "created_at": "2022-11-11T00:06:00+00:00",
+        "updated_at": "2026-11-19T05:50:31.529609+00:00"
+      },
+      {
+        "memory": "Joanna contributed to a movie script that was shown on the big screen for the first time on Sunday, October 23, 2022, and felt a mix of emotions but overall satisfaction after waiting a long time",
+        "score": 0.4888,
+        "id": "d3d077a7-a110-4c72-b4f6-3cc07caae49a",
+        "created_at": "2022-10-25T20:16:00+00:00",
+        "updated_at": "2026-11-19T05:31:23.962562+00:00"
+      },
+      {
+        "memory": "Joanna is always down to give movie recommendations",
+        "score": 0.4632,
+        "id": "893ed588-3b00-4677-814d-422a0f6165b8",
+        "created_at": "2022-02-07T09:27:00+00:00",
+        "updated_at": "2026-11-19T04:15:28.886617+00:00"
+      },
+      {
+        "memory": "Nate thanks Joanna for her help and kind words",
+        "score": 0.4622,
+        "id": "463c66d4-e437-49a8-9c05-6b22c3e0298a",
+        "created_at": "2022-03-24T13:43:00+00:00",
+        "updated_at": "2026-11-19T04:27:04.658794+00:00"
+      },
+      {
+        "memory": "Joanna's meetings with movie producers went very well; she felt confident discussing her script and vision, the producers were interested, excited, and loved the self-discovery elements, which validated her work and left her feeling hopeful and inspired about the future",
+        "score": 0.4497,
+        "id": "c59b6286-f1db-4129-8734-269e24e29300",
+        "created_at": "2022-11-04T15:56:00+00:00",
+        "updated_at": "2026-11-19T05:35:00.860994+00:00"
+      },
+      {
+        "memory": "Nate expressed that movies can be powerful and asked Joanna for movie recommendations",
+        "score": 0.4363,
+        "id": "ddf17eef-5d8d-494c-85f4-25d82c82cc7c",
+        "created_at": "2022-01-21T19:31:00+00:00",
+        "updated_at": "2026-11-19T04:04:39.172195+00:00"
+      },
+      {
+        "memory": "Joanna is looking for movie recommendations",
+        "score": 0.4137,
+        "id": "09cddb58-b52a-4221-8cc3-717adeced418",
+        "created_at": "2022-10-06T11:15:00+00:00",
+        "updated_at": "2026-11-19T05:23:02.178019+00:00"
+      },
+      {
+        "memory": "Joanna told Nate to watch the movie to find out what happens",
+        "score": 0.3978,
+        "id": "b4c78ff7-ae63-4cda-936f-a003475c3322",
+        "created_at": "2022-10-25T20:16:00+00:00",
+        "updated_at": "2026-11-19T05:32:30.901918+00:00"
+      },
+      {
+        "memory": "Joanna is excited about a new script that differs from previous work, believes it has strong potential, and will keep Nate updated on its progress",
+        "score": 0.3867,
+        "id": "268165bc-70a5-4133-9ffe-e0756d6ce0b6",
+        "created_at": "2022-07-10T14:34:00+00:00",
+        "updated_at": "2026-11-19T05:07:52.073825+00:00"
+      },
+      {
+        "memory": "Joanna (Joanna) is all about drama and romantic comedy movies, loving the immersive feelings and plots",
+        "score": 0.3848,
+        "id": "fbcca2e1-58a9-4399-aac1-6f2abd09c022",
+        "created_at": "2022-01-21T19:31:00+00:00",
+        "updated_at": "2026-11-19T04:04:35.828710+00:00"
+      },
+      {
+        "memory": "Joanna describes the recommended movie as a mix of drama and romance",
+        "score": 0.3769,
+        "id": "c0225140-ccda-432b-a0c0-892ce59268d2",
+        "created_at": "2022-01-23T14:01:00+00:00",
+        "updated_at": "2026-11-19T04:06:26.768285+00:00"
+      },
+      {
+        "memory": "Joanna told Nate to let her know if he likes the movie she recommended",
+        "score": 0.3762,
+        "id": "0da88a7f-2408-445d-823c-3c66b9b03481",
+        "created_at": "2022-01-21T19:31:00+00:00",
+        "updated_at": "2026-11-19T04:05:44.636989+00:00"
+      },
+      {
+        "memory": "Joanna feels inspired to write an entire movie when she is in cool outdoor places",
+        "score": 0.375,
+        "id": "00ddb86b-714d-48d0-bc30-d831a98e95bb",
+        "created_at": "2022-05-12T15:35:00+00:00",
+        "updated_at": "2026-11-19T04:42:47.109293+00:00"
+      },
+      {
+        "memory": "User Joanna is a writer and screenplay author who recently finished her second script and is working on a third about loss, identity, and connection; she values personal, emotional storytelling and feels proud of her work despite challenges.",
+        "score": 0.3742,
+        "id": "90477256-3d2d-4bdf-95f5-c3a539f78ac5",
+        "created_at": "2022-07-10T14:34:00+00:00",
+        "updated_at": "2026-11-19T05:07:15.041028+00:00"
+      },
+      {
+        "memory": "Joanna thanks Nate for his kind words and support, and says they should keep working toward their dreams and work hard",
+        "score": 0.366,
+        "id": "6a188229-42c5-43f7-b3d3-7939bf1d6564",
+        "created_at": "2022-03-24T13:43:00+00:00",
+        "updated_at": "2026-11-19T04:27:24.244210+00:00"
+      },
+      {
+        "memory": "Joanna thanks Nate, appreciates his kind words and encouragement, and notes that it can feel like a step back sometimes",
+        "score": 0.3547,
+        "id": "4d275a0d-843f-4ede-a971-4a07a145a9f8",
+        "created_at": "2022-06-03T17:44:00+00:00",
+        "updated_at": "2026-11-19T04:56:28.857918+00:00"
+      },
+      {
+        "memory": "Joanna is a writer and screenplay author who recently finished her second script and is developing a third that explores loss, identity, and connection; she feels proud despite challenges and values personal, emotional storytelling.",
+        "score": 0.35,
+        "id": "a8974cc8-2e85-4c4c-b856-092ed5bdd96b",
+        "created_at": "2022-07-10T14:34:00+00:00",
+        "updated_at": "2026-11-19T05:08:13.678473+00:00"
+      },
+      {
+        "memory": "Joanna just set up meetings with movie producers, expressing that her dreams are coming true and feeling on fire",
+        "score": 0.3446,
+        "id": "1b337834-d16e-435a-ae38-2a2ae6353fc3",
+        "created_at": "2022-11-04T15:56:00+00:00",
+        "updated_at": "2026-11-19T05:34:50.323579+00:00"
+      },
+      {
+        "memory": "Joanna shared a photo of a framed movie poster that included a signed picture",
+        "score": 0.3415,
+        "id": "16c47086-45ca-489e-a94d-08d8f54cee0e",
+        "created_at": "2022-10-09T10:58:00+00:00",
+        "updated_at": "2026-11-19T05:27:25.580588+00:00"
+      },
+      {
+        "memory": "Joanna first watched the movie \"Eternal Sunshine of the Spotless Mind\" around January 2019",
+        "score": 0.3392,
+        "id": "e92ac65e-0407-4018-aecf-13e771dc6498",
+        "created_at": "2022-01-21T19:31:00+00:00",
+        "updated_at": "2026-11-19T04:05:12.561988+00:00"
+      },
+      {
+        "memory": "Joanna enjoys writing, reading, watching movies, and exploring nature",
+        "score": 0.335,
+        "id": "64275911-bfaa-48fc-9cc3-f5d584348a57",
+        "created_at": "2022-01-21T19:31:00+00:00",
+        "updated_at": "2026-11-19T04:04:09.593409+00:00"
+      },
+      {
+        "memory": "Joanna shared an image showing a desk with a chair and a computer, representing a writers group meeting with stacked scripts",
+        "score": 0.3266,
+        "id": "1b1cec6d-4530-4ad9-954c-b7a6f89a95f4",
+        "created_at": "2022-08-22T10:57:00+00:00",
+        "updated_at": "2026-11-19T05:13:12.785919+00:00"
+      },
+      {
+        "memory": "Nate expressed willingness to have Joanna over again and suggested watching one of her movies together or going to the park.",
+        "score": 0.3252,
+        "id": "607e3936-52bc-480f-b972-99239d949907",
+        "created_at": "2022-11-09T17:54:00+00:00",
+        "updated_at": "2026-11-19T05:49:12.151473+00:00"
+      },
+      {
+        "memory": "Joanna has a page in her script containing dialogues that explore loss, redemption, and forgiveness, and she feels excited about this deep, emotional story",
+        "score": 0.3209,
+        "id": "a3120de9-cf95-413b-b5b4-f5a344b858ca",
+        "created_at": "2022-07-10T14:34:00+00:00",
+        "updated_at": "2026-11-19T05:08:31.218835+00:00"
+      },
+      {
+        "memory": "Joanna believes movies have the power to take us away and make us feel things not normally experienced, serving as a great escape, especially when she has a cozy movie-watching room",
+        "score": 0.3182,
+        "id": "87816abd-b038-46a6-ad70-1e3ef72ec273",
+        "created_at": "2022-10-09T10:58:00+00:00",
+        "updated_at": "2026-11-19T05:27:59.930817+00:00"
+      },
+      {
+        "memory": "Joanna believes she and Nate share similar interests, including a mutual enjoyment of movies",
+        "score": 0.3168,
+        "id": "6e8ba87d-20f9-4869-bb99-8105119edae9",
+        "created_at": "2022-01-21T19:31:00+00:00",
+        "updated_at": "2026-11-19T04:04:23.718553+00:00"
+      },
+      {
+        "memory": "On November 11, 2022, Joanna expressed excitement about filming her own movie on set, saying each day on set is awesome and full of potential and that she loves being able to bring her vision to life.",
+        "score": 0.3142,
+        "id": "2e3082bf-db91-4c79-93a5-f7990074b129",
+        "created_at": "2022-11-11T00:06:00+00:00",
+        "updated_at": "2026-11-19T05:50:03.880170+00:00"
+      },
+      {
+        "memory": "Joanna and her writers group have made great progress on a script titled \"Finding Home\", which follows a girl on a journey to find her true home and is rewarding and emotional for her",
+        "score": 0.31,
+        "id": "fa448973-738d-4f10-baa9-08fcd093ec81",
+        "created_at": "2022-04-21T19:44:00+00:00",
+        "updated_at": "2026-11-19T04:33:46.657190+00:00"
+      },
+      {
+        "memory": "Joanna appreciates Nate's kind words and says that knowing her writing can make a difference keeps her going on tough days, and she is glad to have writing as an outlet to share stories and have an impact",
+        "score": 0.296,
+        "id": "d34cb961-1917-442a-a4b3-17d3700ef2eb",
+        "created_at": "2022-08-14T18:12:00+00:00",
+        "updated_at": "2026-11-19T05:10:06.740525+00:00"
+      },
+      {
+        "memory": "Joanna is working on a screenplay and other writing projects",
+        "score": 0.2935,
+        "id": "69881a8c-d8f9-4794-80b7-17134993497b",
+        "created_at": "2022-05-02T11:54:00+00:00",
+        "updated_at": "2026-11-19T04:39:37.034482+00:00"
+      },
+      {
+        "memory": "Joanna (Joanna) asks Nate to let her know his thoughts on her screenplay after he reads it",
+        "score": 0.291,
+        "id": "8504a44b-deb9-428d-9960-78a6f6a47f00",
+        "created_at": "2022-02-07T09:27:00+00:00",
+        "updated_at": "2026-11-19T04:15:42.767462+00:00"
+      },
+      {
+        "memory": "Acting was Joanna's first passion, and she says she might return to acting someday",
+        "score": 0.2879,
+        "id": "1648bd53-edb2-4603-9abf-4f50efc4cdd9",
+        "created_at": "2022-04-21T19:44:00+00:00",
+        "updated_at": "2026-11-19T04:34:30.988960+00:00"
+      },
+      {
+        "memory": "Joanna (Joanna) finished her first full screenplay and printed it on Friday, January 21, 2022, after working on it for a while",
+        "score": 0.285,
+        "id": "aa859405-1fcd-4905-a20b-9da3834dc870",
+        "created_at": "2022-01-23T14:01:00+00:00",
+        "updated_at": "2026-11-19T04:06:13.028968+00:00"
+      },
+      {
+        "memory": "Joanna took a road trip for research on her upcoming movie around July 8, 2022, describing it as a much-needed break to explore new places and get inspired",
+        "score": 0.2754,
+        "id": "0ac38849-382e-4636-b6da-1a92a0d42f80",
+        "created_at": "2022-07-10T14:34:00+00:00",
+        "updated_at": "2026-11-19T05:07:01.996417+00:00"
+      },
+      {
+        "memory": "Joanna started writing a second screenplay while waiting to hear back about the reception of her first screenplay",
+        "score": 0.2677,
+        "id": "2ab23ffa-96ca-4a90-9407-3277e3b5a679",
+        "created_at": "2022-02-25T13:07:00+00:00",
+        "updated_at": "2026-11-19T04:22:35.050080+00:00"
+      },
+      {
+        "memory": "Joanna thanks Nate for his support, says she will keep working on her screenplay and hopes the next steps become clearer soon",
+        "score": 0.2654,
+        "id": "dbcaba4c-c5fc-453e-8ed0-ec5e298dc9e6",
+        "created_at": "2022-03-18T18:59:00+00:00",
+        "updated_at": "2026-11-19T04:24:19.620620+00:00"
+      },
+      {
+        "memory": "Joanna completed her second screenplay around March 18, 2022 and feels a mix of relief, anxiety, excitement, and terror about it being noticed and reaching the big screen",
+        "score": 0.2635,
+        "id": "c11ede98-34de-49e9-b147-5151708d0d23",
+        "created_at": "2022-03-18T18:59:00+00:00",
+        "updated_at": "2026-11-19T04:20:01.901541+00:00"
+      },
+      {
+        "memory": "Joanna feels a rollercoaster of emotions—relief, excitement, and some anxiety—after finishing her screenplay project",
+        "score": 0.2623,
+        "id": "97b8951a-7f8f-463a-96f2-063bd6f49ad0",
+        "created_at": "2022-01-23T14:01:00+00:00",
+        "updated_at": "2026-11-19T04:06:48.993524+00:00"
+      },
+      {
+        "memory": "Joanna hopes her finished screenplay will receive positive feedback and lead to new opportunities",
+        "score": 0.2586,
+        "id": "dd903625-0752-455b-81a9-422dbd3628a0",
+        "created_at": "2022-01-23T14:01:00+00:00",
+        "updated_at": "2026-11-19T04:07:04.964335+00:00"
+      },
+      {
+        "memory": "Joanna (Joanna) says she will keep Nate posted and loves his creations",
+        "score": 0.2565,
+        "id": "e1122805-4ff4-4f87-8076-478d3c699db4",
+        "created_at": "2022-02-25T13:07:00+00:00",
+        "updated_at": "2026-11-19T04:18:25.678038+00:00"
+      },
+      {
+        "memory": "Nate expressed that he can't wait to see Joanna's screenplay come together and is pumped to see how her first one will do",
+        "score": 0.2556,
+        "id": "f439f573-8375-428f-911f-6dbbaf5e85f0",
+        "created_at": "2022-02-25T13:07:00+00:00",
+        "updated_at": "2026-11-19T04:19:32.393693+00:00"
+      },
+      {
+        "memory": "Joanna (Joanna) attributes her recent accomplishment to dedication and late nights, saying it was worth it",
+        "score": 0.2553,
+        "id": "12e53240-9e87-4b8b-b764-2a8dc35a11a6",
+        "created_at": "2022-10-06T11:15:00+00:00",
+        "updated_at": "2026-11-19T05:24:23.590746+00:00"
+      }
+    ],
+    "search_latency_ms": 464.5,
+    "total_results": 50
+  },
+  "cutoff_results": {
+    "top_50": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Film director — she’s now filming her own movie and bringing her vision to life.",
+      "memories_evaluated": 50,
+      "reason": "Film director is a type of filmmaker, so the generated answer matches the intended job."
+    }
+  }
+}

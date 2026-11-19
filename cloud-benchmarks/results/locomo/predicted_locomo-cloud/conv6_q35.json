@@ -1,0 +1,379 @@
+{
+  "question_id": "conv6_q35",
+  "conversation_idx": 6,
+  "category": 3,
+  "category_name": "open-domain",
+  "question": "What additional country did James visit during his trip to Canada?",
+  "ground_truth_answer": "Greenland",
+  "evidence": [
+    "D17:22"
+  ],
+  "user_id": "locomo_6_fe8ec031",
+  "reference_date": "8:57 pm on 7 November, 2022",
+  "retrieval": {
+    "search_query": "What additional country did James visit during his trip to Canada?",
+    "search_results": [
+      {
+        "memory": "James visited the city of Nuuk in Greenland, stayed there for a while, and added another country to his bucket list",
+        "score": 0.6497,
+        "id": "e9f939d1-6e07-4593-a238-14dab7c8f661",
+        "created_at": "2022-07-22T09:49:00+00:00",
+        "updated_at": "2026-11-19T05:10:51.150486+00:00"
+      },
+      {
+        "memory": "James has visited Italy, Turkey, and Mexico and notes that he hasn't visited many countries",
+        "score": 0.6399,
+        "id": "3659869b-fc17-490a-880e-63369a03b01d",
+        "created_at": "2022-04-20T21:32:00+00:00",
+        "updated_at": "2026-11-19T04:25:53.131573+00:00"
+      },
+      {
+        "memory": "John noted that James will be visiting his fourth country, implying James has already visited three other countries",
+        "score": 0.6368,
+        "id": "fcd2de3a-29d2-4c0e-beeb-4423cfae13d9",
+        "created_at": "2022-07-09T17:13:00+00:00",
+        "updated_at": "2026-11-19T05:06:54.054083+00:00"
+      },
+      {
+        "memory": "James and his family are on a road trip as of November 7, 2022 and have already visited friends Josh and Mark during the trip",
+        "score": 0.6185,
+        "id": "657a2b2e-4b97-415a-ba17-253dd0e75e7e",
+        "created_at": "2022-11-07T20:57:00+00:00",
+        "updated_at": "2026-11-19T05:55:49.285423+00:00"
+      },
+      {
+        "memory": "James loves to travel and visited Italy in 2021, describing the country as beautiful with delicious food",
+        "score": 0.6104,
+        "id": "06a5acc2-f592-4508-913e-c9843cb7c5f1",
+        "created_at": "2022-04-20T21:32:00+00:00",
+        "updated_at": "2026-11-19T04:25:35.305985+00:00"
+      },
+      {
+        "memory": "James will start looking for a country to travel to with John",
+        "score": 0.5803,
+        "id": "031e7f44-4b11-44f1-9115-33c80c0c1da6",
+        "created_at": "2022-04-20T21:32:00+00:00",
+        "updated_at": "2026-11-19T04:26:33.904274+00:00"
+      },
+      {
+        "memory": "James plans to visit Vancouver and may also travel to another destination",
+        "score": 0.5177,
+        "id": "18be525c-a8a2-4537-a373-61ac9fa0e591",
+        "created_at": "2022-07-09T17:13:00+00:00",
+        "updated_at": "2026-11-19T05:06:58.883845+00:00"
+      },
+      {
+        "memory": "John asked James whether he will only be in Toronto or will also visit other destinations",
+        "score": 0.4995,
+        "id": "86bd3e56-fcc9-42a4-9ce6-5ba13ca77e5d",
+        "created_at": "2022-07-09T17:13:00+00:00",
+        "updated_at": "2026-11-19T05:06:54.054083+00:00"
+      },
+      {
+        "memory": "James has not worked with any programming languages beyond Python and C++, and hopes to work with additional languages in the future",
+        "score": 0.4742,
+        "id": "0feb7728-aa1b-4fba-a65a-a9174766ad05",
+        "created_at": "2022-03-17T15:47:00+00:00",
+        "updated_at": "2026-11-19T04:03:49.483823+00:00"
+      },
+      {
+        "memory": "James visited an animal sanctuary during a road trip on November 7, 2022, seeing many rescue dogs and reflecting on their love of furry pals",
+        "score": 0.4547,
+        "id": "0a2cfd6d-9f96-45b3-8e0b-a68435476941",
+        "created_at": "2022-11-07T20:57:00+00:00",
+        "updated_at": "2026-11-19T05:57:28.470604+00:00"
+      },
+      {
+        "memory": "James's mother visited him on October 19, 2022, accompanied by her army friend, and they had fun together.",
+        "score": 0.4337,
+        "id": "b669dba7-e846-411d-8d45-db75bfd50224",
+        "created_at": "2022-10-21T19:36:00+00:00",
+        "updated_at": "2026-11-19T05:48:24.594870+00:00"
+      },
+      {
+        "memory": "James brought souvenirs for John and his partner Jill after his July 2022 trip",
+        "score": 0.4323,
+        "id": "20836e0b-fb10-4c56-be2d-c6f1886e15c4",
+        "created_at": "2022-07-22T09:49:00+00:00",
+        "updated_at": "2026-11-19T05:11:13.518742+00:00"
+      },
+      {
+        "memory": "James mentioned that they performed a good deed while traveling to visit friends Mark and Josh",
+        "score": 0.4081,
+        "id": "dff2584b-66f1-4d92-83b0-2e18dde79edc",
+        "created_at": "2022-11-07T20:57:00+00:00",
+        "updated_at": "2026-11-19T05:57:08.857992+00:00"
+      },
+      {
+        "memory": "James started a road trip on November 4, 2022 with his family and his dogs, enjoying exploring new places and nature together",
+        "score": 0.339,
+        "id": "de38bf4e-c790-4766-abbd-128356767d21",
+        "created_at": "2022-11-05T17:20:00+00:00",
+        "updated_at": "2026-11-19T05:53:27.743774+00:00"
+      },
+      {
+        "memory": "John expressed relief that James's puppy is okay after the clinic visit and praised James for caring about his pets.",
+        "score": 0.3258,
+        "id": "d4003b16-9e02-4938-bd7b-08dfff13d1de",
+        "created_at": "2022-08-06T13:45:00+00:00",
+        "updated_at": "2026-11-19T05:16:23.742232+00:00"
+      },
+      {
+        "memory": "John has always dreamed of visiting Italy",
+        "score": 0.2766,
+        "id": "98dcbfa7-5cfa-4183-9cae-fc05f1afec0b",
+        "created_at": "2022-04-20T21:32:00+00:00",
+        "updated_at": "2026-11-19T04:25:43.758949+00:00"
+      },
+      {
+        "memory": "James and his dog Max enjoy taking walks on a nearby trail that is about a mile from James's house; the trail is tranquil and provides a great way to relax and connect with nature, and James shared a photo of a dirt path in a field with trees",
+        "score": 0.2542,
+        "id": "a4d6f579-390e-476c-9122-5906c3d875f4",
+        "created_at": "2022-06-16T17:07:00+00:00",
+        "updated_at": "2026-11-19T04:59:34.532320+00:00"
+      },
+      {
+        "memory": "John thanked James and said he will be waiting for James's journey, wishing him Bon Voyage",
+        "score": 0.2504,
+        "id": "01e9da57-6f74-4201-afc6-11024d789e19",
+        "created_at": "2022-07-09T17:13:00+00:00",
+        "updated_at": "2026-11-19T05:07:31.128474+00:00"
+      },
+      {
+        "memory": "James will go train",
+        "score": 0.2492,
+        "id": "68197956-9c09-4ac7-b478-2ba4a9cba2a7",
+        "created_at": "2022-11-05T17:20:00+00:00",
+        "updated_at": "2026-11-19T05:55:32.462016+00:00"
+      },
+      {
+        "memory": "James visited an amusement park with friends around May 21-22, 2022, rode several roller coasters, and described the experience as a real, exciting break from the virtual world that reminded him of his childhood and felt like being inside a video game",
+        "score": 0.2465,
+        "id": "ff2c9b12-471b-469e-be43-c25b8bec22a3",
+        "created_at": "2022-05-23T19:33:00+00:00",
+        "updated_at": "2026-11-19T04:48:05.399750+00:00"
+      },
+      {
+        "memory": "James also likes cheese pizza and prosciutto",
+        "score": 0.243,
+        "id": "59ecda46-d43b-4dbe-b789-09af9718709a",
+        "created_at": "2022-05-04T19:01:00+00:00",
+        "updated_at": "2026-11-19T04:41:24.840756+00:00"
+      },
+      {
+        "memory": "James says everything went great",
+        "score": 0.2412,
+        "id": "22e0334a-c5cc-4796-b56e-25985b9dbd46",
+        "created_at": "2022-07-22T09:49:00+00:00",
+        "updated_at": "2026-11-19T05:10:51.150486+00:00"
+      },
+      {
+        "memory": "John said James brought a lot of impressions and that it was awesome",
+        "score": 0.2404,
+        "id": "15f59041-3c1e-497f-889a-faf130de5801",
+        "created_at": "2022-07-22T09:49:00+00:00",
+        "updated_at": "2026-11-19T05:11:01.616313+00:00"
+      },
+      {
+        "memory": "John said he was glad James enjoyed it",
+        "score": 0.2385,
+        "id": "e6f6b0ff-b6d5-4b90-b482-68df392a6046",
+        "created_at": "2022-10-31T00:37:00+00:00",
+        "updated_at": "2026-11-19T05:52:06.188365+00:00"
+      },
+      {
+        "memory": "James has a new computer",
+        "score": 0.2368,
+        "id": "25b5e1d5-23bb-42cd-982d-a61d98dfb093",
+        "created_at": "2022-10-03T09:20:00+00:00",
+        "updated_at": "2026-11-19T05:42:34.410178+00:00"
+      },
+      {
+        "memory": "John loves hearing about the joy that James's furry friends bring into James's life",
+        "score": 0.2347,
+        "id": "4d5193c3-da27-4299-91f6-c30af1240150",
+        "created_at": "2022-05-04T19:01:00+00:00",
+        "updated_at": "2026-11-19T04:40:22.750531+00:00"
+      },
+      {
+        "memory": "James and his sister were near the ocean and watched a wonderful sunset together",
+        "score": 0.234,
+        "id": "381c2623-0a15-49c3-9227-d1af2ba36e04",
+        "created_at": "2022-07-22T09:49:00+00:00",
+        "updated_at": "2026-11-19T05:12:55.794655+00:00"
+      },
+      {
+        "memory": "James has been tired for the past two days and needed to leave",
+        "score": 0.2327,
+        "id": "d7ed4183-8e3a-40c0-93bb-0d84cf34dc7b",
+        "created_at": "2022-07-22T09:49:00+00:00",
+        "updated_at": "2026-11-19T05:13:17.987700+00:00"
+      },
+      {
+        "memory": "John thanks James, says he'll have a great time, and will talk to him later",
+        "score": 0.2322,
+        "id": "94544878-5e92-4dde-9576-a61797cf0213",
+        "created_at": "2022-08-21T15:57:00+00:00",
+        "updated_at": "2026-11-19T05:24:23.383519+00:00"
+      },
+      {
+        "memory": "James says music is a big part of his life",
+        "score": 0.2317,
+        "id": "b398cdd8-3f25-4e02-8f36-255cf82c3933",
+        "created_at": "2022-09-18T18:02:00+00:00",
+        "updated_at": "2026-11-19T05:35:22.588430+00:00"
+      },
+      {
+        "memory": "John asked James what happened to James's puppy and whether it is okay",
+        "score": 0.2315,
+        "id": "7b24c0c8-4335-4417-8f10-9ac8b8b24a22",
+        "created_at": "2022-08-06T13:45:00+00:00",
+        "updated_at": "2026-11-19T05:16:00.092270+00:00"
+      },
+      {
+        "memory": "James asked to be told about his impressions when he tries it",
+        "score": 0.2296,
+        "id": "1ed293e2-3dc9-47cb-b5c2-09c611c1fbc2",
+        "created_at": "2022-05-04T19:01:00+00:00",
+        "updated_at": "2026-11-19T04:41:51.396658+00:00"
+      },
+      {
+        "memory": "James says he still occasionally goes for a skateboard ride",
+        "score": 0.2295,
+        "id": "2f3f3d65-ed78-4d41-887a-ac76da30bb91",
+        "created_at": "2022-07-22T09:49:00+00:00",
+        "updated_at": "2026-11-19T05:10:04.227484+00:00"
+      },
+      {
+        "memory": "James has heard of the game and is planning to try it out",
+        "score": 0.2284,
+        "id": "1cfa40f6-23b4-49ce-96eb-ef0321fb6a01",
+        "created_at": "2022-04-29T14:36:00+00:00",
+        "updated_at": "2026-11-19T04:38:13.069522+00:00"
+      },
+      {
+        "memory": "John congratulated James on releasing his game",
+        "score": 0.2284,
+        "id": "319d79ff-ac95-4f57-86ed-1217432d01ed",
+        "created_at": "2022-10-13T14:14:00+00:00",
+        "updated_at": "2026-11-19T05:43:04.798685+00:00"
+      },
+      {
+        "memory": "John said he will definitely take James's advice and called James the best",
+        "score": 0.2255,
+        "id": "eb552078-9c95-4198-8342-e8058197fdf9",
+        "created_at": "2022-09-20T20:56:00+00:00",
+        "updated_at": "2026-11-19T05:40:47.875892+00:00"
+      },
+      {
+        "memory": "James and Samantha were at McGee's bar around September 4, 2022",
+        "score": 0.2255,
+        "id": "9a8cdb0b-1a62-4db8-8a5c-1f477706864b",
+        "created_at": "2022-09-04T21:23:00+00:00",
+        "updated_at": "2026-11-19T05:31:35.287163+00:00"
+      },
+      {
+        "memory": "James would like to travel somewhere together with John in the next year",
+        "score": 0.2246,
+        "id": "08a9803e-0384-4891-9c00-aaa2126f8b3c",
+        "created_at": "2022-04-20T21:32:00+00:00",
+        "updated_at": "2026-11-19T04:26:20.308560+00:00"
+      },
+      {
+        "memory": "James says Valhalla is awesome, expressing his enjoyment of the game.",
+        "score": 0.2242,
+        "id": "ddf600a4-eea1-43ff-8a90-5ea159e27c64",
+        "created_at": "2022-04-29T14:36:00+00:00",
+        "updated_at": "2026-11-19T04:35:57.166577+00:00"
+      },
+      {
+        "memory": "John congratulated James on finishing his Unity strategy game, saying it looks amazing and expressing pride in James's hard work",
+        "score": 0.224,
+        "id": "24b71649-5145-448a-9690-b5c5c0262e56",
+        "created_at": "2022-09-01T18:53:00+00:00",
+        "updated_at": "2026-11-19T05:27:47.224854+00:00"
+      },
+      {
+        "memory": "John said James has found someone other than his dogs who brings him joy",
+        "score": 0.2239,
+        "id": "d76bf0ef-8f53-4da2-b442-f3d1c8764814",
+        "created_at": "2022-09-04T21:23:00+00:00",
+        "updated_at": "2026-11-19T05:31:41.429001+00:00"
+      },
+      {
+        "memory": "James is seeking ideas to branch out into new areas",
+        "score": 0.2239,
+        "id": "2f2c11c9-6726-4343-b202-e0aafa9aa3e0",
+        "created_at": "2022-10-21T19:36:00+00:00",
+        "updated_at": "2026-11-19T05:47:48.985344+00:00"
+      },
+      {
+        "memory": "John had never heard of James's desire to cook before this conversation and was surprised.",
+        "score": 0.2236,
+        "id": "abc0c013-412d-45b2-961b-69d4791862f3",
+        "created_at": "2022-09-04T21:23:00+00:00",
+        "updated_at": "2026-11-19T05:33:06.087980+00:00"
+      },
+      {
+        "memory": "James spent time with his beloved pets on May 4, 2022",
+        "score": 0.2233,
+        "id": "675e38c9-3eb1-4228-a5a9-b51010c96835",
+        "created_at": "2022-05-04T19:01:00+00:00",
+        "updated_at": "2026-11-19T04:39:54.909439+00:00"
+      },
+      {
+        "memory": "John expressed excitement to catch up with James",
+        "score": 0.2232,
+        "id": "177dd8b5-6bfa-43ab-815a-299f8ff59979",
+        "created_at": "2022-10-21T19:36:00+00:00",
+        "updated_at": "2026-11-19T05:45:29.307507+00:00"
+      },
+      {
+        "memory": "John told James that he is a great host",
+        "score": 0.223,
+        "id": "0fbd7d2d-73e9-4042-89e3-3dab1900b2fd",
+        "created_at": "2022-08-06T13:45:00+00:00",
+        "updated_at": "2026-11-19T05:16:42.800841+00:00"
+      },
+      {
+        "memory": "James has been trying out different genres of games",
+        "score": 0.2228,
+        "id": "7e294314-b1a7-4786-a827-fc2199c1c5e7",
+        "created_at": "2022-08-26T21:18:00+00:00",
+        "updated_at": "2026-11-19T05:25:40.728014+00:00"
+      },
+      {
+        "memory": "James says family game nights are so much fun",
+        "score": 0.2221,
+        "id": "28197a8e-4f2e-4d12-91f3-4f503ff05998",
+        "created_at": "2022-08-21T15:57:00+00:00",
+        "updated_at": "2026-11-19T05:24:05.366723+00:00"
+      },
+      {
+        "memory": "John said James looks happy and that it is a great achievement",
+        "score": 0.2217,
+        "id": "4aa432eb-550f-4bbd-bcb4-e26a857f562a",
+        "created_at": "2022-06-16T17:07:00+00:00",
+        "updated_at": "2026-11-19T04:58:31.084215+00:00"
+      },
+      {
+        "memory": "James and Samantha have decided to move in together",
+        "score": 0.2217,
+        "id": "01388527-71cc-4b0c-ac1f-fc46a19722d7",
+        "created_at": "2022-10-31T00:37:00+00:00",
+        "updated_at": "2026-11-19T05:52:15.024091+00:00"
+      }
+    ],
+    "search_latency_ms": 371.6,
+    "total_results": 50
+  },
+  "cutoff_results": {
+    "top_50": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Greenland",
+      "memories_evaluated": 50,
+      "reason": "The generated answer exactly matches the gold answer ('Greenland')."
+    }
+  }
+}

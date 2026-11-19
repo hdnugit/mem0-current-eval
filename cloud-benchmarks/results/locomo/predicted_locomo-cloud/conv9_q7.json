@@ -1,0 +1,379 @@
+{
+  "question_id": "conv9_q7",
+  "conversation_idx": 9,
+  "category": 3,
+  "category_name": "open-domain",
+  "question": "Does Dave's shop employ a lot of people?",
+  "ground_truth_answer": "Yes",
+  "evidence": [
+    "D4:17"
+  ],
+  "user_id": "locomo_9_fe8ec031",
+  "reference_date": "10:54 am on 17 November, 2023",
+  "retrieval": {
+    "search_query": "Does Dave's shop employ a lot of people?",
+    "search_results": [
+      {
+        "memory": "Dave shared a photo of his car maintenance shop's grand opening, showing a group of people standing in front of a car",
+        "score": 0.5721,
+        "id": "e07e6517-fee6-4594-bafb-5c4e4ca7053c",
+        "created_at": "2023-05-01T18:24:00+00:00",
+        "updated_at": "2026-11-19T04:18:11.822105+00:00"
+      },
+      {
+        "memory": "Dave invited Calvin to visit his car maintenance shop",
+        "score": 0.5708,
+        "id": "0cc2d9f9-30fa-43a0-b69e-8884c88353ba",
+        "created_at": "2023-05-01T18:24:00+00:00",
+        "updated_at": "2026-11-19T04:18:11.822105+00:00"
+      },
+      {
+        "memory": "Dave opened his car shop around May 9, 2023, invited friends to celebrate, and feels amazing, excited to share his passion and help people with their rides",
+        "score": 0.5708,
+        "id": "6b343478-48df-4824-850e-54e8da09edba",
+        "created_at": "2023-05-16T11:50:00+00:00",
+        "updated_at": "2026-11-19T04:24:28.370384+00:00"
+      },
+      {
+        "memory": "Calvin congratulated Dave on opening his own car shop and said his excitement is contagious",
+        "score": 0.5288,
+        "id": "50427d20-6ce1-4051-b69c-b7a6919ddad7",
+        "created_at": "2023-05-16T11:50:00+00:00",
+        "updated_at": "2026-11-19T04:24:08.791282+00:00"
+      },
+      {
+        "memory": "Dave said opening his car maintenance shop was a labor of love, challenging but worth it",
+        "score": 0.5134,
+        "id": "409c2229-6fa1-4051-8fd9-d097244639cf",
+        "created_at": "2023-05-01T18:24:00+00:00",
+        "updated_at": "2026-11-19T04:15:56.767570+00:00"
+      },
+      {
+        "memory": "Dave opened his own car maintenance shop, describing it as a dream come true and satisfying to have a spot to work on cars",
+        "score": 0.4884,
+        "id": "3b54848e-4c03-4624-afec-e8709d2a6bcb",
+        "created_at": "2023-05-01T18:24:00+00:00",
+        "updated_at": "2026-11-19T04:13:18.988236+00:00"
+      },
+      {
+        "memory": "Dave thanked Calvin, saying it means a lot that Calvin appreciates his work, and expressed that he can make people happy and will keep doing it.",
+        "score": 0.4869,
+        "id": "6e5591eb-541a-4f4a-941b-9bfaac453876",
+        "created_at": "2023-09-15T00:13:00+00:00",
+        "updated_at": "2026-11-19T05:07:09.847089+00:00"
+      },
+      {
+        "memory": "Dave works on all kinds of cars at his shop, handling everything from regular maintenance to full restorations of classic cars, and says it keeps him busy and happy.",
+        "score": 0.4621,
+        "id": "d9b868dd-a112-44f9-a91d-ea8c16834104",
+        "created_at": "2023-05-01T18:24:00+00:00",
+        "updated_at": "2026-11-19T04:18:01.620232+00:00"
+      },
+      {
+        "memory": "Around October 15, 2023, Dave expressed feeling bummed and wondered if his effort was wasted after the competing shop got the deal",
+        "score": 0.4528,
+        "id": "a89a4ee7-013d-4396-91a1-7adf17c9f050",
+        "created_at": "2023-10-15T09:39:00+00:00",
+        "updated_at": "2026-11-19T05:17:33.360264+00:00"
+      },
+      {
+        "memory": "Around October 15, 2023, Dave said a competing car maintenance shop secured a deal they had been trying to win for months",
+        "score": 0.4405,
+        "id": "7a2e8ef1-06a3-4aef-9a03-21855c86d060",
+        "created_at": "2023-10-15T09:39:00+00:00",
+        "updated_at": "2026-11-19T05:17:33.360264+00:00"
+      },
+      {
+        "memory": "Dave says Calvin's support means a lot to him",
+        "score": 0.4367,
+        "id": "22b843ea-89a8-4b3f-a71b-d75eb61bd57e",
+        "created_at": "2023-08-14T00:35:00+00:00",
+        "updated_at": "2026-11-19T04:54:12.634069+00:00"
+      },
+      {
+        "memory": "Dave says he will take lots of pictures and will show them to Calvin when he gets back",
+        "score": 0.4296,
+        "id": "b0aa1b3f-e099-4ad6-a01d-bc32d0cb07e5",
+        "created_at": "2023-06-09T14:31:00+00:00",
+        "updated_at": "2026-11-19T04:32:33.762562+00:00"
+      },
+      {
+        "memory": "Dave said his dream of opening a car maintenance shop is a step toward his other dream of working on classic cars, and he loves their design and engineering",
+        "score": 0.4277,
+        "id": "e9be56ab-7f29-4a19-aa27-c8eb0a49550c",
+        "created_at": "2023-05-01T18:24:00+00:00",
+        "updated_at": "2026-11-19T04:14:40.567852+00:00"
+      },
+      {
+        "memory": "Calvin compliments Dave's car maintenance shop, saying it looks great, expresses desire to visit it sometime, and asks what types of cars are worked on there",
+        "score": 0.4088,
+        "id": "8ff6538d-e095-4923-b27b-fd7c0ff00c16",
+        "created_at": "2023-05-01T18:24:00+00:00",
+        "updated_at": "2026-11-19T04:17:52.510728+00:00"
+      },
+      {
+        "memory": "Calvin praised Dave's work, saying he has put in a lot of effort and has great attention to detail",
+        "score": 0.3798,
+        "id": "312f944c-e53f-4c9e-827a-9fbc0799a5a5",
+        "created_at": "2023-08-11T17:22:00+00:00",
+        "updated_at": "2026-11-19T04:49:21.234247+00:00"
+      },
+      {
+        "memory": "Dave said his recent car modification involved a lot of work but was worth it in the end",
+        "score": 0.3772,
+        "id": "9fb5fb2c-1e9d-4719-b544-8a31e569a63a",
+        "created_at": "2023-11-02T17:46:00+00:00",
+        "updated_at": "2026-11-19T05:37:36.734221+00:00"
+      },
+      {
+        "memory": "Calvin thanked Dave, saying Dave's support means a lot to him, and expressed that he can't wait to experience the music scene there",
+        "score": 0.3745,
+        "id": "4e4c7716-2400-482b-a6e0-2469f9f702e4",
+        "created_at": "2023-05-31T18:06:00+00:00",
+        "updated_at": "2026-11-19T04:29:59.717525+00:00"
+      },
+      {
+        "memory": "Dave spent a lot of time cleaning, polishing, and protecting the car headlights, and says they look great",
+        "score": 0.3611,
+        "id": "9884c3b5-5621-49ae-a2bf-d6dbce20fbc2",
+        "created_at": "2023-11-02T17:46:00+00:00",
+        "updated_at": "2026-11-19T05:37:55.039221+00:00"
+      },
+      {
+        "memory": "Calvin wishes Dave a great time on his upcoming trip, expects it will be an amazing experience, and asks Dave to take lots of pictures to share when he returns",
+        "score": 0.3499,
+        "id": "3460c639-714e-4120-a77b-210a5870462c",
+        "created_at": "2023-06-09T14:31:00+00:00",
+        "updated_at": "2026-11-19T04:32:24.594097+00:00"
+      },
+      {
+        "memory": "Dave's car blog is attracting attention, with people checking it out and asking him for advice",
+        "score": 0.3334,
+        "id": "c7a2be40-3e8c-43e4-a8f0-26b1f0689000",
+        "created_at": "2023-11-02T17:46:00+00:00",
+        "updated_at": "2026-11-19T05:37:03.572974+00:00"
+      },
+      {
+        "memory": "Calvin tells Dave he is really talented and encourages him to keep making people happy and doing what he loves",
+        "score": 0.3329,
+        "id": "ace43589-9eb6-4d6f-814b-7c0377109e85",
+        "created_at": "2023-09-15T00:13:00+00:00",
+        "updated_at": "2026-11-19T05:07:17.355753+00:00"
+      },
+      {
+        "memory": "Dave has been spending a lot of time at a beautiful park in March 2023, finding it calming",
+        "score": 0.32,
+        "id": "5e90568e-9134-4358-8fa4-a9d9fef82636",
+        "created_at": "2023-03-23T11:53:00+00:00",
+        "updated_at": "2026-11-19T04:05:15.558751+00:00"
+      },
+      {
+        "memory": "Dave shared a photo of a busy Tokyo street showing people walking and shopping",
+        "score": 0.2975,
+        "id": "20b22d3c-3070-4c3a-aa73-a410bbac27f7",
+        "created_at": "2023-10-19T10:11:00+00:00",
+        "updated_at": "2026-11-19T05:23:51.730429+00:00"
+      },
+      {
+        "memory": "Dave feels proud when he makes a difference by fixing people's cars and seeing their relief after the repair",
+        "score": 0.2961,
+        "id": "5fdf428a-95cb-427b-b5ef-833b7740e8fb",
+        "created_at": "2023-09-02T09:19:00+00:00",
+        "updated_at": "2026-11-19T05:01:43.260285+00:00"
+      },
+      {
+        "memory": "Dave shared a photo of his latest car project showing a group of people washing a car in a garage",
+        "score": 0.2944,
+        "id": "486a95ce-7e4b-4e24-9744-9092ad053d45",
+        "created_at": "2023-10-25T20:25:00+00:00",
+        "updated_at": "2026-11-19T05:31:20.850110+00:00"
+      },
+      {
+        "memory": "Calvin is excited that Dave will attend one of his shows and shared a photo of a large crowd of people in a large auditorium, with hands raised in the air",
+        "score": 0.2801,
+        "id": "72ba435c-69c3-43c7-89dc-1ae2a6d75001",
+        "created_at": "2023-10-19T10:11:00+00:00",
+        "updated_at": "2026-11-19T05:22:34.209183+00:00"
+      },
+      {
+        "memory": "Dave is finding joy in what they do",
+        "score": 0.2771,
+        "id": "e265beb2-43ec-4257-95eb-765828b6f058",
+        "created_at": "2023-10-23T14:17:00+00:00",
+        "updated_at": "2026-11-19T05:26:23.378342+00:00"
+      },
+      {
+        "memory": "Dave is currently tied up with car-related work",
+        "score": 0.2731,
+        "id": "53cee59c-3c2b-4502-8ae2-d75363663dcb",
+        "created_at": "2023-09-02T09:19:00+00:00",
+        "updated_at": "2026-11-19T05:00:34.363150+00:00"
+      },
+      {
+        "memory": "Dave thanked Calvin, said it means a lot, and expressed that he will keep chasing his dreams and working hard, noting that conversations with Calvin remind him why he loves what he does",
+        "score": 0.2725,
+        "id": "20581bc6-6d68-411c-a4fc-8043f0ac7199",
+        "created_at": "2023-10-08T15:13:00+00:00",
+        "updated_at": "2026-11-19T05:16:55.539087+00:00"
+      },
+      {
+        "memory": "Dave says he is doing well",
+        "score": 0.2709,
+        "id": "72796f84-92e5-4f61-96fb-35925b522621",
+        "created_at": "2023-06-09T14:31:00+00:00",
+        "updated_at": "2026-11-19T04:30:53.141870+00:00"
+      },
+      {
+        "memory": "Dave expressed that working on cars is his passion, finds doing it every day rewarding, enjoys seeing the transformation, and feels satisfied helping people keep their cars in good condition",
+        "score": 0.2686,
+        "id": "30ffcd29-9019-4d63-9598-af6cc74c4e22",
+        "created_at": "2023-05-01T18:24:00+00:00",
+        "updated_at": "2026-11-19T04:18:35.392239+00:00"
+      },
+      {
+        "memory": "Dave feels satisfied seeing his work brought back to life, especially enjoying people's reactions to the finished product, which makes all the hard work worth it",
+        "score": 0.2672,
+        "id": "8614c36e-4039-400f-9261-4c46bd82b497",
+        "created_at": "2023-09-15T00:13:00+00:00",
+        "updated_at": "2026-11-19T05:06:51.358515+00:00"
+      },
+      {
+        "memory": "Calvin says the photo is great, describing the lights and people as lively, and looks forward to hearing Dave's emotions about it in person",
+        "score": 0.2615,
+        "id": "dda5e759-68e3-4589-a936-e19f2d63f196",
+        "created_at": "2023-10-19T10:11:00+00:00",
+        "updated_at": "2026-11-19T05:24:41.652073+00:00"
+      },
+      {
+        "memory": "Dave describes working on cars as therapeutic",
+        "score": 0.2589,
+        "id": "09064ff7-e268-4cc3-a3a0-b7a883c909bd",
+        "created_at": "2023-05-31T18:06:00+00:00",
+        "updated_at": "2026-11-19T04:27:12.647865+00:00"
+      },
+      {
+        "memory": "Calvin is excited to see the end result of Dave's hard work and says Dave has serious talent",
+        "score": 0.2579,
+        "id": "d32602d9-8117-44ed-ba5e-504820079446",
+        "created_at": "2023-08-14T00:35:00+00:00",
+        "updated_at": "2026-11-19T04:53:59.518280+00:00"
+      },
+      {
+        "memory": "Dave expressed a strong interest in auto engineering",
+        "score": 0.2566,
+        "id": "bfce50c0-9f81-443d-857f-1b618f0c5d57",
+        "created_at": "2023-04-20T16:15:00+00:00",
+        "updated_at": "2026-11-19T04:11:42.165441+00:00"
+      },
+      {
+        "memory": "Dave expressed that Tokyo is amazing, alive, and colorful, and said he wants to learn everything about its people, culture, food, and to walk the vibrant city life",
+        "score": 0.2555,
+        "id": "04ea9def-be18-434e-bb6f-a88acad5a938",
+        "created_at": "2023-10-19T10:11:00+00:00",
+        "updated_at": "2026-11-19T05:24:22.905511+00:00"
+      },
+      {
+        "memory": "Dave invited Calvin to jam music together",
+        "score": 0.2525,
+        "id": "d3e906dd-1048-41d7-9159-7fe1c040f946",
+        "created_at": "2023-09-22T20:57:00+00:00",
+        "updated_at": "2026-11-19T05:09:03.837243+00:00"
+      },
+      {
+        "memory": "Dave says it is not difficult for him to help his neighbors with their cars",
+        "score": 0.2508,
+        "id": "42a08620-8701-4192-8dc1-7eaea9e212a3",
+        "created_at": "2023-05-31T18:06:00+00:00",
+        "updated_at": "2026-11-19T04:27:12.647865+00:00"
+      },
+      {
+        "memory": "Dave is eager to catch up with Calvin",
+        "score": 0.2502,
+        "id": "0201be02-de6c-4e92-9e94-3b3b020a8a35",
+        "created_at": "2023-08-22T11:06:00+00:00",
+        "updated_at": "2026-11-19T04:56:50.952936+00:00"
+      },
+      {
+        "memory": "Calvin says that Dave's work is rewarding because it involves doing something he loves and helping others",
+        "score": 0.2498,
+        "id": "d181ecc2-1328-469d-a02f-b7de3afb1575",
+        "created_at": "2023-05-01T18:24:00+00:00",
+        "updated_at": "2026-11-19T04:18:50.499347+00:00"
+      },
+      {
+        "memory": "Calvin believes that working on cars must be really rewarding for Dave",
+        "score": 0.2495,
+        "id": "7405aa65-1249-47d0-baa7-e9c800461dfa",
+        "created_at": "2023-05-01T18:24:00+00:00",
+        "updated_at": "2026-11-19T04:18:17.245183+00:00"
+      },
+      {
+        "memory": "Dave has been a fan of his rock band for many years",
+        "score": 0.2477,
+        "id": "0e2f8182-c3ac-4519-90d9-44b0e0b74e11",
+        "created_at": "2023-11-02T17:46:00+00:00",
+        "updated_at": "2026-11-19T05:39:22.229950+00:00"
+      },
+      {
+        "memory": "Calvin says Dave brings joy to others",
+        "score": 0.2445,
+        "id": "db8bb47f-0d2e-4cef-a32f-680652dcd68b",
+        "created_at": "2023-09-02T09:19:00+00:00",
+        "updated_at": "2026-11-19T05:02:01.507360+00:00"
+      },
+      {
+        "memory": "Dave offered to keep in touch and said Calvin can reach out for help whenever needed",
+        "score": 0.2437,
+        "id": "40a79480-fcb7-4c54-9cca-4398fcb999a7",
+        "created_at": "2023-05-03T13:16:00+00:00",
+        "updated_at": "2026-11-19T04:22:51.210883+00:00"
+      },
+      {
+        "memory": "Dave says he needs to take time to chill",
+        "score": 0.243,
+        "id": "f6bd9055-afd0-497a-ad17-fca1a6c5ea1d",
+        "created_at": "2023-05-03T13:16:00+00:00",
+        "updated_at": "2026-11-19T04:21:34.524681+00:00"
+      },
+      {
+        "memory": "Calvin expressed happiness for Dave's amazing place",
+        "score": 0.2426,
+        "id": "1ec47c70-7c88-4688-9e25-c3ec46c06a19",
+        "created_at": "2023-07-21T18:38:00+00:00",
+        "updated_at": "2026-11-19T04:42:22.560995+00:00"
+      },
+      {
+        "memory": "Calvin thanks Dave for checking in and asks how Dave has been, indicating ongoing communication between them",
+        "score": 0.2417,
+        "id": "16a34016-f54c-47c2-bb4e-e027cdd95e0b",
+        "created_at": "2023-06-09T14:31:00+00:00",
+        "updated_at": "2026-11-19T04:30:36.462217+00:00"
+      },
+      {
+        "memory": "Dave did not get to hang out with Aerosmith after the show",
+        "score": 0.2401,
+        "id": "5e8ec869-92c8-4b5d-8364-1d67c08eec19",
+        "created_at": "2023-03-26T16:45:00+00:00",
+        "updated_at": "2026-11-19T04:08:07.916934+00:00"
+      },
+      {
+        "memory": "Dave expressed that he loves music",
+        "score": 0.2397,
+        "id": "95e9c852-51b7-4c96-95d5-b6b34c3926c1",
+        "created_at": "2023-03-26T16:45:00+00:00",
+        "updated_at": "2026-11-19T04:06:55.000335+00:00"
+      }
+    ],
+    "search_latency_ms": 552.0,
+    "total_results": 50
+  },
+  "cutoff_results": {
+    "top_50": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Yes. Photos from the shop (including an Oct 25, 2023 project with multiple people working in the garage) indicate Dave’s shop employs a sizable team.",
+      "memories_evaluated": 50,
+      "reason": "The generated answer affirms that Dave's shop employs many people, matching the gold answer of 'Yes.'"
+    }
+  }
+}

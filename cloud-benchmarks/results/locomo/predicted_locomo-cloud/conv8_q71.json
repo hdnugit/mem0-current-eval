@@ -1,0 +1,379 @@
+{
+  "question_id": "conv8_q71",
+  "conversation_idx": 8,
+  "category": 3,
+  "category_name": "open-domain",
+  "question": "Which major holiday season conincides with Evan's wedding?",
+  "ground_truth_answer": "Christmas",
+  "evidence": [
+    "D21:2"
+  ],
+  "user_id": "locomo_8_fe8ec031",
+  "reference_date": "9:37 pm on 11 January, 2024",
+  "retrieval": {
+    "search_query": "Which major holiday season conincides with Evan's wedding?",
+    "search_results": [
+      {
+        "memory": "Evan expressed that weddings are indeed special",
+        "score": 0.6346,
+        "id": "7c76d842-c603-4448-931e-e721f874121a",
+        "created_at": "2024-01-06T13:32:00+00:00",
+        "updated_at": "2026-11-19T05:32:06.711925+00:00"
+      },
+      {
+        "memory": "Evan shared an image showing a wedding cake with candles and flowers on a table",
+        "score": 0.5434,
+        "id": "c971ef53-e698-424a-bfdb-04e891d9dead",
+        "created_at": "2024-01-06T13:32:00+00:00",
+        "updated_at": "2026-11-19T05:32:06.711925+00:00"
+      },
+      {
+        "memory": "Evan shared a photo of his wedding day showing a bride and groom kissing in front of a tree",
+        "score": 0.532,
+        "id": "6d5f116f-8d97-4b68-8883-c85704f45926",
+        "created_at": "2023-12-26T16:25:00+00:00",
+        "updated_at": "2026-11-19T05:21:23.185232+00:00"
+      },
+      {
+        "memory": "Evan shared a collage of family photos featuring birthdays, holidays, and vacations, displayed on a living room wall; the image shows a desk with a lamp, a picture frame, and a sign",
+        "score": 0.4321,
+        "id": "20e88cc2-ce04-46d6-9d60-4b7e993524d7",
+        "created_at": "2023-12-09T13:45:00+00:00",
+        "updated_at": "2026-11-19T05:16:11.936665+00:00"
+      },
+      {
+        "memory": "Evan got married around December 20, 2023 (last week relative to the observation date)",
+        "score": 0.3193,
+        "id": "c6b5b5e0-78b1-43e7-ba22-de37971a2fb5",
+        "created_at": "2023-12-26T16:25:00+00:00",
+        "updated_at": "2026-11-19T05:21:23.185232+00:00"
+      },
+      {
+        "memory": "Evan (Evan) plans to explore an activity with Sam in December 2023",
+        "score": 0.3078,
+        "id": "2f3f49a6-744b-43ff-80b4-467776126105",
+        "created_at": "2023-11-09T21:13:00+00:00",
+        "updated_at": "2026-11-19T05:07:22.582202+00:00"
+      },
+      {
+        "memory": "Evan (Evan) plans a honeymoon trip to Canada in February 2024, looking forward to exploring beautiful snowy landscapes.",
+        "score": 0.2862,
+        "id": "d44af963-e1d2-435b-8095-63d4fef4b78d",
+        "created_at": "2024-01-06T13:32:00+00:00",
+        "updated_at": "2026-11-19T05:33:09.534957+00:00"
+      },
+      {
+        "memory": "Evan's work friends have been a great source of support regarding his marriage",
+        "score": 0.2794,
+        "id": "7c154501-57a6-40c9-8b75-a6d011a1e4d7",
+        "created_at": "2023-12-31T11:00:00+00:00",
+        "updated_at": "2026-11-19T05:25:54.218830+00:00"
+      },
+      {
+        "memory": "Evan would like Sam to join him in winter activities, which he describes as a blast",
+        "score": 0.2733,
+        "id": "1038a975-1889-416f-99e3-2a9abc968fe2",
+        "created_at": "2023-08-19T18:17:00+00:00",
+        "updated_at": "2026-11-19T04:39:13.612233+00:00"
+      },
+      {
+        "memory": "Evan (Evan) shared an image of a stream flowing through a snowy forest, depicting a snowy Canadian landscape for the upcoming honeymoon.",
+        "score": 0.2727,
+        "id": "53b57435-2ace-4b0e-b84f-816448efb8c2",
+        "created_at": "2024-01-06T13:32:00+00:00",
+        "updated_at": "2026-11-19T05:33:09.534957+00:00"
+      },
+      {
+        "memory": "A minor accident dampened Evan's ability to tell his work friends about his recent marriage",
+        "score": 0.2721,
+        "id": "4e088261-23a6-48c6-977c-81230628ecfa",
+        "created_at": "2023-12-31T11:00:00+00:00",
+        "updated_at": "2026-11-19T05:25:54.218830+00:00"
+      },
+      {
+        "memory": "Evan (Evan) is super pumped for Sam and plans to catch up soon to see how Sam is enjoying his new hobbies",
+        "score": 0.2684,
+        "id": "3e65df91-38a5-4569-9034-c85044b4005b",
+        "created_at": "2023-05-18T13:47:00+00:00",
+        "updated_at": "2026-11-19T04:06:05.974047+00:00"
+      },
+      {
+        "memory": "Evan enjoys chatting about tranquil times",
+        "score": 0.2642,
+        "id": "ab2b8198-4565-45cf-9118-9a8ec48dec29",
+        "created_at": "2023-11-21T19:30:00+00:00",
+        "updated_at": "2026-11-19T05:11:59.271770+00:00"
+      },
+      {
+        "memory": "Evan plans to try poutine while on their honeymoon trip to Canada",
+        "score": 0.2639,
+        "id": "06001de1-10bc-4f7d-9302-b7e2f9f58a8e",
+        "created_at": "2024-01-06T13:32:00+00:00",
+        "updated_at": "2026-11-19T05:32:59.317589+00:00"
+      },
+      {
+        "memory": "Evan said he misses the family adventures they had last year and recalls the good times together.",
+        "score": 0.2608,
+        "id": "dd2ff974-03d2-47c7-b448-7d3a4e0fe2d7",
+        "created_at": "2023-10-06T20:57:00+00:00",
+        "updated_at": "2026-11-19T04:45:10.692172+00:00"
+      },
+      {
+        "memory": "Evan apologized to his partner for the embarrassing drunken night",
+        "score": 0.2599,
+        "id": "ba3d013c-92ce-4b34-91ef-65618d4fd425",
+        "created_at": "2024-01-11T21:37:00+00:00",
+        "updated_at": "2026-11-19T05:39:04.636692+00:00"
+      },
+      {
+        "memory": "Evan thanked Sam for his encouragement",
+        "score": 0.2589,
+        "id": "59c9640c-346d-4143-8aff-7a868407d9ae",
+        "created_at": "2023-08-27T10:18:00+00:00",
+        "updated_at": "2026-11-19T04:40:14.225487+00:00"
+      },
+      {
+        "memory": "Sam offered to accompany Evan to the store and suggested Evan call him there",
+        "score": 0.2585,
+        "id": "b72ffe60-943f-463e-98f9-1b790fec36fd",
+        "created_at": "2023-12-31T11:00:00+00:00",
+        "updated_at": "2026-11-19T05:28:58.294363+00:00"
+      },
+      {
+        "memory": "Sam congratulated Evan on his partner's pregnancy and said parenthood is amazing",
+        "score": 0.2578,
+        "id": "6bf113cd-d05b-40a4-a4ec-08864085ca41",
+        "created_at": "2023-12-09T13:45:00+00:00",
+        "updated_at": "2026-11-19T05:15:01.678186+00:00"
+      },
+      {
+        "memory": "Evan says he is ready for an adventure and asks Sam where they will go",
+        "score": 0.2575,
+        "id": "dfcec374-a988-42d2-9b4b-d7b2384f1b57",
+        "created_at": "2023-10-14T16:07:00+00:00",
+        "updated_at": "2026-11-19T04:53:40.860072+00:00"
+      },
+      {
+        "memory": "Evan thanked Sam for the suggestion",
+        "score": 0.2573,
+        "id": "3fc07b4f-6860-4c60-87c6-e47707498778",
+        "created_at": "2023-12-05T20:16:00+00:00",
+        "updated_at": "2026-11-19T05:13:39.503469+00:00"
+      },
+      {
+        "memory": "Evan and their partner told their extended family about their marriage on January 5, 2024, and felt overwhelmed by the love and support they received",
+        "score": 0.2568,
+        "id": "da4d481b-bee6-4494-91fd-071f10337e53",
+        "created_at": "2024-01-06T13:32:00+00:00",
+        "updated_at": "2026-11-19T05:29:07.341150+00:00"
+      },
+      {
+        "memory": "Evan went out with friends on January 9, 2024, had too much to drink, and regrettably damaged someone's roses",
+        "score": 0.2553,
+        "id": "31407cc8-911b-419f-97ca-2b99844ae9e3",
+        "created_at": "2024-01-10T00:17:00+00:00",
+        "updated_at": "2026-11-19T05:34:07.767460+00:00"
+      },
+      {
+        "memory": "Evan was in love with his partner at first sight, which explains why they hadn't married earlier",
+        "score": 0.2532,
+        "id": "d8b77577-841d-4af2-a2e0-814d6bccef5c",
+        "created_at": "2023-12-26T16:25:00+00:00",
+        "updated_at": "2026-11-19T05:21:28.608446+00:00"
+      },
+      {
+        "memory": "Evan (Evan) expressed interest in receiving Sam's recipe and thanked Sam for sharing it",
+        "score": 0.2529,
+        "id": "49164833-c39a-494c-abec-0acac3b012ba",
+        "created_at": "2023-08-19T18:17:00+00:00",
+        "updated_at": "2026-11-19T04:34:46.410150+00:00"
+      },
+      {
+        "memory": "Sam appreciates Evan's support and says it means a lot to have Evan in his corner",
+        "score": 0.2527,
+        "id": "be077cda-590e-43e0-8098-023796b2b8df",
+        "created_at": "2023-06-06T15:55:00+00:00",
+        "updated_at": "2026-11-19T04:13:01.195657+00:00"
+      },
+      {
+        "memory": "Evan encourages Sam to appreciate the little things in life",
+        "score": 0.2526,
+        "id": "589609e7-1290-4c3d-81f7-95b6a27c2ac5",
+        "created_at": "2023-11-21T19:30:00+00:00",
+        "updated_at": "2026-11-19T05:09:07.768736+00:00"
+      },
+      {
+        "memory": "Evan expresses appreciation for Sam's support during this difficult period",
+        "score": 0.2505,
+        "id": "8edc9f27-bd8b-421c-8d19-8284012ad660",
+        "created_at": "2023-11-09T21:13:00+00:00",
+        "updated_at": "2026-11-19T05:04:48.523794+00:00"
+      },
+      {
+        "memory": "Evan went to the Canadian Rockies with his family on May 18, 2023",
+        "score": 0.2496,
+        "id": "4c43c990-82a7-47c4-bb3c-435a29179623",
+        "created_at": "2023-05-18T13:47:00+00:00",
+        "updated_at": "2026-11-19T04:03:37.540968+00:00"
+      },
+      {
+        "memory": "Evan's partner was not thrilled but understood the accident involving the roses, and Evan promised to be more careful in the future",
+        "score": 0.2493,
+        "id": "08f51384-49ea-47ea-a35b-353aa336ba9d",
+        "created_at": "2024-01-11T21:37:00+00:00",
+        "updated_at": "2026-11-19T05:38:51.501315+00:00"
+      },
+      {
+        "memory": "Evan looks forward to expanding his family and creating more beautiful memories",
+        "score": 0.2491,
+        "id": "d5366ab7-1a6c-4e21-9b95-3b540d89a062",
+        "created_at": "2023-12-09T13:45:00+00:00",
+        "updated_at": "2026-11-19T05:16:46.371941+00:00"
+      },
+      {
+        "memory": "User's name is Evan",
+        "score": 0.2488,
+        "id": "943347eb-5e95-4406-bb98-9efc11046296",
+        "created_at": "2023-05-18T13:47:00+00:00",
+        "updated_at": "2026-11-19T04:02:42.158419+00:00"
+      },
+      {
+        "memory": "Sam offered to give Evan tips on organizing the big family reunion event",
+        "score": 0.2478,
+        "id": "c70017ae-5cd5-4fe7-b9fc-aac2a26c6f46",
+        "created_at": "2023-12-09T13:45:00+00:00",
+        "updated_at": "2026-11-19T05:17:05.921874+00:00"
+      },
+      {
+        "memory": "Evan took the Prius for a long drive to the mountains around December 30, 2023",
+        "score": 0.2476,
+        "id": "59fa9cdd-a343-46bb-ac2f-a34a949eb895",
+        "created_at": "2023-12-31T11:00:00+00:00",
+        "updated_at": "2026-11-19T05:25:18.176488+00:00"
+      },
+      {
+        "memory": "Evan (Evan) had a health scare and went to the hospital around November 14, 2023, where a suspicious finding was later determined to be a misunderstanding, prompting him to realize the importance of monitoring his health",
+        "score": 0.2474,
+        "id": "e66a5de4-f922-4b07-bdf3-cbc7fa250fb3",
+        "created_at": "2023-11-21T19:30:00+00:00",
+        "updated_at": "2026-11-19T05:07:37.057966+00:00"
+      },
+      {
+        "memory": "Sam thanked Evan for the recommendation",
+        "score": 0.2468,
+        "id": "6fdf1302-048f-483c-bcb0-37c9cd6f892c",
+        "created_at": "2023-08-07T19:52:00+00:00",
+        "updated_at": "2026-11-19T04:22:59.627037+00:00"
+      },
+      {
+        "memory": "Sam thanked Evan, said the snacks look yummy, and that Evan's help means a lot to him",
+        "score": 0.2461,
+        "id": "5a421c5c-b5c7-4eea-bbd9-2a178fe3b9e9",
+        "created_at": "2023-12-31T11:00:00+00:00",
+        "updated_at": "2026-11-19T05:28:37.736241+00:00"
+      },
+      {
+        "memory": "Sam is super excited to get fit together with Evan",
+        "score": 0.2452,
+        "id": "8be35fb4-4379-4708-862a-68126ae24d0e",
+        "created_at": "2023-10-17T13:50:00+00:00",
+        "updated_at": "2026-11-19T04:56:51.813754+00:00"
+      },
+      {
+        "memory": "Sam says Evan values his family highly",
+        "score": 0.2445,
+        "id": "2831afec-dd4b-4e77-9adb-875a6a9f4b45",
+        "created_at": "2023-12-09T13:45:00+00:00",
+        "updated_at": "2026-11-19T05:16:52.113639+00:00"
+      },
+      {
+        "memory": "Evan expressed hope that Sam is doing well",
+        "score": 0.2443,
+        "id": "eaeaefc8-d41a-438c-b46b-d859fa39d62e",
+        "created_at": "2024-01-10T00:17:00+00:00",
+        "updated_at": "2026-11-19T05:33:52.391513+00:00"
+      },
+      {
+        "memory": "Evan says his family means the world to him and they are his rock",
+        "score": 0.2442,
+        "id": "1d1e7b0f-46f3-467b-809f-3eabdb3d82d0",
+        "created_at": "2023-12-09T13:45:00+00:00",
+        "updated_at": "2026-11-19T05:16:46.371941+00:00"
+      },
+      {
+        "memory": "Evan shared a painting of a blooming cherry blossom tree in a field",
+        "score": 0.2442,
+        "id": "c91bfe4b-2df4-494d-af1c-53247da30273",
+        "created_at": "2023-08-19T18:17:00+00:00",
+        "updated_at": "2026-11-19T04:37:02.110291+00:00"
+      },
+      {
+        "memory": "Evan feels lucky to have found a partner who truly understands him",
+        "score": 0.2437,
+        "id": "e7264efb-2fb9-4c83-9183-b0850daf192a",
+        "created_at": "2024-01-06T13:32:00+00:00",
+        "updated_at": "2026-11-19T05:29:21.320572+00:00"
+      },
+      {
+        "memory": "Evan appreciates Sam's concern and thanks him",
+        "score": 0.2424,
+        "id": "f0ddae15-98d7-4029-a87a-d7f61e021854",
+        "created_at": "2023-08-27T10:18:00+00:00",
+        "updated_at": "2026-11-19T04:38:55.990082+00:00"
+      },
+      {
+        "memory": "Evan thanked Sam and said they will have a great time on their upcoming hike together",
+        "score": 0.2423,
+        "id": "7d942340-df93-4faf-a7b5-a5c3e6066795",
+        "created_at": "2023-10-17T13:50:00+00:00",
+        "updated_at": "2026-11-19T04:57:00.552399+00:00"
+      },
+      {
+        "memory": "Evan remembers when his first child was born and describes the joy of that moment as amazing",
+        "score": 0.2419,
+        "id": "e8de978f-5166-48f8-9de8-0f786edf07cb",
+        "created_at": "2023-12-09T13:45:00+00:00",
+        "updated_at": "2026-11-19T05:15:26.083738+00:00"
+      },
+      {
+        "memory": "Evan (Evan) plans to try the GPS sensor for his frequently lost keys and will let Sam know the outcome",
+        "score": 0.2418,
+        "id": "16d2c445-9482-4d06-89b5-d9873bd51205",
+        "created_at": "2024-01-06T13:32:00+00:00",
+        "updated_at": "2026-11-19T05:33:20.962753+00:00"
+      },
+      {
+        "memory": "Evan (Evan) reflected that nature calms and revives the soul, and recalled that during summer 2023 he went on a camping trip and took a photo of an amazing sunset featuring a kayak seen from the front of the boat.",
+        "score": 0.2418,
+        "id": "45385a8e-3eca-4d97-b01f-7d3db96e56e7",
+        "created_at": "2024-01-11T21:37:00+00:00",
+        "updated_at": "2026-11-19T05:39:37.611255+00:00"
+      },
+      {
+        "memory": "Evan feels blessed to have their families, describing them as a rock and a source of support",
+        "score": 0.2402,
+        "id": "4cabc9c7-e100-4498-ba53-a973d6b27a3f",
+        "created_at": "2024-01-06T13:32:00+00:00",
+        "updated_at": "2026-11-19T05:31:42.320974+00:00"
+      },
+      {
+        "memory": "Sam wishes he could feel the same about love as Evan",
+        "score": 0.2401,
+        "id": "2d71606e-d78f-4caf-96ac-1d6d7801b558",
+        "created_at": "2023-12-26T16:25:00+00:00",
+        "updated_at": "2026-11-19T05:22:18.630823+00:00"
+      }
+    ],
+    "search_latency_ms": 369.2,
+    "total_results": 50
+  },
+  "cutoff_results": {
+    "top_50": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "The Christmas season.",
+      "memories_evaluated": 50,
+      "reason": "The generated answer correctly identifies Christmas as the holiday season coinciding with Evan's wedding."
+    }
+  }
+}

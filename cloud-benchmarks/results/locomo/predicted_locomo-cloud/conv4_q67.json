@@ -1,0 +1,382 @@
+{
+  "question_id": "conv4_q67",
+  "conversation_idx": 4,
+  "category": 3,
+  "category_name": "open-domain",
+  "question": "What would be a good hobby related to his travel dreams for Tim to pick up?",
+  "ground_truth_answer": "Writing a travel blog.",
+  "evidence": [
+    "D4:1",
+    "D6:6",
+    "D15:3",
+    "D27:37"
+  ],
+  "user_id": "locomo_4_fe8ec031",
+  "reference_date": "1:41 pm on 12 January, 2024",
+  "retrieval": {
+    "search_query": "What would be a good hobby related to his travel dreams for Tim to pick up?",
+    "search_results": [
+      {
+        "memory": "Tim visited a travel agency around December 26, 2023 to learn the requirements for his next dream trip",
+        "score": 0.5839,
+        "id": "e189b6dc-ab2d-43b2-854e-34aeaf979b7c",
+        "created_at": "2023-12-26T15:35:00+00:00",
+        "updated_at": "2026-11-19T05:51:58.706022+00:00"
+      },
+      {
+        "memory": "Tim (Tim) has Italy on his travel list and is eager to visit the country",
+        "score": 0.5245,
+        "id": "62de6ab4-92e6-4d20-95af-11bc24cd6b41",
+        "created_at": "2024-01-02T17:26:00+00:00",
+        "updated_at": "2026-11-19T05:55:47.619602+00:00"
+      },
+      {
+        "memory": "Tim said he will keep John updated about his travel plans",
+        "score": 0.4816,
+        "id": "a514278b-0aeb-4c64-adb3-dca79ee2e9bd",
+        "created_at": "2024-01-12T13:41:00+00:00",
+        "updated_at": "2026-11-19T06:07:01.866303+00:00"
+      },
+      {
+        "memory": "Tim is adding Barcelona to his travel list",
+        "score": 0.4607,
+        "id": "1f8b7e72-d427-4c7a-bd66-45ac4706eb05",
+        "created_at": "2024-01-12T13:41:00+00:00",
+        "updated_at": "2026-11-19T06:07:12.531627+00:00"
+      },
+      {
+        "memory": "Tim feels proud of researching visa requirements for the countries he wants to visit, viewing it as a proactive step toward making his travel dreams a reality",
+        "score": 0.4515,
+        "id": "b4e62df9-303e-4062-b6ba-b13a89b36d77",
+        "created_at": "2024-01-12T13:41:00+00:00",
+        "updated_at": "2026-11-19T06:06:45.639432+00:00"
+      },
+      {
+        "memory": "Tim loves traveling to new places to experience different kinds of magic",
+        "score": 0.4278,
+        "id": "64ad7bf4-e4c1-4de6-bb67-59b2e00487b8",
+        "created_at": "2023-08-26T18:59:00+00:00",
+        "updated_at": "2026-11-19T04:41:01.720261+00:00"
+      },
+      {
+        "memory": "Tim believes that having friends who share his hobbies is really fun",
+        "score": 0.4135,
+        "id": "79577a19-f9e0-44ae-a82e-33ec0555e29c",
+        "created_at": "2023-09-21T20:17:00+00:00",
+        "updated_at": "2026-11-19T04:45:41.397555+00:00"
+      },
+      {
+        "memory": "Tim will travel to Ireland for a semester starting in February 2024",
+        "score": 0.4122,
+        "id": "14beb7be-9c0d-4934-8711-616e90d24f6d",
+        "created_at": "2024-01-07T17:24:00+00:00",
+        "updated_at": "2026-11-19T06:01:25.259916+00:00"
+      },
+      {
+        "memory": "Tim added New York City to his travel list and is excited to visit the city",
+        "score": 0.4058,
+        "id": "d69a6708-6295-499f-b737-2da028e9444c",
+        "created_at": "2023-08-26T18:59:00+00:00",
+        "updated_at": "2026-11-19T04:41:33.182597+00:00"
+      },
+      {
+        "memory": "Tim says being in the mountains is the best",
+        "score": 0.4009,
+        "id": "d1961f99-a4b2-4c05-96b1-48ce00f20351",
+        "created_at": "2023-12-01T09:52:00+00:00",
+        "updated_at": "2026-11-19T05:30:26.379890+00:00"
+      },
+      {
+        "memory": "Tim told John to keep going and not give up on his dreams",
+        "score": 0.3903,
+        "id": "e2f235d3-84f4-4a45-a4ca-3df3974ff160",
+        "created_at": "2023-06-15T17:08:00+00:00",
+        "updated_at": "2026-11-19T04:10:49.005090+00:00"
+      },
+      {
+        "memory": "Tim recommended \"The Name of the Wind\" by Patrick Rothfuss as a great book to read while traveling",
+        "score": 0.39,
+        "id": "9a8736b7-089f-4992-98d4-20e5499fb3fd",
+        "created_at": "2023-09-21T20:17:00+00:00",
+        "updated_at": "2026-11-19T04:49:00.482109+00:00"
+      },
+      {
+        "memory": "John said he hadn't had much time to read, but after talking with Tim he finally picked up a book and is finding it awesome",
+        "score": 0.3811,
+        "id": "43dc4d91-6042-4470-8b4e-c2ec9b55995e",
+        "created_at": "2023-10-17T13:50:00+00:00",
+        "updated_at": "2026-11-19T05:04:44.217403+00:00"
+      },
+      {
+        "memory": "Tim is trying to find a way to juggle his studying with his fantasy reading hobby",
+        "score": 0.3776,
+        "id": "a25ae138-65a9-4084-9813-bddadfe0d0a7",
+        "created_at": "2023-08-26T18:59:00+00:00",
+        "updated_at": "2026-11-19T04:39:58.461720+00:00"
+      },
+      {
+        "memory": "Tim says having another family is great and it definitely helps with his home life and hobbies",
+        "score": 0.3761,
+        "id": "6411764a-6c22-40a7-bda3-7f2fe2831bdf",
+        "created_at": "2023-08-09T10:29:00+00:00",
+        "updated_at": "2026-11-19T04:22:21.165982+00:00"
+      },
+      {
+        "memory": "Tim asked John which other brands he dreams of working with for endorsements",
+        "score": 0.3588,
+        "id": "4eb3954e-d931-459f-bf04-d844fef2094b",
+        "created_at": "2023-07-16T16:21:00+00:00",
+        "updated_at": "2026-11-19T04:14:41.295897+00:00"
+      },
+      {
+        "memory": "Tim believes books can inspire and help keep dreams alive",
+        "score": 0.3544,
+        "id": "8548482a-ffff-4e7a-b6af-c3032714f880",
+        "created_at": "2023-08-02T16:17:00+00:00",
+        "updated_at": "2026-11-19T04:20:03.938763+00:00"
+      },
+      {
+        "memory": "Tim believes it is important to do one's own thing and follow one's dreams, and encourages the other that they will do amazing things",
+        "score": 0.3461,
+        "id": "e53ab42c-f71e-49ae-90e1-1f03e6a75624",
+        "created_at": "2023-12-11T20:28:00+00:00",
+        "updated_at": "2026-11-19T05:42:22.262130+00:00"
+      },
+      {
+        "memory": "Tim finds traveling amazing and is currently learning German, describing the language study as tough but fun",
+        "score": 0.3351,
+        "id": "7ba1ca1e-2ec6-4bf8-b590-7b022ab0b0a6",
+        "created_at": "2024-01-02T17:26:00+00:00",
+        "updated_at": "2026-11-19T05:56:18.276122+00:00"
+      },
+      {
+        "memory": "Tim has been reading a book of travel stories from around the world to plan his next adventure, and shared an image of the book cover showing a boy and a girl",
+        "score": 0.3317,
+        "id": "4ae841fb-54af-4c32-b94f-97b6dc6e9b59",
+        "created_at": "2023-12-26T15:35:00+00:00",
+        "updated_at": "2026-11-19T05:51:18.675344+00:00"
+      },
+      {
+        "memory": "Tim joined a travel club, driven by a long-standing interest in different cultures and countries, and looks forward to meeting new people and learning what makes them unique",
+        "score": 0.3283,
+        "id": "c2426d47-73b2-4fe9-b16f-1a81fbe58ffb",
+        "created_at": "2023-12-06T17:34:00+00:00",
+        "updated_at": "2026-11-19T05:31:42.919861+00:00"
+      },
+      {
+        "memory": "Tim finds nature refreshing and considers it a good break from school",
+        "score": 0.3282,
+        "id": "5ec3021c-6cc8-4b53-8e4f-8854feca2e24",
+        "created_at": "2023-10-17T13:50:00+00:00",
+        "updated_at": "2026-11-19T05:03:59.331721+00:00"
+      },
+      {
+        "memory": "John is looking for travel ideas",
+        "score": 0.3263,
+        "id": "f4fb2755-770e-49e0-9d67-72ed251e51ba",
+        "created_at": "2023-12-26T15:35:00+00:00",
+        "updated_at": "2026-11-19T05:51:27.531171+00:00"
+      },
+      {
+        "memory": "Tim (Tim) congratulated John on his wedding, calling it awesome and asking if it feels good",
+        "score": 0.3188,
+        "id": "ef55650c-e863-4ed1-96e6-f7b21fbac458",
+        "created_at": "2023-10-13T13:50:00+00:00",
+        "updated_at": "2026-11-19T04:57:09.259278+00:00"
+      },
+      {
+        "memory": "Tim told John that basketball has done great things for him and urged him to keep going with his dreams",
+        "score": 0.3172,
+        "id": "05c336fa-0dd8-4983-81a4-85a5afba9c41",
+        "created_at": "2023-12-11T20:28:00+00:00",
+        "updated_at": "2026-11-19T05:42:05.424447+00:00"
+      },
+      {
+        "memory": "Tim (Tim) described watching a movie with his family as a dream come true, noting they got comfortable with snacks and a blanket, were totally absorbed, and considered it a special memory",
+        "score": 0.3139,
+        "id": "83341f87-b76e-4e7f-a697-e33adffded08",
+        "created_at": "2023-08-21T16:29:00+00:00",
+        "updated_at": "2026-11-19T04:36:07.660994+00:00"
+      },
+      {
+        "memory": "Tim has just finished reading \"A Dance with Dragons\" and highly recommends it as a really good story",
+        "score": 0.2941,
+        "id": "f613277a-77e2-42ff-95b9-c874c64b4965",
+        "created_at": "2023-12-08T19:42:00+00:00",
+        "updated_at": "2026-11-19T05:39:41.374841+00:00"
+      },
+      {
+        "memory": "Tim read an awesome book about castles in the UK, found it incredibly interesting and blew him away, and now dreams of visiting those castles one day",
+        "score": 0.2929,
+        "id": "d7c16c2e-43f6-49a1-880e-1775a5eb2e5e",
+        "created_at": "2023-10-21T17:51:00+00:00",
+        "updated_at": "2026-11-19T05:04:52.376985+00:00"
+      },
+      {
+        "memory": "Tim says traveling is eye-opening",
+        "score": 0.2903,
+        "id": "943cb21f-c243-4e77-89d1-259f8d76db8a",
+        "created_at": "2024-01-02T17:26:00+00:00",
+        "updated_at": "2026-11-19T06:01:03.244973+00:00"
+      },
+      {
+        "memory": "Tim (Tim) would like to explore real Harry Potter locations someday and asks if John has been to any",
+        "score": 0.2828,
+        "id": "87b7bf58-b8e0-4710-96b4-8691e00743c9",
+        "created_at": "2023-05-21T19:48:00+00:00",
+        "updated_at": "2026-11-19T04:06:24.002258+00:00"
+      },
+      {
+        "memory": "John offered to help Tim with his upcoming trip to New York City and said he's excited to hear when Tim is going",
+        "score": 0.2821,
+        "id": "fdbb9f2c-6956-4c11-88a7-06b4f126fdd3",
+        "created_at": "2023-08-26T18:59:00+00:00",
+        "updated_at": "2026-11-19T04:42:56.769330+00:00"
+      },
+      {
+        "memory": "Tim says the travel stories book described a trek that was tough because of challenging terrain, altitude sickness, and bad weather, but the trekkers completed it, saw amazing sights, and the story motivated User.",
+        "score": 0.2798,
+        "id": "9aa82cb8-5609-42ec-b1e9-856c6d5258a8",
+        "created_at": "2023-12-26T15:35:00+00:00",
+        "updated_at": "2026-11-19T05:51:46.953807+00:00"
+      },
+      {
+        "memory": "Tim (Tim) visited a Harry Potter-themed location in London a few years ago and went on an amazing tour there",
+        "score": 0.2789,
+        "id": "c1c3d4d1-a258-4a6c-815e-e4a57f49386b",
+        "created_at": "2023-05-21T19:48:00+00:00",
+        "updated_at": "2026-11-19T04:06:24.002258+00:00"
+      },
+      {
+        "memory": "Tim says books, movies, and real-life experiences all fire up his creativity",
+        "score": 0.275,
+        "id": "ede70c48-e877-4a5d-8c77-61901ad00cc7",
+        "created_at": "2023-10-21T17:51:00+00:00",
+        "updated_at": "2026-11-19T05:06:28.141714+00:00"
+      },
+      {
+        "memory": "Tim (Tim) is excited to explore nature, describing it as looking amazing",
+        "score": 0.2744,
+        "id": "0799aa9e-8862-4038-963a-9a1bfcb55658",
+        "created_at": "2024-01-07T17:24:00+00:00",
+        "updated_at": "2026-11-19T06:02:18.517976+00:00"
+      },
+      {
+        "memory": "Tim (Tim) has not been to Universal Studios before and is planning his first visit, feeling super excited about the Harry Potter attractions there",
+        "score": 0.2744,
+        "id": "4463bd91-2f18-45ae-8cfa-c729d5077d58",
+        "created_at": "2023-08-31T14:52:00+00:00",
+        "updated_at": "2026-11-19T04:44:06.281370+00:00"
+      },
+      {
+        "memory": "Tim says he will make sure to have a safe trip",
+        "score": 0.2735,
+        "id": "dae0f689-ff76-4296-b486-e28de249e623",
+        "created_at": "2023-08-31T14:52:00+00:00",
+        "updated_at": "2026-11-19T04:44:43.101512+00:00"
+      },
+      {
+        "memory": "Tim (Tim) asked John about memorable experiences working with his outdoor gear endorsement partner",
+        "score": 0.269,
+        "id": "772cfb6a-56a2-4158-8cab-025361c838bd",
+        "created_at": "2023-12-26T15:35:00+00:00",
+        "updated_at": "2026-11-19T05:53:19.991350+00:00"
+      },
+      {
+        "memory": "Tim (Tim) expressed that he is glad John's journey has been rewarding",
+        "score": 0.2688,
+        "id": "b53c34ba-d263-4db3-a6cf-5b9de14b9d58",
+        "created_at": "2023-12-06T17:34:00+00:00",
+        "updated_at": "2026-11-19T05:32:27.057305+00:00"
+      },
+      {
+        "memory": "Tim loves going on road trips with friends and family, enjoys exploring, hiking, and playing board games during those trips",
+        "score": 0.2674,
+        "id": "c8a88ea8-9279-45ae-afcb-833b5e04e739",
+        "created_at": "2023-10-21T17:51:00+00:00",
+        "updated_at": "2026-11-19T05:10:40.350599+00:00"
+      },
+      {
+        "memory": "Tim (Tim) said he's okay and can look up the spices himself",
+        "score": 0.2657,
+        "id": "f848967d-8d1a-4a55-ab7f-3d7f769b3e6b",
+        "created_at": "2023-08-31T14:52:00+00:00",
+        "updated_at": "2026-11-19T04:43:38.995603+00:00"
+      },
+      {
+        "memory": "Tim (Tim) is excited to watch the upcoming show \"The Wheel of Time\", which is based on a book series he loves",
+        "score": 0.2645,
+        "id": "bb77cf25-9c57-437c-82fd-4387ab253502",
+        "created_at": "2023-12-26T15:35:00+00:00",
+        "updated_at": "2026-11-19T05:55:13.912384+00:00"
+      },
+      {
+        "memory": "Tim enjoys curling up with a good book in free time, using reading to escape reality and get lost in different worlds",
+        "score": 0.2629,
+        "id": "b3b9fa8a-10bd-447a-b024-92c770b4c731",
+        "created_at": "2023-10-21T17:51:00+00:00",
+        "updated_at": "2026-11-19T05:10:40.350599+00:00"
+      },
+      {
+        "memory": "Tim joined a group of globetrotters who share his interests, enjoying getting to know them and hearing about their trips",
+        "score": 0.262,
+        "id": "2750e0f2-4c00-4f12-aa1c-b037a55bef34",
+        "created_at": "2024-01-02T17:26:00+00:00",
+        "updated_at": "2026-11-19T05:55:34.810139+00:00"
+      },
+      {
+        "memory": "Tim (Tim) says he will have a blast and looks forward to letting John know how it goes",
+        "score": 0.2617,
+        "id": "98724d93-5a4a-42cd-a51b-352b9be18ff3",
+        "created_at": "2023-08-31T14:52:00+00:00",
+        "updated_at": "2026-11-19T04:44:20.203057+00:00"
+      },
+      {
+        "memory": "John expressed that he loves traveling because it allows him to learn about different cultures and places",
+        "score": 0.2608,
+        "id": "1311eb1b-9c94-4fe4-91af-ae7e08be5ad7",
+        "created_at": "2024-01-02T17:26:00+00:00",
+        "updated_at": "2026-11-19T06:00:33.798974+00:00"
+      },
+      {
+        "memory": "Tim is trying to understand visa requirements for the places he wants to visit, finding it overwhelming but exciting",
+        "score": 0.2602,
+        "id": "ad6aacfd-ed19-4569-8eec-b35eb39fcbca",
+        "created_at": "2024-01-12T13:41:00+00:00",
+        "updated_at": "2026-11-19T06:05:52.877010+00:00"
+      },
+      {
+        "memory": "Tim finds being lost in an awesome fantasy realm special and describes it as an escape",
+        "score": 0.2579,
+        "id": "926dc78f-1970-4160-94fc-271cd572ebd5",
+        "created_at": "2023-11-11T15:36:00+00:00",
+        "updated_at": "2026-11-19T05:15:59.015330+00:00"
+      },
+      {
+        "memory": "Tim has always wanted to try the seafood in Seattle",
+        "score": 0.2573,
+        "id": "3605a229-caa5-41fc-95f1-ec203e802148",
+        "created_at": "2023-07-16T16:21:00+00:00",
+        "updated_at": "2026-11-19T04:16:06.498299+00:00"
+      },
+      {
+        "memory": "Tim asked John where he went camping",
+        "score": 0.2568,
+        "id": "22b72d79-baef-4ccd-ad4f-2bd49cbcf4a6",
+        "created_at": "2023-12-01T09:52:00+00:00",
+        "updated_at": "2026-11-19T05:30:39.295846+00:00"
+      }
+    ],
+    "search_latency_ms": 1217.8,
+    "total_results": 50
+  },
+  "cutoff_results": {
+    "top_50": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "Travel photography—learn to shoot landscapes, castles, and city scenes and keep a simple photo journal during his upcoming Ireland semester and future trips (Italy, Barcelona). It fits his love of mountains, nature hikes, road trips, and fantasy-inspired places, and gives him a creative way to share experiences with his travel club.",
+      "memories_evaluated": 50,
+      "reason": "The generated answer suggests travel photography and a photo journal, not writing a travel blog, so none of the gold items appear."
+    }
+  }
+}

@@ -1,0 +1,382 @@
+{
+  "question_id": "conv8_q10",
+  "conversation_idx": 8,
+  "category": 3,
+  "category_name": "open-domain",
+  "question": "Which type of vacation would Evan prefer with his family, walking tours in metropolitan cities or camping trip in the outdoors?",
+  "ground_truth_answer": "camping trip in the outdoors",
+  "evidence": [
+    "D2:1",
+    "D2:3",
+    "D19:1",
+    "D19:3"
+  ],
+  "user_id": "locomo_8_fe8ec031",
+  "reference_date": "9:37 pm on 11 January, 2024",
+  "retrieval": {
+    "search_query": "Which type of vacation would Evan prefer with his family, walking tours in metropolitan cities or camping trip in the outdoors?",
+    "search_results": [
+      {
+        "memory": "Evan shared an image showing a person walking on the beach with a surfboard",
+        "score": 0.4824,
+        "id": "dd715524-2a88-41b1-b31b-9218e1253af0",
+        "created_at": "2023-11-09T21:13:00+00:00",
+        "updated_at": "2026-11-19T05:05:50.169548+00:00"
+      },
+      {
+        "memory": "Evan helped a lost tourist find their way and took an unexpected city tour together around September 22, 2023 (two weeks before October 6, 2023)",
+        "score": 0.458,
+        "id": "227d3bbb-4599-43cc-a75e-0afff6926146",
+        "created_at": "2023-10-06T20:57:00+00:00",
+        "updated_at": "2026-11-19T04:45:44.566037+00:00"
+      },
+      {
+        "memory": "Evan returned from a family trip on May 18, 2023, traveling in his new Prius",
+        "score": 0.4574,
+        "id": "6aa0f572-7e0a-4c27-ba26-84fde58e7f42",
+        "created_at": "2023-05-18T13:47:00+00:00",
+        "updated_at": "2026-11-19T04:02:42.158419+00:00"
+      },
+      {
+        "memory": "Sam asked Evan what type of nature he enjoys painting the most",
+        "score": 0.4517,
+        "id": "ba8da4cf-0c82-4af2-9d48-d563843b4900",
+        "created_at": "2023-08-19T18:17:00+00:00",
+        "updated_at": "2026-11-19T04:36:34.133284+00:00"
+      },
+      {
+        "memory": "Evan (Evan) reflected that nature calms and revives the soul, and recalled that during summer 2023 he went on a camping trip and took a photo of an amazing sunset featuring a kayak seen from the front of the boat.",
+        "score": 0.433,
+        "id": "45385a8e-3eca-4d97-b01f-7d3db96e56e7",
+        "created_at": "2024-01-11T21:37:00+00:00",
+        "updated_at": "2026-11-19T05:39:37.611255+00:00"
+      },
+      {
+        "memory": "Evan returned from a vacation in Canada with his new significant other, where they went hiking, biking, and explored the outdoors together",
+        "score": 0.4287,
+        "id": "ab1d1196-095c-48c1-9ac9-63a4e351b75f",
+        "created_at": "2023-08-13T16:09:00+00:00",
+        "updated_at": "2026-11-19T04:24:36.502409+00:00"
+      },
+      {
+        "memory": "Evan shared an image of a person walking on a beach at sunset, describing the scene as serene and calming",
+        "score": 0.3932,
+        "id": "b313cff7-da4a-4335-91b4-db8cb482e6f4",
+        "created_at": "2023-11-21T19:30:00+00:00",
+        "updated_at": "2026-11-19T05:11:21.241181+00:00"
+      },
+      {
+        "memory": "Evan went through a similar phase about two years ago (around October 25, 2021), during which he changed his diet and began walking regularly",
+        "score": 0.384,
+        "id": "b6e4bd80-2028-4e2c-897b-39a2f6dba60b",
+        "created_at": "2023-10-25T14:56:00+00:00",
+        "updated_at": "2026-11-19T04:59:48.881300+00:00"
+      },
+      {
+        "memory": "Evan believes that small moments outdoors can make a big impact on his mood",
+        "score": 0.3767,
+        "id": "1e063860-2d97-45c5-8a11-fc567e3e634d",
+        "created_at": "2024-01-11T21:37:00+00:00",
+        "updated_at": "2026-11-19T05:40:41.962494+00:00"
+      },
+      {
+        "memory": "Evan took his family on a road trip to Jasper National Park around the weekend of May 20–21, 2023, driving the Icefields Parkway and admiring glaciers and lakes",
+        "score": 0.3646,
+        "id": "b6c04720-3ce4-4352-9344-1e2de127c8aa",
+        "created_at": "2023-05-24T19:11:00+00:00",
+        "updated_at": "2026-11-19T04:06:33.455334+00:00"
+      },
+      {
+        "memory": "Evan shared an image showing a couple walking through the snow while holding hands, depicting his encounter with the Canadian woman",
+        "score": 0.3632,
+        "id": "f295a41f-56e0-4f64-8883-700f38c79f6d",
+        "created_at": "2023-08-07T19:52:00+00:00",
+        "updated_at": "2026-11-19T04:20:04.362701+00:00"
+      },
+      {
+        "memory": "Evan's sunset watercolor painting was inspired by a vacation a few years ago, with colors described as stunning",
+        "score": 0.3572,
+        "id": "bcc0b440-a302-49e2-8097-44b606b6c79e",
+        "created_at": "2023-10-06T20:57:00+00:00",
+        "updated_at": "2026-11-19T04:46:31.436807+00:00"
+      },
+      {
+        "memory": "Evan plans to try poutine while on their honeymoon trip to Canada",
+        "score": 0.3464,
+        "id": "06001de1-10bc-4f7d-9302-b7e2f9f58a8e",
+        "created_at": "2024-01-06T13:32:00+00:00",
+        "updated_at": "2026-11-19T05:32:59.317589+00:00"
+      },
+      {
+        "memory": "Evan shared a collage of family photos featuring birthdays, holidays, and vacations, displayed on a living room wall; the image shows a desk with a lamp, a picture frame, and a sign",
+        "score": 0.3434,
+        "id": "20e88cc2-ce04-46d6-9d60-4b7e993524d7",
+        "created_at": "2023-12-09T13:45:00+00:00",
+        "updated_at": "2026-11-19T05:16:11.936665+00:00"
+      },
+      {
+        "memory": "Evan aims to capture the vibe of nature and convey the peacefulness of being outdoors in his paintings",
+        "score": 0.3391,
+        "id": "a3dbee56-9668-4d60-b6ec-a5906e59e036",
+        "created_at": "2023-08-19T18:17:00+00:00",
+        "updated_at": "2026-11-19T04:37:02.110291+00:00"
+      },
+      {
+        "memory": "Evan (Evan) described the recent trip as a real retreat with fresh air, peacefulness, and a cozy cabin surrounded by mountains and forests",
+        "score": 0.3379,
+        "id": "51adc811-fa49-44fc-ad33-40857d3fa3e2",
+        "created_at": "2023-05-24T19:11:00+00:00",
+        "updated_at": "2026-11-19T04:07:05.193792+00:00"
+      },
+      {
+        "memory": "Evan says the sign in the frame from their Banff trip reads 'Bring it on Home' and serves as the family's motto reminding them of the importance of togetherness",
+        "score": 0.3253,
+        "id": "fdc3a119-fc7e-4d26-b5e8-f4bdb90225e4",
+        "created_at": "2023-12-09T13:45:00+00:00",
+        "updated_at": "2026-11-19T05:16:34.706801+00:00"
+      },
+      {
+        "memory": "Evan offered to plan a kayaking trip together with Sam and said he would pick a cool spot",
+        "score": 0.3196,
+        "id": "06c7c5c1-0947-495d-a08c-7ca313ca1de1",
+        "created_at": "2023-10-14T16:07:00+00:00",
+        "updated_at": "2026-11-19T04:53:23.964935+00:00"
+      },
+      {
+        "memory": "Evan (Evan) plans a honeymoon trip to Canada in February 2024, looking forward to exploring beautiful snowy landscapes.",
+        "score": 0.318,
+        "id": "d44af963-e1d2-435b-8095-63d4fef4b78d",
+        "created_at": "2024-01-06T13:32:00+00:00",
+        "updated_at": "2026-11-19T05:33:09.534957+00:00"
+      },
+      {
+        "memory": "Evan says swimming, yoga, and walking are good low-impact exercises",
+        "score": 0.3141,
+        "id": "1ffaf135-3bec-4b55-b486-43790a841a76",
+        "created_at": "2024-01-10T00:17:00+00:00",
+        "updated_at": "2026-11-19T05:36:57.590935+00:00"
+      },
+      {
+        "memory": "Evan says his family means the world to him and they are his rock",
+        "score": 0.3082,
+        "id": "1d1e7b0f-46f3-467b-809f-3eabdb3d82d0",
+        "created_at": "2023-12-09T13:45:00+00:00",
+        "updated_at": "2026-11-19T05:16:46.371941+00:00"
+      },
+      {
+        "memory": "Evan went to the Canadian Rockies with his family on May 18, 2023",
+        "score": 0.3075,
+        "id": "4c43c990-82a7-47c4-bb3c-435a29179623",
+        "created_at": "2023-05-18T13:47:00+00:00",
+        "updated_at": "2026-11-19T04:03:37.540968+00:00"
+      },
+      {
+        "memory": "Sam says Evan values his family highly",
+        "score": 0.3061,
+        "id": "2831afec-dd4b-4e77-9adb-875a6a9f4b45",
+        "created_at": "2023-12-09T13:45:00+00:00",
+        "updated_at": "2026-11-19T05:16:52.113639+00:00"
+      },
+      {
+        "memory": "Evan shared an image of a tent pitched in a grassy field beside a lake with lush greenery during his Canada trip",
+        "score": 0.3047,
+        "id": "f4d58c1c-3992-43c4-a032-f43688f223e0",
+        "created_at": "2023-08-13T16:09:00+00:00",
+        "updated_at": "2026-11-19T04:24:36.502409+00:00"
+      },
+      {
+        "memory": "Evan said he misses the family adventures they had last year and recalls the good times together.",
+        "score": 0.3043,
+        "id": "dd2ff974-03d2-47c7-b448-7d3a4e0fe2d7",
+        "created_at": "2023-10-06T20:57:00+00:00",
+        "updated_at": "2026-11-19T04:45:10.692172+00:00"
+      },
+      {
+        "memory": "Sam plans to go for beach walks, thanking Evan for the tip",
+        "score": 0.3012,
+        "id": "8b1fce2f-cb78-4d1c-89a6-48bd75326819",
+        "created_at": "2024-01-10T00:17:00+00:00",
+        "updated_at": "2026-11-19T05:37:38.812413+00:00"
+      },
+      {
+        "memory": "Evan hiked the trails with his family during the week of May 8–14, 2023, and described the views as amazing",
+        "score": 0.2961,
+        "id": "11fe1cd9-8795-422a-8adf-e7578034ae89",
+        "created_at": "2023-05-18T13:47:00+00:00",
+        "updated_at": "2026-11-19T04:03:48.730500+00:00"
+      },
+      {
+        "memory": "Evan looks forward to expanding his family and creating more beautiful memories",
+        "score": 0.2906,
+        "id": "d5366ab7-1a6c-4e21-9b95-3b540d89a062",
+        "created_at": "2023-12-09T13:45:00+00:00",
+        "updated_at": "2026-11-19T05:16:46.371941+00:00"
+      },
+      {
+        "memory": "Evan feels blessed to have their families, describing them as a rock and a source of support",
+        "score": 0.2858,
+        "id": "4cabc9c7-e100-4498-ba53-a973d6b27a3f",
+        "created_at": "2024-01-06T13:32:00+00:00",
+        "updated_at": "2026-11-19T05:31:42.320974+00:00"
+      },
+      {
+        "memory": "Evan says a location that is a two-hour drive away offers incredible views and a peaceful atmosphere, and is worth every minute of the trip",
+        "score": 0.2817,
+        "id": "d237b3dd-ae97-44d4-aefb-629e04e8cf0f",
+        "created_at": "2023-08-27T10:18:00+00:00",
+        "updated_at": "2026-11-19T04:40:47.294599+00:00"
+      },
+      {
+        "memory": "Evan went on a trip to Canada around July 31, 2023, during which he met an awesome Canadian woman who made him feel alive",
+        "score": 0.2783,
+        "id": "a31b2218-2aa7-4390-93e6-1a64c2e5a12c",
+        "created_at": "2023-08-07T19:52:00+00:00",
+        "updated_at": "2026-11-19T04:20:04.362701+00:00"
+      },
+      {
+        "memory": "Evan shared a collage of family photos, and Sam noted that his family looks happy in the images",
+        "score": 0.278,
+        "id": "21370416-d12e-4a55-b561-eb29ac243522",
+        "created_at": "2023-12-09T13:45:00+00:00",
+        "updated_at": "2026-11-19T05:16:18.064127+00:00"
+      },
+      {
+        "memory": "Evan's cactus watercolor painting was created based on a road trip in September 2023",
+        "score": 0.2693,
+        "id": "66b60529-a833-452e-8aa3-6c98fa6782a6",
+        "created_at": "2023-10-06T20:57:00+00:00",
+        "updated_at": "2026-11-19T04:46:31.436807+00:00"
+      },
+      {
+        "memory": "Evan is motivated by a thirst for adventure on interesting hikes",
+        "score": 0.2642,
+        "id": "5a7114c4-2849-41d7-bf40-eee068069b1e",
+        "created_at": "2023-08-07T19:52:00+00:00",
+        "updated_at": "2026-11-19T04:22:27.264127+00:00"
+      },
+      {
+        "memory": "Evan took a road trip in July 2023, during which he photographed his Prius parked near a lake with mountains in the background, describing the scenery as stunning and the nature as chilling him out",
+        "score": 0.2619,
+        "id": "26d4ac18-8b9f-41b5-bc76-de9d362aa8c5",
+        "created_at": "2023-08-27T10:18:00+00:00",
+        "updated_at": "2026-11-19T04:40:14.225487+00:00"
+      },
+      {
+        "memory": "Evan shared an image of his Prius parked at a beautiful riverfront, saying being in such places brings back memories of road tripping in his trusty car",
+        "score": 0.2616,
+        "id": "3dd78c24-cf53-45b0-80c1-b7a30484c7e5",
+        "created_at": "2023-08-19T18:17:00+00:00",
+        "updated_at": "2026-11-19T04:37:17.252414+00:00"
+      },
+      {
+        "memory": "Sam offered to give Evan tips on organizing the big family reunion event",
+        "score": 0.2586,
+        "id": "c70017ae-5cd5-4fe7-b9fc-aac2a26c6f46",
+        "created_at": "2023-12-09T13:45:00+00:00",
+        "updated_at": "2026-11-19T05:17:05.921874+00:00"
+      },
+      {
+        "memory": "Evan is planning a big family reunion for next summer, describing it as a blast and a perfect chance to add new photos to his family collage",
+        "score": 0.2583,
+        "id": "7b9e337a-113b-4a57-bfc5-cc96185cea65",
+        "created_at": "2023-12-09T13:45:00+00:00",
+        "updated_at": "2026-11-19T05:16:59.070160+00:00"
+      },
+      {
+        "memory": "Evan enjoys beach sunset walks as a favorite low-impact exercise, noting they are good for exercise and totally calming",
+        "score": 0.2582,
+        "id": "75be0d0f-34f9-4e62-8e8c-be818f4e2776",
+        "created_at": "2024-01-10T00:17:00+00:00",
+        "updated_at": "2026-11-19T05:37:28.985281+00:00"
+      },
+      {
+        "memory": "Evan says he is ready for an adventure and asks Sam where they will go",
+        "score": 0.2578,
+        "id": "dfcec374-a988-42d2-9b4b-d7b2384f1b57",
+        "created_at": "2023-10-14T16:07:00+00:00",
+        "updated_at": "2026-11-19T04:53:40.860072+00:00"
+      },
+      {
+        "memory": "Evan enjoys chatting about tranquil times",
+        "score": 0.2578,
+        "id": "ab2b8198-4565-45cf-9118-9a8ec48dec29",
+        "created_at": "2023-11-21T19:30:00+00:00",
+        "updated_at": "2026-11-19T05:11:59.271770+00:00"
+      },
+      {
+        "memory": "Evan says his family motivates him to stay healthy and helps a lot with his health goals",
+        "score": 0.2538,
+        "id": "e09ee60b-5403-47c7-a902-93bb79cbb58b",
+        "created_at": "2023-08-07T19:52:00+00:00",
+        "updated_at": "2026-11-19T04:22:07.730400+00:00"
+      },
+      {
+        "memory": "Evan suggested Sam go on more hikes, saying hiking has always been calming and fun for him, and invited Sam to hike together sometime",
+        "score": 0.2503,
+        "id": "bf609d6b-44b1-4156-be66-44604882f1b7",
+        "created_at": "2023-08-27T10:18:00+00:00",
+        "updated_at": "2026-11-19T04:40:20.327536+00:00"
+      },
+      {
+        "memory": "Evan is planning to go skiing, try the local cuisine, and enjoy the beautiful views",
+        "score": 0.2494,
+        "id": "83bc1633-a32e-4451-b6a1-a272ff9ecec7",
+        "created_at": "2024-01-06T13:32:00+00:00",
+        "updated_at": "2026-11-19T05:32:50.457640+00:00"
+      },
+      {
+        "memory": "Evan (Evan) shared an image of a stream flowing through a snowy forest, depicting a snowy Canadian landscape for the upcoming honeymoon.",
+        "score": 0.2487,
+        "id": "53b57435-2ace-4b0e-b84f-816448efb8c2",
+        "created_at": "2024-01-06T13:32:00+00:00",
+        "updated_at": "2026-11-19T05:33:09.534957+00:00"
+      },
+      {
+        "memory": "Evan tells Sam to enjoy his time in nature and to take care",
+        "score": 0.2476,
+        "id": "70606643-69ec-4bb8-a7e6-850c156b4e8d",
+        "created_at": "2023-08-27T10:18:00+00:00",
+        "updated_at": "2026-11-19T04:41:02.334898+00:00"
+      },
+      {
+        "memory": "Evan went up to the Rocky Mountains, found the views stunning and felt relaxed",
+        "score": 0.2475,
+        "id": "36ee84aa-7ecf-4329-ab6e-2046d747a93b",
+        "created_at": "2023-08-27T10:18:00+00:00",
+        "updated_at": "2026-11-19T04:39:54.543011+00:00"
+      },
+      {
+        "memory": "Evan went for a morning walk on October 25, 2023, which he says helps him start the day actively",
+        "score": 0.2472,
+        "id": "2bbe80a9-4817-4659-90d2-f9f7c77687ff",
+        "created_at": "2023-10-25T14:56:00+00:00",
+        "updated_at": "2026-11-19T04:58:02.509651+00:00"
+      },
+      {
+        "memory": "Sam is thinking about trying something different outdoors and is asking for suggestions",
+        "score": 0.2428,
+        "id": "8fe7c601-fede-43cf-8d2d-3f1b3f08373b",
+        "created_at": "2023-10-14T16:07:00+00:00",
+        "updated_at": "2026-11-19T04:52:54.685929+00:00"
+      },
+      {
+        "memory": "Evan frequently visits a peaceful place close to his home to relax and unwind",
+        "score": 0.2427,
+        "id": "cbaf3964-5efe-4b91-980a-c494bd57fefe",
+        "created_at": "2023-11-09T21:13:00+00:00",
+        "updated_at": "2026-11-19T05:06:12.534170+00:00"
+      }
+    ],
+    "search_latency_ms": 437.8,
+    "total_results": 50
+  },
+  "cutoff_results": {
+    "top_50": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Camping trip in the outdoors.",
+      "memories_evaluated": 50,
+      "reason": "The generated answer exactly matches the gold answer, stating 'camping trip in the outdoors.'"
+    }
+  }
+}

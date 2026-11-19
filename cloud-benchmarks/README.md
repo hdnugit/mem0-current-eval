@@ -55,7 +55,16 @@ The suite marks a chunk as done even when its add failed, so a run with add fail
 resumed: delete its `predicted_<project-name>/` folder and start again. After a run, check the log
 for `Ingestion failed` (should be 0).
 
+## Result: open-domain (category 3), top 50, Mem0 Cloud (job 35393456, 2026-11-19)
+
+J = 66.7% (64/96), gpt-5 answerer and judge, single judge run. Ingestion: all 10 conversations,
+0 failed adds; every question retrieved 50 memories; 0 failed searches. Job time 2 h 04 min.
+For reference, the OSS run in `../evaluation` scores J 53.33 on the same 96 questions, but with a
+different pipeline, top 30, and gpt-4o-mini answerer/judge, so the two are not directly comparable.
+Files: `results/locomo/locomo_results_20261119_171820.json` (summary) and
+`results/locomo/predicted_locomo-cloud/` (per question, plus `_ingestion_<conv>.json` user ids).
+
 Status 2026-11-19: first job (35393360) failed on every add for the reason above and was cancelled;
 its output was deleted. Job 35393380 (categories 1-4) ingested about 10% and was stopped cleanly
 (SIGINT, no failures, no searches) to switch to category 3 only. Job 35393456 resumed ingestion from
-its checkpoints and is running at the time of writing. Adversarial step not yet run.
+its checkpoints and finished cleanly. Adversarial step submitted as job 35397155.

@@ -1,0 +1,379 @@
+{
+  "question_id": "conv8_q57",
+  "conversation_idx": 8,
+  "category": 3,
+  "category_name": "open-domain",
+  "question": "Which US state was Sam travelling in during October 2023?",
+  "ground_truth_answer": "California",
+  "evidence": [
+    "D13:14"
+  ],
+  "user_id": "locomo_8_fe8ec031",
+  "reference_date": "9:37 pm on 11 January, 2024",
+  "retrieval": {
+    "search_query": "Which US state was Sam travelling in during October 2023?",
+    "search_results": [
+      {
+        "memory": "Sam says they are traveling through Lake Tahoe and notes that it is great for kayaking",
+        "score": 0.4968,
+        "id": "c43587bb-b3ca-45a9-a16c-a19abdf51794",
+        "created_at": "2023-10-14T16:07:00+00:00",
+        "updated_at": "2026-11-19T04:53:50.447760+00:00"
+      },
+      {
+        "memory": "Sam had a medical check-up on Monday, October 2, 2023, where his doctor said his weight poses a serious health risk and he needs to make changes soon, which he finds emotionally distressing.",
+        "score": 0.4664,
+        "id": "8b654606-e6df-49dd-8160-9e9e30891967",
+        "created_at": "2023-10-08T15:09:00+00:00",
+        "updated_at": "2026-11-19T04:47:58.468383+00:00"
+      },
+      {
+        "memory": "Evan returned from a family trip on May 18, 2023, traveling in his new Prius",
+        "score": 0.4615,
+        "id": "6aa0f572-7e0a-4c27-ba26-84fde58e7f42",
+        "created_at": "2023-05-18T13:47:00+00:00",
+        "updated_at": "2026-11-19T04:02:42.158419+00:00"
+      },
+      {
+        "memory": "Evan lost his job in October 2023, describing it as a tough time since their last catch‑up",
+        "score": 0.4498,
+        "id": "ee750f4e-d434-4445-9109-101731be88ba",
+        "created_at": "2023-11-09T21:13:00+00:00",
+        "updated_at": "2026-11-19T05:04:48.523794+00:00"
+      },
+      {
+        "memory": "Evan helped a lost tourist find their way and took an unexpected city tour together around September 22, 2023 (two weeks before October 6, 2023)",
+        "score": 0.4164,
+        "id": "227d3bbb-4599-43cc-a75e-0afff6926146",
+        "created_at": "2023-10-06T20:57:00+00:00",
+        "updated_at": "2026-11-19T04:45:44.566037+00:00"
+      },
+      {
+        "memory": "Evan went for a morning walk on October 25, 2023, which he says helps him start the day actively",
+        "score": 0.4114,
+        "id": "2bbe80a9-4817-4659-90d2-f9f7c77687ff",
+        "created_at": "2023-10-25T14:56:00+00:00",
+        "updated_at": "2026-11-19T04:58:02.509651+00:00"
+      },
+      {
+        "memory": "Sam went on an epic hiking trip with his friends on Friday, December 29, 2023",
+        "score": 0.3757,
+        "id": "96e71ff9-fa80-43f7-b96f-0bbdc6332b43",
+        "created_at": "2023-12-31T11:00:00+00:00",
+        "updated_at": "2026-11-19T05:25:32.248858+00:00"
+      },
+      {
+        "memory": "Evan (Evan) plans to explore an activity with Sam in December 2023",
+        "score": 0.3705,
+        "id": "2f3f49a6-744b-43ff-80b4-467776126105",
+        "created_at": "2023-11-09T21:13:00+00:00",
+        "updated_at": "2026-11-19T05:07:22.582202+00:00"
+      },
+      {
+        "memory": "Sam was inspired by a painting he saw at an exhibit around December 23, 2023",
+        "score": 0.3622,
+        "id": "3d908917-50b2-49f9-a56c-d851c39298a0",
+        "created_at": "2023-12-26T16:25:00+00:00",
+        "updated_at": "2026-11-19T05:24:07.077427+00:00"
+      },
+      {
+        "memory": "Sam is working on his health and getting active as of July 27, 2023",
+        "score": 0.3618,
+        "id": "80f0d43a-3d5f-4a66-be7b-24ebded04762",
+        "created_at": "2023-07-27T10:52:00+00:00",
+        "updated_at": "2026-11-19T04:15:21.059823+00:00"
+      },
+      {
+        "memory": "Evan encourages Sam to rock their workouts and reach their goals, stating that exercise clears the mind and is amazing",
+        "score": 0.3611,
+        "id": "98f1827d-221b-41e3-847b-fe499d79e529",
+        "created_at": "2023-06-06T15:55:00+00:00",
+        "updated_at": "2026-11-19T04:13:16.056744+00:00"
+      },
+      {
+        "memory": "Evan plans to paint with Sam on Saturday, September 16, 2023, and will get all supplies ready",
+        "score": 0.3235,
+        "id": "51f98c0c-e830-410a-9659-36527a8fc2fb",
+        "created_at": "2023-09-11T09:28:00+00:00",
+        "updated_at": "2026-11-19T04:44:32.608558+00:00"
+      },
+      {
+        "memory": "As of August 7, 2023, Evan is dealing with health issues, according to Sam.",
+        "score": 0.323,
+        "id": "3e87f15f-90b4-4dd2-82a3-af3d6986bc0a",
+        "created_at": "2023-08-07T19:52:00+00:00",
+        "updated_at": "2026-11-19T04:21:33.097890+00:00"
+      },
+      {
+        "memory": "Sam will start going to the gym on July 28, 2023 and plans to exercise regularly",
+        "score": 0.3135,
+        "id": "d0462925-a24f-4eb0-a595-b301fcc3ff6f",
+        "created_at": "2023-07-27T10:52:00+00:00",
+        "updated_at": "2026-11-19T04:18:55.152225+00:00"
+      },
+      {
+        "memory": "Sam acquired a 'The Godfather' DVD box set on November 20, 2023, which he describes as his go-to feel‑good flick",
+        "score": 0.3121,
+        "id": "35a46fdd-564e-439d-a80e-85903716ffca",
+        "created_at": "2023-11-21T19:30:00+00:00",
+        "updated_at": "2026-11-19T05:08:33.999479+00:00"
+      },
+      {
+        "memory": "On May 24, 2023, Sam said his week had been tough and emphasized that it’s important to take time for oneself and find peace",
+        "score": 0.3104,
+        "id": "e89f2a83-4cd6-4a44-880e-a1ed88c435e0",
+        "created_at": "2023-05-24T19:11:00+00:00",
+        "updated_at": "2026-11-19T04:07:22.277219+00:00"
+      },
+      {
+        "memory": "Sam cooked grilled salmon with roasted vegetables on August 14, 2023.",
+        "score": 0.3076,
+        "id": "494431e5-5352-463f-a5d4-42cf68b3c961",
+        "created_at": "2023-08-15T16:20:00+00:00",
+        "updated_at": "2026-11-19T04:30:29.706479+00:00"
+      },
+      {
+        "memory": "Sam attended a Weight Watchers meeting on 2023-12-04 and learned great tips",
+        "score": 0.3061,
+        "id": "6a27b790-69c0-4195-99c3-e28f5cbe88cb",
+        "created_at": "2023-12-05T20:16:00+00:00",
+        "updated_at": "2026-11-19T05:13:04.761411+00:00"
+      },
+      {
+        "memory": "Sam had a medical check-up on May 21, 2023, and discovered his weight was not great, which he described as eye-opening",
+        "score": 0.297,
+        "id": "100b8cf9-f827-48c0-87d6-f1df773b3d9d",
+        "created_at": "2023-05-24T19:11:00+00:00",
+        "updated_at": "2026-11-19T04:07:37.610535+00:00"
+      },
+      {
+        "memory": "Evan started lifting weights around October 8, 2022, initially struggled but now sees gains, and invited Sam to try weight training",
+        "score": 0.2941,
+        "id": "46f9ddbb-3fb0-451e-a5e1-5904f7249ab5",
+        "created_at": "2023-10-08T15:09:00+00:00",
+        "updated_at": "2026-11-19T04:48:17.089409+00:00"
+      },
+      {
+        "memory": "Sam started a new diet and exercise routine on Monday, August 21, 2023, and reports feeling great",
+        "score": 0.2816,
+        "id": "6599e3e1-a757-4728-8e00-e7bdd29cdc13",
+        "created_at": "2023-08-27T10:18:00+00:00",
+        "updated_at": "2026-11-19T04:38:34.064787+00:00"
+      },
+      {
+        "memory": "Sam's friends mocked his weight on Friday, July 21, 2023, which hurt him and made him realize he needs to make changes",
+        "score": 0.2802,
+        "id": "062c53d3-a5b5-455d-bc83-d1bb8ce68e28",
+        "created_at": "2023-07-27T10:52:00+00:00",
+        "updated_at": "2026-11-19T04:14:49.478028+00:00"
+      },
+      {
+        "memory": "On August 15, 2023, Evan reported that Sam's son's ankle is getting better but still sore after the earlier soccer injury.",
+        "score": 0.2771,
+        "id": "0472c645-14c3-4c57-9c00-9b7c6039fb98",
+        "created_at": "2023-08-15T16:20:00+00:00",
+        "updated_at": "2026-11-19T04:34:46.933002+00:00"
+      },
+      {
+        "memory": "Sam and his mate are just around the corner from a lake and are going to try kayaking now",
+        "score": 0.2722,
+        "id": "b194dec0-b355-416a-ac5a-c34fd97eaa89",
+        "created_at": "2023-10-14T16:07:00+00:00",
+        "updated_at": "2026-11-19T04:52:58.638616+00:00"
+      },
+      {
+        "memory": "Evan greeted Sam, noting it had been a while since they last talked and hoping Sam is doing well",
+        "score": 0.265,
+        "id": "c176400a-4583-4c23-ad68-12fcbcddc636",
+        "created_at": "2023-10-14T16:07:00+00:00",
+        "updated_at": "2026-11-19T04:51:15.102189+00:00"
+      },
+      {
+        "memory": "Sam is super excited to get fit together with Evan",
+        "score": 0.2631,
+        "id": "8be35fb4-4379-4708-862a-68126ae24d0e",
+        "created_at": "2023-10-17T13:50:00+00:00",
+        "updated_at": "2026-11-19T04:56:51.813754+00:00"
+      },
+      {
+        "memory": "Evan expresses appreciation for Sam's support during this difficult period",
+        "score": 0.2618,
+        "id": "8edc9f27-bd8b-421c-8d19-8284012ad660",
+        "created_at": "2023-11-09T21:13:00+00:00",
+        "updated_at": "2026-11-19T05:04:48.523794+00:00"
+      },
+      {
+        "memory": "Sam says he hasn't tried many new activities recently",
+        "score": 0.2573,
+        "id": "bd4d6984-2ee0-4ccd-ad7c-307119bc88a7",
+        "created_at": "2023-11-21T19:30:00+00:00",
+        "updated_at": "2026-11-19T05:08:33.999479+00:00"
+      },
+      {
+        "memory": "Sam wants to hit the trails soon, indicating a plan to go hiking in the near future",
+        "score": 0.2557,
+        "id": "a817beab-554c-445b-8eb6-e6e51b18f2dc",
+        "created_at": "2023-10-17T13:50:00+00:00",
+        "updated_at": "2026-11-19T04:56:51.813754+00:00"
+      },
+      {
+        "memory": "Assistant Sam hiked with his dad when Sam was ten years old, describing the experience as great fun and especially special",
+        "score": 0.2516,
+        "id": "8759ac0c-82a2-4b16-a7e4-9069392a7ea5",
+        "created_at": "2023-05-18T13:47:00+00:00",
+        "updated_at": "2026-11-19T04:04:02.300259+00:00"
+      },
+      {
+        "memory": "Assistant Sam expressed excitement about trying new things",
+        "score": 0.2425,
+        "id": "a3fd8513-8518-4a40-8871-8447d4630afe",
+        "created_at": "2023-05-18T13:47:00+00:00",
+        "updated_at": "2026-11-19T04:05:52.131923+00:00"
+      },
+      {
+        "memory": "Assistant Sam loves hiking but hasn't gone hiking in many years",
+        "score": 0.2395,
+        "id": "073280f6-5318-4a33-b458-c3e4e35aafba",
+        "created_at": "2023-05-18T13:47:00+00:00",
+        "updated_at": "2026-11-19T04:04:02.300259+00:00"
+      },
+      {
+        "memory": "Assistant Sam has never been to Jasper",
+        "score": 0.2388,
+        "id": "4d90b5ce-b740-4190-80de-aaa5842456da",
+        "created_at": "2023-05-24T19:11:00+00:00",
+        "updated_at": "2026-11-19T04:06:49.803692+00:00"
+      },
+      {
+        "memory": "Evan told Sam that Sam has come a long way in his quest for better health and expressed excitement about what comes next for Sam",
+        "score": 0.2373,
+        "id": "925a352d-b635-424e-9b83-10454f8b80e0",
+        "created_at": "2023-11-09T21:13:00+00:00",
+        "updated_at": "2026-11-19T05:02:54.510865+00:00"
+      },
+      {
+        "memory": "Assistant Sam thinks the Jasper scenery looks breathtaking",
+        "score": 0.2284,
+        "id": "ef6f1c33-8c2d-4912-9d47-ba8bfcfbd5e0",
+        "created_at": "2023-05-24T19:11:00+00:00",
+        "updated_at": "2026-11-19T04:06:49.803692+00:00"
+      },
+      {
+        "memory": "Evan would like Sam to join him in winter activities, which he describes as a blast",
+        "score": 0.2266,
+        "id": "1038a975-1889-416f-99e3-2a9abc968fe2",
+        "created_at": "2023-08-19T18:17:00+00:00",
+        "updated_at": "2026-11-19T04:39:13.612233+00:00"
+      },
+      {
+        "memory": "Evan says the place Sam liked is a calming spot and suggests they plan to visit it together soon",
+        "score": 0.226,
+        "id": "3f1cdcab-3068-422d-b12b-4b20eac230d8",
+        "created_at": "2023-11-09T21:13:00+00:00",
+        "updated_at": "2026-11-19T05:06:56.159915+00:00"
+      },
+      {
+        "memory": "Evan asked Sam how far Sam and his dad hiked together",
+        "score": 0.2221,
+        "id": "16b5e199-7be1-45b3-9004-3ccb3d72b263",
+        "created_at": "2023-05-18T13:47:00+00:00",
+        "updated_at": "2026-11-19T04:04:03.659337+00:00"
+      },
+      {
+        "memory": "Sam says he is doing okay and has been through a few bumps",
+        "score": 0.2218,
+        "id": "021707a2-953b-4de9-a912-88eeb9cf307b",
+        "created_at": "2023-12-17T18:48:00+00:00",
+        "updated_at": "2026-11-19T05:17:41.664740+00:00"
+      },
+      {
+        "memory": "Evan thanks Sam, says Sam's support means a lot and that he appreciates having Sam to talk to, noting it’s been quite a ride, and adds he will reach out if he needs anything.",
+        "score": 0.2205,
+        "id": "64155558-15c1-4be6-910d-466499e302e4",
+        "created_at": "2023-11-09T21:13:00+00:00",
+        "updated_at": "2026-11-19T05:05:28.247733+00:00"
+      },
+      {
+        "memory": "Sam says his health has been challenging lately and that some issues have been hard on his health",
+        "score": 0.22,
+        "id": "36966d1e-25c3-4c97-be8b-098e27c5f8ca",
+        "created_at": "2023-08-13T16:09:00+00:00",
+        "updated_at": "2026-11-19T04:25:42.490441+00:00"
+      },
+      {
+        "memory": "Sam says Evan is doing great and Sam wants to feel the same sense of freedom",
+        "score": 0.2196,
+        "id": "c6263835-959e-4854-a7c5-ae19a02b5195",
+        "created_at": "2023-10-25T14:56:00+00:00",
+        "updated_at": "2026-11-19T05:01:33.916944+00:00"
+      },
+      {
+        "memory": "Evan suggested Sam go on more hikes, saying hiking has always been calming and fun for him, and invited Sam to hike together sometime",
+        "score": 0.2187,
+        "id": "bf609d6b-44b1-4156-be66-44604882f1b7",
+        "created_at": "2023-08-27T10:18:00+00:00",
+        "updated_at": "2026-11-19T04:40:20.327536+00:00"
+      },
+      {
+        "memory": "Sam is getting into a healthier lifestyle",
+        "score": 0.2164,
+        "id": "6b3c2693-3cb3-454d-afad-e54768da4863",
+        "created_at": "2023-12-31T11:00:00+00:00",
+        "updated_at": "2026-11-19T05:25:32.248858+00:00"
+      },
+      {
+        "memory": "Sam says handling his health changes has been kinda wild",
+        "score": 0.2151,
+        "id": "15af877e-7d53-431c-a956-e17d2a1758cc",
+        "created_at": "2023-09-11T09:28:00+00:00",
+        "updated_at": "2026-11-19T04:42:19.505193+00:00"
+      },
+      {
+        "memory": "Evan offered to help Sam after hearing about Sam's tough week",
+        "score": 0.2149,
+        "id": "0719f850-0754-41f6-b193-dbb6e4fff851",
+        "created_at": "2023-05-24T19:11:00+00:00",
+        "updated_at": "2026-11-19T04:07:28.510903+00:00"
+      },
+      {
+        "memory": "Evan tells Sam that kayaking is a fun way to get exercise and enjoy nature, and offers to hook Sam up with a good spot when he’s ready to try it",
+        "score": 0.2145,
+        "id": "38302f1d-7075-496f-a434-0a2f23d92d1f",
+        "created_at": "2023-10-14T16:07:00+00:00",
+        "updated_at": "2026-11-19T04:52:36.845413+00:00"
+      },
+      {
+        "memory": "Evan (Evan) is super pumped for Sam and plans to catch up soon to see how Sam is enjoying his new hobbies",
+        "score": 0.214,
+        "id": "3e65df91-38a5-4569-9034-c85044b4005b",
+        "created_at": "2023-05-18T13:47:00+00:00",
+        "updated_at": "2026-11-19T04:06:05.974047+00:00"
+      },
+      {
+        "memory": "Evan expressed hope that Sam is doing well",
+        "score": 0.214,
+        "id": "eaeaefc8-d41a-438c-b46b-d859fa39d62e",
+        "created_at": "2024-01-10T00:17:00+00:00",
+        "updated_at": "2026-11-19T05:33:52.391513+00:00"
+      },
+      {
+        "memory": "Sam is interested in exploring local trails and asks for a lake recommendation",
+        "score": 0.2138,
+        "id": "72afb94b-67f6-49ad-b098-62ab993c5658",
+        "created_at": "2023-08-27T10:18:00+00:00",
+        "updated_at": "2026-11-19T04:40:27.231377+00:00"
+      }
+    ],
+    "search_latency_ms": 387.5,
+    "total_results": 50
+  },
+  "cutoff_results": {
+    "top_50": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "California or Nevada (the Lake Tahoe region)",
+      "memories_evaluated": 50,
+      "reason": "The generated answer includes 'California,' which matches the gold answer even though it also mentions Nevada."
+    }
+  }
+}

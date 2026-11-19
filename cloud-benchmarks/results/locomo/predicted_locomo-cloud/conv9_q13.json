@@ -1,0 +1,379 @@
+{
+  "question_id": "conv9_q13",
+  "conversation_idx": 9,
+  "category": 3,
+  "category_name": "open-domain",
+  "question": "Would Calvin enjoy performing at the Hollywood Bowl?",
+  "ground_truth_answer": "Yes; because he enjoys the rush of performing onstage to large crowds",
+  "evidence": [
+    "D7:11"
+  ],
+  "user_id": "locomo_9_fe8ec031",
+  "reference_date": "10:54 am on 17 November, 2023",
+  "retrieval": {
+    "search_query": "Would Calvin enjoy performing at the Hollywood Bowl?",
+    "search_results": [
+      {
+        "memory": "Calvin finds the current tour incredible and feels energised by performing and connecting with the crowd",
+        "score": 0.6578,
+        "id": "092998d2-cbf2-41e2-bb62-1b1cc608486a",
+        "created_at": "2023-10-23T14:17:00+00:00",
+        "updated_at": "2026-11-19T05:26:09.052970+00:00"
+      },
+      {
+        "memory": "Dave believes performing with Calvin is a dream come true",
+        "score": 0.6504,
+        "id": "0c325bcd-44b3-4a12-a6c0-8f3f3033811b",
+        "created_at": "2023-10-19T10:11:00+00:00",
+        "updated_at": "2026-11-19T05:22:15.540956+00:00"
+      },
+      {
+        "memory": "Calvin toured with a well-known artist and described the experience as amazing, feeling that performing and connecting with the audience was unreal",
+        "score": 0.6497,
+        "id": "2a4eeb9b-ece7-457d-93dc-bf4a124e6c2a",
+        "created_at": "2023-08-14T00:35:00+00:00",
+        "updated_at": "2026-11-19T04:51:23.712955+00:00"
+      },
+      {
+        "memory": "Calvin feels that performing live fuels his soul, loves the rush and connection with the crowd, and describes it as an indescribable absolute high",
+        "score": 0.6421,
+        "id": "3c06ec5d-c75c-49ef-acfe-02e0acbca57a",
+        "created_at": "2023-05-31T18:06:00+00:00",
+        "updated_at": "2026-11-19T04:29:01.577371+00:00"
+      },
+      {
+        "memory": "Calvin toured with Frank Ocean during the week of May 22‑28, 2023, performing in Tokyo where the crowd was insane and he felt alive",
+        "score": 0.6395,
+        "id": "9896501f-e18c-4a7b-88b0-3060c48a28d6",
+        "created_at": "2023-05-31T18:06:00+00:00",
+        "updated_at": "2026-11-19T04:26:02.259663+00:00"
+      },
+      {
+        "memory": "Calvin felt that performing with someone he admires was unreal and a dream come true, and realized how much music means to him, describing it as his passion and purpose",
+        "score": 0.629,
+        "id": "34d28910-d236-4bc9-a4f6-22bc6dbc2335",
+        "created_at": "2023-10-25T20:25:00+00:00",
+        "updated_at": "2026-11-19T05:32:50.352146+00:00"
+      },
+      {
+        "memory": "Calvin shared a photo of a live DJ performance in a nightclub, showing himself performing with someone he admires (Frank Ocean)",
+        "score": 0.6254,
+        "id": "ceb1229a-ab83-4792-807e-2ce7adf07187",
+        "created_at": "2023-10-25T20:25:00+00:00",
+        "updated_at": "2026-11-19T05:32:27.250421+00:00"
+      },
+      {
+        "memory": "Calvin shared a photo showing a band performing on stage with bright lights, capturing concert crowd energy",
+        "score": 0.6162,
+        "id": "e6cd9ea2-6e46-4f41-852e-2e227ae375ee",
+        "created_at": "2023-10-19T10:11:00+00:00",
+        "updated_at": "2026-11-19T05:22:42.104106+00:00"
+      },
+      {
+        "memory": "Calvin shared a photo of a band performing on stage with a projection of a man on the wall, depicting a Frank Ocean performance at the festival",
+        "score": 0.6041,
+        "id": "80e9a91c-6c6a-4613-83a3-b3d3d556b9b6",
+        "created_at": "2023-10-19T10:11:00+00:00",
+        "updated_at": "2026-11-19T05:22:20.955596+00:00"
+      },
+      {
+        "memory": "Calvin dreams of touring the world, performing for diverse audiences and connecting with them, hoping his music reaches a global audience and makes an impact",
+        "score": 0.5807,
+        "id": "5a75a3fb-dc31-443a-a7d9-411cf64e73b1",
+        "created_at": "2023-04-20T16:15:00+00:00",
+        "updated_at": "2026-11-19T04:11:02.927949+00:00"
+      },
+      {
+        "memory": "Calvin is excited to perform in Boston for his hometown audience as part of the tour with Frank",
+        "score": 0.5601,
+        "id": "9f21114d-2d87-4be7-80a1-3a482dfd9ac7",
+        "created_at": "2023-05-31T18:06:00+00:00",
+        "updated_at": "2026-11-19T04:29:43.086895+00:00"
+      },
+      {
+        "memory": "Dave said he'll be in the front row when Calvin performs onstage in Boston",
+        "score": 0.5509,
+        "id": "1477dbe7-7759-4efd-9c5c-c02630dabc10",
+        "created_at": "2023-04-20T16:15:00+00:00",
+        "updated_at": "2026-11-19T04:12:16.380213+00:00"
+      },
+      {
+        "memory": "Calvin accepted an invitation to perform at an upcoming show in Boston on November 17, 2023",
+        "score": 0.538,
+        "id": "2e7f2383-e9e0-48f6-8eef-44ec5ae70c4a",
+        "created_at": "2023-11-17T10:54:00+00:00",
+        "updated_at": "2026-11-19T05:48:42.905824+00:00"
+      },
+      {
+        "memory": "Calvin enjoys the electrifying atmosphere of rock concerts",
+        "score": 0.4894,
+        "id": "3a61580d-4cd3-4d20-a1ea-c8863b90bb39",
+        "created_at": "2023-09-15T00:13:00+00:00",
+        "updated_at": "2026-11-19T05:05:20.797103+00:00"
+      },
+      {
+        "memory": "Calvin performed with his band on August 2, 2023, as shown in a photo of a band playing on stage with lights",
+        "score": 0.4554,
+        "id": "f9116941-4136-46d0-9fc0-18db30350c1d",
+        "created_at": "2023-08-03T13:12:00+00:00",
+        "updated_at": "2026-11-19T04:46:35.230834+00:00"
+      },
+      {
+        "memory": "Calvin has been enjoying getting to know Japanese culture",
+        "score": 0.4203,
+        "id": "cbef5ac1-b5e4-431f-a714-7ed3f3f9fe43",
+        "created_at": "2023-05-03T13:16:00+00:00",
+        "updated_at": "2026-11-19T04:22:04.989787+00:00"
+      },
+      {
+        "memory": "Calvin performed on a big stage, describing it as a dream come true with incredible energy, feeling on top of the world, and calling the experience seriously surreal",
+        "score": 0.3997,
+        "id": "0b04210e-c1e0-44e3-964e-1f71a4523cb8",
+        "created_at": "2023-08-31T14:55:00+00:00",
+        "updated_at": "2026-11-19T04:56:58.549364+00:00"
+      },
+      {
+        "memory": "Dave shared a photo of a concert featuring a band performing on stage",
+        "score": 0.3558,
+        "id": "9d7960f2-fb5c-4065-a01d-6a9f9c2a2d10",
+        "created_at": "2023-05-31T18:06:00+00:00",
+        "updated_at": "2026-11-19T04:29:32.223371+00:00"
+      },
+      {
+        "memory": "Dave shared a photo of Aerosmith performing on stage, showing two people with guitars and a microphone",
+        "score": 0.3348,
+        "id": "59de0011-d69e-4161-bf6b-a3336276126b",
+        "created_at": "2023-03-26T16:45:00+00:00",
+        "updated_at": "2026-11-19T04:08:12.315574+00:00"
+      },
+      {
+        "memory": "Calvin felt good after the Boston performance and invitation",
+        "score": 0.3211,
+        "id": "4389fcce-3530-4109-82d2-a5b641f31401",
+        "created_at": "2023-11-13T21:15:00+00:00",
+        "updated_at": "2026-11-19T05:43:18.185206+00:00"
+      },
+      {
+        "memory": "Calvin tells Dave he is inspiring and praises his effort to achieve his dream of making a custom car, urging him to relax and enjoy the process",
+        "score": 0.3097,
+        "id": "a249716c-5e91-4b0f-8bf0-646fd7696b80",
+        "created_at": "2023-05-03T13:16:00+00:00",
+        "updated_at": "2026-11-19T04:21:12.267878+00:00"
+      },
+      {
+        "memory": "Calvin (Calvin) will let Dave know how it goes",
+        "score": 0.2993,
+        "id": "8dc345d7-fdb0-40d3-84e5-d39a58cc0dc4",
+        "created_at": "2023-03-26T16:45:00+00:00",
+        "updated_at": "2026-11-19T04:09:02.199735+00:00"
+      },
+      {
+        "memory": "Calvin says moments when the crowd is into his performance are why he loves his job",
+        "score": 0.2968,
+        "id": "7a906a6e-2cac-4003-beab-5e9ee005a940",
+        "created_at": "2023-08-14T00:35:00+00:00",
+        "updated_at": "2026-11-19T04:52:11.187059+00:00"
+      },
+      {
+        "memory": "Dave looks forward to hearing about Calvin's Boston trip when Calvin returns",
+        "score": 0.2967,
+        "id": "e4d52e34-2da1-4c03-863a-65a797c99f66",
+        "created_at": "2023-05-31T18:06:00+00:00",
+        "updated_at": "2026-11-19T04:30:07.140619+00:00"
+      },
+      {
+        "memory": "Calvin expressed that he likes Aerosmith",
+        "score": 0.2957,
+        "id": "7c2083be-216f-4f06-bd0c-710550ba7e54",
+        "created_at": "2023-03-26T16:45:00+00:00",
+        "updated_at": "2026-11-19T04:07:32.043998+00:00"
+      },
+      {
+        "memory": "Calvin lives for concerts and finds the indescribable connection between the artist and the crowd amazing",
+        "score": 0.2951,
+        "id": "a0544a87-1412-461e-8767-595e98feee9a",
+        "created_at": "2023-10-23T14:17:00+00:00",
+        "updated_at": "2026-11-19T05:30:01.397132+00:00"
+      },
+      {
+        "memory": "Calvin expressed happiness for Dave's amazing place",
+        "score": 0.2924,
+        "id": "1ec47c70-7c88-4688-9e25-c3ec46c06a19",
+        "created_at": "2023-07-21T18:38:00+00:00",
+        "updated_at": "2026-11-19T04:42:22.560995+00:00"
+      },
+      {
+        "memory": "Calvin is preparing for an upcoming tour and is excited about it",
+        "score": 0.292,
+        "id": "f44901b5-0ae2-436b-a00c-53791037f1e1",
+        "created_at": "2023-09-13T10:56:00+00:00",
+        "updated_at": "2026-11-19T05:03:42.457376+00:00"
+      },
+      {
+        "memory": "Calvin heard great things about The Fireworks, the headliner of the music festival",
+        "score": 0.2902,
+        "id": "e05d1f05-8380-45a2-a523-4251f161f58a",
+        "created_at": "2023-10-15T09:39:00+00:00",
+        "updated_at": "2026-11-19T05:19:49.902558+00:00"
+      },
+      {
+        "memory": "Dave asked Calvin to fill him in on the details when Calvin has them and suggested they meet up when Calvin is in town",
+        "score": 0.2901,
+        "id": "dff871a9-162e-4d4d-9a60-93c4cb5606be",
+        "created_at": "2023-08-22T11:06:00+00:00",
+        "updated_at": "2026-11-19T04:55:41.879386+00:00"
+      },
+      {
+        "memory": "Dave offered to show Calvin around Boston and its cool spots during Calvin's upcoming trip",
+        "score": 0.289,
+        "id": "f5c1121d-2475-4be7-ac4d-3e5e400d38a2",
+        "created_at": "2023-04-20T16:15:00+00:00",
+        "updated_at": "2026-11-19T04:12:16.380213+00:00"
+      },
+      {
+        "memory": "Calvin invited his old high school friend to attend his performance in Boston, describing the event as insane",
+        "score": 0.2881,
+        "id": "17640cf9-4785-4da3-9f01-05e1005ab787",
+        "created_at": "2023-11-13T21:15:00+00:00",
+        "updated_at": "2026-11-19T05:43:18.185206+00:00"
+      },
+      {
+        "memory": "Calvin is excited about the upcoming trip to Boston",
+        "score": 0.2864,
+        "id": "7718b095-09e1-40c8-8508-7837963a98ef",
+        "created_at": "2023-09-02T09:19:00+00:00",
+        "updated_at": "2026-11-19T05:02:01.507360+00:00"
+      },
+      {
+        "memory": "Calvin's agent found an awesome place for Calvin's upcoming stay in Japan, and Calvin expressed gratitude",
+        "score": 0.2861,
+        "id": "2d4e7318-c4ec-48fd-9359-1dccf5e45746",
+        "created_at": "2023-03-23T11:53:00+00:00",
+        "updated_at": "2026-11-19T04:04:22.917269+00:00"
+      },
+      {
+        "memory": "Calvin said the view looks awesome",
+        "score": 0.2852,
+        "id": "ead77ab5-73b8-45fb-9394-a588b570ee4e",
+        "created_at": "2023-10-29T10:49:00+00:00",
+        "updated_at": "2026-11-19T05:33:47.231053+00:00"
+      },
+      {
+        "memory": "Calvin says music really has a way of touching souls",
+        "score": 0.2851,
+        "id": "f83d4dc9-0b41-4863-a3dc-38c2d28b5d18",
+        "created_at": "2023-11-02T17:46:00+00:00",
+        "updated_at": "2026-11-19T05:39:24.370966+00:00"
+      },
+      {
+        "memory": "Dave thinks Calvin's studio looks stunning",
+        "score": 0.2849,
+        "id": "bfd4a1d2-68dc-4201-908a-e0d3821d815c",
+        "created_at": "2023-11-02T17:46:00+00:00",
+        "updated_at": "2026-11-19T05:39:47.876206+00:00"
+      },
+      {
+        "memory": "Calvin is stoked about how far he has come in his music career",
+        "score": 0.2846,
+        "id": "6d19fa45-54c4-474b-9a0d-4ed32302fe69",
+        "created_at": "2023-07-21T18:38:00+00:00",
+        "updated_at": "2026-11-19T04:43:06.817080+00:00"
+      },
+      {
+        "memory": "Calvin is into the rush of awesome cars",
+        "score": 0.2843,
+        "id": "19554c86-5075-4a63-9d37-96a532679b62",
+        "created_at": "2023-10-08T15:13:00+00:00",
+        "updated_at": "2026-11-19T05:13:44.800343+00:00"
+      },
+      {
+        "memory": "Calvin has never been to Boston before",
+        "score": 0.2824,
+        "id": "d90c18c0-5049-4d55-ad70-eaf4dcb74d5e",
+        "created_at": "2023-06-09T14:31:00+00:00",
+        "updated_at": "2026-11-19T04:31:09.674928+00:00"
+      },
+      {
+        "memory": "Calvin says he can't wait to see what Dave will show",
+        "score": 0.2817,
+        "id": "cbf31032-a49f-4a8f-ac74-e856c6b1ed17",
+        "created_at": "2023-11-17T10:54:00+00:00",
+        "updated_at": "2026-11-19T05:48:24.133722+00:00"
+      },
+      {
+        "memory": "Dave congratulated Calvin and expressed super excitement for him",
+        "score": 0.2802,
+        "id": "5dd33f5d-c0b8-4572-bd14-ca35607ba01b",
+        "created_at": "2023-08-22T11:06:00+00:00",
+        "updated_at": "2026-11-19T04:54:20.470856+00:00"
+      },
+      {
+        "memory": "Calvin feels a great sense of satisfaction when everything clicks during a jam session",
+        "score": 0.2795,
+        "id": "32df267d-6fba-48c3-a4e6-0ee5b3ebd0a5",
+        "created_at": "2023-09-15T00:13:00+00:00",
+        "updated_at": "2026-11-19T05:05:20.797103+00:00"
+      },
+      {
+        "memory": "Dave expressed that he might attend one of Calvin's upcoming shows in Boston",
+        "score": 0.2789,
+        "id": "3896f569-1953-40b3-958c-1df95188800b",
+        "created_at": "2023-11-17T10:54:00+00:00",
+        "updated_at": "2026-11-19T05:48:59.759404+00:00"
+      },
+      {
+        "memory": "Calvin felt disappointed that he missed hearing the music",
+        "score": 0.2764,
+        "id": "971b6035-7632-4f50-ba7f-c3e5e7d054a9",
+        "created_at": "2023-09-15T00:13:00+00:00",
+        "updated_at": "2026-11-19T05:05:50.294494+00:00"
+      },
+      {
+        "memory": "Calvin comments that the crowd looks really excited and the stage is incredible in the music festival photo",
+        "score": 0.2764,
+        "id": "391db01f-1d70-4b15-b0e6-ace2d3f08de5",
+        "created_at": "2023-10-15T09:39:00+00:00",
+        "updated_at": "2026-11-19T05:19:22.213719+00:00"
+      },
+      {
+        "memory": "Dave says live music is the best, wishes Calvin a great tour, and offers to give Calvin a tour of his garage to see cool cars",
+        "score": 0.2755,
+        "id": "17ad6f79-e3fb-4578-98d6-ac892025e096",
+        "created_at": "2023-09-13T10:56:00+00:00",
+        "updated_at": "2026-11-19T05:04:02.246082+00:00"
+      },
+      {
+        "memory": "Calvin finds working on cars to be an escape from reality",
+        "score": 0.2752,
+        "id": "97e0c846-5fc1-42a9-9916-87333e018a56",
+        "created_at": "2023-10-08T15:13:00+00:00",
+        "updated_at": "2026-11-19T05:15:32.877936+00:00"
+      },
+      {
+        "memory": "Calvin will let Dave know when he is in Boston",
+        "score": 0.2748,
+        "id": "73e0c927-b5cf-4870-bca3-6d407511c85b",
+        "created_at": "2023-09-13T10:56:00+00:00",
+        "updated_at": "2026-11-19T05:04:16.534394+00:00"
+      },
+      {
+        "memory": "Calvin says Dave brings joy to others",
+        "score": 0.2746,
+        "id": "db8bb47f-0d2e-4cef-a32f-680652dcd68b",
+        "created_at": "2023-09-02T09:19:00+00:00",
+        "updated_at": "2026-11-19T05:02:01.507360+00:00"
+      }
+    ],
+    "search_latency_ms": 496.8,
+    "total_results": 50
+  },
+  "cutoff_results": {
+    "top_50": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Yes. Calvin thrives on big stages and high-energy crowds, calling such shows a “dream come true,” so he would very likely enjoy performing at the Hollywood Bowl.",
+      "memories_evaluated": 50,
+      "reason": "The generated answer agrees with the gold answer by stating that Calvin would enjoy performing at the Hollywood Bowl."
+    }
+  }
+}

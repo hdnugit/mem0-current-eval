@@ -1,0 +1,379 @@
+{
+  "question_id": "conv7_q70",
+  "conversation_idx": 7,
+  "category": 3,
+  "category_name": "open-domain",
+  "question": "Is the friend who wrote Deborah the motivational quote no longer alive?",
+  "ground_truth_answer": "likely yes",
+  "evidence": [
+    "D23:22"
+  ],
+  "user_id": "locomo_7_fe8ec031",
+  "reference_date": "10:17 am on 20 September, 2023",
+  "retrieval": {
+    "search_query": "Is the friend who wrote Deborah the motivational quote no longer alive?",
+    "search_results": [
+      {
+        "memory": "Deborah received a quote from that friend that says \"Let go of what no longer serves you\"",
+        "score": 0.6578,
+        "id": "651e1e52-942f-43f6-a3b8-d348ede5cedc",
+        "created_at": "2023-08-30T11:46:00+00:00",
+        "updated_at": "2026-11-19T05:34:48.633209+00:00"
+      },
+      {
+        "memory": "Deborah is interested in discovering other quotes that give strength",
+        "score": 0.514,
+        "id": "bad84753-1aff-4186-986e-a70928b3f8e4",
+        "created_at": "2023-08-30T11:46:00+00:00",
+        "updated_at": "2026-11-19T05:35:16.538980+00:00"
+      },
+      {
+        "memory": "Deborah loves the quote, finds it uplifting, and wonders if it motivates the other person when they see it",
+        "score": 0.4426,
+        "id": "562f639a-404d-4ff3-8d14-e39f4b82d470",
+        "created_at": "2023-08-16T14:58:00+00:00",
+        "updated_at": "2026-11-19T05:08:49.804628+00:00"
+      },
+      {
+        "memory": "Deborah notes that she and Jolene have not corresponded for a long time",
+        "score": 0.4262,
+        "id": "5dd77379-4ebc-48a9-beb6-27278aef2552",
+        "created_at": "2023-03-13T11:22:00+00:00",
+        "updated_at": "2026-11-19T04:34:04.277881+00:00"
+      },
+      {
+        "memory": "Deborah's friend will never be able to support her and she misses him",
+        "score": 0.4207,
+        "id": "da5f6dd5-e613-4d0b-8ce0-529f571e22a8",
+        "created_at": "2023-08-30T11:46:00+00:00",
+        "updated_at": "2026-11-19T05:34:48.633209+00:00"
+      },
+      {
+        "memory": "Deborah is really thankful for all the time she had with her friend",
+        "score": 0.4197,
+        "id": "7f700f16-cd48-474e-8fe7-3a3061ca277c",
+        "created_at": "2023-08-19T00:52:00+00:00",
+        "updated_at": "2026-11-19T05:14:46.935623+00:00"
+      },
+      {
+        "memory": "Deborah has a friend named Karlie",
+        "score": 0.4018,
+        "id": "5f8ce6dc-66b2-4683-b0c7-940cfc561919",
+        "created_at": "2023-02-22T16:12:00+00:00",
+        "updated_at": "2026-11-19T04:24:01.647382+00:00"
+      },
+      {
+        "memory": "Jolene said it’s great that Deborah could reconnect with her mother’s old friends",
+        "score": 0.3357,
+        "id": "0b2cb4b6-be0d-419d-b0b2-5fcbc572cbf6",
+        "created_at": "2023-09-15T15:09:00+00:00",
+        "updated_at": "2026-11-19T05:48:28.001615+00:00"
+      },
+      {
+        "memory": "Deborah describes her yoga friends as a second family who have supported each other through many challenges.",
+        "score": 0.3316,
+        "id": "35655513-4fba-4e70-9551-8c59bed5c479",
+        "created_at": "2023-09-03T14:14:00+00:00",
+        "updated_at": "2026-11-19T05:37:17.085097+00:00"
+      },
+      {
+        "memory": "Deborah lost a friend around February 15, 2023 and has been spending time in her garden for comfort",
+        "score": 0.3306,
+        "id": "fb05c914-cb94-45cc-b584-9071aac8e917",
+        "created_at": "2023-02-22T16:12:00+00:00",
+        "updated_at": "2026-11-19T04:23:25.362498+00:00"
+      },
+      {
+        "memory": "Deborah encourages taking it easy and looking after oneself, wishing the best to her friend.",
+        "score": 0.3257,
+        "id": "f9658b8e-692f-4802-8022-3aa2e770e02d",
+        "created_at": "2023-03-22T17:35:00+00:00",
+        "updated_at": "2026-11-19T04:39:33.234561+00:00"
+      },
+      {
+        "memory": "Deborah asked about a male individual named Susie or Seraphim, wondering how long he has been hanging out with Jolene",
+        "score": 0.3207,
+        "id": "13a5bbac-2ce3-4253-b44e-5d29561b7039",
+        "created_at": "2023-09-15T15:09:00+00:00",
+        "updated_at": "2026-11-19T05:51:09.012237+00:00"
+      },
+      {
+        "memory": "Jolene's bullet journal contains a quote that reminds her to stay focused and let go of what no longer serves her, and she says the quote inspires her",
+        "score": 0.3042,
+        "id": "52e8bbb6-655a-4e58-b699-d95b35ba56aa",
+        "created_at": "2023-08-30T11:46:00+00:00",
+        "updated_at": "2026-11-19T05:35:05.662875+00:00"
+      },
+      {
+        "memory": "Deborah's friend gave her a bouquet while she was struggling, and the bouquet now gives her hope, courage, warmth, and appreciation whenever she looks at it",
+        "score": 0.2919,
+        "id": "715eb1e2-f23d-4d59-a019-e82ffe98e2cf",
+        "created_at": "2023-02-04T09:48:00+00:00",
+        "updated_at": "2026-11-19T04:17:03.719495+00:00"
+      },
+      {
+        "memory": "Deborah reconnected with her late mother's old friends, and their stories made her tear up, reminding her how lucky she feels to have had her mother",
+        "score": 0.2886,
+        "id": "99a5f251-c730-4d9b-8a2d-9838c21537e1",
+        "created_at": "2023-09-15T15:09:00+00:00",
+        "updated_at": "2026-11-19T05:48:03.762721+00:00"
+      },
+      {
+        "memory": "Deborah visited an art show with a friend on April 9, 2023, finding it cool and inspiring and it reminded her of her mother",
+        "score": 0.2878,
+        "id": "8cbf281a-a268-4536-a53d-c22e66ccb1cf",
+        "created_at": "2023-04-09T16:30:00+00:00",
+        "updated_at": "2026-11-19T04:43:08.542261+00:00"
+      },
+      {
+        "memory": "Deborah received a handwritten letter on 2023-01-26",
+        "score": 0.2812,
+        "id": "0ced456a-fe64-464b-99dd-10d5a98b2af5",
+        "created_at": "2023-01-27T09:49:00+00:00",
+        "updated_at": "2026-11-19T04:05:31.292542+00:00"
+      },
+      {
+        "memory": "Jolene said Deborah's encouragement means a lot to her and that she will stay in touch",
+        "score": 0.2684,
+        "id": "11353c54-94a7-4cb4-8f23-47dfff1679da",
+        "created_at": "2023-02-04T09:48:00+00:00",
+        "updated_at": "2026-11-19T04:19:33.173647+00:00"
+      },
+      {
+        "memory": "Deborah encourages the other person that their efforts will bear fruit and to not give up",
+        "score": 0.2637,
+        "id": "bb00b3ec-8f32-487f-b420-91f69ab4431b",
+        "created_at": "2023-03-02T19:18:00+00:00",
+        "updated_at": "2026-11-19T04:33:18.074241+00:00"
+      },
+      {
+        "memory": "Deborah (Deborah) felt fond memories while relaxing outside",
+        "score": 0.2607,
+        "id": "dd82b336-8204-4027-9fd2-46d326916ab0",
+        "created_at": "2023-08-30T11:46:00+00:00",
+        "updated_at": "2026-11-19T05:30:49.831699+00:00"
+      },
+      {
+        "memory": "Deborah told Jolene that she’s been great to see her progress since their last chat and encouraged her to keep it up",
+        "score": 0.2604,
+        "id": "bff8ac78-3c53-403e-9804-8618baa579a1",
+        "created_at": "2023-02-25T16:50:00+00:00",
+        "updated_at": "2026-11-19T04:28:12.990109+00:00"
+      },
+      {
+        "memory": "Deborah says she will always be by Jolene's side",
+        "score": 0.2592,
+        "id": "2e3472db-0410-41f3-8634-3bdac5f5d74a",
+        "created_at": "2023-08-24T09:34:00+00:00",
+        "updated_at": "2026-11-19T05:23:41.257302+00:00"
+      },
+      {
+        "memory": "Deborah expresses love for Jolene's commitment and encourages her to keep going",
+        "score": 0.2579,
+        "id": "ddae14e9-d328-4be7-a588-e34f3a982ecf",
+        "created_at": "2023-08-12T20:50:00+00:00",
+        "updated_at": "2026-11-19T05:06:22.910127+00:00"
+      },
+      {
+        "memory": "Deborah believes that something is one of life's best parts",
+        "score": 0.2578,
+        "id": "c55a1fe8-a2dd-44f5-9c0b-1d9e1105bfb4",
+        "created_at": "2023-03-13T11:22:00+00:00",
+        "updated_at": "2026-11-19T04:35:00.378896+00:00"
+      },
+      {
+        "memory": "Jolene expressed sympathy for Deborah's tough week and asked how Deborah is feeling now",
+        "score": 0.257,
+        "id": "f2cff4f7-3000-414e-86d6-dcb841e2995c",
+        "created_at": "2023-09-08T19:39:00+00:00",
+        "updated_at": "2026-11-19T05:41:52.999326+00:00"
+      },
+      {
+        "memory": "Deborah expressed that she is glad her suggestions have been helpful for Jolene",
+        "score": 0.2564,
+        "id": "93ad2fc8-7bf2-4d45-accf-bd6c270f959b",
+        "created_at": "2023-06-06T15:56:00+00:00",
+        "updated_at": "2026-11-19T04:48:24.273590+00:00"
+      },
+      {
+        "memory": "Deborah encourages Jolene, saying \"You got this!\"",
+        "score": 0.2547,
+        "id": "6749373d-a086-45f4-bb0b-bad796234152",
+        "created_at": "2023-08-12T20:50:00+00:00",
+        "updated_at": "2026-11-19T05:06:32.708426+00:00"
+      },
+      {
+        "memory": "Deborah's mother passed away a few years ago",
+        "score": 0.253,
+        "id": "0ab4d6de-4a64-40a6-83f3-9038561780dd",
+        "created_at": "2023-01-23T16:06:00+00:00",
+        "updated_at": "2026-11-19T04:03:14.737379+00:00"
+      },
+      {
+        "memory": "Deborah says she finds Jolene inspiring",
+        "score": 0.2528,
+        "id": "18c4bf60-d377-463e-85cb-c16d20797567",
+        "created_at": "2023-08-26T17:33:00+00:00",
+        "updated_at": "2026-11-19T05:26:05.067876+00:00"
+      },
+      {
+        "memory": "Deborah believes her pendant should give her strength and energy",
+        "score": 0.2518,
+        "id": "598232c3-2a42-435a-975e-6f024ec42815",
+        "created_at": "2023-01-23T16:06:00+00:00",
+        "updated_at": "2026-11-19T04:03:56.777960+00:00"
+      },
+      {
+        "memory": "Deborah says that the photo brought back good memories",
+        "score": 0.2506,
+        "id": "fa9a2842-713c-4b96-bd7e-55df644ba93c",
+        "created_at": "2023-09-06T20:31:00+00:00",
+        "updated_at": "2026-11-19T05:41:17.046373+00:00"
+      },
+      {
+        "memory": "Deborah tells Jolene she is awesome and wishes her to take care",
+        "score": 0.2502,
+        "id": "b131e777-e314-474a-8084-96a46c4e6ee1",
+        "created_at": "2023-02-09T21:03:00+00:00",
+        "updated_at": "2026-11-19T04:22:39.694930+00:00"
+      },
+      {
+        "memory": "Jolene thanked Deborah, said Deborah's words mean something to her, and committed to prioritize self-care",
+        "score": 0.2488,
+        "id": "228f3f30-e262-4a8f-b5cd-ceae6659571e",
+        "created_at": "2023-02-25T16:50:00+00:00",
+        "updated_at": "2026-11-19T04:29:43.627668+00:00"
+      },
+      {
+        "memory": "Deborah says her mother was her biggest fan and source of motivation, often attending her yoga classes with her.",
+        "score": 0.2479,
+        "id": "f3c782dd-a188-4e00-b9c7-f98fbc42f0c4",
+        "created_at": "2023-09-03T14:14:00+00:00",
+        "updated_at": "2026-11-19T05:37:17.085097+00:00"
+      },
+      {
+        "memory": "Deborah believes that simple things can bring the most happiness",
+        "score": 0.2477,
+        "id": "7d910f14-87a3-42de-a053-e9af729b0b13",
+        "created_at": "2023-04-09T16:30:00+00:00",
+        "updated_at": "2026-11-19T04:44:00.528675+00:00"
+      },
+      {
+        "memory": "Deborah believes that memories keep loved ones close",
+        "score": 0.2472,
+        "id": "2e3601a1-329e-4d1e-806b-da75eb9da080",
+        "created_at": "2023-02-22T16:12:00+00:00",
+        "updated_at": "2026-11-19T04:24:01.647382+00:00"
+      },
+      {
+        "memory": "Deborah said a photo was funny",
+        "score": 0.2472,
+        "id": "c77d4407-b440-4a33-93c4-5e0d1ea5f2c3",
+        "created_at": "2023-08-21T09:11:00+00:00",
+        "updated_at": "2026-11-19T05:19:13.321315+00:00"
+      },
+      {
+        "memory": "Jolene felt cheered up by Deborah's supportive message",
+        "score": 0.2469,
+        "id": "27b23b4c-b74e-49de-84ab-06188bfc4761",
+        "created_at": "2023-03-02T19:18:00+00:00",
+        "updated_at": "2026-11-19T04:33:52.663973+00:00"
+      },
+      {
+        "memory": "Deborah's mother had a special bench near the window in her house where she liked to sit each morning, and Deborah sometimes sits there now to feel connected to her",
+        "score": 0.2459,
+        "id": "d71a5f94-da35-42d6-8963-491b027faffd",
+        "created_at": "2023-01-23T16:06:00+00:00",
+        "updated_at": "2026-11-19T04:03:30.383707+00:00"
+      },
+      {
+        "memory": "Deborah confirmed a coffee date with Jolene for next week and expressed excitement about it",
+        "score": 0.2457,
+        "id": "ac6089d5-2233-4233-a8a1-ef8665c59012",
+        "created_at": "2023-09-08T19:39:00+00:00",
+        "updated_at": "2026-11-19T05:44:42.759388+00:00"
+      },
+      {
+        "memory": "Deborah expressed that she felt something was wonderful",
+        "score": 0.2454,
+        "id": "fb18aff3-507d-48b1-ab8f-ca3a1c78a26c",
+        "created_at": "2023-02-25T16:50:00+00:00",
+        "updated_at": "2026-11-19T04:26:15.505958+00:00"
+      },
+      {
+        "memory": "Deborah (Deborah) expressed enthusiasm for a special self‑discovery book and said her cozy nook for chilling is her favorite spot.",
+        "score": 0.2454,
+        "id": "a8080611-e797-4120-bd9c-33742ce808f1",
+        "created_at": "2023-09-17T13:24:00+00:00",
+        "updated_at": "2026-11-19T05:54:18.085155+00:00"
+      },
+      {
+        "memory": "Deborah encouraged Jolene, saying great things will keep coming her way and to follow her passions",
+        "score": 0.2454,
+        "id": "61386b2f-7fc3-41b8-90a0-10ae976b02cb",
+        "created_at": "2023-02-04T09:48:00+00:00",
+        "updated_at": "2026-11-19T04:14:43.883668+00:00"
+      },
+      {
+        "memory": "Deborah shared a photo and asked Jolene if it reminded her of something",
+        "score": 0.2453,
+        "id": "d791993b-d93f-4a76-ab9a-9f68040beff9",
+        "created_at": "2023-09-06T20:31:00+00:00",
+        "updated_at": "2026-11-19T05:40:58.456141+00:00"
+      },
+      {
+        "memory": "Deborah says \"Take care and keep up the good work\".",
+        "score": 0.2451,
+        "id": "c5eb8228-72ed-443c-a816-98f6ba2b6ab7",
+        "created_at": "2023-03-28T16:03:00+00:00",
+        "updated_at": "2026-11-19T04:42:50.358898+00:00"
+      },
+      {
+        "memory": "Deborah says she will give Jolene a yellow coffee mug that has a handwritten encouraging message such as \"believe in yourself\"",
+        "score": 0.2449,
+        "id": "9140d0e0-6a3d-4125-9c58-7293a72db2b9",
+        "created_at": "2023-03-02T19:18:00+00:00",
+        "updated_at": "2026-11-19T04:33:44.938873+00:00"
+      },
+      {
+        "memory": "Deborah wishes Jolene good luck on her exams and tells her to take care",
+        "score": 0.2434,
+        "id": "891e7e11-a277-4f33-a831-e1a299e0e420",
+        "created_at": "2023-03-02T19:18:00+00:00",
+        "updated_at": "2026-11-19T04:33:44.938873+00:00"
+      },
+      {
+        "memory": "Deborah asks Jolene about her career aspirations",
+        "score": 0.2433,
+        "id": "7ef5be6b-14db-45c0-b5a3-096c4ee2da9c",
+        "created_at": "2023-02-04T09:48:00+00:00",
+        "updated_at": "2026-11-19T04:14:27.519298+00:00"
+      },
+      {
+        "memory": "Deborah believes that having people who can cheer you on and give advice makes a difference",
+        "score": 0.2423,
+        "id": "916af552-fd8a-409f-bfbb-bbc3a4099366",
+        "created_at": "2023-07-09T19:37:00+00:00",
+        "updated_at": "2026-11-19T04:52:58.603809+00:00"
+      },
+      {
+        "memory": "Deborah offered to suggest routines for Jolene to try",
+        "score": 0.2422,
+        "id": "75dc2fff-a7b3-4ab1-b2c3-dba567ada23f",
+        "created_at": "2023-08-01T09:26:00+00:00",
+        "updated_at": "2026-11-19T05:01:42.949765+00:00"
+      }
+    ],
+    "search_latency_ms": 478.0,
+    "total_results": 50
+  },
+  "cutoff_results": {
+    "top_50": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Yes. Deborah says the friend who wrote her the quote (“Let go of what no longer serves you”) will never be able to support her and that she misses him, and she noted she lost a friend around February 15, 2023.",
+      "memories_evaluated": 50,
+      "reason": "The generated answer clearly says yes the friend is no longer alive, aligning with the gold answer’s “likely yes.”,"
+    }
+  }
+}

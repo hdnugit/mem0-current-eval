@@ -1,0 +1,380 @@
+{
+  "question_id": "conv0_q81",
+  "conversation_idx": 0,
+  "category": 3,
+  "category_name": "open-domain",
+  "question": "Would Caroline want to move back to her home country soon?",
+  "ground_truth_answer": "No; she's in the process of adopting children.",
+  "evidence": [
+    "D19:1",
+    "D19:3"
+  ],
+  "user_id": "locomo_0_fe8ec031",
+  "reference_date": "9:55 am on 22 October, 2023",
+  "retrieval": {
+    "search_query": "Would Caroline want to move back to her home country soon?",
+    "search_results": [
+      {
+        "memory": "Caroline has known her supportive friends for four years, since moving from her home country, and they have been there for her through everything, especially after a tough breakup, and she feels super thankful for their love and help",
+        "score": 0.6327,
+        "id": "81e57bd7-7b57-402d-9f99-7ea92ff00588",
+        "created_at": "2023-06-09T19:55:00+00:00",
+        "updated_at": "2026-11-19T04:15:25.174500+00:00"
+      },
+      {
+        "memory": "Caroline wants to live authentically and help others do the same",
+        "score": 0.5115,
+        "id": "e7749395-41b2-4ac7-8265-841262213918",
+        "created_at": "2023-08-23T15:31:00+00:00",
+        "updated_at": "2026-11-19T04:57:36.190656+00:00"
+      },
+      {
+        "memory": "Caroline believes love and acceptance should be everyone's right and wants children to experience it",
+        "score": 0.4614,
+        "id": "5833e2c2-eef5-4184-afd3-5c7fe25e6c3b",
+        "created_at": "2023-10-22T09:55:00+00:00",
+        "updated_at": "2026-11-19T05:24:49.625506+00:00"
+      },
+      {
+        "memory": "Caroline thanked Melanie, saying Melanie's kind words mean a lot to her, and pledged to ensure that the children she hopes to adopt will have a safe and loving home",
+        "score": 0.3798,
+        "id": "57712c33-66e6-4a42-90db-f2c01a37b4bb",
+        "created_at": "2023-05-25T13:14:00+00:00",
+        "updated_at": "2026-11-19T04:10:28.252884+00:00"
+      },
+      {
+        "memory": "Caroline expressed excitement about starting a new chapter, describing adoption as a long‑time dream and stating a desire to provide a safe, loving home for children in need",
+        "score": 0.3706,
+        "id": "de81fab6-1d07-49f1-81e9-70d0523ac5cf",
+        "created_at": "2023-10-13T10:31:00+00:00",
+        "updated_at": "2026-11-19T05:15:01.926349+00:00"
+      },
+      {
+        "memory": "On May 25, 2023, Caroline was researching adoption agencies, stating her goal to give kids a loving home, expressing gratitude for friends and mentors, and feeling hopeful and optimistic about turning her dream into reality",
+        "score": 0.3407,
+        "id": "8cec344b-e4b3-4f01-b663-a8e670d4a17d",
+        "created_at": "2023-05-25T13:14:00+00:00",
+        "updated_at": "2026-11-19T04:08:36.519045+00:00"
+      },
+      {
+        "memory": "The meeting made Caroline even more determined to adopt",
+        "score": 0.3003,
+        "id": "2f3f6161-b3ef-44b6-8358-86f18a44cba9",
+        "created_at": "2023-07-15T13:51:00+00:00",
+        "updated_at": "2026-11-19T04:34:47.458232+00:00"
+      },
+      {
+        "memory": "Caroline reflects that transitioning and acceptance were difficult, but invaluable support from friends, family, and mentors helped her discover her true self; she now wants to provide the same support to anyone in need, finding joy in bringing comfort and fostering growth.",
+        "score": 0.2965,
+        "id": "81d1d4c3-83e2-41e4-867c-430d02e0d5d4",
+        "created_at": "2023-10-22T09:55:00+00:00",
+        "updated_at": "2026-11-19T05:25:34.624897+00:00"
+      },
+      {
+        "memory": "Melanie appreciates her friendship with Caroline and says Caroline has always been there for her",
+        "score": 0.2952,
+        "id": "d1d6d808-995e-4e4f-bad3-e78677996701",
+        "created_at": "2023-08-17T13:50:00+00:00",
+        "updated_at": "2026-11-19T04:52:35.668636+00:00"
+      },
+      {
+        "memory": "Melanie expressed that it must be tough for Caroline dealing with those changes and said she is glad Caroline has people who uplift and accept her",
+        "score": 0.2912,
+        "id": "68355e23-deda-4106-90c1-89adebdcc8ad",
+        "created_at": "2023-09-13T00:09:00+00:00",
+        "updated_at": "2026-11-19T05:13:38.148868+00:00"
+      },
+      {
+        "memory": "Caroline had a busy week since the last conversation",
+        "score": 0.2894,
+        "id": "73d13a87-a8f8-411b-a007-009ee4478cd7",
+        "created_at": "2023-07-15T13:51:00+00:00",
+        "updated_at": "2026-11-19T04:32:27.853867+00:00"
+      },
+      {
+        "memory": "Melanie feels proud of Caroline for taking the step toward adoption",
+        "score": 0.2893,
+        "id": "8276b183-716d-4257-a900-6b87e931972d",
+        "created_at": "2023-08-23T15:31:00+00:00",
+        "updated_at": "2026-11-19T04:54:32.904561+00:00"
+      },
+      {
+        "memory": "Caroline feels excited for the future",
+        "score": 0.2887,
+        "id": "da4a2c6e-e651-40d7-8e70-5d08125728fc",
+        "created_at": "2023-08-23T15:31:00+00:00",
+        "updated_at": "2026-11-19T04:58:34.763880+00:00"
+      },
+      {
+        "memory": "Caroline thought the moment was fun",
+        "score": 0.2879,
+        "id": "d429e6b2-1400-4cb6-b410-29ab99372cff",
+        "created_at": "2023-08-28T15:19:00+00:00",
+        "updated_at": "2026-11-19T05:08:31.303642+00:00"
+      },
+      {
+        "memory": "Caroline thinks beach trips are special",
+        "score": 0.2831,
+        "id": "1851b6c8-5719-4e48-b7bf-83d0a5930ab2",
+        "created_at": "2023-07-20T20:56:00+00:00",
+        "updated_at": "2026-11-19T04:43:47.634740+00:00"
+      },
+      {
+        "memory": "Melanie congratulated Caroline on her journey",
+        "score": 0.2828,
+        "id": "5938f145-e096-4ef3-8da4-a629b7eacfc6",
+        "created_at": "2023-10-13T10:31:00+00:00",
+        "updated_at": "2026-11-19T05:14:44.078436+00:00"
+      },
+      {
+        "memory": "Melanie expressed that Caroline cares about being authentic and helping others, and wished her the best on her adoption journey",
+        "score": 0.282,
+        "id": "ceb22d2e-5173-4b01-9ce7-c9380546f515",
+        "created_at": "2023-08-23T15:31:00+00:00",
+        "updated_at": "2026-11-19T04:58:46.252513+00:00"
+      },
+      {
+        "memory": "Caroline's friends and community have her back, providing strong support",
+        "score": 0.2807,
+        "id": "946ef24d-f90e-4f4f-9f74-fa3d39190321",
+        "created_at": "2023-07-15T13:51:00+00:00",
+        "updated_at": "2026-11-19T04:37:17.895037+00:00"
+      },
+      {
+        "memory": "Caroline looks forward to making awesome memories with Melanie",
+        "score": 0.2797,
+        "id": "b063cdfe-5a2e-4c45-8348-006ed0ec4410",
+        "created_at": "2023-08-17T13:50:00+00:00",
+        "updated_at": "2026-11-19T04:53:42.669868+00:00"
+      },
+      {
+        "memory": "Caroline feels hopeful and optimistic about achieving her dream of adopting children",
+        "score": 0.2796,
+        "id": "b97541af-388a-4df5-ab5f-1c245a449803",
+        "created_at": "2023-05-25T13:14:00+00:00",
+        "updated_at": "2026-11-19T04:08:36.519045+00:00"
+      },
+      {
+        "memory": "Caroline thanked Melanie and expressed pride in how far she has come after a long road",
+        "score": 0.2792,
+        "id": "03566cc7-3c1a-41e1-b7d3-f4bb137ebb8b",
+        "created_at": "2023-07-15T13:51:00+00:00",
+        "updated_at": "2026-11-19T04:37:57.499031+00:00"
+      },
+      {
+        "memory": "Caroline noted that Melanie recently made new family memories",
+        "score": 0.2785,
+        "id": "44db39af-765b-43b3-a1fa-a19c8c8f5f22",
+        "created_at": "2023-06-27T10:37:00+00:00",
+        "updated_at": "2026-11-19T04:18:35.646041+00:00"
+      },
+      {
+        "memory": "Caroline thought Melanie's wedding was special",
+        "score": 0.2783,
+        "id": "eb3d64ce-f00f-46e0-a936-e3aae878b130",
+        "created_at": "2023-07-15T13:51:00+00:00",
+        "updated_at": "2026-11-19T04:35:32.792798+00:00"
+      },
+      {
+        "memory": "Caroline observed that Melanie and her family looked happy",
+        "score": 0.2766,
+        "id": "10d810cd-71eb-41bd-9448-e35e662e0d73",
+        "created_at": "2023-06-09T19:55:00+00:00",
+        "updated_at": "2026-11-19T04:16:23.063154+00:00"
+      },
+      {
+        "memory": "Melanie thanked Caroline for letting her join Caroline's journey, expressed pride in being part of the difference Caroline is making, and said they can make a real impact together",
+        "score": 0.2762,
+        "id": "86eb25f7-8be5-4389-8de0-6e60006a769f",
+        "created_at": "2023-06-09T19:55:00+00:00",
+        "updated_at": "2026-11-19T04:13:50.144854+00:00"
+      },
+      {
+        "memory": "Melanie says her favorite memories bring her and Caroline together, bring happiness, and she is glad Caroline is there to share them",
+        "score": 0.2755,
+        "id": "da8df992-6fab-4ddb-a9f1-5055c8e90eee",
+        "created_at": "2023-07-15T13:51:00+00:00",
+        "updated_at": "2026-11-19T04:40:00.966804+00:00"
+      },
+      {
+        "memory": "Melanie expressed that Caroline's future family will benefit from having her",
+        "score": 0.2746,
+        "id": "88f2b323-e4da-49b3-8852-a473825a3c98",
+        "created_at": "2023-07-15T13:51:00+00:00",
+        "updated_at": "2026-11-19T04:34:54.056952+00:00"
+      },
+      {
+        "memory": "Caroline received extensive help from an adoption advice/assistance group she attended",
+        "score": 0.2708,
+        "id": "fb7af2d7-65b5-47ed-8a17-48f4d1f85bdc",
+        "created_at": "2023-08-23T15:31:00+00:00",
+        "updated_at": "2026-11-19T04:54:11.794251+00:00"
+      },
+      {
+        "memory": "Caroline wishes she had known Melanie earlier in life",
+        "score": 0.2702,
+        "id": "6e11c886-e3fb-4ace-916c-66760d887749",
+        "created_at": "2023-07-15T13:51:00+00:00",
+        "updated_at": "2026-11-19T04:35:32.792798+00:00"
+      },
+      {
+        "memory": "Melanie suggested planning something special with Caroline",
+        "score": 0.2699,
+        "id": "05856952-8f50-4472-bd77-de051ac35889",
+        "created_at": "2023-08-17T13:50:00+00:00",
+        "updated_at": "2026-11-19T04:53:49.115021+00:00"
+      },
+      {
+        "memory": "Caroline notes that nature seems to refresh them",
+        "score": 0.2694,
+        "id": "5349de90-a345-41a7-a268-a3308dbd1002",
+        "created_at": "2023-10-20T18:55:00+00:00",
+        "updated_at": "2026-11-19T05:22:50.591465+00:00"
+      },
+      {
+        "memory": "Caroline applied to adoption agencies, taking her first step toward becoming a mother",
+        "score": 0.2689,
+        "id": "666b388b-e0c1-4280-8b92-3b108e559bab",
+        "created_at": "2023-08-23T15:31:00+00:00",
+        "updated_at": "2026-11-19T04:54:11.794251+00:00"
+      },
+      {
+        "memory": "Caroline says the experience showed her that tough times don't last and that hope and love exist",
+        "score": 0.2677,
+        "id": "36e89623-07f0-4173-80ea-2240c2d8fb9d",
+        "created_at": "2023-07-12T16:33:00+00:00",
+        "updated_at": "2026-11-19T04:29:47.883289+00:00"
+      },
+      {
+        "memory": "Caroline suggested planning a family outing or a special summer activity for just the two of them to catch up and explore nature",
+        "score": 0.2671,
+        "id": "ca88a861-0132-4482-a9d7-8542fd56a021",
+        "created_at": "2023-08-17T13:50:00+00:00",
+        "updated_at": "2026-11-19T04:53:20.760810+00:00"
+      },
+      {
+        "memory": "Melanie thought the adoption agency Caroline was considering looked great",
+        "score": 0.2668,
+        "id": "297b8a6b-c3ef-40c7-baa7-7fef0262d6c2",
+        "created_at": "2023-05-25T13:14:00+00:00",
+        "updated_at": "2026-11-19T04:08:53.106048+00:00"
+      },
+      {
+        "memory": "Caroline feels that her own journey and the support she received made a huge difference",
+        "score": 0.2657,
+        "id": "7a2c7b4f-80b2-4a27-9e75-393fa969c340",
+        "created_at": "2023-06-27T10:37:00+00:00",
+        "updated_at": "2026-11-19T04:20:13.023045+00:00"
+      },
+      {
+        "memory": "Caroline expressed that she was glad something helped Melanie",
+        "score": 0.2653,
+        "id": "f040f56a-13da-4d82-9289-875aebb63158",
+        "created_at": "2023-07-12T16:33:00+00:00",
+        "updated_at": "2026-11-19T04:32:29.826509+00:00"
+      },
+      {
+        "memory": "Caroline is going to do some research",
+        "score": 0.2645,
+        "id": "3e0703b8-d508-44b6-b201-20dcc79bf32e",
+        "created_at": "2023-05-08T13:56:00+00:00",
+        "updated_at": "2026-11-19T04:05:09.067403+00:00"
+      },
+      {
+        "memory": "Melanie expressed that she is super proud of Caroline for being her true self and praised Caroline's painting as amazing, noting her progress",
+        "score": 0.2629,
+        "id": "a1529e0a-34e8-4c47-8f4f-3604d40034bc",
+        "created_at": "2023-09-13T00:09:00+00:00",
+        "updated_at": "2026-11-19T05:13:11.819707+00:00"
+      },
+      {
+        "memory": "Caroline expressed relief that everything worked out and said that Melanie had a good time at the park",
+        "score": 0.2624,
+        "id": "23440931-32c7-42a1-acb1-8db1d28f06be",
+        "created_at": "2023-09-13T00:09:00+00:00",
+        "updated_at": "2026-11-19T05:14:11.913372+00:00"
+      },
+      {
+        "memory": "Caroline says that the thing being discussed is priceless and tells Melanie she is lucky",
+        "score": 0.2623,
+        "id": "db7a2578-d704-4912-86a6-e408b3e702ff",
+        "created_at": "2023-10-20T18:55:00+00:00",
+        "updated_at": "2026-11-19T05:23:43.933827+00:00"
+      },
+      {
+        "memory": "Caroline feels she has been blessed with abundant love and support throughout her journey",
+        "score": 0.262,
+        "id": "d6f99f5b-3e1f-4f88-8558-0a915f8d8bc2",
+        "created_at": "2023-06-09T19:55:00+00:00",
+        "updated_at": "2026-11-19T04:12:36.016741+00:00"
+      },
+      {
+        "memory": "Caroline is glad Melanie got some rest and relaxation after the drive",
+        "score": 0.2615,
+        "id": "dd952717-6bbc-4968-bb27-14d30a6ccbab",
+        "created_at": "2023-10-20T18:55:00+00:00",
+        "updated_at": "2026-11-19T05:22:50.591465+00:00"
+      },
+      {
+        "memory": "Caroline feels excited but also nerve-wracking about the big responsibility of parenting",
+        "score": 0.2611,
+        "id": "6fa6f765-cd94-4063-bcf5-08346390f07a",
+        "created_at": "2023-08-23T15:31:00+00:00",
+        "updated_at": "2026-11-19T04:54:40.532235+00:00"
+      },
+      {
+        "memory": "Caroline felt glad about bonding with Melanie over their shared love of nature",
+        "score": 0.2599,
+        "id": "50d1a8bc-ab65-4a74-acb7-09196ef760be",
+        "created_at": "2023-07-15T13:51:00+00:00",
+        "updated_at": "2026-11-19T04:34:47.458232+00:00"
+      },
+      {
+        "memory": "Melanie says Caroline's courage is inspiring",
+        "score": 0.2597,
+        "id": "5c30060f-29af-4242-a0b3-9983562e2f91",
+        "created_at": "2023-06-09T19:55:00+00:00",
+        "updated_at": "2026-11-19T04:14:50.313957+00:00"
+      },
+      {
+        "memory": "Caroline said Melanie has an awesome family and expressed that she feels lucky for Melanie's beautiful family moment",
+        "score": 0.2596,
+        "id": "9001a01b-17b6-4545-a222-02a87065d65f",
+        "created_at": "2023-07-20T20:56:00+00:00",
+        "updated_at": "2026-11-19T04:46:26.769740+00:00"
+      },
+      {
+        "memory": "Caroline feels that family love and support is the best",
+        "score": 0.2592,
+        "id": "c84fabc1-f6f1-4931-8d21-6434745d5c1c",
+        "created_at": "2023-07-15T13:51:00+00:00",
+        "updated_at": "2026-11-19T04:38:33.219033+00:00"
+      },
+      {
+        "memory": "Caroline believes that relaxing and expressing oneself is key",
+        "score": 0.2589,
+        "id": "a0d1ab9d-b2dc-46ad-94ef-b8a0eab41a60",
+        "created_at": "2023-05-08T13:56:00+00:00",
+        "updated_at": "2026-11-19T04:05:09.067403+00:00"
+      },
+      {
+        "memory": "Caroline reflected that she started transitioning around three years ago, approximately June 2020",
+        "score": 0.2586,
+        "id": "73913aea-51d0-43a2-aed4-148466fb99b7",
+        "created_at": "2023-06-09T19:55:00+00:00",
+        "updated_at": "2026-11-19T04:11:08.743921+00:00"
+      }
+    ],
+    "search_latency_ms": 391.5,
+    "total_results": 50
+  },
+  "cutoff_results": {
+    "top_50": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "No. As of Oct 2023, Caroline is building her life where she is: she’s had a strong support network since moving from her home country four years ago (2023‑06‑09; 2023‑07‑15) and is actively pursuing adoption there—researching agencies (2023‑05‑25), applying (2023‑08‑23), and expressing excitement about starting that new chapter (2023‑10‑13). Those commitments make a move back soon unlikely.",
+      "memories_evaluated": 50,
+      "reason": "The generated answer says 'No,' matching the gold answer, and the added context is allowed by the rules."
+    }
+  }
+}

@@ -1,0 +1,379 @@
+{
+  "question_id": "conv3_q4",
+  "conversation_idx": 3,
+  "category": 3,
+  "category_name": "open-domain",
+  "question": "What pets wouldn't cause any discomfort to Joanna?",
+  "ground_truth_answer": "Hairless cats or pigs,since they don't have fur, which is one of the main causes of Joanna's allergy.",
+  "evidence": [
+    "D2:23"
+  ],
+  "user_id": "locomo_3_fe8ec031",
+  "reference_date": "12:06 am on 11 November, 2022",
+  "retrieval": {
+    "search_query": "What pets wouldn't cause any discomfort to Joanna?",
+    "search_results": [
+      {
+        "memory": "Joanna says allergies make her not want to get any pets and she is too lazy to research alternative pets for her allergies",
+        "score": 0.554,
+        "id": "83954723-6161-4acf-84bf-d5a5a5c29e44",
+        "created_at": "2022-05-20T19:49:00+00:00",
+        "updated_at": "2026-11-19T04:45:18.233685+00:00"
+      },
+      {
+        "memory": "Joanna believes that pets have a way of brightening days",
+        "score": 0.5354,
+        "id": "7a226310-ffdf-4cc6-9f7e-b196b2a5375b",
+        "created_at": "2022-10-21T14:01:00+00:00",
+        "updated_at": "2026-11-19T05:29:30.767010+00:00"
+      },
+      {
+        "memory": "Joanna asks Nate why he chose turtles as pets",
+        "score": 0.5213,
+        "id": "81310b51-312a-4f03-8218-ac3cf1474ae1",
+        "created_at": "2022-03-18T18:59:00+00:00",
+        "updated_at": "2026-11-19T04:21:18.827584+00:00"
+      },
+      {
+        "memory": "Joanna believes that having pets is a wonderful experience",
+        "score": 0.5202,
+        "id": "6f859f86-44cd-4e06-ac33-d77f738b96b8",
+        "created_at": "2022-03-18T18:59:00+00:00",
+        "updated_at": "2026-11-19T04:22:30.269408+00:00"
+      },
+      {
+        "memory": "Nate suggested Joanna consider other animals as pets besides turtles",
+        "score": 0.5179,
+        "id": "b3c4db16-3f23-4675-9731-81a919b639a9",
+        "created_at": "2022-03-18T18:59:00+00:00",
+        "updated_at": "2026-11-19T04:23:04.819377+00:00"
+      },
+      {
+        "memory": "Joanna is considering getting a pet of her own soon, but only if she can find one she is not allergic to",
+        "score": 0.4879,
+        "id": "1a5d22eb-4fc1-409a-9f08-7d661a304224",
+        "created_at": "2022-01-23T14:01:00+00:00",
+        "updated_at": "2026-11-19T04:45:16.617093+00:00"
+      },
+      {
+        "memory": "Joanna says that connecting with others who have pets can be uplifting and rewarding",
+        "score": 0.4878,
+        "id": "5fc912dd-5fd2-446b-a4b7-0077166bee21",
+        "created_at": "2022-05-25T15:00:00+00:00",
+        "updated_at": "2026-11-19T04:48:08.179687+00:00"
+      },
+      {
+        "memory": "Joanna is allergic to reptiles and furred animals, which discourages her from getting a pet, though she appreciates Nate’s dog Max and a gifted stuffed animal.",
+        "score": 0.428,
+        "id": "a79720eb-7aa6-4859-b87d-848ede5e047e",
+        "created_at": "2022-07-10T14:34:00+00:00",
+        "updated_at": "2026-11-19T05:07:15.041028+00:00"
+      },
+      {
+        "memory": "Joanna's face becomes puffy and itchy when around certain animals, so she avoids them",
+        "score": 0.3063,
+        "id": "e41074de-f5b8-496e-b142-4b10cf50e0c5",
+        "created_at": "2022-01-23T14:01:00+00:00",
+        "updated_at": "2026-11-19T04:08:39.132680+00:00"
+      },
+      {
+        "memory": "Joanna is named Joanna",
+        "score": 0.3026,
+        "id": "c42b40c9-c84d-49fd-9d1e-0fa19fa72b79",
+        "created_at": "2022-01-21T19:31:00+00:00",
+        "updated_at": "2026-11-19T04:02:50.678921+00:00"
+      },
+      {
+        "memory": "Joanna wishes she could get two turtles today but is prevented by her allergies",
+        "score": 0.302,
+        "id": "b23e148d-d13e-4874-92fd-958ec48475b4",
+        "created_at": "2022-03-18T18:59:00+00:00",
+        "updated_at": "2026-11-19T04:22:53.193804+00:00"
+      },
+      {
+        "memory": "Joanna (Joanna) asked Nate for his favorite dairy‑free desserts.",
+        "score": 0.2962,
+        "id": "aea8f58c-35ec-4a0d-adac-c5bb91cf4091",
+        "created_at": "2022-09-14T13:43:00+00:00",
+        "updated_at": "2026-11-19T05:21:00.430314+00:00"
+      },
+      {
+        "memory": "Joanna is already really invested in the turtles",
+        "score": 0.294,
+        "id": "c2d09281-0fd8-47a1-a26c-64ec9052a07d",
+        "created_at": "2022-03-18T18:59:00+00:00",
+        "updated_at": "2026-11-19T04:23:08.261143+00:00"
+      },
+      {
+        "memory": "Joanna (Joanna) is tempted to try dairy‑free dessert flavors and expresses a liking for chocolate and mixed‑berry options",
+        "score": 0.2893,
+        "id": "2d745e46-e9af-484b-bcfb-ef4ce6630119",
+        "created_at": "2022-02-07T09:27:00+00:00",
+        "updated_at": "2026-11-19T04:12:57.941240+00:00"
+      },
+      {
+        "memory": "Joanna (Joanna) says she will keep Nate posted and loves his creations",
+        "score": 0.2839,
+        "id": "e1122805-4ff4-4f87-8076-478d3c699db4",
+        "created_at": "2022-02-25T13:07:00+00:00",
+        "updated_at": "2026-11-19T04:18:25.678038+00:00"
+      },
+      {
+        "memory": "She has allergies to reptiles and furred animals, which is why she does not want a pet, but she appreciates Nate’s dog Max and a stuffed animal gift.",
+        "score": 0.2827,
+        "id": "d849a4e1-cc00-4881-b18e-aa447207bddc",
+        "created_at": "2022-07-10T14:34:00+00:00",
+        "updated_at": "2026-11-19T05:08:13.678473+00:00"
+      },
+      {
+        "memory": "Joanna previously owned a dog named Tilly in Michigan, but had to give her away because of an allergic reaction to the animal",
+        "score": 0.2815,
+        "id": "5ff09109-bf8c-455a-a9dd-07ba415c012e",
+        "created_at": "2022-10-21T14:01:00+00:00",
+        "updated_at": "2026-11-19T05:29:46.791465+00:00"
+      },
+      {
+        "memory": "Joanna (Joanna) considers dairy‑free options a must, especially for desserts.",
+        "score": 0.2807,
+        "id": "da8cdf93-0010-48f0-a2d8-b4c135be3514",
+        "created_at": "2022-09-14T13:43:00+00:00",
+        "updated_at": "2026-11-19T05:21:00.430314+00:00"
+      },
+      {
+        "memory": "Joanna loves Nate's turtles and says they are cute",
+        "score": 0.2784,
+        "id": "c0f59d48-825e-41a4-adcd-f4b039c4cc13",
+        "created_at": "2022-04-17T18:44:00+00:00",
+        "updated_at": "2026-11-19T04:31:17.161682+00:00"
+      },
+      {
+        "memory": "Joanna appreciates Nate's love for dairy‑free desserts",
+        "score": 0.2775,
+        "id": "8fa716e0-55b5-4a7b-877f-2b1d89db89e2",
+        "created_at": "2022-08-14T18:12:00+00:00",
+        "updated_at": "2026-11-19T05:10:42.920576+00:00"
+      },
+      {
+        "memory": "Joanna (Joanna) told Nate \"No worries\" and expressed gladness about his recent ice cream creation",
+        "score": 0.2769,
+        "id": "6a49ee0f-c47f-4748-beee-895e57499aa2",
+        "created_at": "2022-02-25T13:07:00+00:00",
+        "updated_at": "2026-11-19T04:16:59.191114+00:00"
+      },
+      {
+        "memory": "Joanna is allergic to most reptiles and animals with fur, which she finds a drag but she finds other ways to be happy",
+        "score": 0.2756,
+        "id": "8317ea72-ef23-453c-a1c4-5c7207a382d4",
+        "created_at": "2022-01-23T14:01:00+00:00",
+        "updated_at": "2026-11-19T04:09:01.171288+00:00"
+      },
+      {
+        "memory": "An actor approached Joanna and told her they liked her script, which made Joanna feel excited and gave her chills",
+        "score": 0.2726,
+        "id": "00f2d70d-e2e9-417b-ae0c-fff84f2bb480",
+        "created_at": "2022-11-11T00:06:00+00:00",
+        "updated_at": "2026-11-19T05:50:31.529609+00:00"
+      },
+      {
+        "memory": "Joanna wants to come over sometime to watch Nate play with the turtles from a distance because she is allergic",
+        "score": 0.2716,
+        "id": "0335536b-9201-431f-8dec-6ab68d8000ab",
+        "created_at": "2022-11-09T17:54:00+00:00",
+        "updated_at": "2026-11-19T05:49:06.750969+00:00"
+      },
+      {
+        "memory": "Joanna mentioned that crazy things happened to her recently",
+        "score": 0.2715,
+        "id": "fe1e7a34-22bf-4cfe-b8f5-c52d623a9a60",
+        "created_at": "2022-01-23T14:01:00+00:00",
+        "updated_at": "2026-11-19T04:05:58.542708+00:00"
+      },
+      {
+        "memory": "Joanna is lactose intolerant",
+        "score": 0.2693,
+        "id": "35040ab7-2538-4d22-8bff-c1dd4ec1c47e",
+        "created_at": "2022-04-17T18:44:00+00:00",
+        "updated_at": "2026-11-19T04:32:15.227071+00:00"
+      },
+      {
+        "memory": "Joanna says they never knew turtles could be interesting until meeting Nate's turtles",
+        "score": 0.2685,
+        "id": "c0b30de4-e8c4-4b24-a4ac-376921b0d05f",
+        "created_at": "2022-10-25T20:16:00+00:00",
+        "updated_at": "2026-11-19T05:34:41.292280+00:00"
+      },
+      {
+        "memory": "Joanna says the turtles look like they really enjoy fruit",
+        "score": 0.2684,
+        "id": "01685470-9865-4d07-92d1-43d89629d199",
+        "created_at": "2022-10-25T20:16:00+00:00",
+        "updated_at": "2026-11-19T05:33:55.739516+00:00"
+      },
+      {
+        "memory": "Joanna cannot consume dairy, so she avoids ice cream",
+        "score": 0.2604,
+        "id": "aa09036f-f072-497e-a6b2-4c40d14d7465",
+        "created_at": "2022-02-25T13:07:00+00:00",
+        "updated_at": "2026-11-19T04:18:09.183988+00:00"
+      },
+      {
+        "memory": "Joanna thinks the turtles in the picture look adorable and relaxed outside",
+        "score": 0.2596,
+        "id": "5520c559-6aed-46d0-8c51-a30a2358cf5e",
+        "created_at": "2022-03-18T18:59:00+00:00",
+        "updated_at": "2026-11-19T04:21:18.827584+00:00"
+      },
+      {
+        "memory": "Joanna says Tilly, the stuffed animal dog given by Nate, helps her stay focused and brings her a lot of joy",
+        "score": 0.2592,
+        "id": "b2cf30b1-81a7-4e86-a532-70ab56227939",
+        "created_at": "2022-10-21T14:01:00+00:00",
+        "updated_at": "2026-11-19T05:29:54.203858+00:00"
+      },
+      {
+        "memory": "Joanna (Joanna) expressed that staying happy and de‑stressing is important and encouraged Nate to keep doing what makes him happy",
+        "score": 0.2588,
+        "id": "e7dcfc45-6b71-48a9-9766-b9eb699e6b94",
+        "created_at": "2022-10-09T10:58:00+00:00",
+        "updated_at": "2026-11-19T05:26:40.190087+00:00"
+      },
+      {
+        "memory": "Joanna wishes to try Nate's dessert but cannot at the moment",
+        "score": 0.2585,
+        "id": "6f468c3e-db3f-472c-a5c6-f27b74a111a1",
+        "created_at": "2022-11-09T17:54:00+00:00",
+        "updated_at": "2026-11-19T05:44:20.970767+00:00"
+      },
+      {
+        "memory": "Joanna is interested in dairy‑free desserts and asks for favorite flavor suggestions",
+        "score": 0.2582,
+        "id": "1490fcea-d954-494e-b70b-85949fa65ff5",
+        "created_at": "2022-02-07T09:27:00+00:00",
+        "updated_at": "2026-11-19T04:12:19.051164+00:00"
+      },
+      {
+        "memory": "Joanna (Joanna) expressed that she is glad Nate met people who share his interests, noting that it makes experiences more fun",
+        "score": 0.2581,
+        "id": "e7b79722-42ef-4067-a92e-86b5fdc8feb4",
+        "created_at": "2022-10-09T10:58:00+00:00",
+        "updated_at": "2026-11-19T05:25:29.846269+00:00"
+      },
+      {
+        "memory": "Joanna has a stuffed animal dog that Nate gave her, named Tilly, and she keeps it with her while she writes",
+        "score": 0.2575,
+        "id": "ec3dad0f-4eaf-498a-97e3-c3ccf1b180a1",
+        "created_at": "2022-10-21T14:01:00+00:00",
+        "updated_at": "2026-11-19T05:29:30.767010+00:00"
+      },
+      {
+        "memory": "Joanna (Joanna) says she wants to try making coconut milk ice cream herself or visit Nate to try his version",
+        "score": 0.2574,
+        "id": "f05e7064-516d-4db3-9dc1-dee956bbec42",
+        "created_at": "2022-02-07T09:27:00+00:00",
+        "updated_at": "2026-11-19T04:13:41.920744+00:00"
+      },
+      {
+        "memory": "Joanna says she finds Nate's thought cute and loves it",
+        "score": 0.2563,
+        "id": "957873b4-40e2-4f46-a5b3-5f095e230054",
+        "created_at": "2022-05-25T15:00:00+00:00",
+        "updated_at": "2026-11-19T04:54:12.869467+00:00"
+      },
+      {
+        "memory": "Nate says Joanna makes desserts that work for everyone's diets",
+        "score": 0.2562,
+        "id": "7b6bd701-f228-4ebb-ae66-e5cdabde6cc8",
+        "created_at": "2022-09-05T18:03:00+00:00",
+        "updated_at": "2026-11-19T05:17:19.715371+00:00"
+      },
+      {
+        "memory": "Joanna hasn't seen pictures of Nate's turtles in a while",
+        "score": 0.2561,
+        "id": "a4fc11c3-04a7-494c-93d8-d46604492938",
+        "created_at": "2022-11-07T20:10:00+00:00",
+        "updated_at": "2026-11-19T05:39:21.628463+00:00"
+      },
+      {
+        "memory": "Joanna agreed to see Nate later",
+        "score": 0.2559,
+        "id": "19cf38a8-152c-4b57-a99d-af6e432fb65e",
+        "created_at": "2022-05-12T15:35:00+00:00",
+        "updated_at": "2026-11-19T04:43:35.491889+00:00"
+      },
+      {
+        "memory": "Nate said Joanna is talented at making dairy-free desserts",
+        "score": 0.2535,
+        "id": "135e85e4-68f7-491c-ad6f-a9045a31e084",
+        "created_at": "2022-05-02T11:54:00+00:00",
+        "updated_at": "2026-11-19T04:40:11.455907+00:00"
+      },
+      {
+        "memory": "Joanna thanks Nate for his help and says she will keep trying new things",
+        "score": 0.2528,
+        "id": "daf3d384-e616-4eba-8148-95dec11b070f",
+        "created_at": "2022-05-02T11:54:00+00:00",
+        "updated_at": "2026-11-19T04:40:43.264231+00:00"
+      },
+      {
+        "memory": "Joanna (Joanna) expressed excitement about seeing Nate's upcoming project, describing it as liberating, and asked him how he was feeling",
+        "score": 0.2524,
+        "id": "1a94fa30-6f5f-4e58-8ac8-239abee15a62",
+        "created_at": "2022-04-15T19:37:00+00:00",
+        "updated_at": "2026-11-19T04:27:39.981363+00:00"
+      },
+      {
+        "memory": "Joanna is excited to surprise her family with something delicious",
+        "score": 0.2523,
+        "id": "74713043-0790-4daa-95a0-533821638516",
+        "created_at": "2022-08-14T18:12:00+00:00",
+        "updated_at": "2026-11-19T05:11:06.267324+00:00"
+      },
+      {
+        "memory": "Joanna is grateful for her supportive friends",
+        "score": 0.2519,
+        "id": "422ee115-34aa-4566-a884-7152fbd20bc2",
+        "created_at": "2022-05-20T19:49:00+00:00",
+        "updated_at": "2026-11-19T04:45:41.552839+00:00"
+      },
+      {
+        "memory": "Joanna feels that the recent period has been a good ride",
+        "score": 0.2516,
+        "id": "931a747b-61cf-4722-b9e4-5c966ec83b7f",
+        "created_at": "2022-03-24T13:43:00+00:00",
+        "updated_at": "2026-11-19T04:25:08.690862+00:00"
+      },
+      {
+        "memory": "Joanna (Joanna) expressed that being busy can be tiring but rewarding and encouraged Nate to keep it up, noting he seems to be loving life right now",
+        "score": 0.251,
+        "id": "cbd6d9f0-8c23-4ea7-b463-9c96fcfebbc1",
+        "created_at": "2022-11-07T20:10:00+00:00",
+        "updated_at": "2026-11-19T05:39:07.310251+00:00"
+      },
+      {
+        "memory": "Joanna finds her meetings exciting",
+        "score": 0.2506,
+        "id": "fd6199a2-0958-4cc1-92e2-ee5ced610def",
+        "created_at": "2022-11-04T15:56:00+00:00",
+        "updated_at": "2026-11-19T05:36:52.343965+00:00"
+      },
+      {
+        "memory": "Joanna thanks Nate, says she loves his ideas and is eager to try them out",
+        "score": 0.2502,
+        "id": "52f689a7-2b76-429d-b426-5d04e777c3d3",
+        "created_at": "2022-09-05T18:03:00+00:00",
+        "updated_at": "2026-11-19T05:18:43.261778+00:00"
+      }
+    ],
+    "search_latency_ms": 467.5,
+    "total_results": 50
+  },
+  "cutoff_results": {
+    "top_50": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "A pet fish. She reacts to reptiles and any animals with fur, so an aquarium fish wouldn’t cause her discomfort.",
+      "memories_evaluated": 50,
+      "reason": "The generated answer mentions a pet fish instead of hairless cats or pigs from the gold answer, so none of the correct items appear."
+    }
+  }
+}

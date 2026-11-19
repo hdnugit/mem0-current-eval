@@ -1,0 +1,389 @@
+{
+  "question_id": "conv8_q19",
+  "conversation_idx": 8,
+  "category": 3,
+  "category_name": "open-domain",
+  "question": "Considering their conversations and personal growth, what advice might Evan and Sam give to someone facing a major life transition or challenge?",
+  "ground_truth_answer": "Evan and Sam would likely advise embracing small, consistent changes​​, finding stress-relieving activities like hiking​​, painting, and road trips​​, and the importance of friendship and support in navigating challenges​​.",
+  "evidence": [
+    "D3:10",
+    "D3:15",
+    "D22:1",
+    "D8:17",
+    "D8:22",
+    "D9:8",
+    "D9:11",
+    "D14:7",
+    "D14:12",
+    "D12:7",
+    "D12:11"
+  ],
+  "user_id": "locomo_8_fe8ec031",
+  "reference_date": "9:37 pm on 11 January, 2024",
+  "retrieval": {
+    "search_query": "Considering their conversations and personal growth, what advice might Evan and Sam give to someone facing a major life transition or challenge?",
+    "search_results": [
+      {
+        "memory": "Evan apologized for missing events, explaining he has faced personal challenges since their last conversation",
+        "score": 0.6275,
+        "id": "b8744d93-4006-4085-b0be-efedd8a8f9d7",
+        "created_at": "2023-11-09T21:13:00+00:00",
+        "updated_at": "2026-11-19T05:04:29.376618+00:00"
+      },
+      {
+        "memory": "Evan asked Sam what advice he is planning to get from the doctor",
+        "score": 0.589,
+        "id": "bdbe428e-8869-43b3-a811-62c80e4e0015",
+        "created_at": "2024-01-10T00:17:00+00:00",
+        "updated_at": "2026-11-19T05:35:40.195795+00:00"
+      },
+      {
+        "memory": "Sam thanked Evan, said he would take Evan's advice, and noted that trying new things can be difficult",
+        "score": 0.5584,
+        "id": "e0d65b76-ff75-4ef0-ac7f-840f27069140",
+        "created_at": "2023-12-17T18:48:00+00:00",
+        "updated_at": "2026-11-19T05:20:14.481573+00:00"
+      },
+      {
+        "memory": "Evan expressed empathy to Sam about his health challenges, noted that Sam stays positive, and reminded Sam to take care of himself",
+        "score": 0.5326,
+        "id": "dd6a323e-5581-414e-8046-725beb7c4e0f",
+        "created_at": "2024-01-11T21:37:00+00:00",
+        "updated_at": "2026-11-19T05:39:04.636692+00:00"
+      },
+      {
+        "memory": "Evan encourages Sam to appreciate the little things in life",
+        "score": 0.525,
+        "id": "589609e7-1290-4c3d-81f7-95b6a27c2ac5",
+        "created_at": "2023-11-21T19:30:00+00:00",
+        "updated_at": "2026-11-19T05:09:07.768736+00:00"
+      },
+      {
+        "memory": "Evan notes that both he and Sam are being compelled to take better care of their health after recent challenges",
+        "score": 0.5111,
+        "id": "df7d5e91-4136-41b4-9c8d-31d46b0c48bc",
+        "created_at": "2023-08-15T16:20:00+00:00",
+        "updated_at": "2026-11-19T04:30:11.751177+00:00"
+      },
+      {
+        "memory": "Evan offered to support Sam in his health journey, expressing willingness to help with Sam's health challenges",
+        "score": 0.4967,
+        "id": "fc1ae038-a016-4bc0-b476-14ab2b6f8d8e",
+        "created_at": "2023-05-24T19:11:00+00:00",
+        "updated_at": "2026-11-19T04:07:48.050206+00:00"
+      },
+      {
+        "memory": "Evan praised Sam for having a health plan and being dedicated to staying healthy, and asked Sam whether he has consulted his doctor for additional diet and exercise advice",
+        "score": 0.4392,
+        "id": "03d4415a-d424-409f-97a4-b803aef695c3",
+        "created_at": "2024-01-10T00:17:00+00:00",
+        "updated_at": "2026-11-19T05:35:24.362525+00:00"
+      },
+      {
+        "memory": "Sam said he started thinking about ways to cope with the situation after talking with Evan, but finds it challenging.",
+        "score": 0.4206,
+        "id": "afbba258-c462-4a45-93f9-f85c4f588308",
+        "created_at": "2023-12-17T18:48:00+00:00",
+        "updated_at": "2026-11-19T05:18:15.523665+00:00"
+      },
+      {
+        "memory": "Evan encourages Sam, telling him it's tough at first but he can do it",
+        "score": 0.3794,
+        "id": "867ff2a1-06f2-4e65-96f2-68df4273420b",
+        "created_at": "2023-07-27T10:52:00+00:00",
+        "updated_at": "2026-11-19T04:16:58.777113+00:00"
+      },
+      {
+        "memory": "Evan offered to help Sam after hearing about Sam's tough week",
+        "score": 0.3772,
+        "id": "0719f850-0754-41f6-b193-dbb6e4fff851",
+        "created_at": "2023-05-24T19:11:00+00:00",
+        "updated_at": "2026-11-19T04:07:28.510903+00:00"
+      },
+      {
+        "memory": "Evan thanked Sam for the suggestion",
+        "score": 0.3756,
+        "id": "3fc07b4f-6860-4c60-87c6-e47707498778",
+        "created_at": "2023-12-05T20:16:00+00:00",
+        "updated_at": "2026-11-19T05:13:39.503469+00:00"
+      },
+      {
+        "memory": "Evan tells Sam he'll be there for him and advises him to take it slow and treat himself",
+        "score": 0.3746,
+        "id": "5568d322-084b-4766-bae0-845aef6bb18c",
+        "created_at": "2023-10-25T14:56:00+00:00",
+        "updated_at": "2026-11-19T04:58:18.997914+00:00"
+      },
+      {
+        "memory": "Evan thanked Sam for his encouragement",
+        "score": 0.3723,
+        "id": "59c9640c-346d-4143-8aff-7a868407d9ae",
+        "created_at": "2023-08-27T10:18:00+00:00",
+        "updated_at": "2026-11-19T04:40:14.225487+00:00"
+      },
+      {
+        "memory": "Sam expressed excitement about going on a hike with Evan, calling it a fun challenge and a chance to appreciate the beauty of nature.",
+        "score": 0.3658,
+        "id": "a5ba49e9-3777-4e9d-822a-fe563d2788e9",
+        "created_at": "2023-10-17T13:50:00+00:00",
+        "updated_at": "2026-11-19T04:56:19.740669+00:00"
+      },
+      {
+        "memory": "Evan says his bond with Sam keeps getting stronger, bringing a good feeling to their lives, and emphasizes that family is everything",
+        "score": 0.3653,
+        "id": "bf9c94a6-7a8d-4650-b719-d966cd90e19b",
+        "created_at": "2024-01-06T13:32:00+00:00",
+        "updated_at": "2026-11-19T05:29:51.684474+00:00"
+      },
+      {
+        "memory": "Evan expressed that he is glad to help Sam and hopes Sam enjoys it",
+        "score": 0.3641,
+        "id": "bbbb74a0-75b0-4632-a493-53092ce46092",
+        "created_at": "2023-12-31T11:00:00+00:00",
+        "updated_at": "2026-11-19T05:28:24.649551+00:00"
+      },
+      {
+        "memory": "Evan appreciates Sam's concern and thanks him",
+        "score": 0.3615,
+        "id": "f0ddae15-98d7-4029-a87a-d7f61e021854",
+        "created_at": "2023-08-27T10:18:00+00:00",
+        "updated_at": "2026-11-19T04:38:55.990082+00:00"
+      },
+      {
+        "memory": "Sam recommended low-impact exercises or physical therapy to stay active when facing an obstacle",
+        "score": 0.3612,
+        "id": "1b328a37-d0b6-49d3-adc3-e6619bf8acec",
+        "created_at": "2023-08-27T10:18:00+00:00",
+        "updated_at": "2026-11-19T04:39:07.628352+00:00"
+      },
+      {
+        "memory": "Evan believes in Sam and encourages him to take small steps",
+        "score": 0.3609,
+        "id": "02257016-f5b4-4c5e-b310-fb63de5e3ba7",
+        "created_at": "2023-11-21T19:30:00+00:00",
+        "updated_at": "2026-11-19T05:08:17.164076+00:00"
+      },
+      {
+        "memory": "Evan (Evan) expressed interest in receiving Sam's recipe and thanked Sam for sharing it",
+        "score": 0.3599,
+        "id": "49164833-c39a-494c-abec-0acac3b012ba",
+        "created_at": "2023-08-19T18:17:00+00:00",
+        "updated_at": "2026-11-19T04:34:46.410150+00:00"
+      },
+      {
+        "memory": "Evan told Sam that Sam has come a long way in his quest for better health and expressed excitement about what comes next for Sam",
+        "score": 0.3571,
+        "id": "925a352d-b635-424e-9b83-10454f8b80e0",
+        "created_at": "2023-11-09T21:13:00+00:00",
+        "updated_at": "2026-11-19T05:02:54.510865+00:00"
+      },
+      {
+        "memory": "Evan greeted Sam, noting it had been a while since they last talked and hoping Sam is doing well",
+        "score": 0.3563,
+        "id": "c176400a-4583-4c23-ad68-12fcbcddc636",
+        "created_at": "2023-10-14T16:07:00+00:00",
+        "updated_at": "2026-11-19T04:51:15.102189+00:00"
+      },
+      {
+        "memory": "Evan expressed hope that Sam is doing well",
+        "score": 0.3553,
+        "id": "eaeaefc8-d41a-438c-b46b-d859fa39d62e",
+        "created_at": "2024-01-10T00:17:00+00:00",
+        "updated_at": "2026-11-19T05:33:52.391513+00:00"
+      },
+      {
+        "memory": "Sam offered to accompany Evan to the store and suggested Evan call him there",
+        "score": 0.3543,
+        "id": "b72ffe60-943f-463e-98f9-1b790fec36fd",
+        "created_at": "2023-12-31T11:00:00+00:00",
+        "updated_at": "2026-11-19T05:28:58.294363+00:00"
+      },
+      {
+        "memory": "Evan told Sam to go to bed and take care",
+        "score": 0.3521,
+        "id": "dd98243a-ba71-4742-ab13-9a86b8c268ad",
+        "created_at": "2023-08-13T16:09:00+00:00",
+        "updated_at": "2026-11-19T04:28:21.643756+00:00"
+      },
+      {
+        "memory": "Evan says he is ready for an adventure and asks Sam where they will go",
+        "score": 0.3516,
+        "id": "dfcec374-a988-42d2-9b4b-d7b2384f1b57",
+        "created_at": "2023-10-14T16:07:00+00:00",
+        "updated_at": "2026-11-19T04:53:40.860072+00:00"
+      },
+      {
+        "memory": "Sam encouraged Evan, saying he will get through this",
+        "score": 0.3499,
+        "id": "aa0152aa-400d-4a1a-b57d-72ecf9420cc8",
+        "created_at": "2023-11-09T21:13:00+00:00",
+        "updated_at": "2026-11-19T05:05:17.715546+00:00"
+      },
+      {
+        "memory": "Evan encouraged Sam to be patient with himself, emphasized that Sam's health matters, and urged him to stay upbeat and keep going",
+        "score": 0.3498,
+        "id": "f553ec21-3303-41f5-9cc7-5b86e32f009e",
+        "created_at": "2023-10-08T15:09:00+00:00",
+        "updated_at": "2026-11-19T04:49:27.441655+00:00"
+      },
+      {
+        "memory": "Sam says Evan is doing great and Sam wants to feel the same sense of freedom",
+        "score": 0.3496,
+        "id": "c6263835-959e-4854-a7c5-ae19a02b5195",
+        "created_at": "2023-10-25T14:56:00+00:00",
+        "updated_at": "2026-11-19T05:01:33.916944+00:00"
+      },
+      {
+        "memory": "Evan offered Sam support, asking if Sam needs any help or wants to share anything",
+        "score": 0.3494,
+        "id": "af61b5ce-cb5e-430c-9ca4-4b792c2d50af",
+        "created_at": "2023-11-09T21:13:00+00:00",
+        "updated_at": "2026-11-19T05:04:29.376618+00:00"
+      },
+      {
+        "memory": "Evan (Evan) is super pumped for Sam and plans to catch up soon to see how Sam is enjoying his new hobbies",
+        "score": 0.3479,
+        "id": "3e65df91-38a5-4569-9034-c85044b4005b",
+        "created_at": "2023-05-18T13:47:00+00:00",
+        "updated_at": "2026-11-19T04:06:05.974047+00:00"
+      },
+      {
+        "memory": "Evan thanks Sam, says Sam's support means a lot and that he appreciates having Sam to talk to, noting it’s been quite a ride, and adds he will reach out if he needs anything.",
+        "score": 0.3459,
+        "id": "64155558-15c1-4be6-910d-466499e302e4",
+        "created_at": "2023-11-09T21:13:00+00:00",
+        "updated_at": "2026-11-19T05:05:28.247733+00:00"
+      },
+      {
+        "memory": "Evan expressed gratitude to Sam, saying Sam's kind words and support mean a lot and that it's great to have Sam here",
+        "score": 0.3441,
+        "id": "c0cf95af-ad1a-4d5b-b6ae-492915eff82e",
+        "created_at": "2023-11-09T21:13:00+00:00",
+        "updated_at": "2026-11-19T05:05:50.169548+00:00"
+      },
+      {
+        "memory": "Sam says Evan looks great and asks how Evan managed the change",
+        "score": 0.3414,
+        "id": "4fde90da-dc47-4607-9efb-f519ed4a79ee",
+        "created_at": "2023-10-25T14:56:00+00:00",
+        "updated_at": "2026-11-19T05:00:00.897491+00:00"
+      },
+      {
+        "memory": "Evan says Sam's support means a lot and that he will keep Sam updated",
+        "score": 0.3406,
+        "id": "b1d6d43b-9392-4df4-88ea-aae9fa244593",
+        "created_at": "2023-12-09T13:45:00+00:00",
+        "updated_at": "2026-11-19T05:17:15.208418+00:00"
+      },
+      {
+        "memory": "Evan expresses appreciation for Sam's support during this difficult period",
+        "score": 0.3401,
+        "id": "8edc9f27-bd8b-421c-8d19-8284012ad660",
+        "created_at": "2023-11-09T21:13:00+00:00",
+        "updated_at": "2026-11-19T05:04:48.523794+00:00"
+      },
+      {
+        "memory": "Evan tells Sam to enjoy his time in nature and to take care",
+        "score": 0.3379,
+        "id": "70606643-69ec-4bb8-a7e6-850c156b4e8d",
+        "created_at": "2023-08-27T10:18:00+00:00",
+        "updated_at": "2026-11-19T04:41:02.334898+00:00"
+      },
+      {
+        "memory": "Evan praised Sam for sticking to his health routine and asked if Sam has noticed any positive changes",
+        "score": 0.3364,
+        "id": "33017013-8543-4dbc-aea2-eb2988dbbca1",
+        "created_at": "2023-08-19T18:17:00+00:00",
+        "updated_at": "2026-11-19T04:33:54.140832+00:00"
+      },
+      {
+        "memory": "Evan advised Sam to find something that motivates them and makes them happy, whether large or tiny, to help conquer struggles",
+        "score": 0.336,
+        "id": "c22250f2-c77c-413d-a3e6-a147f96979b8",
+        "created_at": "2023-08-07T19:52:00+00:00",
+        "updated_at": "2026-11-19T04:22:44.663828+00:00"
+      },
+      {
+        "memory": "Evan told Sam that with a little more practice he could learn to control his dreams and asked Sam to let him know once he gets the hang of it, while also encouraging Sam to enjoy fresh air and the views.",
+        "score": 0.3358,
+        "id": "51fd6272-d894-4781-a1d6-74b94c73be8d",
+        "created_at": "2024-01-10T00:17:00+00:00",
+        "updated_at": "2026-11-19T05:37:44.594974+00:00"
+      },
+      {
+        "memory": "Evan told Sam that progress takes time and encouraged him to keep pushing",
+        "score": 0.335,
+        "id": "fb447092-796c-4aa7-9008-39c608a04de7",
+        "created_at": "2023-11-21T19:30:00+00:00",
+        "updated_at": "2026-11-19T05:10:19.851182+00:00"
+      },
+      {
+        "memory": "Sam said his journey has been a difficult road, acknowledging the challenges he has faced",
+        "score": 0.3342,
+        "id": "a1b57d16-2457-46ba-8a96-ed75b16a33e7",
+        "created_at": "2023-11-09T21:13:00+00:00",
+        "updated_at": "2026-11-19T05:04:15.541177+00:00"
+      },
+      {
+        "memory": "Evan encouraged Sam, saying \"C'mon, keep it up! Every little bit counts, you'll get there!\"",
+        "score": 0.3342,
+        "id": "c7cab6c9-d649-41ab-bafc-4ee638125e1e",
+        "created_at": "2023-06-06T15:55:00+00:00",
+        "updated_at": "2026-11-19T04:12:55.663680+00:00"
+      },
+      {
+        "memory": "Evan expressed his support for Sam and emphasized that surrounding oneself with caring people is essential, asking Sam what is written on the motivational note.",
+        "score": 0.3339,
+        "id": "7ba716db-4385-4e2d-9820-171f612b3651",
+        "created_at": "2023-08-13T16:09:00+00:00",
+        "updated_at": "2026-11-19T04:25:47.796078+00:00"
+      },
+      {
+        "memory": "Sam offered to talk to Evan or help him if needed",
+        "score": 0.333,
+        "id": "6f145ced-31a1-4936-a196-d08d47a15d30",
+        "created_at": "2023-11-09T21:13:00+00:00",
+        "updated_at": "2026-11-19T05:05:17.715546+00:00"
+      },
+      {
+        "memory": "Sam thanked Evan for the recommendation",
+        "score": 0.3318,
+        "id": "6fdf1302-048f-483c-bcb0-37c9cd6f892c",
+        "created_at": "2023-08-07T19:52:00+00:00",
+        "updated_at": "2026-11-19T04:22:59.627037+00:00"
+      },
+      {
+        "memory": "Sam recommended that Evan stay safe",
+        "score": 0.331,
+        "id": "e26d584f-2881-47d2-ad2e-4a313778eedb",
+        "created_at": "2023-12-31T11:00:00+00:00",
+        "updated_at": "2026-11-19T05:26:51.942306+00:00"
+      },
+      {
+        "memory": "Evan says that tough times are easier with reliable friends and that he and Sam have each other for support",
+        "score": 0.3275,
+        "id": "b6ba877c-14fe-49c5-a08c-eba75f391914",
+        "created_at": "2023-11-21T19:30:00+00:00",
+        "updated_at": "2026-11-19T05:09:36.926494+00:00"
+      },
+      {
+        "memory": "Evan suggested Sam check out a dream interpretation book for insights after Sam described an amazing dream",
+        "score": 0.3271,
+        "id": "88a8d2ee-58ab-4100-8e4b-c891f6643e0f",
+        "created_at": "2023-08-13T16:09:00+00:00",
+        "updated_at": "2026-11-19T04:27:41.083270+00:00"
+      }
+    ],
+    "search_latency_ms": 588.2,
+    "total_results": 50
+  },
+  "cutoff_results": {
+    "top_50": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "- Start small and be patient with yourself—progress takes time and every little bit counts.\n- Make a simple plan and get professional guidance when needed (e.g., ask your doctor about diet and exercise).\n- Keep moving even when it’s hard—choose low‑impact options or physical therapy to stay active.\n- Practice self‑care: rest, pace yourself, and treat yourself kindly.\n- Lean on your support system—surround yourself with caring friends and family, accept help, and offer it in return.\n- Find what motivates you and sparks joy (even tiny things), and celebrate small wins.\n- Spend time in nature—fresh air and a walk or hike can turn a hard moment into a re‑centering “mini‑adventure.”\n- Stay positive and resilient—remind yourself how far you’ve come and keep going.\n- Be open to trying new tools and ideas that help you cope and learn (from books to practical techniques).\n- Stay safe and practical—take it slow, adjust as needed, and keep checking in with yourself.",
+      "memories_evaluated": 50,
+      "reason": "The generated answer includes embracing small, consistent changes, emphasizes leaning on friends and support, and specifically mentions hiking/nature as stress relief, all aligning with the gold answer’s key points."
+    }
+  }
+}

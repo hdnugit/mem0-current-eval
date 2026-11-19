@@ -1,0 +1,379 @@
+{
+  "question_id": "conv7_q40",
+  "conversation_idx": 7,
+  "category": 3,
+  "category_name": "open-domain",
+  "question": "Does Deborah live close to the beach or the mountains?",
+  "ground_truth_answer": "beach",
+  "evidence": [
+    "D10:17"
+  ],
+  "user_id": "locomo_7_fe8ec031",
+  "reference_date": "10:17 am on 20 September, 2023",
+  "retrieval": {
+    "search_query": "Does Deborah live close to the beach or the mountains?",
+    "search_results": [
+      {
+        "memory": "Deborah believes that memories keep loved ones close",
+        "score": 0.5679,
+        "id": "2e3601a1-329e-4d1e-806b-da75eb9da080",
+        "created_at": "2023-02-22T16:12:00+00:00",
+        "updated_at": "2026-11-19T04:24:01.647382+00:00"
+      },
+      {
+        "memory": "Deborah walks on the beach with a surfboard, as shown in a shared photo",
+        "score": 0.5423,
+        "id": "d6687412-59df-40ef-a834-7807188eee26",
+        "created_at": "2023-07-09T19:37:00+00:00",
+        "updated_at": "2026-11-19T04:56:56.971184+00:00"
+      },
+      {
+        "memory": "Deborah shared a photo showing a mountain range with a colorful sunset in the background",
+        "score": 0.4907,
+        "id": "85bea374-b27f-442e-b541-f6a4abadd430",
+        "created_at": "2023-08-24T09:34:00+00:00",
+        "updated_at": "2026-11-19T05:20:39.541879+00:00"
+      },
+      {
+        "memory": "Deborah shared a photo from her classes showing a woman doing a yoga pose on the beach",
+        "score": 0.4712,
+        "id": "ee676c15-4862-4f6b-801c-1d3ae6acd63a",
+        "created_at": "2023-09-15T15:09:00+00:00",
+        "updated_at": "2026-11-19T05:48:58.955014+00:00"
+      },
+      {
+        "memory": "Deborah believes that love and openness have kept her and her partner close for many years, making both of them happy",
+        "score": 0.4695,
+        "id": "72856a48-3a27-49bb-b803-19bea6fd0b64",
+        "created_at": "2023-01-27T09:49:00+00:00",
+        "updated_at": "2026-11-19T04:05:31.292542+00:00"
+      },
+      {
+        "memory": "Deborah shared a photo showing a swing on a Bali beach under a blue sky",
+        "score": 0.4588,
+        "id": "a65aeb57-55f8-42fd-a567-99cef5e9a812",
+        "created_at": "2023-02-22T16:12:00+00:00",
+        "updated_at": "2026-11-19T04:24:17.373559+00:00"
+      },
+      {
+        "memory": "Deborah shared a photo showing a group of people doing yoga on a beach at sunset",
+        "score": 0.4551,
+        "id": "2bf177c8-0825-4513-89d5-2f5091e90a08",
+        "created_at": "2023-08-16T14:58:00+00:00",
+        "updated_at": "2026-11-19T05:09:12.600398+00:00"
+      },
+      {
+        "memory": "Deborah says the beach is super special because it is where she got married and discovered her love for surfing, and it is always filled with joy and peace",
+        "score": 0.4358,
+        "id": "6dfb64e1-2368-45ea-824e-cf77edb9d65c",
+        "created_at": "2023-09-15T15:09:00+00:00",
+        "updated_at": "2026-11-19T05:48:49.819895+00:00"
+      },
+      {
+        "memory": "Deborah loves going to a park near her house that has a forest trail and a beach, where she does yoga and reflects, and it features a special bench that holds special meaning for her",
+        "score": 0.4075,
+        "id": "6b91ba06-c02e-4fa5-87e0-dbe54cae3fa4",
+        "created_at": "2023-08-19T00:52:00+00:00",
+        "updated_at": "2026-11-19T05:13:33.334570+00:00"
+      },
+      {
+        "memory": "Deborah shared a photo of an ancient temple sunrise showing a large stone structure with a mountain in the background",
+        "score": 0.3999,
+        "id": "19b3f520-c66e-47c0-bc2f-8f4973971873",
+        "created_at": "2023-08-30T11:46:00+00:00",
+        "updated_at": "2026-11-19T05:33:32.372374+00:00"
+      },
+      {
+        "memory": "Deborah finds the ocean, sand, and fresh air on the beach create a super relaxing atmosphere and considers it the perfect way to take care of herself",
+        "score": 0.3993,
+        "id": "8ec02e9d-fc04-4cf8-80f7-c99c4c4bd382",
+        "created_at": "2023-09-15T15:09:00+00:00",
+        "updated_at": "2026-11-19T05:49:19.935628+00:00"
+      },
+      {
+        "memory": "Deborah reached out to nearby businesses and venues to organize a community event that featured yoga sessions, food stalls, and live music, describing the experience as amazing.",
+        "score": 0.3763,
+        "id": "d5396f92-5ac7-4550-a545-4ab890cc290a",
+        "created_at": "2023-08-19T00:52:00+00:00",
+        "updated_at": "2026-11-19T05:10:51.859227+00:00"
+      },
+      {
+        "memory": "Deborah (Deborah) felt fond memories while relaxing outside",
+        "score": 0.3568,
+        "id": "dd82b336-8204-4027-9fd2-46d326916ab0",
+        "created_at": "2023-08-30T11:46:00+00:00",
+        "updated_at": "2026-11-19T05:30:49.831699+00:00"
+      },
+      {
+        "memory": "Deborah's mother had a special bench near the window in her house where she liked to sit each morning, and Deborah sometimes sits there now to feel connected to her",
+        "score": 0.3194,
+        "id": "d71a5f94-da35-42d6-8963-491b027faffd",
+        "created_at": "2023-01-23T16:06:00+00:00",
+        "updated_at": "2026-11-19T04:03:30.383707+00:00"
+      },
+      {
+        "memory": "Deborah spends evenings with loved ones",
+        "score": 0.319,
+        "id": "7bf39d49-bf62-48ef-b54e-815b6e95172c",
+        "created_at": "2023-02-25T16:50:00+00:00",
+        "updated_at": "2026-11-19T04:28:57.289489+00:00"
+      },
+      {
+        "memory": "Deborah described the picture as peaceful",
+        "score": 0.3036,
+        "id": "290fdf5b-3ea8-4904-a025-3ce9cc317bce",
+        "created_at": "2023-09-08T19:39:00+00:00",
+        "updated_at": "2026-11-19T05:43:45.168657+00:00"
+      },
+      {
+        "memory": "Deborah attended a yoga session in a park",
+        "score": 0.303,
+        "id": "b1cc6029-c12b-402d-8ac0-038eb7b37765",
+        "created_at": "2023-02-01T19:03:00+00:00",
+        "updated_at": "2026-11-19T04:11:24.293532+00:00"
+      },
+      {
+        "memory": "Deborah's friend will never be able to support her and she misses him",
+        "score": 0.3027,
+        "id": "da5f6dd5-e613-4d0b-8ce0-529f571e22a8",
+        "created_at": "2023-08-30T11:46:00+00:00",
+        "updated_at": "2026-11-19T05:34:48.633209+00:00"
+      },
+      {
+        "memory": "Deborah's mother had a great passion for travel",
+        "score": 0.3011,
+        "id": "21fc4197-fa29-49ff-ace9-c52ab29640e4",
+        "created_at": "2023-01-27T09:49:00+00:00",
+        "updated_at": "2026-11-19T04:07:10.142892+00:00"
+      },
+      {
+        "memory": "Deborah asked Jolene where she usually goes to relax in her house",
+        "score": 0.3006,
+        "id": "269e2ac4-b828-4851-bf81-ef79d10b34ab",
+        "created_at": "2023-09-15T15:09:00+00:00",
+        "updated_at": "2026-11-19T05:50:35.791053+00:00"
+      },
+      {
+        "memory": "Deborah has a pet that brightens her life and brings her comfort",
+        "score": 0.3005,
+        "id": "a1877c36-0b9e-4fa7-a4e0-2d5dfda55e6c",
+        "created_at": "2023-01-27T09:49:00+00:00",
+        "updated_at": "2026-11-19T04:07:24.864657+00:00"
+      },
+      {
+        "memory": "Deborah noted that Jolene has a place where she can relax and tune out",
+        "score": 0.3003,
+        "id": "e5ad6bda-7a24-4de9-b1ac-1157d586d4fd",
+        "created_at": "2023-07-09T19:37:00+00:00",
+        "updated_at": "2026-11-19T04:59:18.003897+00:00"
+      },
+      {
+        "memory": "Anna wears a pendant in memory of her mother, and this has brought her closer to Deborah",
+        "score": 0.2986,
+        "id": "13bbda80-7fc7-4b54-a238-a02c5581cbec",
+        "created_at": "2023-02-04T09:48:00+00:00",
+        "updated_at": "2026-11-19T04:19:54.289190+00:00"
+      },
+      {
+        "memory": "Deborah perceives the spot as looking calm",
+        "score": 0.2984,
+        "id": "decb7423-2f73-477c-9414-8676422ee674",
+        "created_at": "2023-07-09T19:37:00+00:00",
+        "updated_at": "2026-11-19T04:58:59.228955+00:00"
+      },
+      {
+        "memory": "Deborah says she will always be by Jolene's side",
+        "score": 0.2959,
+        "id": "2e3472db-0410-41f3-8634-3bdac5f5d74a",
+        "created_at": "2023-08-24T09:34:00+00:00",
+        "updated_at": "2026-11-19T05:23:41.257302+00:00"
+      },
+      {
+        "memory": "Deborah believes that something is one of life's best parts",
+        "score": 0.295,
+        "id": "c55a1fe8-a2dd-44f5-9c0b-1d9e1105bfb4",
+        "created_at": "2023-03-13T11:22:00+00:00",
+        "updated_at": "2026-11-19T04:35:00.378896+00:00"
+      },
+      {
+        "memory": "Deborah's mother passed away a few years ago",
+        "score": 0.295,
+        "id": "0ab4d6de-4a64-40a6-83f3-9038561780dd",
+        "created_at": "2023-01-23T16:06:00+00:00",
+        "updated_at": "2026-11-19T04:03:14.737379+00:00"
+      },
+      {
+        "memory": "Deborah finds the sound of waves and fresh air wonderful",
+        "score": 0.2948,
+        "id": "1d0f29c0-8dbb-4da5-805c-a43e1922e4fa",
+        "created_at": "2023-02-22T16:12:00+00:00",
+        "updated_at": "2026-11-19T04:24:32.282903+00:00"
+      },
+      {
+        "memory": "Deborah and her husband are trying to be as good a family as her parents were",
+        "score": 0.2892,
+        "id": "cefd8e79-9a54-480b-b5e7-082111dff75a",
+        "created_at": "2023-01-27T09:49:00+00:00",
+        "updated_at": "2026-11-19T04:05:16.831125+00:00"
+      },
+      {
+        "memory": "Deborah likes to visit a spot by the water near her mother's old house, where she reflects on her mother's life and finds peace",
+        "score": 0.2892,
+        "id": "53b5b419-9756-4494-af53-15d64daae98b",
+        "created_at": "2023-02-04T09:48:00+00:00",
+        "updated_at": "2026-11-19T04:17:53.568887+00:00"
+      },
+      {
+        "memory": "Deborah asks where the other went on their trip and what is something they will never forget",
+        "score": 0.2888,
+        "id": "69c00722-80ae-4691-bea2-819638f9f819",
+        "created_at": "2023-09-20T10:17:00+00:00",
+        "updated_at": "2026-11-19T05:56:32.036032+00:00"
+      },
+      {
+        "memory": "Deborah says that the photo brought back good memories",
+        "score": 0.2859,
+        "id": "fa9a2842-713c-4b96-bd7e-55df644ba93c",
+        "created_at": "2023-09-06T20:31:00+00:00",
+        "updated_at": "2026-11-19T05:41:17.046373+00:00"
+      },
+      {
+        "memory": "Deborah (Deborah) expressed enthusiasm for a special self‑discovery book and said her cozy nook for chilling is her favorite spot.",
+        "score": 0.2858,
+        "id": "a8080611-e797-4120-bd9c-33742ce808f1",
+        "created_at": "2023-09-17T13:24:00+00:00",
+        "updated_at": "2026-11-19T05:54:18.085155+00:00"
+      },
+      {
+        "memory": "Deborah shared a photo of a sunset over a body of water taken during a walk",
+        "score": 0.2847,
+        "id": "b9f71de2-4aee-47c6-83e1-baadf3ca89ec",
+        "created_at": "2023-08-21T09:11:00+00:00",
+        "updated_at": "2026-11-19T05:17:04.751578+00:00"
+      },
+      {
+        "memory": "Deborah is really thankful for all the time she had with her friend",
+        "score": 0.2846,
+        "id": "7f700f16-cd48-474e-8fe7-3a3061ca277c",
+        "created_at": "2023-08-19T00:52:00+00:00",
+        "updated_at": "2026-11-19T05:14:46.935623+00:00"
+      },
+      {
+        "memory": "Deborah finds that roses and dahlias bring her peace",
+        "score": 0.2844,
+        "id": "4fb1f5e6-2f3d-4436-91b8-8a4dab512f7c",
+        "created_at": "2023-02-22T16:12:00+00:00",
+        "updated_at": "2026-11-19T04:23:25.362498+00:00"
+      },
+      {
+        "memory": "Deborah thought the shown space looked comfy and inviting",
+        "score": 0.283,
+        "id": "3d886361-ed60-40ad-b69f-2871dc1a6e87",
+        "created_at": "2023-09-15T15:09:00+00:00",
+        "updated_at": "2026-11-19T05:50:35.791053+00:00"
+      },
+      {
+        "memory": "Deborah feels her mother's presence and finds comfort when she sits at the bench by the window in her mother's old house",
+        "score": 0.2823,
+        "id": "e5a09712-a3fe-49ae-b127-d60ce2d556b5",
+        "created_at": "2023-01-27T09:49:00+00:00",
+        "updated_at": "2026-11-19T04:06:53.509859+00:00"
+      },
+      {
+        "memory": "Deborah values exercise and nature and runs in the park every morning and evening",
+        "score": 0.2817,
+        "id": "a4ba5bba-f72d-4ac9-8a13-36491de1df05",
+        "created_at": "2023-07-09T19:37:00+00:00",
+        "updated_at": "2026-11-19T04:56:56.971184+00:00"
+      },
+      {
+        "memory": "Deborah does not like dogs",
+        "score": 0.2805,
+        "id": "2002cf49-bce5-47b0-bca2-db9a0c25f4cc",
+        "created_at": "2023-07-09T19:37:00+00:00",
+        "updated_at": "2026-11-19T04:56:39.713918+00:00"
+      },
+      {
+        "memory": "Deborah has a friend named Karlie",
+        "score": 0.2805,
+        "id": "5f8ce6dc-66b2-4683-b0c7-940cfc561919",
+        "created_at": "2023-02-22T16:12:00+00:00",
+        "updated_at": "2026-11-19T04:24:01.647382+00:00"
+      },
+      {
+        "memory": "Deborah is always drawn to animals and finds that they bring her joy",
+        "score": 0.2804,
+        "id": "2262c9e3-2577-44c9-9fc0-a9185cdc177d",
+        "created_at": "2023-06-26T09:17:00+00:00",
+        "updated_at": "2026-11-19T04:49:45.499350+00:00"
+      },
+      {
+        "memory": "Deborah refers to the house she visits as her old home and goes there occasionally, sitting by the window where her mother used to sit, which gives her peace",
+        "score": 0.28,
+        "id": "e8621c03-4a50-47f7-8f9e-86419ef9f28e",
+        "created_at": "2023-01-27T09:49:00+00:00",
+        "updated_at": "2026-11-19T04:06:21.708105+00:00"
+      },
+      {
+        "memory": "Deborah wants to eat this now",
+        "score": 0.28,
+        "id": "64875339-611d-4c74-b409-b452cc9e0315",
+        "created_at": "2023-09-17T13:24:00+00:00",
+        "updated_at": "2026-11-19T05:53:13.389390+00:00"
+      },
+      {
+        "memory": "Deborah and Anna realized that they inspire each other during their seaside sunset conversation.",
+        "score": 0.2797,
+        "id": "bc607881-b2da-42b3-abfb-4d45ba0b0585",
+        "created_at": "2023-03-22T17:35:00+00:00",
+        "updated_at": "2026-11-19T04:39:33.234561+00:00"
+      },
+      {
+        "memory": "Deborah has a pendant that reminds her of her mother",
+        "score": 0.2797,
+        "id": "2dd6d38d-4060-47d6-8edc-c2b4d3b82221",
+        "created_at": "2023-01-23T16:06:00+00:00",
+        "updated_at": "2026-11-19T04:03:42.512389+00:00"
+      },
+      {
+        "memory": "Deborah took Luna from the shelter",
+        "score": 0.2795,
+        "id": "f3315d31-2936-4b44-b52f-8d6115e3b437",
+        "created_at": "2023-08-26T17:33:00+00:00",
+        "updated_at": "2026-11-19T05:29:30.596021+00:00"
+      },
+      {
+        "memory": "Deborah's pet Max brings lots of joy and peace to their home",
+        "score": 0.2795,
+        "id": "98cf4069-ce23-41b2-ac03-795c7dea3e39",
+        "created_at": "2023-08-26T17:33:00+00:00",
+        "updated_at": "2026-11-19T05:28:38.748553+00:00"
+      },
+      {
+        "memory": "Deborah expressed that she felt something was wonderful",
+        "score": 0.2792,
+        "id": "fb18aff3-507d-48b1-ab8f-ca3a1c78a26c",
+        "created_at": "2023-02-25T16:50:00+00:00",
+        "updated_at": "2026-11-19T04:26:15.505958+00:00"
+      },
+      {
+        "memory": "Deborah's favorite spot is a peaceful sunset lake with a few trees in the water, which she uses to ponder and let things go, and she shared a photo of this lake",
+        "score": 0.2788,
+        "id": "9b7bdb95-1012-432d-ae78-a40599e032bd",
+        "created_at": "2023-08-30T11:46:00+00:00",
+        "updated_at": "2026-11-19T05:32:11.843555+00:00"
+      }
+    ],
+    "search_latency_ms": 457.6,
+    "total_results": 50
+  },
+  "cutoff_results": {
+    "top_50": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "The beach — she lives near a park by her house that includes a beach (2023-08-19).",
+      "memories_evaluated": 50,
+      "reason": "The generated answer explicitly says she lives near the beach, matching the gold answer."
+    }
+  }
+}

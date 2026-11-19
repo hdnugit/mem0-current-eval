@@ -1,0 +1,379 @@
+{
+  "question_id": "conv7_q18",
+  "conversation_idx": 7,
+  "category": 3,
+  "category_name": "open-domain",
+  "question": "In what country did Jolene buy snake Seraphim?",
+  "ground_truth_answer": "In France",
+  "evidence": [
+    "D2:24"
+  ],
+  "user_id": "locomo_7_fe8ec031",
+  "reference_date": "10:17 am on 20 September, 2023",
+  "retrieval": {
+    "search_query": "In what country did Jolene buy snake Seraphim?",
+    "search_results": [
+      {
+        "memory": "Jolene bought a new aquarium the day before yesterday and has her snake Seraphim in it, sharing new photos of Seraphim curled up in a plant‑filled area",
+        "score": 0.715,
+        "id": "ee5fcaf1-b75b-4225-abc2-105adf302884",
+        "created_at": "2023-06-26T09:17:00+00:00",
+        "updated_at": "2026-11-19T04:49:41.780489+00:00"
+      },
+      {
+        "memory": "Jolene took her snake Seraphim to the park on Sunday, February 26, 2023, and she loved it",
+        "score": 0.7107,
+        "id": "e5d11ccf-5c5b-4d25-8fd3-bab5026576ea",
+        "created_at": "2023-03-02T19:18:00+00:00",
+        "updated_at": "2026-11-19T04:31:11.727048+00:00"
+      },
+      {
+        "memory": "On January 27, 2023, Jolene was playing video games when her pet snake Seraphim slinked out of its cage and coiled up next to her, which she found funny",
+        "score": 0.6886,
+        "id": "bb2b01c6-6df4-4b1b-9134-85ba9ef76440",
+        "created_at": "2023-01-27T09:49:00+00:00",
+        "updated_at": "2026-11-19T04:07:43.287711+00:00"
+      },
+      {
+        "memory": "Jolene has snakes",
+        "score": 0.6714,
+        "id": "3f4e9435-e6a5-4ae3-8d92-3add1cb0edcd",
+        "created_at": "2023-08-26T17:33:00+00:00",
+        "updated_at": "2026-11-19T05:27:55.610654+00:00"
+      },
+      {
+        "memory": "Jolene felt love and gratitude when seeing her snake snuggled under the bed, realizing how important the snake is to her.",
+        "score": 0.6105,
+        "id": "f84adfe4-8462-4912-bc31-bf52c6c45804",
+        "created_at": "2023-07-09T19:37:00+00:00",
+        "updated_at": "2026-11-19T04:56:09.267001+00:00"
+      },
+      {
+        "memory": "Jolene's snake escaped and was found snuggling under the bed after she spent hours searching, showing how much she loves the snake.",
+        "score": 0.6007,
+        "id": "9b197534-5cfa-4a80-9223-4d184cebed43",
+        "created_at": "2023-07-09T19:37:00+00:00",
+        "updated_at": "2026-11-19T04:55:51.087617+00:00"
+      },
+      {
+        "memory": "Jolene has a snake named Susie that she says always calms her down and makes her happy",
+        "score": 0.5935,
+        "id": "8faab1b4-cfc8-4e41-ae40-aba029813d05",
+        "created_at": "2023-01-27T09:49:00+00:00",
+        "updated_at": "2026-11-19T04:07:20.587621+00:00"
+      },
+      {
+        "memory": "Jolene shared a photo showing a snake on a branch with a book",
+        "score": 0.5829,
+        "id": "5e40ee3c-07f1-4fc0-b947-7ceb5ad7b0cc",
+        "created_at": "2023-07-09T19:37:00+00:00",
+        "updated_at": "2026-11-19T04:55:05.955116+00:00"
+      },
+      {
+        "memory": "Jolene shared a photo showing a person holding a snake in a container, indicating her pet snake keeps her company",
+        "score": 0.5809,
+        "id": "6db9f1ad-bc42-4e10-8a34-304bb47ebfb2",
+        "created_at": "2023-09-15T15:09:00+00:00",
+        "updated_at": "2026-11-19T05:50:58.032860+00:00"
+      },
+      {
+        "memory": "Jolene bought her pendant in Paris around January 27, 2022",
+        "score": 0.572,
+        "id": "49a40eef-309f-4539-bdf9-d2b1dca5500b",
+        "created_at": "2023-01-27T09:49:00+00:00",
+        "updated_at": "2026-11-19T04:08:12.183971+00:00"
+      },
+      {
+        "memory": "Jolene says her snakes enjoy watching her relax and provide calm companionship",
+        "score": 0.5685,
+        "id": "231845d2-b81d-4fe9-955c-1edb6ff10e58",
+        "created_at": "2023-08-26T17:33:00+00:00",
+        "updated_at": "2026-11-19T05:28:12.871406+00:00"
+      },
+      {
+        "memory": "Jolene expressed that she wishes her snakes could run, believing they would motivate her and make activities more fun",
+        "score": 0.5412,
+        "id": "bfccd576-438f-4b34-8510-5427a526103b",
+        "created_at": "2023-07-09T19:37:00+00:00",
+        "updated_at": "2026-11-19T04:57:14.017022+00:00"
+      },
+      {
+        "memory": "Jolene says that although her snakes cannot chat or understand her, spending time with them helps her take time and be in tune with herself",
+        "score": 0.5269,
+        "id": "b26746fd-d386-4e7c-a151-ea710738bfb9",
+        "created_at": "2023-04-09T16:30:00+00:00",
+        "updated_at": "2026-11-19T04:43:42.294539+00:00"
+      },
+      {
+        "memory": "Deborah asked about a male individual named Susie or Seraphim, wondering how long he has been hanging out with Jolene",
+        "score": 0.4931,
+        "id": "13a5bbac-2ce3-4253-b44e-5d29561b7039",
+        "created_at": "2023-09-15T15:09:00+00:00",
+        "updated_at": "2026-11-19T05:51:09.012237+00:00"
+      },
+      {
+        "memory": "Jolene said the country she visited was awesome, introduced her to different kinds of yoga and their backgrounds, which increased her appreciation, and she visited many delicious cafes during the trip",
+        "score": 0.4433,
+        "id": "47a87aab-187e-496b-860a-542c3dca3526",
+        "created_at": "2023-08-30T11:46:00+00:00",
+        "updated_at": "2026-11-19T05:30:30.527151+00:00"
+      },
+      {
+        "memory": "People are surprised when they see a tamed snake",
+        "score": 0.4212,
+        "id": "04567767-8a96-4e89-97ca-de9d8d05be38",
+        "created_at": "2023-03-02T19:18:00+00:00",
+        "updated_at": "2026-11-19T04:31:50.971990+00:00"
+      },
+      {
+        "memory": "A shared photo shows a man holding a snake on his arm.",
+        "score": 0.345,
+        "id": "cda34fdb-f299-487e-9640-ef4dd109e9b9",
+        "created_at": "2023-08-01T09:26:00+00:00",
+        "updated_at": "2026-11-19T05:00:19.690080+00:00"
+      },
+      {
+        "memory": "The image shared on January 27, 2023 shows a snake sticking its head out of a blanket",
+        "score": 0.3101,
+        "id": "aef4579d-4e5a-487d-939a-7d41516edc41",
+        "created_at": "2023-01-27T09:49:00+00:00",
+        "updated_at": "2026-11-19T04:07:43.287711+00:00"
+      },
+      {
+        "memory": "Jolene bought a black Xbox console as a gift for her partner on August 17, 2023",
+        "score": 0.2973,
+        "id": "0020adf1-674a-4930-a576-bef7f42117d6",
+        "created_at": "2023-08-19T00:52:00+00:00",
+        "updated_at": "2026-11-19T05:10:24.518128+00:00"
+      },
+      {
+        "memory": "Jolene experimented with a method and found it really helped her",
+        "score": 0.2756,
+        "id": "e2d7eaf1-8331-4cab-8fb9-4ce2c6a63794",
+        "created_at": "2023-09-08T19:39:00+00:00",
+        "updated_at": "2026-11-19T05:42:53.562677+00:00"
+      },
+      {
+        "memory": "Jolene explored new places",
+        "score": 0.2738,
+        "id": "b3926e04-6a3f-4665-b756-8a4f91a0efeb",
+        "created_at": "2023-03-02T19:18:00+00:00",
+        "updated_at": "2026-11-19T04:31:50.971990+00:00"
+      },
+      {
+        "memory": "Jolene has been trying to squeeze in some me-time",
+        "score": 0.2726,
+        "id": "a5fd262b-a5f6-4f40-8c2a-4da6b56f631d",
+        "created_at": "2023-03-02T19:18:00+00:00",
+        "updated_at": "2026-11-19T04:30:32.875351+00:00"
+      },
+      {
+        "memory": "Jolene says she is really finding her zen again",
+        "score": 0.2675,
+        "id": "6c9b5a2d-613f-4099-b810-e96a5252abe0",
+        "created_at": "2023-08-21T09:11:00+00:00",
+        "updated_at": "2026-11-19T05:19:34.442453+00:00"
+      },
+      {
+        "memory": "Jolene recently returned from a trip with her partner",
+        "score": 0.2667,
+        "id": "01c91641-048f-490e-8da2-b1f255c93630",
+        "created_at": "2023-09-20T10:17:00+00:00",
+        "updated_at": "2026-11-19T05:56:28.281964+00:00"
+      },
+      {
+        "memory": "Jolene says pets have been great company.",
+        "score": 0.2642,
+        "id": "afd3cfd8-5f8c-437b-9bd3-0eb2328e2b59",
+        "created_at": "2023-08-01T09:26:00+00:00",
+        "updated_at": "2026-11-19T05:00:19.690080+00:00"
+      },
+      {
+        "memory": "Jolene learned to play on her own as a child",
+        "score": 0.264,
+        "id": "63506ae9-4501-4d45-8021-e65999a60131",
+        "created_at": "2023-01-27T09:49:00+00:00",
+        "updated_at": "2026-11-19T04:09:01.132342+00:00"
+      },
+      {
+        "memory": "Jolene adopted her pet two years ago when she was feeling lonely and wanted some company",
+        "score": 0.2634,
+        "id": "7c90f809-8a50-4a47-975a-e9dcb07b0f29",
+        "created_at": "2023-08-01T09:26:00+00:00",
+        "updated_at": "2026-11-19T05:00:54.292648+00:00"
+      },
+      {
+        "memory": "Jolene has a heart-shaped pendant with a bird motif that was given to her by her mother in 2010 in Paris",
+        "score": 0.2601,
+        "id": "506ebf33-1f46-49b9-be41-d202751bef08",
+        "created_at": "2023-01-23T16:06:00+00:00",
+        "updated_at": "2026-11-19T04:08:08.199514+00:00"
+      },
+      {
+        "memory": "Jolene expressed thankfulness for having a calm creature (her pet)",
+        "score": 0.2558,
+        "id": "408bbcbc-7acf-4742-8e8b-47bda6572b59",
+        "created_at": "2023-06-26T09:17:00+00:00",
+        "updated_at": "2026-11-19T04:50:29.317878+00:00"
+      },
+      {
+        "memory": "Jolene goes to a nearby tranquil spot to meditate",
+        "score": 0.2555,
+        "id": "d747d41a-f4eb-4696-b602-aa8d0a259eaf",
+        "created_at": "2023-08-30T11:46:00+00:00",
+        "updated_at": "2026-11-19T05:31:18.451113+00:00"
+      },
+      {
+        "memory": "Jolene used to bake cookies with someone close to her",
+        "score": 0.2554,
+        "id": "3ac8493b-9b06-4fc5-b472-ac2c8fb56564",
+        "created_at": "2023-09-17T13:24:00+00:00",
+        "updated_at": "2026-11-19T05:53:01.373161+00:00"
+      },
+      {
+        "memory": "Jolene mentioned that they went on many excursions in Rio de Janeiro",
+        "score": 0.2542,
+        "id": "1fd952e3-a4ce-468e-a57f-60162215d2b0",
+        "created_at": "2023-08-30T11:46:00+00:00",
+        "updated_at": "2026-11-19T05:33:09.392910+00:00"
+      },
+      {
+        "memory": "Deborah offered to suggest routines for Jolene to try",
+        "score": 0.254,
+        "id": "75dc2fff-a7b3-4ab1-b2c3-dba567ada23f",
+        "created_at": "2023-08-01T09:26:00+00:00",
+        "updated_at": "2026-11-19T05:01:42.949765+00:00"
+      },
+      {
+        "memory": "Jolene says she is proud of Deborah's action to tame the pets",
+        "score": 0.2536,
+        "id": "c0072a34-8d2c-44c1-9c72-7c712845c414",
+        "created_at": "2023-08-26T17:33:00+00:00",
+        "updated_at": "2026-11-19T05:30:02.233201+00:00"
+      },
+      {
+        "memory": "Jolene says she really likes it",
+        "score": 0.2521,
+        "id": "af2d8854-e9e8-45bf-a077-5525f4d6fcd3",
+        "created_at": "2023-09-17T13:24:00+00:00",
+        "updated_at": "2026-11-19T05:53:36.015333+00:00"
+      },
+      {
+        "memory": "Deborah says she will always be by Jolene's side",
+        "score": 0.2513,
+        "id": "2e3472db-0410-41f3-8634-3bdac5f5d74a",
+        "created_at": "2023-08-24T09:34:00+00:00",
+        "updated_at": "2026-11-19T05:23:41.257302+00:00"
+      },
+      {
+        "memory": "Deborah wants to hear more about Jolene's reflections and how they changed her",
+        "score": 0.2501,
+        "id": "1f31e2b1-cb02-4c74-adfe-d7581990c91d",
+        "created_at": "2023-09-12T14:18:00+00:00",
+        "updated_at": "2026-11-19T05:45:36.315769+00:00"
+      },
+      {
+        "memory": "Jolene expressed that she could really use some chill time and described it as peaceful",
+        "score": 0.2495,
+        "id": "9d88b372-0c9a-46d0-8ed5-6411c4904f9a",
+        "created_at": "2023-06-26T09:17:00+00:00",
+        "updated_at": "2026-11-19T04:52:07.600796+00:00"
+      },
+      {
+        "memory": "Deborah thinks it's good that Jolene has something to do together",
+        "score": 0.2495,
+        "id": "75b50214-7dd6-47eb-b3dc-c7bfd4b0d6d0",
+        "created_at": "2023-02-01T19:03:00+00:00",
+        "updated_at": "2026-11-19T04:12:44.046148+00:00"
+      },
+      {
+        "memory": "Jolene was told that the beach is a great place for finding peace and relaxation",
+        "score": 0.249,
+        "id": "4859272b-f5fd-4c8c-8bf0-d1ebd30efa16",
+        "created_at": "2023-09-17T13:24:00+00:00",
+        "updated_at": "2026-11-19T05:54:25.570424+00:00"
+      },
+      {
+        "memory": "Jolene said she will keep Deborah posted if she decides to go there",
+        "score": 0.2489,
+        "id": "c42f68b1-e28c-480f-b78d-b873d277ecb5",
+        "created_at": "2023-02-22T16:12:00+00:00",
+        "updated_at": "2026-11-19T04:24:52.996715+00:00"
+      },
+      {
+        "memory": "Deborah tells Jolene she is awesome and wishes her to take care",
+        "score": 0.2488,
+        "id": "b131e777-e314-474a-8084-96a46c4e6ee1",
+        "created_at": "2023-02-09T21:03:00+00:00",
+        "updated_at": "2026-11-19T04:22:39.694930+00:00"
+      },
+      {
+        "memory": "Jolene found a cool dive spot that she can explore together with a partner",
+        "score": 0.2479,
+        "id": "71c0b58b-4842-49c3-9591-d1c845764b0f",
+        "created_at": "2023-09-17T13:24:00+00:00",
+        "updated_at": "2026-11-19T05:53:07.239311+00:00"
+      },
+      {
+        "memory": "Jolene encouraged Deborah to keep finding beautiful things",
+        "score": 0.247,
+        "id": "e0f9fad5-cfa7-45d2-ac4f-6e219c3d6d09",
+        "created_at": "2023-09-20T10:17:00+00:00",
+        "updated_at": "2026-11-19T05:58:41.102186+00:00"
+      },
+      {
+        "memory": "User asked Jolene what the trip taught her",
+        "score": 0.2465,
+        "id": "4e9d5307-f4c8-42e5-8dd0-54a858c68031",
+        "created_at": "2023-08-30T11:46:00+00:00",
+        "updated_at": "2026-11-19T05:30:21.743286+00:00"
+      },
+      {
+        "memory": "Deborah noted that Jolene has a place where she can relax and tune out",
+        "score": 0.246,
+        "id": "e5ad6bda-7a24-4de9-b1ac-1157d586d4fd",
+        "created_at": "2023-07-09T19:37:00+00:00",
+        "updated_at": "2026-11-19T04:59:18.003897+00:00"
+      },
+      {
+        "memory": "Jolene said she will make sure to take it.",
+        "score": 0.2459,
+        "id": "21f19254-c02a-4580-88d0-4bd1de11e0a5",
+        "created_at": "2023-03-13T11:22:00+00:00",
+        "updated_at": "2026-11-19T04:35:45.302140+00:00"
+      },
+      {
+        "memory": "Jolene received a lot of support from her parents",
+        "score": 0.2456,
+        "id": "e166eccc-63ea-4f5b-987e-036821347b6a",
+        "created_at": "2023-09-03T14:14:00+00:00",
+        "updated_at": "2026-11-19T05:37:47.257251+00:00"
+      },
+      {
+        "memory": "Jolene thanked Deborah and said she will let her know if she needs anything else",
+        "score": 0.2456,
+        "id": "594cbd81-e725-4a95-84e1-8fb5010eab86",
+        "created_at": "2023-02-09T21:03:00+00:00",
+        "updated_at": "2026-11-19T04:22:32.023920+00:00"
+      },
+      {
+        "memory": "Jolene says a hidden gem makes her feel peaceful and tranquil",
+        "score": 0.2453,
+        "id": "7ab4e56b-fd49-4778-8af0-9964030e00a7",
+        "created_at": "2023-07-09T19:37:00+00:00",
+        "updated_at": "2026-11-19T04:59:08.243686+00:00"
+      }
+    ],
+    "search_latency_ms": 399.8,
+    "total_results": 50
+  },
+  "cutoff_results": {
+    "top_50": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "She didn’t buy Seraphim—she adopted her pet, so no country of purchase is given.",
+      "memories_evaluated": 50,
+      "reason": "The gold answer states the snake was bought in France, while the generated answer denies a purchase and provides no country, so it contains no correct item."
+    }
+  }
+}

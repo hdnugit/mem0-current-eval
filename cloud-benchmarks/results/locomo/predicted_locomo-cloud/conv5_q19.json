@@ -1,0 +1,380 @@
+{
+  "question_id": "conv5_q19",
+  "conversation_idx": 5,
+  "category": 3,
+  "category_name": "open-domain",
+  "question": "What is an indoor activity that Andrew would enjoy doing while make his dog happy?",
+  "ground_truth_answer": "cook dog treats",
+  "evidence": [
+    "D10:12",
+    "D12:1"
+  ],
+  "user_id": "locomo_5_fe8ec031",
+  "reference_date": "9:02 am on 22 November, 2023",
+  "retrieval": {
+    "search_query": "What is an indoor activity that Andrew would enjoy doing while make his dog happy?",
+    "search_results": [
+      {
+        "memory": "Andrew would enjoy hanging out with a dog and cuddling",
+        "score": 0.6639,
+        "id": "ab308bba-b251-4218-9e37-8081330b5c81",
+        "created_at": "2023-04-02T14:42:00+00:00",
+        "updated_at": "2026-11-19T04:09:26.643504+00:00"
+      },
+      {
+        "memory": "Andrew plans to try the dog activities suggested by Audrey with his pups",
+        "score": 0.6561,
+        "id": "4a80f80f-e065-4773-af94-bd30046cb66e",
+        "created_at": "2023-11-04T19:59:00+00:00",
+        "updated_at": "2026-11-19T05:54:39.081494+00:00"
+      },
+      {
+        "memory": "Andrew mentioned a nearby doggy daycare that has a large indoor space for dogs to play",
+        "score": 0.6529,
+        "id": "9b2e756b-99f2-4623-ae39-a4790b112d4c",
+        "created_at": "2023-06-26T13:51:00+00:00",
+        "updated_at": "2026-11-19T04:41:48.470518+00:00"
+      },
+      {
+        "memory": "Andrew shared a photo showing a group of dogs playing with a ball in a large indoor area",
+        "score": 0.6512,
+        "id": "d3c010b9-4b1e-44a7-a130-0628101c842a",
+        "created_at": "2023-06-26T13:51:00+00:00",
+        "updated_at": "2026-11-19T04:41:15.137079+00:00"
+      },
+      {
+        "memory": "Audrey believes Andrew's kindness and care will make the dogs happier",
+        "score": 0.6391,
+        "id": "0b7b52c3-a347-495e-8e9a-6dd10c159124",
+        "created_at": "2023-07-27T15:52:00+00:00",
+        "updated_at": "2026-11-19T05:02:29.650769+00:00"
+      },
+      {
+        "memory": "Andrew feels happy when he sees Audrey's dogs having fun",
+        "score": 0.6321,
+        "id": "83e72044-83cb-42f7-8b33-4dd76f68089a",
+        "created_at": "2023-06-26T13:51:00+00:00",
+        "updated_at": "2026-11-19T04:40:38.581877+00:00"
+      },
+      {
+        "memory": "Andrew feels happy when he sees the dogs content and realizes they are special and full of love",
+        "score": 0.6297,
+        "id": "cc242f37-e5cf-47bb-91a9-965dc1f58f98",
+        "created_at": "2023-07-27T15:52:00+00:00",
+        "updated_at": "2026-11-19T05:00:05.641456+00:00"
+      },
+      {
+        "memory": "Audrey shared a photo of a dog playing with a frisbee indoors, in a room, as part of a puzzle toy activity",
+        "score": 0.622,
+        "id": "0fdbcdad-bf8c-483f-b81c-aeff3d0e2ae1",
+        "created_at": "2023-11-04T19:59:00+00:00",
+        "updated_at": "2026-11-19T05:54:29.098208+00:00"
+      },
+      {
+        "memory": "Andrew says Audrey's dogs look like they're really enjoying themselves during the walk",
+        "score": 0.6209,
+        "id": "5e314e01-59a6-49a6-8ae7-d23a8b1dd482",
+        "created_at": "2023-06-13T17:23:00+00:00",
+        "updated_at": "2026-11-19T04:36:23.274601+00:00"
+      },
+      {
+        "memory": "Andrew asked if Audrey's dogs enjoy playing in the garden",
+        "score": 0.6154,
+        "id": "0315c26a-d9bf-48f7-90b3-b8609462c642",
+        "created_at": "2023-09-24T17:53:00+00:00",
+        "updated_at": "2026-11-19T05:22:24.139074+00:00"
+      },
+      {
+        "memory": "Andrew believes Audrey's dogs' happy faces mean a lot to her",
+        "score": 0.603,
+        "id": "1def2ef8-36f8-40cd-ab64-ab8f9292c2e4",
+        "created_at": "2023-04-16T16:19:00+00:00",
+        "updated_at": "2026-11-19T04:17:10.130011+00:00"
+      },
+      {
+        "memory": "Andrew feels happy when he looks at photos of his dogs being happy, noting that their happiness is contagious",
+        "score": 0.5961,
+        "id": "af40451e-45e0-4daa-a321-8efcd3da5c0c",
+        "created_at": "2023-07-08T09:48:00+00:00",
+        "updated_at": "2026-11-19T04:54:43.754779+00:00"
+      },
+      {
+        "memory": "Andrew wants to engage in an activity with his dog Toby but finds it difficult because Toby is still young",
+        "score": 0.5957,
+        "id": "45cbaa1e-3c91-4b7c-84c5-c30124f302e4",
+        "created_at": "2023-09-06T19:49:00+00:00",
+        "updated_at": "2026-11-19T05:18:16.836878+00:00"
+      },
+      {
+        "memory": "Andrew asks for advice on how city-dwellers who own a puppy can enjoy hiking or dog‑friendly activities",
+        "score": 0.5911,
+        "id": "509aeafe-a27e-413c-bdbd-63972a648739",
+        "created_at": "2023-08-04T11:05:00+00:00",
+        "updated_at": "2026-11-19T05:06:54.997389+00:00"
+      },
+      {
+        "memory": "Audrey feels happy when she sees her dogs being happy and bouncy",
+        "score": 0.5516,
+        "id": "e0a7994a-5e66-43b2-a35b-f186b7b64dd1",
+        "created_at": "2023-07-08T09:48:00+00:00",
+        "updated_at": "2026-11-19T04:54:21.253652+00:00"
+      },
+      {
+        "memory": "Andrew enjoys walking with his dog Buddy, describing it as a great way to spend time together and get fresh air",
+        "score": 0.5453,
+        "id": "de6c97c3-15a9-403f-b632-845fc54b1e2b",
+        "created_at": "2023-10-19T18:12:00+00:00",
+        "updated_at": "2026-11-19T05:40:40.713880+00:00"
+      },
+      {
+        "memory": "Audrey has a strong bond with her dogs, they make her happy, and she wants to see their happy faces even when they are not with her.",
+        "score": 0.5429,
+        "id": "71cb1984-f98d-420c-b98e-624df1948463",
+        "created_at": "2023-04-16T16:19:00+00:00",
+        "updated_at": "2026-11-19T04:18:07.358831+00:00"
+      },
+      {
+        "memory": "Andrew plans a hike for next month and invites Audrey and her dogs to join, looking forward to enjoying nature together.",
+        "score": 0.5257,
+        "id": "a1b0d96d-3a36-45ce-8409-ac4e23d2d099",
+        "created_at": "2023-07-11T10:05:00+00:00",
+        "updated_at": "2026-11-19T04:57:54.402900+00:00"
+      },
+      {
+        "memory": "Andrew loves being outdoors and enjoys seeing others enjoy it too",
+        "score": 0.5218,
+        "id": "a29e9e15-23a2-4257-b2df-d9e19f0010e0",
+        "created_at": "2023-07-08T09:48:00+00:00",
+        "updated_at": "2026-11-19T04:55:52.433587+00:00"
+      },
+      {
+        "memory": "Audrey suggests that Andrew should prioritize caring for his dogs Toby and Buddy first, emphasizing keeping them happy and healthy before considering additional dogs",
+        "score": 0.515,
+        "id": "f88afd10-f6bf-4552-a258-b52e60cdd5cc",
+        "created_at": "2023-11-04T19:59:00+00:00",
+        "updated_at": "2026-11-19T05:52:40.913165+00:00"
+      },
+      {
+        "memory": "Audrey thanks Andrew for his words of encouragement, saying they mean a lot, and expresses that she is devoted to keeping her dogs healthy and happy because they mean everything to her",
+        "score": 0.5128,
+        "id": "8fc0b482-dba2-4d94-9336-39bc8b5c9078",
+        "created_at": "2023-10-28T14:36:00+00:00",
+        "updated_at": "2026-11-19T05:46:38.635489+00:00"
+      },
+      {
+        "memory": "Andrew says the dogs make everyone smile",
+        "score": 0.5112,
+        "id": "b38527c2-a5c1-445d-8d06-efebe2fee1a6",
+        "created_at": "2023-07-08T09:48:00+00:00",
+        "updated_at": "2026-11-19T04:55:17.670355+00:00"
+      },
+      {
+        "memory": "Andrew wants to ensure his puppy Toby receives enough activity for healthy growth without being over‑ or under‑exercised",
+        "score": 0.4923,
+        "id": "59d5004b-cf43-4a4b-9936-368df3dbcf53",
+        "created_at": "2023-08-04T11:05:00+00:00",
+        "updated_at": "2026-11-19T05:07:17.258227+00:00"
+      },
+      {
+        "memory": "User says Andrew's dog Buddy is his sidekick",
+        "score": 0.4718,
+        "id": "38807a2a-6b86-42a6-99aa-08fdfb03fd42",
+        "created_at": "2023-10-19T18:12:00+00:00",
+        "updated_at": "2026-11-19T05:40:32.670844+00:00"
+      },
+      {
+        "memory": "User indicates that Andrew has a dog named Buddy",
+        "score": 0.4698,
+        "id": "5e1fd1c7-6b0d-4b71-bbab-f9f5ebb57d1c",
+        "created_at": "2023-11-04T19:59:00+00:00",
+        "updated_at": "2026-11-19T05:52:40.913165+00:00"
+      },
+      {
+        "memory": "Andrew said he will take good care of his dogs first",
+        "score": 0.4646,
+        "id": "e2a2358a-61bd-4319-9cc0-7c02ffc7156b",
+        "created_at": "2023-11-04T19:59:00+00:00",
+        "updated_at": "2026-11-19T05:53:11.608580+00:00"
+      },
+      {
+        "memory": "Andrew shared a photo of a dog sleeping in a dog bed on the floor",
+        "score": 0.4614,
+        "id": "1336e8f5-0d93-4d81-99c1-e5213bd7e030",
+        "created_at": "2023-08-24T00:24:00+00:00",
+        "updated_at": "2026-11-19T05:14:09.178658+00:00"
+      },
+      {
+        "memory": "Andrew loves his dog Toby",
+        "score": 0.4606,
+        "id": "635b90a0-f970-4f1c-a227-a4ca9bb4032e",
+        "created_at": "2023-08-24T00:24:00+00:00",
+        "updated_at": "2026-11-19T05:14:47.854624+00:00"
+      },
+      {
+        "memory": "Andrew offered to help find more dog-friendly places for dogs",
+        "score": 0.4589,
+        "id": "c6ac8dcc-2e08-428b-a2c8-b30fa90e5445",
+        "created_at": "2023-06-26T13:51:00+00:00",
+        "updated_at": "2026-11-19T04:42:14.302394+00:00"
+      },
+      {
+        "memory": "Andrew feels that being outdoors inspires and calms him, putting him in a happy place",
+        "score": 0.4583,
+        "id": "2f89d8cf-a11a-43e7-a5c9-6f002e597caf",
+        "created_at": "2023-06-13T17:23:00+00:00",
+        "updated_at": "2026-11-19T04:38:41.932767+00:00"
+      },
+      {
+        "memory": "Audrey shared a photo of two dogs playing with a frisbee in a meadow, expressing that seeing them happy makes her happy",
+        "score": 0.4526,
+        "id": "c744b439-8775-45b8-8dad-ded5d1d0429c",
+        "created_at": "2023-06-13T17:23:00+00:00",
+        "updated_at": "2026-11-19T04:37:43.978561+00:00"
+      },
+      {
+        "memory": "Andrew has not taken his dogs to the groomer yet but plans to do so soon",
+        "score": 0.4498,
+        "id": "80d0de35-461c-4063-ba98-249548140fd0",
+        "created_at": "2023-11-22T09:02:00+00:00",
+        "updated_at": "2026-11-19T05:55:58.016237+00:00"
+      },
+      {
+        "memory": "Andrew thought the photo of Audrey's dogs was cute",
+        "score": 0.4473,
+        "id": "5764da5c-7019-48ed-a1ab-c1155384420d",
+        "created_at": "2023-07-27T15:52:00+00:00",
+        "updated_at": "2026-11-19T05:00:23.796965+00:00"
+      },
+      {
+        "memory": "Andrew has always wanted to learn dog grooming but has never had time to do so",
+        "score": 0.4466,
+        "id": "04a7c6be-00fc-459a-aa50-64961bd14c14",
+        "created_at": "2023-08-19T21:19:00+00:00",
+        "updated_at": "2026-11-19T05:10:53.947433+00:00"
+      },
+      {
+        "memory": "Andrew observes that Audrey's dogs are having a blast",
+        "score": 0.4457,
+        "id": "dfd2e469-8aa0-4e77-9848-3474cefbd052",
+        "created_at": "2023-07-03T20:32:00+00:00",
+        "updated_at": "2026-11-19T04:45:33.334860+00:00"
+      },
+      {
+        "memory": "Andrew thought the picture of a dog on a trail was cute",
+        "score": 0.4448,
+        "id": "da92a702-5935-4476-9f48-1167271ddb7b",
+        "created_at": "2023-04-02T14:42:00+00:00",
+        "updated_at": "2026-11-19T04:09:26.643504+00:00"
+      },
+      {
+        "memory": "Andrew is excited to meet Audrey's dogs and says they seem like a blast",
+        "score": 0.4441,
+        "id": "deca9479-207a-4b3a-822c-4da68a3e17ab",
+        "created_at": "2023-07-08T09:48:00+00:00",
+        "updated_at": "2026-11-19T04:53:05.715904+00:00"
+      },
+      {
+        "memory": "Audrey (Audrey) would love to take her dogs to Andrew's location soon",
+        "score": 0.4432,
+        "id": "48b99ae4-b8ec-491d-b1e0-5473fbef8e9e",
+        "created_at": "2023-06-26T13:51:00+00:00",
+        "updated_at": "2026-11-19T04:41:24.875293+00:00"
+      },
+      {
+        "memory": "Andrew said the dogs look sweet in the sweater",
+        "score": 0.442,
+        "id": "3c0d14b4-6142-4cb7-a6f2-416b21ce809a",
+        "created_at": "2023-10-13T16:22:00+00:00",
+        "updated_at": "2026-11-19T05:35:40.101126+00:00"
+      },
+      {
+        "memory": "Audrey encouraged Andrew to try kayaking and bungee jumping, wishing him fun with those activities",
+        "score": 0.4405,
+        "id": "7e10323f-f207-4c85-a74b-27e420e7e798",
+        "created_at": "2023-06-13T17:23:00+00:00",
+        "updated_at": "2026-11-19T04:34:34.360555+00:00"
+      },
+      {
+        "memory": "Andrew says Audrey is doing a great job and that the dogs are lucky to have her",
+        "score": 0.4387,
+        "id": "e5989c37-e193-4f9e-8ab4-fd1ff7ec7a38",
+        "created_at": "2023-10-28T14:36:00+00:00",
+        "updated_at": "2026-11-19T05:46:44.781595+00:00"
+      },
+      {
+        "memory": "Andrew said Audrey's dogs are a real source of love for her",
+        "score": 0.437,
+        "id": "4ac436a8-4803-47f4-9945-20665d486bdd",
+        "created_at": "2023-10-13T16:22:00+00:00",
+        "updated_at": "2026-11-19T05:38:28.358890+00:00"
+      },
+      {
+        "memory": "Audrey (Audrey) says Toby looks adorable and expresses she is very happy for Andrew about his new puppy",
+        "score": 0.4351,
+        "id": "250b7605-266e-411f-81be-7cb4c4fc329b",
+        "created_at": "2023-07-11T10:05:00+00:00",
+        "updated_at": "2026-11-19T04:57:15.785825+00:00"
+      },
+      {
+        "memory": "Audrey gives her four dogs many activities—including puzzles, training sessions, and hide-and-seek—and they love all of them",
+        "score": 0.4292,
+        "id": "745eae91-4dfb-4a5c-8ac7-91e95e8d8ccb",
+        "created_at": "2023-11-04T19:59:00+00:00",
+        "updated_at": "2026-11-19T05:54:29.098208+00:00"
+      },
+      {
+        "memory": "Andrew has a dog and they previously went hiking together, as shown in a shared photo of a man and his dog on a trail",
+        "score": 0.4262,
+        "id": "6706b914-0ebb-41ad-a031-5695a1c01bd9",
+        "created_at": "2023-10-28T14:36:00+00:00",
+        "updated_at": "2026-11-19T05:51:09.560719+00:00"
+      },
+      {
+        "memory": "Andrew believes that letting dogs explore and have fun is important and thinks the dogs must be loving it",
+        "score": 0.4258,
+        "id": "9fde43a3-ae7e-4879-887b-3b14a25bb36a",
+        "created_at": "2023-06-13T17:23:00+00:00",
+        "updated_at": "2026-11-19T04:36:59.553467+00:00"
+      },
+      {
+        "memory": "Andrew feels jealous of the fun outings Audrey has with her dogs",
+        "score": 0.4248,
+        "id": "fc8dedbb-7b85-42ae-b1da-25420b257688",
+        "created_at": "2023-03-27T13:10:00+00:00",
+        "updated_at": "2026-11-19T04:03:37.515314+00:00"
+      },
+      {
+        "memory": "Andrew feels glad that Audrey's dogs bring her a lot of joy",
+        "score": 0.4232,
+        "id": "58a006f0-959b-4da3-a82a-c6b46e7b57fb",
+        "created_at": "2023-04-16T16:19:00+00:00",
+        "updated_at": "2026-11-19T04:18:31.049130+00:00"
+      },
+      {
+        "memory": "Andrew shared a photo of his dog Toby, a small dog, sitting on a floor with a leash",
+        "score": 0.4228,
+        "id": "34a9bfe4-b32c-4c55-a003-562f6ffd5d3b",
+        "created_at": "2023-08-24T00:24:00+00:00",
+        "updated_at": "2026-11-19T05:14:37.686140+00:00"
+      },
+      {
+        "memory": "Andrew was recommended a great dog park close by and the idea to bring coffee over",
+        "score": 0.4227,
+        "id": "8b4c33ff-23d6-4296-ac93-802d1288670d",
+        "created_at": "2023-10-13T16:22:00+00:00",
+        "updated_at": "2026-11-19T05:36:00.129231+00:00"
+      }
+    ],
+    "search_latency_ms": 642.8,
+    "total_results": 50
+  },
+  "cutoff_results": {
+    "top_50": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "Doing an indoor puzzle-toy session (interactive treat puzzles) with his dog.",
+      "memories_evaluated": 50,
+      "reason": "The generated answer proposes interactive puzzle toys, which is a different activity from the gold answer of cooking dog treats, so there is no matching item."
+    }
+  }
+}

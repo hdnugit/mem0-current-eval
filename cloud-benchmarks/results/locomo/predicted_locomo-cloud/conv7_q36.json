@@ -1,0 +1,388 @@
+{
+  "question_id": "conv7_q36",
+  "conversation_idx": 7,
+  "category": 3,
+  "category_name": "open-domain",
+  "question": "How old is Jolene?",
+  "ground_truth_answer": "likely no more than 30; since she's in school",
+  "evidence": [
+    "D8:2",
+    "D13:5",
+    "D21:6",
+    "D21:8",
+    "D22:6",
+    "D22:14",
+    "D24:2",
+    "D24:14",
+    "D25:5",
+    "D26:6"
+  ],
+  "user_id": "locomo_7_fe8ec031",
+  "reference_date": "10:17 am on 20 September, 2023",
+  "retrieval": {
+    "search_query": "How old is Jolene?",
+    "search_results": [
+      {
+        "memory": "Jolene said it’s great that Deborah could reconnect with her mother’s old friends",
+        "score": 0.6017,
+        "id": "0b2cb4b6-be0d-419d-b0b2-5fcbc572cbf6",
+        "created_at": "2023-09-15T15:09:00+00:00",
+        "updated_at": "2026-11-19T05:48:28.001615+00:00"
+      },
+      {
+        "memory": "Jolene had a great time visiting an old temple and thought the stairs were amazing",
+        "score": 0.5792,
+        "id": "129399b6-5871-46e0-b09d-2af4fdcf2529",
+        "created_at": "2023-08-30T11:46:00+00:00",
+        "updated_at": "2026-11-19T05:33:15.312770+00:00"
+      },
+      {
+        "memory": "Jolene has snakes",
+        "score": 0.4099,
+        "id": "3f4e9435-e6a5-4ae3-8d92-3add1cb0edcd",
+        "created_at": "2023-08-26T17:33:00+00:00",
+        "updated_at": "2026-11-19T05:27:55.610654+00:00"
+      },
+      {
+        "memory": "Jolene has been trying to squeeze in some me-time",
+        "score": 0.4029,
+        "id": "a5fd262b-a5f6-4f40-8c2a-4da6b56f631d",
+        "created_at": "2023-03-02T19:18:00+00:00",
+        "updated_at": "2026-11-19T04:30:32.875351+00:00"
+      },
+      {
+        "memory": "Jolene learned to play on her own as a child",
+        "score": 0.4026,
+        "id": "63506ae9-4501-4d45-8021-e65999a60131",
+        "created_at": "2023-01-27T09:49:00+00:00",
+        "updated_at": "2026-11-19T04:09:01.132342+00:00"
+      },
+      {
+        "memory": "Jolene received a lot of support from her parents",
+        "score": 0.3824,
+        "id": "e166eccc-63ea-4f5b-987e-036821347b6a",
+        "created_at": "2023-09-03T14:14:00+00:00",
+        "updated_at": "2026-11-19T05:37:47.257251+00:00"
+      },
+      {
+        "memory": "Jolene's mother passed away in 2022",
+        "score": 0.3804,
+        "id": "cd36d3a0-5246-4f09-b99a-06d83d8c912a",
+        "created_at": "2023-01-23T16:06:00+00:00",
+        "updated_at": "2026-11-19T04:03:25.657017+00:00"
+      },
+      {
+        "memory": "Jolene used to bake cookies with someone close to her",
+        "score": 0.3776,
+        "id": "3ac8493b-9b06-4fc5-b472-ac2c8fb56564",
+        "created_at": "2023-09-17T13:24:00+00:00",
+        "updated_at": "2026-11-19T05:53:01.373161+00:00"
+      },
+      {
+        "memory": "Jolene says she is really finding her zen again",
+        "score": 0.3759,
+        "id": "6c9b5a2d-613f-4099-b810-e96a5252abe0",
+        "created_at": "2023-08-21T09:11:00+00:00",
+        "updated_at": "2026-11-19T05:19:34.442453+00:00"
+      },
+      {
+        "memory": "Jolene says she really likes it",
+        "score": 0.3743,
+        "id": "af2d8854-e9e8-45bf-a077-5525f4d6fcd3",
+        "created_at": "2023-09-17T13:24:00+00:00",
+        "updated_at": "2026-11-19T05:53:36.015333+00:00"
+      },
+      {
+        "memory": "Jolene said she will make sure to take it.",
+        "score": 0.3736,
+        "id": "21f19254-c02a-4580-88d0-4bd1de11e0a5",
+        "created_at": "2023-03-13T11:22:00+00:00",
+        "updated_at": "2026-11-19T04:35:45.302140+00:00"
+      },
+      {
+        "memory": "Deborah expressed pride in Jolene's recent accomplishment and acknowledged that Jolene must have worked really hard",
+        "score": 0.3734,
+        "id": "becc7858-de72-4ce0-af85-a610137abbb5",
+        "created_at": "2023-02-04T09:48:00+00:00",
+        "updated_at": "2026-11-19T04:13:29.259284+00:00"
+      },
+      {
+        "memory": "Jolene experimented with a method and found it really helped her",
+        "score": 0.3727,
+        "id": "e2d7eaf1-8331-4cab-8fb9-4ce2c6a63794",
+        "created_at": "2023-09-08T19:39:00+00:00",
+        "updated_at": "2026-11-19T05:42:53.562677+00:00"
+      },
+      {
+        "memory": "Deborah says she will always be by Jolene's side",
+        "score": 0.3706,
+        "id": "2e3472db-0410-41f3-8634-3bdac5f5d74a",
+        "created_at": "2023-08-24T09:34:00+00:00",
+        "updated_at": "2026-11-19T05:23:41.257302+00:00"
+      },
+      {
+        "memory": "Jolene explored new places",
+        "score": 0.3695,
+        "id": "b3926e04-6a3f-4665-b756-8a4f91a0efeb",
+        "created_at": "2023-03-02T19:18:00+00:00",
+        "updated_at": "2026-11-19T04:31:50.971990+00:00"
+      },
+      {
+        "memory": "Jolene recently returned from a trip with her partner",
+        "score": 0.3649,
+        "id": "01c91641-048f-490e-8da2-b1f255c93630",
+        "created_at": "2023-09-20T10:17:00+00:00",
+        "updated_at": "2026-11-19T05:56:28.281964+00:00"
+      },
+      {
+        "memory": "Jolene plans to get out in nature again in October 2023",
+        "score": 0.36,
+        "id": "d8e16309-5c58-4e8e-9a0e-b6586b361fbf",
+        "created_at": "2023-09-20T10:17:00+00:00",
+        "updated_at": "2026-11-19T05:57:30.775254+00:00"
+      },
+      {
+        "memory": "Deborah asks Jolene about her career aspirations",
+        "score": 0.3586,
+        "id": "7ef5be6b-14db-45c0-b5a3-096c4ee2da9c",
+        "created_at": "2023-02-04T09:48:00+00:00",
+        "updated_at": "2026-11-19T04:14:27.519298+00:00"
+      },
+      {
+        "memory": "Deborah thinks it's good that Jolene has something to do together",
+        "score": 0.3571,
+        "id": "75b50214-7dd6-47eb-b3dc-c7bfd4b0d6d0",
+        "created_at": "2023-02-01T19:03:00+00:00",
+        "updated_at": "2026-11-19T04:12:44.046148+00:00"
+      },
+      {
+        "memory": "Jolene says pets have been great company.",
+        "score": 0.3561,
+        "id": "afd3cfd8-5f8c-437b-9bd3-0eb2328e2b59",
+        "created_at": "2023-08-01T09:26:00+00:00",
+        "updated_at": "2026-11-19T05:00:19.690080+00:00"
+      },
+      {
+        "memory": "Deborah tells Jolene she is awesome and wishes her to take care",
+        "score": 0.3559,
+        "id": "b131e777-e314-474a-8084-96a46c4e6ee1",
+        "created_at": "2023-02-09T21:03:00+00:00",
+        "updated_at": "2026-11-19T04:22:39.694930+00:00"
+      },
+      {
+        "memory": "Jolene said she will keep Deborah posted if she decides to go there",
+        "score": 0.3556,
+        "id": "c42f68b1-e28c-480f-b78d-b873d277ecb5",
+        "created_at": "2023-02-22T16:12:00+00:00",
+        "updated_at": "2026-11-19T04:24:52.996715+00:00"
+      },
+      {
+        "memory": "Jolene adopted her pet two years ago when she was feeling lonely and wanted some company",
+        "score": 0.3546,
+        "id": "7c90f809-8a50-4a47-975a-e9dcb07b0f29",
+        "created_at": "2023-08-01T09:26:00+00:00",
+        "updated_at": "2026-11-19T05:00:54.292648+00:00"
+      },
+      {
+        "memory": "Jolene expressed that she will definitely go there together with Deborah sometime",
+        "score": 0.354,
+        "id": "e178f524-f664-4b65-bca8-52497e7053fc",
+        "created_at": "2023-07-09T19:37:00+00:00",
+        "updated_at": "2026-11-19T04:59:29.021466+00:00"
+      },
+      {
+        "memory": "Deborah wants to learn more about how Jolene does it",
+        "score": 0.3532,
+        "id": "649bc006-aec7-4ead-85b3-9660be8e63f8",
+        "created_at": "2023-09-08T19:39:00+00:00",
+        "updated_at": "2026-11-19T05:42:46.589339+00:00"
+      },
+      {
+        "memory": "Jolene expressed appreciation for Deborah's support",
+        "score": 0.3522,
+        "id": "3d1b456d-d380-473b-b23a-f73aff0ec6c7",
+        "created_at": "2023-08-12T20:50:00+00:00",
+        "updated_at": "2026-11-19T05:03:50.294870+00:00"
+      },
+      {
+        "memory": "Jolene finds that music helps her",
+        "score": 0.3519,
+        "id": "78a294bb-d888-4a4b-a953-b829867fc596",
+        "created_at": "2023-03-28T16:03:00+00:00",
+        "updated_at": "2026-11-19T04:42:13.466072+00:00"
+      },
+      {
+        "memory": "Deborah wants to hear more about Jolene's reflections and how they changed her",
+        "score": 0.3503,
+        "id": "1f31e2b1-cb02-4c74-adfe-d7581990c91d",
+        "created_at": "2023-09-12T14:18:00+00:00",
+        "updated_at": "2026-11-19T05:45:36.315769+00:00"
+      },
+      {
+        "memory": "Deborah says she finds Jolene inspiring",
+        "score": 0.3501,
+        "id": "18c4bf60-d377-463e-85cb-c16d20797567",
+        "created_at": "2023-08-26T17:33:00+00:00",
+        "updated_at": "2026-11-19T05:26:05.067876+00:00"
+      },
+      {
+        "memory": "Jolene says she is experiencing a new level of joy and happiness",
+        "score": 0.3494,
+        "id": "42e7d353-9eb7-4d29-8d0a-964ac9766fdb",
+        "created_at": "2023-09-12T14:18:00+00:00",
+        "updated_at": "2026-11-19T05:46:58.403334+00:00"
+      },
+      {
+        "memory": "Deborah noted that Jolene and others had fun",
+        "score": 0.349,
+        "id": "4b4f2518-70d6-479f-932a-88f6dcf69c94",
+        "created_at": "2023-03-02T19:18:00+00:00",
+        "updated_at": "2026-11-19T04:31:37.817663+00:00"
+      },
+      {
+        "memory": "User mentioned that she and Jolene have not talked in a while",
+        "score": 0.3476,
+        "id": "e777c96a-b028-4f5f-b068-01dea7785a52",
+        "created_at": "2023-06-26T09:17:00+00:00",
+        "updated_at": "2026-11-19T04:49:22.836558+00:00"
+      },
+      {
+        "memory": "User asked Jolene what the trip taught her",
+        "score": 0.3469,
+        "id": "4e9d5307-f4c8-42e5-8dd0-54a858c68031",
+        "created_at": "2023-08-30T11:46:00+00:00",
+        "updated_at": "2026-11-19T05:30:21.743286+00:00"
+      },
+      {
+        "memory": "Jolene expressed that she could really use some chill time and described it as peaceful",
+        "score": 0.3468,
+        "id": "9d88b372-0c9a-46d0-8ed5-6411c4904f9a",
+        "created_at": "2023-06-26T09:17:00+00:00",
+        "updated_at": "2026-11-19T04:52:07.600796+00:00"
+      },
+      {
+        "memory": "Jolene said she will look into some of it and is eager to get started",
+        "score": 0.346,
+        "id": "b2ff7f7e-cdad-44ab-b18c-291f71c4099e",
+        "created_at": "2023-08-16T14:58:00+00:00",
+        "updated_at": "2026-11-19T05:09:36.700900+00:00"
+      },
+      {
+        "memory": "Jolene is really thankful for her significant other, who encourages her goals",
+        "score": 0.3452,
+        "id": "531d9a97-7d81-4066-a540-b357b0452c90",
+        "created_at": "2023-09-03T14:14:00+00:00",
+        "updated_at": "2026-11-19T05:37:10.493190+00:00"
+      },
+      {
+        "memory": "Jolene loves going for walks whenever she can to take it all in",
+        "score": 0.3451,
+        "id": "f7927764-1427-42af-ac26-415f10d915fd",
+        "created_at": "2023-07-09T19:37:00+00:00",
+        "updated_at": "2026-11-19T04:58:17.679559+00:00"
+      },
+      {
+        "memory": "Jolene thanked Deborah and said she will let her know if she needs anything else",
+        "score": 0.3448,
+        "id": "594cbd81-e725-4a95-84e1-8fb5010eab86",
+        "created_at": "2023-02-09T21:03:00+00:00",
+        "updated_at": "2026-11-19T04:22:32.023920+00:00"
+      },
+      {
+        "memory": "Jolene expressed excitement for the upcoming coffee date with Deborah",
+        "score": 0.3441,
+        "id": "c7347752-48d4-4f86-94a2-aaa8343efb20",
+        "created_at": "2023-09-08T19:39:00+00:00",
+        "updated_at": "2026-11-19T05:45:03.395065+00:00"
+      },
+      {
+        "memory": "Deborah offered to suggest routines for Jolene to try",
+        "score": 0.3409,
+        "id": "75dc2fff-a7b3-4ab1-b2c3-dba567ada23f",
+        "created_at": "2023-08-01T09:26:00+00:00",
+        "updated_at": "2026-11-19T05:01:42.949765+00:00"
+      },
+      {
+        "memory": "Jolene says the room looks perfect for the routines",
+        "score": 0.3408,
+        "id": "90127da1-4669-4817-8297-c7e3261ef835",
+        "created_at": "2023-08-01T09:26:00+00:00",
+        "updated_at": "2026-11-19T05:02:03.564009+00:00"
+      },
+      {
+        "memory": "Jolene is always on the lookout for new routines to mix things up",
+        "score": 0.3404,
+        "id": "dff61483-33f0-4427-95e3-b43a3e19c0ff",
+        "created_at": "2023-08-01T09:26:00+00:00",
+        "updated_at": "2026-11-19T05:01:48.358699+00:00"
+      },
+      {
+        "memory": "Jolene says her bathroom has an aesthetic vibe",
+        "score": 0.34,
+        "id": "bd3f858d-0d3b-4a06-9e32-18520e3c1481",
+        "created_at": "2023-09-17T13:24:00+00:00",
+        "updated_at": "2026-11-19T05:54:10.430385+00:00"
+      },
+      {
+        "memory": "Jolene says she is proud of Deborah's action to tame the pets",
+        "score": 0.3398,
+        "id": "c0072a34-8d2c-44c1-9c72-7c712845c414",
+        "created_at": "2023-08-26T17:33:00+00:00",
+        "updated_at": "2026-11-19T05:30:02.233201+00:00"
+      },
+      {
+        "memory": "Jolene is not familiar with the referenced item and asks what it is about",
+        "score": 0.339,
+        "id": "3b255439-16c1-4672-968d-1b25359c37a7",
+        "created_at": "2023-03-22T17:35:00+00:00",
+        "updated_at": "2026-11-19T04:37:25.223388+00:00"
+      },
+      {
+        "memory": "Jolene wants to try yoga on the beach",
+        "score": 0.3383,
+        "id": "383fe2a9-983f-4ed7-9798-59afb7e8f2e8",
+        "created_at": "2023-02-22T16:12:00+00:00",
+        "updated_at": "2026-11-19T04:24:38.949780+00:00"
+      },
+      {
+        "memory": "Deborah told Jolene that she’s been great to see her progress since their last chat and encouraged her to keep it up",
+        "score": 0.3381,
+        "id": "bff8ac78-3c53-403e-9804-8618baa579a1",
+        "created_at": "2023-02-25T16:50:00+00:00",
+        "updated_at": "2026-11-19T04:28:12.990109+00:00"
+      },
+      {
+        "memory": "Jolene says she has been on an emotional rollercoaster lately but is coping",
+        "score": 0.337,
+        "id": "cb7e1fb3-f720-4c35-8247-e5b6a63c875a",
+        "created_at": "2023-02-04T09:48:00+00:00",
+        "updated_at": "2026-11-19T04:13:02.479101+00:00"
+      },
+      {
+        "memory": "Deborah noted that Jolene has a place where she can relax and tune out",
+        "score": 0.3362,
+        "id": "e5ad6bda-7a24-4de9-b1ac-1157d586d4fd",
+        "created_at": "2023-07-09T19:37:00+00:00",
+        "updated_at": "2026-11-19T04:59:18.003897+00:00"
+      },
+      {
+        "memory": "Deborah has not yet introduced her pets to Jolene",
+        "score": 0.3353,
+        "id": "b86a317e-c83d-4480-8b43-25d1793f97c8",
+        "created_at": "2023-07-09T19:37:00+00:00",
+        "updated_at": "2026-11-19T04:56:39.713918+00:00"
+      }
+    ],
+    "search_latency_ms": 369.7,
+    "total_results": 50
+  },
+  "cutoff_results": {
+    "top_50": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "The memories do not state Jolene’s age.",
+      "memories_evaluated": 50,
+      "reason": "The generated answer gives no age estimate and contradicts the gold answer’s “likely no more than 30,” so it contains no correct item."
+    }
+  }
+}

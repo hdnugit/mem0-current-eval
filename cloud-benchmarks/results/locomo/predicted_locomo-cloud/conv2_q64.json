@@ -1,0 +1,382 @@
+{
+  "question_id": "conv2_q64",
+  "conversation_idx": 2,
+  "category": 3,
+  "category_name": "open-domain",
+  "question": "What job might Maria pursue in the future?",
+  "ground_truth_answer": "Shelter coordinator, Counselor",
+  "evidence": [
+    "D32:14",
+    "D5:8",
+    "D11:10",
+    "D27:4"
+  ],
+  "user_id": "locomo_2_fe8ec031",
+  "reference_date": "11:08 am on 16 August, 2023",
+  "retrieval": {
+    "search_query": "What job might Maria pursue in the future?",
+    "search_results": [
+      {
+        "memory": "Maria expressed enthusiasm about community support and offered to help with networking and future events",
+        "score": 0.5239,
+        "id": "ceefd9df-7c8e-475d-aac7-5a3623e05467",
+        "created_at": "2023-02-05T14:33:00+00:00",
+        "updated_at": "2026-11-19T04:23:29.320923+00:00"
+      },
+      {
+        "memory": "Maria reported that the woman she met had gone through a divorce, lost her job, become homeless, but still values the little things and believes in the goodness of kindness",
+        "score": 0.4115,
+        "id": "11dc3430-96c6-47de-a7f4-f9f3676d2003",
+        "created_at": "2023-02-25T20:55:00+00:00",
+        "updated_at": "2026-11-19T04:25:34.649978+00:00"
+      },
+      {
+        "memory": "Maria said she is off to bake some cakes",
+        "score": 0.3102,
+        "id": "0d3913f6-3f05-4bea-880f-dc69a103e1f0",
+        "created_at": "2023-07-22T18:21:00+00:00",
+        "updated_at": "2026-11-19T05:31:18.094101+00:00"
+      },
+      {
+        "memory": "Maria took a creative writing class recently and found it super enlightening",
+        "score": 0.3007,
+        "id": "bbead82d-0edc-4177-af80-c90f4bd3b97f",
+        "created_at": "2023-02-25T20:55:00+00:00",
+        "updated_at": "2026-11-19T04:24:37.482442+00:00"
+      },
+      {
+        "memory": "John expressed that Maria's support means a lot to him and said he will reach out to her if he needs anything",
+        "score": 0.295,
+        "id": "55d74fa5-762e-4bed-a7f9-e1afd1c1775a",
+        "created_at": "2023-08-05T17:19:00+00:00",
+        "updated_at": "2026-11-19T05:41:46.411690+00:00"
+      },
+      {
+        "memory": "Maria says she has been struggling.",
+        "score": 0.2939,
+        "id": "46e64911-7ab7-4433-9cb1-e035deb4a192",
+        "created_at": "2023-06-27T00:21:00+00:00",
+        "updated_at": "2026-11-19T05:12:11.874007+00:00"
+      },
+      {
+        "memory": "John expressed sympathy to Maria about her loss and offered to help her",
+        "score": 0.2934,
+        "id": "db7f5771-98e4-4a88-ae2a-92a69c498119",
+        "created_at": "2023-03-06T18:03:00+00:00",
+        "updated_at": "2026-11-19T04:27:12.047674+00:00"
+      },
+      {
+        "memory": "Maria wants to keep improving the community",
+        "score": 0.2925,
+        "id": "49d4d8ef-7566-4d25-853f-cc7b578ccc58",
+        "created_at": "2023-07-07T18:29:00+00:00",
+        "updated_at": "2026-11-19T05:24:53.198918+00:00"
+      },
+      {
+        "memory": "Maria has been involved in charity work recently, finds it rewarding, and feels connected and fulfilled",
+        "score": 0.2886,
+        "id": "14bb1df8-4bc4-40a9-9d03-8b26528bfdb0",
+        "created_at": "2023-05-06T17:04:00+00:00",
+        "updated_at": "2026-11-19T04:51:40.816154+00:00"
+      },
+      {
+        "memory": "Maria says she is good",
+        "score": 0.2882,
+        "id": "a99d2655-94a4-46bf-a208-ba6ee53e254d",
+        "created_at": "2023-05-20T19:38:00+00:00",
+        "updated_at": "2026-11-19T04:54:46.046654+00:00"
+      },
+      {
+        "memory": "John says Maria is inspiring and commends her for making a difference",
+        "score": 0.2878,
+        "id": "37906951-204f-405a-bbd3-fe0d51bbfdfc",
+        "created_at": "2023-08-03T18:20:00+00:00",
+        "updated_at": "2026-11-19T05:38:04.378048+00:00"
+      },
+      {
+        "memory": "Maria is inspired by chatting with people",
+        "score": 0.2818,
+        "id": "51a9cf91-dde7-4dd9-838d-4e0dd1ff5569",
+        "created_at": "2023-07-05T18:59:00+00:00",
+        "updated_at": "2026-11-19T05:21:36.562780+00:00"
+      },
+      {
+        "memory": "Maria says she'll talk to John soon.",
+        "score": 0.2804,
+        "id": "4390b4db-5cb3-418f-bf59-d1caf9a9b032",
+        "created_at": "2023-07-31T13:59:00+00:00",
+        "updated_at": "2026-11-19T05:35:37.677679+00:00"
+      },
+      {
+        "memory": "Maria made dinner together with her mom on May 3, 2023 (the night before the conversation)",
+        "score": 0.2784,
+        "id": "b8d935fe-c6c5-4c8c-8d84-6cc142c3db29",
+        "created_at": "2023-05-04T15:18:00+00:00",
+        "updated_at": "2026-11-19T04:47:29.266191+00:00"
+      },
+      {
+        "memory": "Maria started volunteering at a local dog shelter once a month",
+        "score": 0.2776,
+        "id": "b6c0aeb4-650d-4659-b3c3-3c5133909b87",
+        "created_at": "2023-06-03T11:51:00+00:00",
+        "updated_at": "2026-11-19T05:02:51.735484+00:00"
+      },
+      {
+        "memory": "Maria is assisting her cousin, who recently went through a tough time, in finding a new place to live",
+        "score": 0.2758,
+        "id": "c496ce06-bce8-4233-83a8-63350510c015",
+        "created_at": "2023-07-03T20:43:00+00:00",
+        "updated_at": "2026-11-19T05:16:58.110773+00:00"
+      },
+      {
+        "memory": "Maria wanted to make connections, laugh together, and take in nature's beauty",
+        "score": 0.2753,
+        "id": "9eaffa65-d2c2-447a-9dd4-62899ed11be7",
+        "created_at": "2023-07-22T18:21:00+00:00",
+        "updated_at": "2026-11-19T05:28:41.185321+00:00"
+      },
+      {
+        "memory": "Maria says everyone can do something to make a difference",
+        "score": 0.2752,
+        "id": "60c5b4c5-5df6-47d5-902f-21a423145e6e",
+        "created_at": "2023-04-18T19:34:00+00:00",
+        "updated_at": "2026-11-19T04:45:32.160967+00:00"
+      },
+      {
+        "memory": "Maria suggested making positive change and brightening up the place",
+        "score": 0.2743,
+        "id": "d63575b8-abe5-4f44-9280-c332bd330ef5",
+        "created_at": "2023-02-25T20:55:00+00:00",
+        "updated_at": "2026-11-19T04:26:32.237614+00:00"
+      },
+      {
+        "memory": "Maria said she will continue spreading kindness and positivity as her way of helping others",
+        "score": 0.2738,
+        "id": "bb2198ad-e7b2-45af-9466-58e349e1a78b",
+        "created_at": "2023-06-27T00:21:00+00:00",
+        "updated_at": "2026-11-19T05:14:29.743271+00:00"
+      },
+      {
+        "memory": "Maria says she and John work well together",
+        "score": 0.2727,
+        "id": "a78fa7b2-512c-40b5-a952-ede752d1f334",
+        "created_at": "2023-04-02T09:36:00+00:00",
+        "updated_at": "2026-11-19T04:33:57.848823+00:00"
+      },
+      {
+        "memory": "Maria says she is focusing on the positive.",
+        "score": 0.2713,
+        "id": "2f086ab3-9ace-41d4-a9d5-8ade3cda65e1",
+        "created_at": "2023-06-27T00:21:00+00:00",
+        "updated_at": "2026-11-19T05:12:11.874007+00:00"
+      },
+      {
+        "memory": "User congratulated Maria on her recent positive experience",
+        "score": 0.2701,
+        "id": "c92ee601-1892-4e20-a92e-d12c61fa6312",
+        "created_at": "2023-06-16T19:20:00+00:00",
+        "updated_at": "2026-11-19T05:07:49.159660+00:00"
+      },
+      {
+        "memory": "Maria is heading to dinner with some friends from the gym",
+        "score": 0.2692,
+        "id": "e4999c31-d361-4b40-9d50-6f885c6ed0a1",
+        "created_at": "2023-07-07T18:29:00+00:00",
+        "updated_at": "2026-11-19T05:25:29.330159+00:00"
+      },
+      {
+        "memory": "John said that Maria's insight is the key to making a difference",
+        "score": 0.2686,
+        "id": "3c004155-6dd6-4adb-85ad-c1bb55335121",
+        "created_at": "2023-03-06T18:03:00+00:00",
+        "updated_at": "2026-11-19T04:32:15.582691+00:00"
+      },
+      {
+        "memory": "Maria is now friends with a fellow volunteer, and they both love helping others",
+        "score": 0.2682,
+        "id": "974a74be-9e74-46a0-b31f-121bd6ff62fd",
+        "created_at": "2023-01-09T19:06:00+00:00",
+        "updated_at": "2026-11-19T04:11:59.577446+00:00"
+      },
+      {
+        "memory": "John says Maria is dedicated to helping people",
+        "score": 0.2673,
+        "id": "38885740-d05a-4cdc-8242-4d7281f36cf3",
+        "created_at": "2023-04-18T19:34:00+00:00",
+        "updated_at": "2026-11-19T04:45:05.592124+00:00"
+      },
+      {
+        "memory": "John expressed that Maria's recent help was amazing and speculated it must have felt great for her",
+        "score": 0.2672,
+        "id": "ede5434e-f05d-473e-b8b6-400f312551b6",
+        "created_at": "2023-06-27T00:21:00+00:00",
+        "updated_at": "2026-11-19T05:13:32.499985+00:00"
+      },
+      {
+        "memory": "Maria gave a few talks at the homeless shelter she volunteers at around April 10, 2023; she found the experience fulfilling, received compliments from other volunteers, and felt reminded of the importance of connecting with and helping others.",
+        "score": 0.267,
+        "id": "2041433b-da51-49a1-92ec-d4e3bb5c17e3",
+        "created_at": "2023-04-10T18:13:00+00:00",
+        "updated_at": "2026-11-19T04:39:20.025001+00:00"
+      },
+      {
+        "memory": "Maria has been taking notes about local politics in her notebook",
+        "score": 0.2662,
+        "id": "07cf7e05-65ff-4c8a-9daf-32bcfa6aa629",
+        "created_at": "2023-01-09T19:06:00+00:00",
+        "updated_at": "2026-11-19T04:14:40.365480+00:00"
+      },
+      {
+        "memory": "Maria says parenting can be tough but rewarding",
+        "score": 0.2658,
+        "id": "3bbb8d6a-212d-4892-8ae1-96f470a51e3f",
+        "created_at": "2023-03-06T18:03:00+00:00",
+        "updated_at": "2026-11-19T04:27:42.640989+00:00"
+      },
+      {
+        "memory": "Maria wants to keep spreading awareness and supporting causes",
+        "score": 0.2656,
+        "id": "ac9fbb38-7ec0-4abf-a812-4145ec1e31a3",
+        "created_at": "2023-08-09T20:06:00+00:00",
+        "updated_at": "2026-11-19T05:44:29.081138+00:00"
+      },
+      {
+        "memory": "Maria went on a family road trip to Oregon when she was younger",
+        "score": 0.2648,
+        "id": "a9a93274-cf67-46e8-98e8-432f847a0a66",
+        "created_at": "2023-06-12T14:47:00+00:00",
+        "updated_at": "2026-11-19T05:04:27.113133+00:00"
+      },
+      {
+        "memory": "Maria is seeking resources or organizations to help her cousin find a new place to live",
+        "score": 0.2648,
+        "id": "ce8a8ff7-d4eb-44e1-8ce9-bff3914d6cfb",
+        "created_at": "2023-07-03T20:43:00+00:00",
+        "updated_at": "2026-11-19T05:17:36.653985+00:00"
+      },
+      {
+        "memory": "Maria is willing to join the community meeting and contribute to making the community better",
+        "score": 0.2643,
+        "id": "693d4296-0d74-4c13-b4bb-aafdaabe715a",
+        "created_at": "2023-07-07T18:29:00+00:00",
+        "updated_at": "2026-11-19T05:24:08.458618+00:00"
+      },
+      {
+        "memory": "John said he was glad he could help Maria, plans to talk to her soon, and wishes her to stay safe",
+        "score": 0.2641,
+        "id": "04bf0ca0-b33f-44cc-abf1-e8076f456465",
+        "created_at": "2023-04-10T18:13:00+00:00",
+        "updated_at": "2026-11-19T04:42:25.034077+00:00"
+      },
+      {
+        "memory": "Maria finds being around people like John inspiring",
+        "score": 0.2635,
+        "id": "a2ba0a29-2116-40a7-a2e9-51118e16430e",
+        "created_at": "2023-04-18T19:34:00+00:00",
+        "updated_at": "2026-11-19T04:44:29.703543+00:00"
+      },
+      {
+        "memory": "Maria has been volunteering at a homeless shelter and recently started doing aerial yoga as a fitness activity",
+        "score": 0.2626,
+        "id": "0430e861-c0b8-467d-b020-7b18248a11ac",
+        "created_at": "2022-12-17T11:01:00+00:00",
+        "updated_at": "2026-11-19T04:02:59.130022+00:00"
+      },
+      {
+        "memory": "Maria says that the initiatives give her peace and make her appreciate life",
+        "score": 0.2619,
+        "id": "01ea3965-27c0-4e8a-95e5-85d985aa941b",
+        "created_at": "2023-05-25T13:24:00+00:00",
+        "updated_at": "2026-11-19T05:00:00.344650+00:00"
+      },
+      {
+        "memory": "Maria said John did awesome",
+        "score": 0.2614,
+        "id": "c308343b-36cd-4da2-9fc1-4ca3ebeacae1",
+        "created_at": "2023-02-05T14:33:00+00:00",
+        "updated_at": "2026-11-19T04:23:04.350258+00:00"
+      },
+      {
+        "memory": "John is thrilled for Maria and finds her joining a church encouraging",
+        "score": 0.2606,
+        "id": "59680cf0-9162-4fa1-b86f-f7e84eca811c",
+        "created_at": "2023-05-06T17:04:00+00:00",
+        "updated_at": "2026-11-19T04:52:18.334281+00:00"
+      },
+      {
+        "memory": "Maria has not tried rock climbing yet and believes it is a great way to push yourself",
+        "score": 0.2598,
+        "id": "9ae93131-21fb-4658-b903-7399b5b0acb4",
+        "created_at": "2023-06-16T19:20:00+00:00",
+        "updated_at": "2026-11-19T05:08:09.049801+00:00"
+      },
+      {
+        "memory": "Maria believes John has the power to make a positive difference in his community",
+        "score": 0.2596,
+        "id": "baeb438c-8ade-4bd7-8045-991f63fbbfae",
+        "created_at": "2022-12-22T18:10:00+00:00",
+        "updated_at": "2026-11-19T04:06:10.185714+00:00"
+      },
+      {
+        "memory": "John says Maria's help is motivating and makes him more determined",
+        "score": 0.2587,
+        "id": "53d3178d-fcfb-422d-a162-7807afd02060",
+        "created_at": "2022-12-22T18:10:00+00:00",
+        "updated_at": "2026-11-19T04:06:25.662113+00:00"
+      },
+      {
+        "memory": "John is interested in learning how to find balance in his life and asks Maria for her approach",
+        "score": 0.2577,
+        "id": "ee6a613e-3c66-402a-aaef-fb591bb8177e",
+        "created_at": "2023-05-04T15:18:00+00:00",
+        "updated_at": "2026-11-19T04:47:53.047883+00:00"
+      },
+      {
+        "memory": "John tells Maria that she is dedicated and inspiring, and encourages her to keep going",
+        "score": 0.2576,
+        "id": "6122a735-79e4-4f05-8f15-e37151d2b593",
+        "created_at": "2023-04-18T19:34:00+00:00",
+        "updated_at": "2026-11-19T04:45:12.487148+00:00"
+      },
+      {
+        "memory": "John says Maria's determination never ceases to amaze him",
+        "score": 0.2563,
+        "id": "5037a50f-4666-4a93-bb25-462784aaddef",
+        "created_at": "2023-07-07T18:29:00+00:00",
+        "updated_at": "2026-11-19T05:23:58.977710+00:00"
+      },
+      {
+        "memory": "John expressed gladness that Maria found something that brings her joy",
+        "score": 0.2556,
+        "id": "1509ef60-b886-4925-97f6-621b1f7500f4",
+        "created_at": "2023-05-06T17:04:00+00:00",
+        "updated_at": "2026-11-19T04:51:48.860947+00:00"
+      },
+      {
+        "memory": "Maria says her family is small and she relies on them for strength during tough times",
+        "score": 0.2554,
+        "id": "06e84728-4ac9-4a4e-8f28-f0fd4acd0d39",
+        "created_at": "2023-05-04T15:18:00+00:00",
+        "updated_at": "2026-11-19T04:46:52.557313+00:00"
+      },
+      {
+        "memory": "Maria believes that stories and connections can truly make a difference",
+        "score": 0.2541,
+        "id": "de5aa36a-661c-45e2-b2f7-3f596c726e18",
+        "created_at": "2023-05-20T19:38:00+00:00",
+        "updated_at": "2026-11-19T04:56:48.747743+00:00"
+      }
+    ],
+    "search_latency_ms": 465.5,
+    "total_results": 50
+  },
+  "cutoff_results": {
+    "top_50": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "Community organizer or nonprofit advocate focused on homelessness and housing (e.g., coordinating outreach, awareness, and resources for people experiencing homelessness).",
+      "memories_evaluated": 50,
+      "reason": "The generated answer suggests community organizer/nonprofit advocate roles, which do not match the gold items of shelter coordinator or counselor and are not clear paraphrases of them."
+    }
+  }
+}

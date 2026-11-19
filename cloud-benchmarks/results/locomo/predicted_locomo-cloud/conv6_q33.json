@@ -1,0 +1,379 @@
+{
+  "question_id": "conv6_q33",
+  "conversation_idx": 6,
+  "category": 3,
+  "category_name": "open-domain",
+  "question": "Did John and James study together?",
+  "ground_truth_answer": "Yes",
+  "evidence": [
+    "D17:13"
+  ],
+  "user_id": "locomo_6_fe8ec031",
+  "reference_date": "8:57 pm on 7 November, 2022",
+  "retrieval": {
+    "search_query": "Did John and James study together?",
+    "search_results": [
+      {
+        "memory": "James expressed that he and John can do this together",
+        "score": 0.5292,
+        "id": "c88863c3-f4fe-4501-b485-bc9f55cba6fa",
+        "created_at": "2022-06-19T21:59:00+00:00",
+        "updated_at": "2026-11-19T05:04:46.635794+00:00"
+      },
+      {
+        "memory": "John expressed excitement to catch up with James",
+        "score": 0.4933,
+        "id": "177dd8b5-6bfa-43ab-815a-299f8ff59979",
+        "created_at": "2022-10-21T19:36:00+00:00",
+        "updated_at": "2026-11-19T05:45:29.307507+00:00"
+      },
+      {
+        "memory": "John asked James what happened to James's puppy and whether it is okay",
+        "score": 0.4921,
+        "id": "7b24c0c8-4335-4417-8f10-9ac8b8b24a22",
+        "created_at": "2022-08-06T13:45:00+00:00",
+        "updated_at": "2026-11-19T05:16:00.092270+00:00"
+      },
+      {
+        "memory": "James says he has something to show John",
+        "score": 0.4903,
+        "id": "528b2e7f-a5ba-4f7a-8682-9e421618d987",
+        "created_at": "2022-03-20T21:26:00+00:00",
+        "updated_at": "2026-11-19T04:10:46.405596+00:00"
+      },
+      {
+        "memory": "James says John is the best",
+        "score": 0.4822,
+        "id": "d712e8cc-094a-4a1c-bd6f-b843d39a35a9",
+        "created_at": "2022-09-01T18:53:00+00:00",
+        "updated_at": "2026-11-19T05:30:41.930426+00:00"
+      },
+      {
+        "memory": "James feels proud of John",
+        "score": 0.4727,
+        "id": "c429e048-e05a-4098-b7a9-d217a7cb1d4c",
+        "created_at": "2022-05-08T00:45:00+00:00",
+        "updated_at": "2026-11-19T04:44:43.228384+00:00"
+      },
+      {
+        "memory": "John said he will definitely take James's advice and called James the best",
+        "score": 0.4699,
+        "id": "eb552078-9c95-4198-8342-e8058197fdf9",
+        "created_at": "2022-09-20T20:56:00+00:00",
+        "updated_at": "2026-11-19T05:40:47.875892+00:00"
+      },
+      {
+        "memory": "John recommended that James practice a little before they can play together",
+        "score": 0.4695,
+        "id": "a87359fe-63e9-4877-a884-a7cf7869974a",
+        "created_at": "2022-11-05T17:20:00+00:00",
+        "updated_at": "2026-11-19T05:55:15.987827+00:00"
+      },
+      {
+        "memory": "John asked James when he would be coming back",
+        "score": 0.4616,
+        "id": "72957b52-0fdc-4bae-b979-c3222c552aa9",
+        "created_at": "2022-07-09T17:13:00+00:00",
+        "updated_at": "2026-11-19T05:07:13.717765+00:00"
+      },
+      {
+        "memory": "John commented that James really roots for this team",
+        "score": 0.4611,
+        "id": "725d6ac9-a19e-45a1-8228-0a2e0c4a3c22",
+        "created_at": "2022-06-13T16:30:00+00:00",
+        "updated_at": "2026-11-19T04:53:44.041181+00:00"
+      },
+      {
+        "memory": "John told James that he is a great host",
+        "score": 0.4594,
+        "id": "0fbd7d2d-73e9-4042-89e3-3dab1900b2fd",
+        "created_at": "2022-08-06T13:45:00+00:00",
+        "updated_at": "2026-11-19T05:16:42.800841+00:00"
+      },
+      {
+        "memory": "John said he will look after James's pockets",
+        "score": 0.4586,
+        "id": "a531b5cd-48e4-4d83-9140-50c217f0b117",
+        "created_at": "2022-03-17T15:47:00+00:00",
+        "updated_at": "2026-11-19T04:07:40.862452+00:00"
+      },
+      {
+        "memory": "John asked James if he chose the course because he loves football",
+        "score": 0.458,
+        "id": "1b763cdb-7c40-4d19-8308-4e5205ab8bd2",
+        "created_at": "2022-06-13T16:30:00+00:00",
+        "updated_at": "2026-11-19T04:52:49.625271+00:00"
+      },
+      {
+        "memory": "James thanked John for his suggestion",
+        "score": 0.4578,
+        "id": "a99f85b6-727e-44ed-89fd-7f70950f45d4",
+        "created_at": "2022-11-05T17:20:00+00:00",
+        "updated_at": "2026-11-19T05:54:58.310674+00:00"
+      },
+      {
+        "memory": "John said he was glad James enjoyed it",
+        "score": 0.4568,
+        "id": "e6f6b0ff-b6d5-4b90-b482-68df392a6046",
+        "created_at": "2022-10-31T00:37:00+00:00",
+        "updated_at": "2026-11-19T05:52:06.188365+00:00"
+      },
+      {
+        "memory": "James asked John how he's doing and what new games he's into",
+        "score": 0.4568,
+        "id": "0ba8fc9b-1662-4b44-a7dd-001902f37eb3",
+        "created_at": "2022-05-08T00:45:00+00:00",
+        "updated_at": "2026-11-19T04:42:47.731125+00:00"
+      },
+      {
+        "memory": "John believes that James's advice will help James develop in the game",
+        "score": 0.4565,
+        "id": "23a135b4-102c-4c21-8ec7-3e8243ee32ca",
+        "created_at": "2022-04-04T14:13:00+00:00",
+        "updated_at": "2026-11-19T04:17:35.054210+00:00"
+      },
+      {
+        "memory": "John expressed that James' support means a lot to him",
+        "score": 0.4525,
+        "id": "0de1c030-381f-475d-9af9-f358e2ceabb6",
+        "created_at": "2022-10-03T09:20:00+00:00",
+        "updated_at": "2026-11-19T05:41:39.027991+00:00"
+      },
+      {
+        "memory": "James asked John what project he worked on",
+        "score": 0.4525,
+        "id": "b4487cd6-457c-44b5-aa59-d5b9900f597b",
+        "created_at": "2022-11-07T20:57:00+00:00",
+        "updated_at": "2026-11-19T05:56:04.481981+00:00"
+      },
+      {
+        "memory": "James expressed that it would be nice to play with John one day",
+        "score": 0.4501,
+        "id": "a7bc2f8c-515b-4fb0-b22f-4299d3bcde9d",
+        "created_at": "2022-03-17T15:47:00+00:00",
+        "updated_at": "2026-11-19T04:07:16.286348+00:00"
+      },
+      {
+        "memory": "John encouraged James to call the girl and said everything will work out",
+        "score": 0.4498,
+        "id": "86921e12-7737-4763-bd76-e8c8f2ba7d18",
+        "created_at": "2022-08-10T09:16:00+00:00",
+        "updated_at": "2026-11-19T05:20:08.487945+00:00"
+      },
+      {
+        "memory": "James cannot remember the game John mentioned",
+        "score": 0.4497,
+        "id": "df3f3327-8724-49b6-8cb9-51dca6e8a579",
+        "created_at": "2022-04-29T14:36:00+00:00",
+        "updated_at": "2026-11-19T04:37:57.739820+00:00"
+      },
+      {
+        "memory": "James would like to travel somewhere together with John in the next year",
+        "score": 0.4485,
+        "id": "08a9803e-0384-4891-9c00-aaa2126f8b3c",
+        "created_at": "2022-04-20T21:32:00+00:00",
+        "updated_at": "2026-11-19T04:26:20.308560+00:00"
+      },
+      {
+        "memory": "James asked John what challenges he has encountered",
+        "score": 0.4479,
+        "id": "c4cf9d85-f2f7-45c2-81d4-ba9910ca9bc7",
+        "created_at": "2022-04-29T14:36:00+00:00",
+        "updated_at": "2026-11-19T04:34:05.660159+00:00"
+      },
+      {
+        "memory": "James expressed enthusiasm about John's news and asked him what he did",
+        "score": 0.4478,
+        "id": "1d78d659-1c2d-486c-b421-8738426ca592",
+        "created_at": "2022-11-05T17:20:00+00:00",
+        "updated_at": "2026-11-19T05:53:37.717205+00:00"
+      },
+      {
+        "memory": "John feels that James's support means a lot to him.",
+        "score": 0.4458,
+        "id": "f3f437f5-46da-4c1a-9eca-18d3c64f4c08",
+        "created_at": "2022-08-06T13:45:00+00:00",
+        "updated_at": "2026-11-19T05:14:25.056036+00:00"
+      },
+      {
+        "memory": "James asked John what else is new in his life",
+        "score": 0.4444,
+        "id": "f0e5fa1c-1048-43d0-9694-a1ed55af61d7",
+        "created_at": "2022-09-04T21:23:00+00:00",
+        "updated_at": "2026-11-19T05:32:09.035096+00:00"
+      },
+      {
+        "memory": "James asked John if he is free tomorrow",
+        "score": 0.4427,
+        "id": "130edf5c-990e-4946-b496-fd0986556149",
+        "created_at": "2022-08-26T21:18:00+00:00",
+        "updated_at": "2026-11-19T05:25:50.393733+00:00"
+      },
+      {
+        "memory": "John loves hearing about the joy that James's furry friends bring into James's life",
+        "score": 0.4418,
+        "id": "4d5193c3-da27-4299-91f6-c30af1240150",
+        "created_at": "2022-05-04T19:01:00+00:00",
+        "updated_at": "2026-11-19T04:40:22.750531+00:00"
+      },
+      {
+        "memory": "John had never heard of James's desire to cook before this conversation and was surprised.",
+        "score": 0.4414,
+        "id": "abc0c013-412d-45b2-961b-69d4791862f3",
+        "created_at": "2022-09-04T21:23:00+00:00",
+        "updated_at": "2026-11-19T05:33:06.087980+00:00"
+      },
+      {
+        "memory": "James asked John if he has thought about any ideas on how to make a difference.",
+        "score": 0.4402,
+        "id": "9f11ebcb-02f2-4121-ae95-29130a6caf06",
+        "created_at": "2022-06-19T21:59:00+00:00",
+        "updated_at": "2026-11-19T05:02:02.326070+00:00"
+      },
+      {
+        "memory": "John thinks James's puppy is cute",
+        "score": 0.4394,
+        "id": "5b90332f-a65f-424c-a696-87a15417f80f",
+        "created_at": "2022-08-26T21:18:00+00:00",
+        "updated_at": "2026-11-19T05:24:44.623259+00:00"
+      },
+      {
+        "memory": "James will keep John updated on the progress of the project",
+        "score": 0.439,
+        "id": "84069770-8613-4b2e-9919-e9f0ce603564",
+        "created_at": "2022-03-17T15:47:00+00:00",
+        "updated_at": "2026-11-19T04:06:27.206024+00:00"
+      },
+      {
+        "memory": "James thought John's project sounded amazing",
+        "score": 0.4382,
+        "id": "2ae4d4ad-e2c2-4d3d-ace5-56adc926688b",
+        "created_at": "2022-11-07T20:57:00+00:00",
+        "updated_at": "2026-11-19T05:56:04.481981+00:00"
+      },
+      {
+        "memory": "James will definitely take John's advice and thanks John for avoiding spoilers",
+        "score": 0.4375,
+        "id": "28e08013-5971-4064-b4d7-d52964cfcf76",
+        "created_at": "2022-10-21T19:36:00+00:00",
+        "updated_at": "2026-11-19T05:50:55.795011+00:00"
+      },
+      {
+        "memory": "James told John he is here for him and asked if there is anything John wants to talk about",
+        "score": 0.4369,
+        "id": "c1430f20-b929-4995-a1d9-09ee5532e20d",
+        "created_at": "2022-04-23T11:04:00+00:00",
+        "updated_at": "2026-11-19T04:28:52.200169+00:00"
+      },
+      {
+        "memory": "James asked John whether he still plays with his siblings these days",
+        "score": 0.4328,
+        "id": "57e20d4f-730a-4912-9d3c-0f3dde6ad699",
+        "created_at": "2022-08-21T15:57:00+00:00",
+        "updated_at": "2026-11-19T05:23:12.437184+00:00"
+      },
+      {
+        "memory": "John said James brought a lot of impressions and that it was awesome",
+        "score": 0.4323,
+        "id": "15f59041-3c1e-497f-889a-faf130de5801",
+        "created_at": "2022-07-22T09:49:00+00:00",
+        "updated_at": "2026-11-19T05:11:01.616313+00:00"
+      },
+      {
+        "memory": "James says John has always been there for him and thanks him for having his back",
+        "score": 0.4315,
+        "id": "e672f29d-4476-4715-929e-1b8cc54906b4",
+        "created_at": "2022-10-13T14:14:00+00:00",
+        "updated_at": "2026-11-19T05:45:24.060630+00:00"
+      },
+      {
+        "memory": "James is excited about the world and story of the game John recommended and thanks John for the recommendation",
+        "score": 0.4303,
+        "id": "50fb33a1-78b5-4fb8-98cc-9fe2bb5c9ac2",
+        "created_at": "2022-10-03T09:20:00+00:00",
+        "updated_at": "2026-11-19T05:42:16.722784+00:00"
+      },
+      {
+        "memory": "John said James is always looking for a way to improve himself",
+        "score": 0.4297,
+        "id": "7b2a9d94-3269-43ca-aab2-2cf681328f08",
+        "created_at": "2022-09-04T21:23:00+00:00",
+        "updated_at": "2026-11-19T05:33:17.927659+00:00"
+      },
+      {
+        "memory": "John appreciates James's help and says he will make time for himself",
+        "score": 0.4277,
+        "id": "7a9fc35a-03a0-4f50-9fc8-4eeb43a33bb7",
+        "created_at": "2022-09-20T20:56:00+00:00",
+        "updated_at": "2026-11-19T05:40:28.783089+00:00"
+      },
+      {
+        "memory": "James thanks John and says goodbye",
+        "score": 0.427,
+        "id": "f422aadc-36a8-4397-b365-d6ddd0defa6a",
+        "created_at": "2022-08-06T13:45:00+00:00",
+        "updated_at": "2026-11-19T05:16:47.128696+00:00"
+      },
+      {
+        "memory": "James asks John what the most difficult aspect of the game is",
+        "score": 0.4266,
+        "id": "20f68089-2513-4821-a890-af1fcf26cfca",
+        "created_at": "2022-10-21T19:36:00+00:00",
+        "updated_at": "2026-11-19T05:50:26.687404+00:00"
+      },
+      {
+        "memory": "James wishes John good luck in this matter",
+        "score": 0.426,
+        "id": "101b145c-fadf-4eac-9ba9-fbdb5f449ad8",
+        "created_at": "2022-03-20T21:26:00+00:00",
+        "updated_at": "2026-11-19T04:10:46.405596+00:00"
+      },
+      {
+        "memory": "James asked John whether his siblings are already working on anything cool together",
+        "score": 0.4247,
+        "id": "da39e34c-8232-46e1-9390-47405d698270",
+        "created_at": "2022-08-26T21:18:00+00:00",
+        "updated_at": "2026-11-19T05:24:56.019738+00:00"
+      },
+      {
+        "memory": "John asked James whether he will only be in Toronto or will also visit other destinations",
+        "score": 0.4236,
+        "id": "86bd3e56-fcc9-42a4-9ce6-5ba13ca77e5d",
+        "created_at": "2022-07-09T17:13:00+00:00",
+        "updated_at": "2026-11-19T05:06:54.054083+00:00"
+      },
+      {
+        "memory": "John said James looks happy and that it is a great achievement",
+        "score": 0.4234,
+        "id": "4aa432eb-550f-4bbd-bcb4-e26a857f562a",
+        "created_at": "2022-06-16T17:07:00+00:00",
+        "updated_at": "2026-11-19T04:58:31.084215+00:00"
+      },
+      {
+        "memory": "John asked James to share more screenshots of his game",
+        "score": 0.4225,
+        "id": "1bd55413-86de-41e4-a012-a74da87c5b4f",
+        "created_at": "2022-09-01T18:53:00+00:00",
+        "updated_at": "2026-11-19T05:27:47.224854+00:00"
+      },
+      {
+        "memory": "John congratulated James on releasing his game",
+        "score": 0.4225,
+        "id": "319d79ff-ac95-4f57-86ed-1217432d01ed",
+        "created_at": "2022-10-13T14:14:00+00:00",
+        "updated_at": "2026-11-19T05:43:04.798685+00:00"
+      }
+    ],
+    "search_latency_ms": 347.8,
+    "total_results": 50
+  },
+  "cutoff_results": {
+    "top_50": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "No.",
+      "memories_evaluated": 50,
+      "reason": "The generated answer directly contradicts the gold answer by saying 'No' when the correct answer is 'Yes.'"
+    }
+  }
+}

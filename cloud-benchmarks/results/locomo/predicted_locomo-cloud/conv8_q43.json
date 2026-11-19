@@ -1,0 +1,381 @@
+{
+  "question_id": "conv8_q43",
+  "conversation_idx": 8,
+  "category": 3,
+  "category_name": "open-domain",
+  "question": "How often does Sam get health checkups?",
+  "ground_truth_answer": "every three months",
+  "evidence": [
+    "D2:6",
+    "D7:2",
+    "D12:1"
+  ],
+  "user_id": "locomo_8_fe8ec031",
+  "reference_date": "9:37 pm on 11 January, 2024",
+  "retrieval": {
+    "search_query": "How often does Sam get health checkups?",
+    "search_results": [
+      {
+        "memory": "Sam says his health has been challenging lately and that some issues have been hard on his health",
+        "score": 0.6597,
+        "id": "36966d1e-25c3-4c97-be8b-098e27c5f8ca",
+        "created_at": "2023-08-13T16:09:00+00:00",
+        "updated_at": "2026-11-19T04:25:42.490441+00:00"
+      },
+      {
+        "memory": "Sam says handling his health changes has been kinda wild",
+        "score": 0.6547,
+        "id": "15af877e-7d53-431c-a956-e17d2a1758cc",
+        "created_at": "2023-09-11T09:28:00+00:00",
+        "updated_at": "2026-11-19T04:42:19.505193+00:00"
+      },
+      {
+        "memory": "Sam says he is doing his best with his health",
+        "score": 0.6544,
+        "id": "588b562c-61c7-40c6-a02a-770dd121e3c6",
+        "created_at": "2024-01-11T21:37:00+00:00",
+        "updated_at": "2026-11-19T05:38:41.281341+00:00"
+      },
+      {
+        "memory": "Evan offered to support Sam in his health journey, expressing willingness to help with Sam's health challenges",
+        "score": 0.6484,
+        "id": "fc1ae038-a016-4bc0-b476-14ab2b6f8d8e",
+        "created_at": "2023-05-24T19:11:00+00:00",
+        "updated_at": "2026-11-19T04:07:48.050206+00:00"
+      },
+      {
+        "memory": "Evan told Sam that Sam has come a long way in his quest for better health and expressed excitement about what comes next for Sam",
+        "score": 0.6346,
+        "id": "925a352d-b635-424e-9b83-10454f8b80e0",
+        "created_at": "2023-11-09T21:13:00+00:00",
+        "updated_at": "2026-11-19T05:02:54.510865+00:00"
+      },
+      {
+        "memory": "Evan notes that both he and Sam are being compelled to take better care of their health after recent challenges",
+        "score": 0.633,
+        "id": "df7d5e91-4136-41b4-9c8d-31d46b0c48bc",
+        "created_at": "2023-08-15T16:20:00+00:00",
+        "updated_at": "2026-11-19T04:30:11.751177+00:00"
+      },
+      {
+        "memory": "Evan praised Sam for sticking to his health routine and asked if Sam has noticed any positive changes",
+        "score": 0.6308,
+        "id": "33017013-8543-4dbc-aea2-eb2988dbbca1",
+        "created_at": "2023-08-19T18:17:00+00:00",
+        "updated_at": "2026-11-19T04:33:54.140832+00:00"
+      },
+      {
+        "memory": "Evan expressed empathy to Sam about his health challenges, noted that Sam stays positive, and reminded Sam to take care of himself",
+        "score": 0.6276,
+        "id": "dd6a323e-5581-414e-8046-725beb7c4e0f",
+        "created_at": "2024-01-11T21:37:00+00:00",
+        "updated_at": "2026-11-19T05:39:04.636692+00:00"
+      },
+      {
+        "memory": "Sam is working on his health and getting active as of July 27, 2023",
+        "score": 0.6214,
+        "id": "80f0d43a-3d5f-4a66-be7b-24ebded04762",
+        "created_at": "2023-07-27T10:52:00+00:00",
+        "updated_at": "2026-11-19T04:15:21.059823+00:00"
+      },
+      {
+        "memory": "As of August 7, 2023, Evan is dealing with health issues, according to Sam.",
+        "score": 0.6159,
+        "id": "3e87f15f-90b4-4dd2-82a3-af3d6986bc0a",
+        "created_at": "2023-08-07T19:52:00+00:00",
+        "updated_at": "2026-11-19T04:21:33.097890+00:00"
+      },
+      {
+        "memory": "Evan encouraged Sam to be patient with himself, emphasized that Sam's health matters, and urged him to stay upbeat and keep going",
+        "score": 0.609,
+        "id": "f553ec21-3303-41f5-9cc7-5b86e32f009e",
+        "created_at": "2023-10-08T15:09:00+00:00",
+        "updated_at": "2026-11-19T04:49:27.441655+00:00"
+      },
+      {
+        "memory": "Sam is motivated by something he saw and, starting today, intends to stay on track with his health goals",
+        "score": 0.5906,
+        "id": "80365477-fe38-4e0f-854a-108e0741dcbb",
+        "created_at": "2024-01-10T00:17:00+00:00",
+        "updated_at": "2026-11-19T05:35:24.814903+00:00"
+      },
+      {
+        "memory": "Sam said being chosen as a coach is a great step in his quest for better health",
+        "score": 0.5894,
+        "id": "aa8bcd7a-3735-4180-807b-757da5058d3c",
+        "created_at": "2023-11-09T21:13:00+00:00",
+        "updated_at": "2026-11-19T05:02:48.664247+00:00"
+      },
+      {
+        "memory": "Evan praised Sam for having a health plan and being dedicated to staying healthy, and asked Sam whether he has consulted his doctor for additional diet and exercise advice",
+        "score": 0.586,
+        "id": "03d4415a-d424-409f-97a4-b803aef695c3",
+        "created_at": "2024-01-10T00:17:00+00:00",
+        "updated_at": "2026-11-19T05:35:24.362525+00:00"
+      },
+      {
+        "memory": "Sam says he is trying to keep up with his new health routine but finds it tough and feels pressured by his family",
+        "score": 0.5756,
+        "id": "6eabf577-974b-449f-aa01-52a8433180d5",
+        "created_at": "2023-10-25T14:56:00+00:00",
+        "updated_at": "2026-11-19T04:57:53.058047+00:00"
+      },
+      {
+        "memory": "Sam had a medical check-up on Monday, October 2, 2023, where his doctor said his weight poses a serious health risk and he needs to make changes soon, which he finds emotionally distressing.",
+        "score": 0.5273,
+        "id": "8b654606-e6df-49dd-8160-9e9e30891967",
+        "created_at": "2023-10-08T15:09:00+00:00",
+        "updated_at": "2026-11-19T04:47:58.468383+00:00"
+      },
+      {
+        "memory": "Sam is feeling a mix of emotions, being somewhat concerned about his health but also motivated to make positive changes, and is taking things one step at a time",
+        "score": 0.5233,
+        "id": "ce5345be-ff4b-449d-848c-8b1afbc22c3c",
+        "created_at": "2023-08-15T16:20:00+00:00",
+        "updated_at": "2026-11-19T04:33:10.691765+00:00"
+      },
+      {
+        "memory": "Sam says he is dealing with health issues, feels his weight is keeping him from fully living, and is trying to stay positive even though it’s not easy",
+        "score": 0.507,
+        "id": "0473d4c1-3b1e-4420-ba7b-20843e8f12fe",
+        "created_at": "2024-01-11T21:37:00+00:00",
+        "updated_at": "2026-11-19T05:37:55.980635+00:00"
+      },
+      {
+        "memory": "Sam shared a photo of a white board with extensive writing, depicting his meal plan, workout schedule, and motivational notes for his health journey",
+        "score": 0.4943,
+        "id": "c613a00f-bdba-45fc-a431-301b8c2c25e9",
+        "created_at": "2024-01-10T00:17:00+00:00",
+        "updated_at": "2026-11-19T05:35:24.814903+00:00"
+      },
+      {
+        "memory": "Sam experienced a health scare last weekend, ending up in the ER with a severe stomachache diagnosed as gastritis, which served as a wake‑up call prompting him to adopt a more nutritious diet and regular exercise.",
+        "score": 0.4647,
+        "id": "b9181ab2-7671-4011-a9db-53cdab5549dc",
+        "created_at": "2023-10-17T13:50:00+00:00",
+        "updated_at": "2026-11-19T04:54:32.992352+00:00"
+      },
+      {
+        "memory": "Evan feels that health issues can cramp his style and are frustrating",
+        "score": 0.4436,
+        "id": "98a99cfc-6093-43eb-991f-061f72ab4550",
+        "created_at": "2024-01-11T21:37:00+00:00",
+        "updated_at": "2026-11-19T05:40:41.962494+00:00"
+      },
+      {
+        "memory": "Evan struggled with his health a few years ago but persisted in improving it",
+        "score": 0.4387,
+        "id": "912ea9fc-a62b-4fab-a1aa-eff64608cd3c",
+        "created_at": "2023-07-27T10:52:00+00:00",
+        "updated_at": "2026-11-19T04:15:37.445869+00:00"
+      },
+      {
+        "memory": "Evan (Evan) had a health scare and went to the hospital around November 14, 2023, where a suspicious finding was later determined to be a misunderstanding, prompting him to realize the importance of monitoring his health",
+        "score": 0.4357,
+        "id": "e66a5de4-f922-4b07-bdf3-cbc7fa250fb3",
+        "created_at": "2023-11-21T19:30:00+00:00",
+        "updated_at": "2026-11-19T05:07:37.057966+00:00"
+      },
+      {
+        "memory": "Evan says dealing with health issues has been tough and that it has made him appreciate good moments more",
+        "score": 0.4056,
+        "id": "4f050f11-417e-41fc-b648-fac79f76171f",
+        "created_at": "2023-08-07T19:52:00+00:00",
+        "updated_at": "2026-11-19T04:21:14.406789+00:00"
+      },
+      {
+        "memory": "Evan says his family motivates him to stay healthy and helps a lot with his health goals",
+        "score": 0.3944,
+        "id": "e09ee60b-5403-47c7-a902-93bb79cbb58b",
+        "created_at": "2023-08-07T19:52:00+00:00",
+        "updated_at": "2026-11-19T04:22:07.730400+00:00"
+      },
+      {
+        "memory": "Evan has been working on his health journey for two years, experiencing ups and downs but staying committed",
+        "score": 0.384,
+        "id": "91a6887c-5ff1-4262-aed5-c681609c4f64",
+        "created_at": "2023-08-07T19:52:00+00:00",
+        "updated_at": "2026-11-19T04:21:29.581142+00:00"
+      },
+      {
+        "memory": "Evan experienced a sudden heart palpitation health scare during the week of May 30, 2023, which he described as a serious wake‑up call about his lifestyle",
+        "score": 0.3674,
+        "id": "5f1e4e39-5967-413d-b4d9-5d5b15dd10cd",
+        "created_at": "2023-06-06T15:55:00+00:00",
+        "updated_at": "2026-11-19T04:10:19.138554+00:00"
+      },
+      {
+        "memory": "Sam has not seen a doctor in a while and intends to make a doctor appointment soon",
+        "score": 0.3641,
+        "id": "70ce8c57-e68b-4e32-9155-adc5230d1f03",
+        "created_at": "2024-01-10T00:17:00+00:00",
+        "updated_at": "2026-11-19T05:35:33.338338+00:00"
+      },
+      {
+        "memory": "Evan offered to help Sam after hearing about Sam's tough week",
+        "score": 0.3628,
+        "id": "0719f850-0754-41f6-b193-dbb6e4fff851",
+        "created_at": "2023-05-24T19:11:00+00:00",
+        "updated_at": "2026-11-19T04:07:28.510903+00:00"
+      },
+      {
+        "memory": "Evan says Sam's support means a lot and that he will keep Sam updated",
+        "score": 0.3603,
+        "id": "b1d6d43b-9392-4df4-88ea-aae9fa244593",
+        "created_at": "2023-12-09T13:45:00+00:00",
+        "updated_at": "2026-11-19T05:17:15.208418+00:00"
+      },
+      {
+        "memory": "Sam says Evan is doing great and Sam wants to feel the same sense of freedom",
+        "score": 0.3552,
+        "id": "c6263835-959e-4854-a7c5-ae19a02b5195",
+        "created_at": "2023-10-25T14:56:00+00:00",
+        "updated_at": "2026-11-19T05:01:33.916944+00:00"
+      },
+      {
+        "memory": "Evan greeted Sam, noting it had been a while since they last talked and hoping Sam is doing well",
+        "score": 0.3547,
+        "id": "c176400a-4583-4c23-ad68-12fcbcddc636",
+        "created_at": "2023-10-14T16:07:00+00:00",
+        "updated_at": "2026-11-19T04:51:15.102189+00:00"
+      },
+      {
+        "memory": "Sam is getting into a healthier lifestyle",
+        "score": 0.3546,
+        "id": "6b3c2693-3cb3-454d-afad-e54768da4863",
+        "created_at": "2023-12-31T11:00:00+00:00",
+        "updated_at": "2026-11-19T05:25:32.248858+00:00"
+      },
+      {
+        "memory": "Sam says he is doing okay and has been through a few bumps",
+        "score": 0.3488,
+        "id": "021707a2-953b-4de9-a912-88eeb9cf307b",
+        "created_at": "2023-12-17T18:48:00+00:00",
+        "updated_at": "2026-11-19T05:17:41.664740+00:00"
+      },
+      {
+        "memory": "Evan thanks Sam, says Sam's support means a lot and that he appreciates having Sam to talk to, noting it’s been quite a ride, and adds he will reach out if he needs anything.",
+        "score": 0.3459,
+        "id": "64155558-15c1-4be6-910d-466499e302e4",
+        "created_at": "2023-11-09T21:13:00+00:00",
+        "updated_at": "2026-11-19T05:05:28.247733+00:00"
+      },
+      {
+        "memory": "Evan expressed gratitude to Sam, saying Sam's kind words and support mean a lot and that it's great to have Sam here",
+        "score": 0.3455,
+        "id": "c0cf95af-ad1a-4d5b-b6ae-492915eff82e",
+        "created_at": "2023-11-09T21:13:00+00:00",
+        "updated_at": "2026-11-19T05:05:50.169548+00:00"
+      },
+      {
+        "memory": "Assistant Sam has never been to Jasper",
+        "score": 0.3453,
+        "id": "4d90b5ce-b740-4190-80de-aaa5842456da",
+        "created_at": "2023-05-24T19:11:00+00:00",
+        "updated_at": "2026-11-19T04:06:49.803692+00:00"
+      },
+      {
+        "memory": "Evan asked Sam how far Sam and his dad hiked together",
+        "score": 0.3449,
+        "id": "16b5e199-7be1-45b3-9004-3ccb3d72b263",
+        "created_at": "2023-05-18T13:47:00+00:00",
+        "updated_at": "2026-11-19T04:04:03.659337+00:00"
+      },
+      {
+        "memory": "Evan expressed that he is glad to help Sam and hopes Sam enjoys it",
+        "score": 0.3449,
+        "id": "bbbb74a0-75b0-4632-a493-53092ce46092",
+        "created_at": "2023-12-31T11:00:00+00:00",
+        "updated_at": "2026-11-19T05:28:24.649551+00:00"
+      },
+      {
+        "memory": "Sam had a tough week and a doctor's appointment, which he described as a wake‑up call to take better care of himself.",
+        "score": 0.3445,
+        "id": "75f5d3d0-88f8-43cd-bdaf-60cf54553c19",
+        "created_at": "2023-08-15T16:20:00+00:00",
+        "updated_at": "2026-11-19T04:29:57.732388+00:00"
+      },
+      {
+        "memory": "Sam is super excited to get fit together with Evan",
+        "score": 0.3426,
+        "id": "8be35fb4-4379-4708-862a-68126ae24d0e",
+        "created_at": "2023-10-17T13:50:00+00:00",
+        "updated_at": "2026-11-19T04:56:51.813754+00:00"
+      },
+      {
+        "memory": "Evan will try Sam's recipe and will let Sam know how it went",
+        "score": 0.3426,
+        "id": "b064f41a-1bb0-49a0-9492-bf0f9f9fff29",
+        "created_at": "2023-08-19T18:17:00+00:00",
+        "updated_at": "2026-11-19T04:35:17.545027+00:00"
+      },
+      {
+        "memory": "Evan (Evan) is super pumped for Sam and plans to catch up soon to see how Sam is enjoying his new hobbies",
+        "score": 0.3426,
+        "id": "3e65df91-38a5-4569-9034-c85044b4005b",
+        "created_at": "2023-05-18T13:47:00+00:00",
+        "updated_at": "2026-11-19T04:06:05.974047+00:00"
+      },
+      {
+        "memory": "Sam is trying to eat healthier these days",
+        "score": 0.3403,
+        "id": "fe33f4da-148c-4200-a9c6-0d395a71a268",
+        "created_at": "2023-06-06T15:55:00+00:00",
+        "updated_at": "2026-11-19T04:10:47.761765+00:00"
+      },
+      {
+        "memory": "Sam has not yet found any exercises he likes",
+        "score": 0.3383,
+        "id": "7cbdee67-e7c2-419a-a81c-9d9a119a936b",
+        "created_at": "2024-01-11T21:37:00+00:00",
+        "updated_at": "2026-11-19T05:39:09.786895+00:00"
+      },
+      {
+        "memory": "Evan thinks the food looks yummy and asks Sam whether Sam made it",
+        "score": 0.3368,
+        "id": "af97170e-c398-415a-aded-42917d690e15",
+        "created_at": "2024-01-06T13:32:00+00:00",
+        "updated_at": "2026-11-19T05:31:53.386919+00:00"
+      },
+      {
+        "memory": "Evan expressed hope that Sam is doing well",
+        "score": 0.3345,
+        "id": "eaeaefc8-d41a-438c-b46b-d859fa39d62e",
+        "created_at": "2024-01-10T00:17:00+00:00",
+        "updated_at": "2026-11-19T05:33:52.391513+00:00"
+      },
+      {
+        "memory": "Assistant Sam expressed excitement about trying new things",
+        "score": 0.331,
+        "id": "a3fd8513-8518-4a40-8871-8447d4630afe",
+        "created_at": "2023-05-18T13:47:00+00:00",
+        "updated_at": "2026-11-19T04:05:52.131923+00:00"
+      },
+      {
+        "memory": "Evan suggested Sam go on more hikes, saying hiking has always been calming and fun for him, and invited Sam to hike together sometime",
+        "score": 0.3304,
+        "id": "bf609d6b-44b1-4156-be66-44604882f1b7",
+        "created_at": "2023-08-27T10:18:00+00:00",
+        "updated_at": "2026-11-19T04:40:20.327536+00:00"
+      },
+      {
+        "memory": "Evan offered Sam support, asking if Sam needs any help or wants to share anything",
+        "score": 0.3299,
+        "id": "af61b5ce-cb5e-430c-9ca4-4b792c2d50af",
+        "created_at": "2023-11-09T21:13:00+00:00",
+        "updated_at": "2026-11-19T05:04:29.376618+00:00"
+      }
+    ],
+    "search_latency_ms": 401.4,
+    "total_results": 50
+  },
+  "cutoff_results": {
+    "top_50": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "Infrequently—Sam doesn’t get regular checkups. As of Jan 10, 2024, he said he hadn’t seen a doctor “in a while,” with his last noted check-up on Oct 2, 2023.",
+      "memories_evaluated": 50,
+      "reason": "The generated answer claims Sam gets infrequent, irregular checkups, which contradicts the gold answer of every three months and contains none of the gold items."
+    }
+  }
+}

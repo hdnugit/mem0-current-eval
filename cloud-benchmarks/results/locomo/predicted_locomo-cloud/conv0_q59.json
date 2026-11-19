@@ -1,0 +1,380 @@
+{
+  "question_id": "conv0_q59",
+  "conversation_idx": 0,
+  "category": 3,
+  "category_name": "open-domain",
+  "question": "Would Caroline be considered religious?",
+  "ground_truth_answer": "Somewhat, but not extremely religious",
+  "evidence": [
+    "D14:19",
+    "D12:1"
+  ],
+  "user_id": "locomo_0_fe8ec031",
+  "reference_date": "9:55 am on 22 October, 2023",
+  "retrieval": {
+    "search_query": "Would Caroline be considered religious?",
+    "search_results": [
+      {
+        "memory": "Caroline had a not-so-great experience on a hike in mid‑August 2023, encountering a group of religious conservatives whose remarks upset her.",
+        "score": 0.6345,
+        "id": "6e2ee50b-15d0-4bd1-a8b4-654a95b897f1",
+        "created_at": "2023-08-17T13:50:00+00:00",
+        "updated_at": "2026-11-19T04:49:58.143739+00:00"
+      },
+      {
+        "memory": "Caroline considers representing inclusivity and diversity in her artwork to be important.",
+        "score": 0.5644,
+        "id": "9c43ced9-d008-4d1c-b944-7b9b9d5d2532",
+        "created_at": "2023-08-14T14:24:00+00:00",
+        "updated_at": "2026-11-19T04:48:50.977428+00:00"
+      },
+      {
+        "memory": "Melanie thought the adoption agency Caroline was considering looked great",
+        "score": 0.5579,
+        "id": "297b8a6b-c3ef-40c7-baa7-7fef0262d6c2",
+        "created_at": "2023-05-25T13:14:00+00:00",
+        "updated_at": "2026-11-19T04:08:53.106048+00:00"
+      },
+      {
+        "memory": "Melanie appreciates her friendship with Caroline and says Caroline has always been there for her",
+        "score": 0.3619,
+        "id": "d1d6d808-995e-4e4f-bad3-e78677996701",
+        "created_at": "2023-08-17T13:50:00+00:00",
+        "updated_at": "2026-11-19T04:52:35.668636+00:00"
+      },
+      {
+        "memory": "The meeting made Caroline even more determined to adopt",
+        "score": 0.343,
+        "id": "2f3f6161-b3ef-44b6-8358-86f18a44cba9",
+        "created_at": "2023-07-15T13:51:00+00:00",
+        "updated_at": "2026-11-19T04:34:47.458232+00:00"
+      },
+      {
+        "memory": "Caroline thought the moment was fun",
+        "score": 0.3399,
+        "id": "d429e6b2-1400-4cb6-b410-29ab99372cff",
+        "created_at": "2023-08-28T15:19:00+00:00",
+        "updated_at": "2026-11-19T05:08:31.303642+00:00"
+      },
+      {
+        "memory": "Caroline wants to live authentically and help others do the same",
+        "score": 0.3335,
+        "id": "e7749395-41b2-4ac7-8265-841262213918",
+        "created_at": "2023-08-23T15:31:00+00:00",
+        "updated_at": "2026-11-19T04:57:36.190656+00:00"
+      },
+      {
+        "memory": "Caroline feels excited for the future",
+        "score": 0.329,
+        "id": "da4a2c6e-e651-40d7-8e70-5d08125728fc",
+        "created_at": "2023-08-23T15:31:00+00:00",
+        "updated_at": "2026-11-19T04:58:34.763880+00:00"
+      },
+      {
+        "memory": "Caroline finds art empowering and cathartic",
+        "score": 0.3256,
+        "id": "c82a413a-6de6-4186-a364-6e034c966875",
+        "created_at": "2023-09-13T00:09:00+00:00",
+        "updated_at": "2026-11-19T05:11:41.466336+00:00"
+      },
+      {
+        "memory": "Melanie thanked Caroline for letting her join Caroline's journey, expressed pride in being part of the difference Caroline is making, and said they can make a real impact together",
+        "score": 0.3191,
+        "id": "86eb25f7-8be5-4389-8de0-6e60006a769f",
+        "created_at": "2023-06-09T19:55:00+00:00",
+        "updated_at": "2026-11-19T04:13:50.144854+00:00"
+      },
+      {
+        "memory": "Melanie expressed that it must be tough for Caroline dealing with those changes and said she is glad Caroline has people who uplift and accept her",
+        "score": 0.3183,
+        "id": "68355e23-deda-4106-90c1-89adebdcc8ad",
+        "created_at": "2023-09-13T00:09:00+00:00",
+        "updated_at": "2026-11-19T05:13:38.148868+00:00"
+      },
+      {
+        "memory": "Caroline thinks beach trips are special",
+        "score": 0.3182,
+        "id": "1851b6c8-5719-4e48-b7bf-83d0a5930ab2",
+        "created_at": "2023-07-20T20:56:00+00:00",
+        "updated_at": "2026-11-19T04:43:47.634740+00:00"
+      },
+      {
+        "memory": "Caroline had a busy week since the last conversation",
+        "score": 0.3177,
+        "id": "73d13a87-a8f8-411b-a007-009ee4478cd7",
+        "created_at": "2023-07-15T13:51:00+00:00",
+        "updated_at": "2026-11-19T04:32:27.853867+00:00"
+      },
+      {
+        "memory": "Caroline's friends and community have her back, providing strong support",
+        "score": 0.3167,
+        "id": "946ef24d-f90e-4f4f-9f74-fa3d39190321",
+        "created_at": "2023-07-15T13:51:00+00:00",
+        "updated_at": "2026-11-19T04:37:17.895037+00:00"
+      },
+      {
+        "memory": "Caroline thought Melanie's wedding was special",
+        "score": 0.3151,
+        "id": "eb3d64ce-f00f-46e0-a936-e3aae878b130",
+        "created_at": "2023-07-15T13:51:00+00:00",
+        "updated_at": "2026-11-19T04:35:32.792798+00:00"
+      },
+      {
+        "memory": "Caroline believes love and acceptance should be everyone's right and wants children to experience it",
+        "score": 0.3145,
+        "id": "5833e2c2-eef5-4184-afd3-5c7fe25e6c3b",
+        "created_at": "2023-10-22T09:55:00+00:00",
+        "updated_at": "2026-11-19T05:24:49.625506+00:00"
+      },
+      {
+        "memory": "Caroline expressed gratitude for the support and the role of art in her life",
+        "score": 0.3139,
+        "id": "d810ffb6-98b7-4166-8de5-3ea755d8bac9",
+        "created_at": "2023-09-13T00:09:00+00:00",
+        "updated_at": "2026-11-19T05:12:02.655506+00:00"
+      },
+      {
+        "memory": "Caroline (Caroline) drew an artwork that represents freedom and authenticity, serving as a reminder to stay true to herself and embrace her womanhood.",
+        "score": 0.3139,
+        "id": "d1f8f08e-cfac-4782-b3aa-adbac8bdc5b2",
+        "created_at": "2023-10-13T10:31:00+00:00",
+        "updated_at": "2026-11-19T05:19:23.116267+00:00"
+      },
+      {
+        "memory": "Melanie expressed that she is super proud of Caroline for being her true self and praised Caroline's painting as amazing, noting her progress",
+        "score": 0.3134,
+        "id": "a1529e0a-34e8-4c47-8f4f-3604d40034bc",
+        "created_at": "2023-09-13T00:09:00+00:00",
+        "updated_at": "2026-11-19T05:13:11.819707+00:00"
+      },
+      {
+        "memory": "Melanie says her favorite memories bring her and Caroline together, bring happiness, and she is glad Caroline is there to share them",
+        "score": 0.3115,
+        "id": "da8df992-6fab-4ddb-a9f1-5055c8e90eee",
+        "created_at": "2023-07-15T13:51:00+00:00",
+        "updated_at": "2026-11-19T04:40:00.966804+00:00"
+      },
+      {
+        "memory": "Melanie says Caroline's courage is inspiring",
+        "score": 0.3104,
+        "id": "5c30060f-29af-4242-a0b3-9983562e2f91",
+        "created_at": "2023-06-09T19:55:00+00:00",
+        "updated_at": "2026-11-19T04:14:50.313957+00:00"
+      },
+      {
+        "memory": "Caroline notes that nature seems to refresh them",
+        "score": 0.309,
+        "id": "5349de90-a345-41a7-a268-a3308dbd1002",
+        "created_at": "2023-10-20T18:55:00+00:00",
+        "updated_at": "2026-11-19T05:22:50.591465+00:00"
+      },
+      {
+        "memory": "Caroline associates roses with love and beauty",
+        "score": 0.3089,
+        "id": "a12caad0-30e9-4ce1-a724-ba9d16d9d2d6",
+        "created_at": "2023-07-15T13:51:00+00:00",
+        "updated_at": "2026-11-19T04:35:10.551686+00:00"
+      },
+      {
+        "memory": "Caroline felt inspired and beyond words by being around people who embrace and support her",
+        "score": 0.3083,
+        "id": "60bc9b66-bbc4-4e1c-ad25-5c8bdd231688",
+        "created_at": "2023-07-15T13:51:00+00:00",
+        "updated_at": "2026-11-19T04:37:06.598399+00:00"
+      },
+      {
+        "memory": "Caroline is going to do some research",
+        "score": 0.3083,
+        "id": "3e0703b8-d508-44b6-b201-20dcc79bf32e",
+        "created_at": "2023-05-08T13:56:00+00:00",
+        "updated_at": "2026-11-19T04:05:09.067403+00:00"
+      },
+      {
+        "memory": "Melanie congratulated Caroline on her journey",
+        "score": 0.308,
+        "id": "5938f145-e096-4ef3-8da4-a629b7eacfc6",
+        "created_at": "2023-10-13T10:31:00+00:00",
+        "updated_at": "2026-11-19T05:14:44.078436+00:00"
+      },
+      {
+        "memory": "Caroline is grateful for the support she has received from friends and mentors",
+        "score": 0.307,
+        "id": "fec5f0c3-19c0-4e06-8c06-215dcb62b49a",
+        "created_at": "2023-05-25T13:14:00+00:00",
+        "updated_at": "2026-11-19T04:08:36.519045+00:00"
+      },
+      {
+        "memory": "Caroline believes that relaxing and expressing oneself is key",
+        "score": 0.3066,
+        "id": "a0d1ab9d-b2dc-46ad-94ef-b8a0eab41a60",
+        "created_at": "2023-05-08T13:56:00+00:00",
+        "updated_at": "2026-11-19T04:05:09.067403+00:00"
+      },
+      {
+        "memory": "Caroline feels she has been blessed with abundant love and support throughout her journey",
+        "score": 0.3058,
+        "id": "d6f99f5b-3e1f-4f88-8558-0a915f8d8bc2",
+        "created_at": "2023-06-09T19:55:00+00:00",
+        "updated_at": "2026-11-19T04:12:36.016741+00:00"
+      },
+      {
+        "memory": "Caroline says the experience taught her self-acceptance and how to find support",
+        "score": 0.3037,
+        "id": "78027e6a-c871-45f8-a763-2f3c44b85d05",
+        "created_at": "2023-07-12T16:33:00+00:00",
+        "updated_at": "2026-11-19T04:29:47.883289+00:00"
+      },
+      {
+        "memory": "Caroline is considering a career working with trans people, helping them accept themselves and supporting their mental health",
+        "score": 0.3012,
+        "id": "08a51e44-78e7-4806-bff0-142ca5123adf",
+        "created_at": "2023-06-27T10:37:00+00:00",
+        "updated_at": "2026-11-19T04:19:33.545821+00:00"
+      },
+      {
+        "memory": "Caroline feels that her own journey and the support she received made a huge difference",
+        "score": 0.3,
+        "id": "7a2c7b4f-80b2-4a27-9e75-393fa969c340",
+        "created_at": "2023-06-27T10:37:00+00:00",
+        "updated_at": "2026-11-19T04:20:13.023045+00:00"
+      },
+      {
+        "memory": "Caroline thinks the plate is awesome",
+        "score": 0.2999,
+        "id": "fd88e493-1aea-4f26-a576-da567eb731d7",
+        "created_at": "2023-08-25T13:33:00+00:00",
+        "updated_at": "2026-11-19T04:59:07.305254+00:00"
+      },
+      {
+        "memory": "Melanie expressed that she loves how Caroline's artwork shows togetherness and power",
+        "score": 0.2997,
+        "id": "3b3de96f-10be-4992-89d0-ed46d545e50e",
+        "created_at": "2023-09-13T00:09:00+00:00",
+        "updated_at": "2026-11-19T05:11:45.420444+00:00"
+      },
+      {
+        "memory": "Caroline received extensive help from an adoption advice/assistance group she attended",
+        "score": 0.2989,
+        "id": "fb7af2d7-65b5-47ed-8a17-48f4d1f85bdc",
+        "created_at": "2023-08-23T15:31:00+00:00",
+        "updated_at": "2026-11-19T04:54:11.794251+00:00"
+      },
+      {
+        "memory": "Caroline enjoys being outdoors and finds outdoor activities really enjoyable",
+        "score": 0.2987,
+        "id": "d6a29fae-68ab-43a0-b38b-14747025f40d",
+        "created_at": "2023-08-28T15:19:00+00:00",
+        "updated_at": "2026-11-19T05:07:04.408646+00:00"
+      },
+      {
+        "memory": "Melanie expressed that Caroline cares about being authentic and helping others, and wished her the best on her adoption journey",
+        "score": 0.2984,
+        "id": "ceb22d2e-5173-4b01-9ce7-c9380546f515",
+        "created_at": "2023-08-23T15:31:00+00:00",
+        "updated_at": "2026-11-19T04:58:46.252513+00:00"
+      },
+      {
+        "memory": "Caroline asks Melanie what flowers mean to her",
+        "score": 0.2982,
+        "id": "23f96996-4b88-49b6-b57b-94147fb7a4ef",
+        "created_at": "2023-07-15T13:51:00+00:00",
+        "updated_at": "2026-11-19T04:35:10.551686+00:00"
+      },
+      {
+        "memory": "Melanie feels proud of Caroline for taking the step toward adoption",
+        "score": 0.2973,
+        "id": "8276b183-716d-4257-a900-6b87e931972d",
+        "created_at": "2023-08-23T15:31:00+00:00",
+        "updated_at": "2026-11-19T04:54:32.904561+00:00"
+      },
+      {
+        "memory": "Caroline expressed that she was glad something helped Melanie",
+        "score": 0.2965,
+        "id": "f040f56a-13da-4d82-9289-875aebb63158",
+        "created_at": "2023-07-12T16:33:00+00:00",
+        "updated_at": "2026-11-19T04:32:29.826509+00:00"
+      },
+      {
+        "memory": "Caroline wishes she had known Melanie earlier in life",
+        "score": 0.2959,
+        "id": "6e11c886-e3fb-4ace-916c-66760d887749",
+        "created_at": "2023-07-15T13:51:00+00:00",
+        "updated_at": "2026-11-19T04:35:32.792798+00:00"
+      },
+      {
+        "memory": "Caroline feels that family love and support is the best",
+        "score": 0.2952,
+        "id": "c84fabc1-f6f1-4931-8d21-6434745d5c1c",
+        "created_at": "2023-07-15T13:51:00+00:00",
+        "updated_at": "2026-11-19T04:38:33.219033+00:00"
+      },
+      {
+        "memory": "Caroline described the advocacy event as a cool experience with love and support",
+        "score": 0.295,
+        "id": "13ac41cc-bd2e-4ce9-98ec-1a45b3b50855",
+        "created_at": "2023-08-14T14:24:00+00:00",
+        "updated_at": "2026-11-19T04:46:49.492953+00:00"
+      },
+      {
+        "memory": "Caroline observed that Melanie and her family looked happy",
+        "score": 0.2944,
+        "id": "10d810cd-71eb-41bd-9448-e35e662e0d73",
+        "created_at": "2023-06-09T19:55:00+00:00",
+        "updated_at": "2026-11-19T04:16:23.063154+00:00"
+      },
+      {
+        "memory": "Melanie expressed that she loves the self-acceptance and love theme in Caroline's artwork",
+        "score": 0.294,
+        "id": "8b7f5b6e-979f-4720-8340-838f5847751a",
+        "created_at": "2023-08-14T14:24:00+00:00",
+        "updated_at": "2026-11-19T04:49:08.223235+00:00"
+      },
+      {
+        "memory": "Caroline says pets bring her a lot of joy",
+        "score": 0.2939,
+        "id": "d3590f93-cf14-4475-a6bd-6acac7df144f",
+        "created_at": "2023-07-12T16:33:00+00:00",
+        "updated_at": "2026-11-19T04:29:47.883289+00:00"
+      },
+      {
+        "memory": "Melanie feels grateful for Caroline's kind words",
+        "score": 0.2937,
+        "id": "2d69dba7-f7e7-40d7-839f-0436fff283eb",
+        "created_at": "2023-07-03T13:36:00+00:00",
+        "updated_at": "2026-11-19T04:22:41.760062+00:00"
+      },
+      {
+        "memory": "Caroline says her friends, family, and mentors motivate her and give her strength",
+        "score": 0.2933,
+        "id": "94c9aef5-2d0a-46b4-affd-362a920d5b36",
+        "created_at": "2023-06-09T19:55:00+00:00",
+        "updated_at": "2026-11-19T04:15:08.928635+00:00"
+      },
+      {
+        "memory": "Caroline believes art can express things that are hard to put into words",
+        "score": 0.2932,
+        "id": "bf9ab1f9-0019-4987-ac42-7e3ccf4f0a56",
+        "created_at": "2023-09-13T00:09:00+00:00",
+        "updated_at": "2026-11-19T05:11:41.466336+00:00"
+      },
+      {
+        "memory": "Caroline expressed love that Melanie chose pottery as her artistic medium",
+        "score": 0.2929,
+        "id": "b3dae12c-e40c-403c-9b47-bd244618354b",
+        "created_at": "2023-09-13T00:09:00+00:00",
+        "updated_at": "2026-11-19T05:12:02.655506+00:00"
+      }
+    ],
+    "search_latency_ms": 366.5,
+    "total_results": 50
+  },
+  "cutoff_results": {
+    "top_50": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "No—Caroline would not be considered particularly religious; the only religious-related memory shows discomfort with religious conservatives, and there’s no indication she practices a religion.",
+      "memories_evaluated": 50,
+      "reason": "The gold says Caroline is somewhat (but not extremely) religious, while the generated answer says she is not religious, which contradicts the core idea."
+    }
+  }
+}

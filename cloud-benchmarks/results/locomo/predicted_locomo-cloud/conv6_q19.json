@@ -1,0 +1,379 @@
+{
+  "question_id": "conv6_q19",
+  "conversation_idx": 6,
+  "category": 3,
+  "category_name": "open-domain",
+  "question": "Was James feeling lonely before meeting Samantha?",
+  "ground_truth_answer": "Most likely yes, because he mentioned that the only creatures that gave him joy are dogs and he was actively trying to date.",
+  "evidence": [
+    "D9:16"
+  ],
+  "user_id": "locomo_6_fe8ec031",
+  "reference_date": "8:57 pm on 7 November, 2022",
+  "retrieval": {
+    "search_query": "Was James feeling lonely before meeting Samantha?",
+    "search_results": [
+      {
+        "memory": "James says the girl he met is named Samantha and he will definitely call her",
+        "score": 0.5909,
+        "id": "fa05785c-85ef-434d-8d3e-0d3b6857ddfd",
+        "created_at": "2022-08-10T09:16:00+00:00",
+        "updated_at": "2026-11-19T05:20:16.084604+00:00"
+      },
+      {
+        "memory": "John agreed to meet James on August 27, 2022 at McGee's Pub",
+        "score": 0.5178,
+        "id": "29736935-a931-4f3b-99d0-56fb88f81dd5",
+        "created_at": "2022-08-26T21:18:00+00:00",
+        "updated_at": "2026-11-19T05:26:27.868566+00:00"
+      },
+      {
+        "memory": "James noted that John had a great week meeting new people",
+        "score": 0.4724,
+        "id": "af315f24-a591-44e3-9e0c-3f9cee3af6d4",
+        "created_at": "2022-04-20T21:32:00+00:00",
+        "updated_at": "2026-11-19T04:24:10.654485+00:00"
+      },
+      {
+        "memory": "James feels happy with Samantha despite the ups and downs of their recent relationship",
+        "score": 0.4687,
+        "id": "39ce4602-4bbe-4c7d-939d-ea885636b8b2",
+        "created_at": "2022-09-04T21:23:00+00:00",
+        "updated_at": "2026-11-19T05:31:15.652758+00:00"
+      },
+      {
+        "memory": "James and Samantha have decided to move in together",
+        "score": 0.4441,
+        "id": "01388527-71cc-4b0c-ac1f-fc46a19722d7",
+        "created_at": "2022-10-31T00:37:00+00:00",
+        "updated_at": "2026-11-19T05:52:15.024091+00:00"
+      },
+      {
+        "memory": "James and Samantha mutually decided to rent an apartment not far from McGee's bar",
+        "score": 0.3746,
+        "id": "89485122-e8b1-4549-8b98-e6b93556311d",
+        "created_at": "2022-10-31T00:37:00+00:00",
+        "updated_at": "2026-11-19T05:52:51.070182+00:00"
+      },
+      {
+        "memory": "James and Samantha were at McGee's bar around September 4, 2022",
+        "score": 0.3738,
+        "id": "9a8cdb0b-1a62-4db8-8a5c-1f477706864b",
+        "created_at": "2022-09-04T21:23:00+00:00",
+        "updated_at": "2026-11-19T05:31:35.287163+00:00"
+      },
+      {
+        "memory": "James said he will show John what Samantha looks like",
+        "score": 0.3587,
+        "id": "090013f5-62bc-4762-b529-74df7d710b0b",
+        "created_at": "2022-09-04T21:23:00+00:00",
+        "updated_at": "2026-11-19T05:31:55.104441+00:00"
+      },
+      {
+        "memory": "One of the criteria for James and Samantha's choice of apartment was the nearby bar (McGee's bar)",
+        "score": 0.3568,
+        "id": "cad27576-128b-43c2-b00a-0b304788109f",
+        "created_at": "2022-10-31T00:37:00+00:00",
+        "updated_at": "2026-11-19T05:52:43.320807+00:00"
+      },
+      {
+        "memory": "James and Samantha attended a theater together on September 3, 2022",
+        "score": 0.3562,
+        "id": "309620bd-6eb5-46ed-8343-8c9721ec5d42",
+        "created_at": "2022-09-04T21:23:00+00:00",
+        "updated_at": "2026-11-19T05:31:15.652758+00:00"
+      },
+      {
+        "memory": "James asked Samantha to become his girlfriend and she agreed, making them a couple as of September 3, 2022",
+        "score": 0.3551,
+        "id": "64f1dcb5-2096-49c5-867f-fb8f394c7ac5",
+        "created_at": "2022-09-04T21:23:00+00:00",
+        "updated_at": "2026-11-19T05:31:15.652758+00:00"
+      },
+      {
+        "memory": "Samantha loves theater",
+        "score": 0.3549,
+        "id": "99d9f59e-1d2b-4857-a84e-8b9419cc341f",
+        "created_at": "2022-09-04T21:23:00+00:00",
+        "updated_at": "2026-11-19T05:31:15.652758+00:00"
+      },
+      {
+        "memory": "John said it will be great to work with James.",
+        "score": 0.3346,
+        "id": "025b5b41-869b-48fe-b0e1-efa975841f62",
+        "created_at": "2022-03-17T15:47:00+00:00",
+        "updated_at": "2026-11-19T04:06:32.414532+00:00"
+      },
+      {
+        "memory": "John said that James and Samantha's decision to move in together is a big decision and hopes they have weighed the pros and cons",
+        "score": 0.3268,
+        "id": "a5155fae-0dd6-47e1-8694-db527e98da5f",
+        "created_at": "2022-10-31T00:37:00+00:00",
+        "updated_at": "2026-11-19T05:52:19.569826+00:00"
+      },
+      {
+        "memory": "John reported having an eventful week since his last chat with James.",
+        "score": 0.3177,
+        "id": "742e581d-58cf-40df-ad06-1b940237bf93",
+        "created_at": "2022-05-04T19:01:00+00:00",
+        "updated_at": "2026-11-19T04:38:36.342500+00:00"
+      },
+      {
+        "memory": "John says James's support means a lot to him and calls James a true friend",
+        "score": 0.3012,
+        "id": "463a146c-6e6b-40b5-ba21-603918e90d12",
+        "created_at": "2022-07-22T09:49:00+00:00",
+        "updated_at": "2026-11-19T05:09:34.917831+00:00"
+      },
+      {
+        "memory": "James and his girlfriend Samantha are attending a baseball game on Sunday, September 11, 2022, and invited John to join",
+        "score": 0.2943,
+        "id": "9b2b0efe-5387-443b-b93b-f98a26116872",
+        "created_at": "2022-09-04T21:23:00+00:00",
+        "updated_at": "2026-11-19T05:31:55.104441+00:00"
+      },
+      {
+        "memory": "James says his dog Max always cheers him up when he's feeling down and enjoys cuddling with him",
+        "score": 0.2642,
+        "id": "f726bd7a-a06f-4922-ba57-938aef5e483a",
+        "created_at": "2022-06-16T17:07:00+00:00",
+        "updated_at": "2026-11-19T04:57:50.792054+00:00"
+      },
+      {
+        "memory": "John expressed relief that James's puppy is okay after the clinic visit and praised James for caring about his pets.",
+        "score": 0.2526,
+        "id": "d4003b16-9e02-4938-bd7b-08dfff13d1de",
+        "created_at": "2022-08-06T13:45:00+00:00",
+        "updated_at": "2026-11-19T05:16:23.742232+00:00"
+      },
+      {
+        "memory": "John attended a gaming convention after his last conversation with James, found it amazing, and said gaming is great for chilling out",
+        "score": 0.2452,
+        "id": "e809579f-2c83-453b-8391-452c44e296d7",
+        "created_at": "2022-03-27T00:40:00+00:00",
+        "updated_at": "2026-11-19T04:13:45.708159+00:00"
+      },
+      {
+        "memory": "John feels that James's support means a lot to him.",
+        "score": 0.2407,
+        "id": "f3f437f5-46da-4c1a-9eca-18d3c64f4c08",
+        "created_at": "2022-08-06T13:45:00+00:00",
+        "updated_at": "2026-11-19T05:14:25.056036+00:00"
+      },
+      {
+        "memory": "James is ready to create more games in different genres and test new ideas, feeling pumped after putting in a lot of effort that paid off",
+        "score": 0.2377,
+        "id": "b813b3e1-76a9-4162-8351-577741a8682e",
+        "created_at": "2022-10-13T14:14:00+00:00",
+        "updated_at": "2026-11-19T05:44:08.251987+00:00"
+      },
+      {
+        "memory": "John loves hearing about the joy that James's furry friends bring into James's life",
+        "score": 0.2318,
+        "id": "4d5193c3-da27-4299-91f6-c30af1240150",
+        "created_at": "2022-05-04T19:01:00+00:00",
+        "updated_at": "2026-11-19T04:40:22.750531+00:00"
+      },
+      {
+        "memory": "John expressed encouragement, saying he'll keep his fingers crossed for James, believes he will definitely succeed, and looks forward to hearing the details",
+        "score": 0.2291,
+        "id": "dbcd69e1-fdd7-4bcf-9fee-fcce3f923b81",
+        "created_at": "2022-09-18T18:02:00+00:00",
+        "updated_at": "2026-11-19T05:36:38.701861+00:00"
+      },
+      {
+        "memory": "John had never heard of James's desire to cook before this conversation and was surprised.",
+        "score": 0.2269,
+        "id": "abc0c013-412d-45b2-961b-69d4791862f3",
+        "created_at": "2022-09-04T21:23:00+00:00",
+        "updated_at": "2026-11-19T05:33:06.087980+00:00"
+      },
+      {
+        "memory": "James's mother visited him on October 19, 2022, accompanied by her army friend, and they had fun together.",
+        "score": 0.2256,
+        "id": "b669dba7-e846-411d-8d45-db75bfd50224",
+        "created_at": "2022-10-21T19:36:00+00:00",
+        "updated_at": "2026-11-19T05:48:24.594870+00:00"
+      },
+      {
+        "memory": "John said James has found someone other than his dogs who brings him joy",
+        "score": 0.224,
+        "id": "d76bf0ef-8f53-4da2-b442-f3d1c8764814",
+        "created_at": "2022-09-04T21:23:00+00:00",
+        "updated_at": "2026-11-19T05:31:41.429001+00:00"
+      },
+      {
+        "memory": "John encouraged James to call the girl and said everything will work out",
+        "score": 0.2234,
+        "id": "86921e12-7737-4763-bd76-e8c8f2ba7d18",
+        "created_at": "2022-08-10T09:16:00+00:00",
+        "updated_at": "2026-11-19T05:20:08.487945+00:00"
+      },
+      {
+        "memory": "James adopted a puppy named Ned from a shelter in Stamford around April 5, 2022, and says his days have become much happier with him in the family",
+        "score": 0.2198,
+        "id": "4f6ef514-5ea6-4b0f-8f6d-fbb2acbd3214",
+        "created_at": "2022-04-12T09:52:00+00:00",
+        "updated_at": "2026-11-19T04:20:17.923175+00:00"
+      },
+      {
+        "memory": "John thanked James, said it was nice catching up, and expressed that he can't wait to talk soon",
+        "score": 0.2197,
+        "id": "40aa0428-92ff-4763-b5b9-5feaab220856",
+        "created_at": "2022-08-21T15:57:00+00:00",
+        "updated_at": "2026-11-19T05:24:06.493254+00:00"
+      },
+      {
+        "memory": "James was chilling with his sister and his dogs on July 21, 2022, and says they bring him a great deal of happiness",
+        "score": 0.2194,
+        "id": "2658678d-d44d-4636-bcd6-18ce7f24b529",
+        "created_at": "2022-07-22T09:49:00+00:00",
+        "updated_at": "2026-11-19T05:11:41.565952+00:00"
+      },
+      {
+        "memory": "John appreciates James's help and says he will make time for himself",
+        "score": 0.2191,
+        "id": "7a9fc35a-03a0-4f50-9fc8-4eeb43a33bb7",
+        "created_at": "2022-09-20T20:56:00+00:00",
+        "updated_at": "2026-11-19T05:40:28.783089+00:00"
+      },
+      {
+        "memory": "James felt love at first sight for the stranger he saw during the April 6, 2022 walk but did not approach her, yet he remembered her appearance and used it in his game",
+        "score": 0.2173,
+        "id": "f9e5aeb8-6698-4495-ab62-2040137ea1cf",
+        "created_at": "2022-04-20T21:32:00+00:00",
+        "updated_at": "2026-11-19T04:24:42.473429+00:00"
+      },
+      {
+        "memory": "James says he has a close bond with his sister and their furry friends, and they have a great time together like a family",
+        "score": 0.2171,
+        "id": "d8e03942-53d7-43e8-a031-29002b0ac341",
+        "created_at": "2022-07-22T09:49:00+00:00",
+        "updated_at": "2026-11-19T05:12:22.777132+00:00"
+      },
+      {
+        "memory": "John mentioned that it had been a few days since his last chat with James as of September 20, 2022",
+        "score": 0.2167,
+        "id": "adfcef60-d2a2-414f-93bb-9a8155f4696b",
+        "created_at": "2022-09-20T20:56:00+00:00",
+        "updated_at": "2026-11-19T05:37:39.360066+00:00"
+      },
+      {
+        "memory": "John thanks James, says he'll have a great time, and will talk to him later",
+        "score": 0.2159,
+        "id": "94544878-5e92-4dde-9576-a61797cf0213",
+        "created_at": "2022-08-21T15:57:00+00:00",
+        "updated_at": "2026-11-19T05:24:23.383519+00:00"
+      },
+      {
+        "memory": "John thanked James for encouraging him to try new game genres and said the conversation made him think about his passions and goals",
+        "score": 0.2146,
+        "id": "b6877788-c05d-45c0-bfb7-55ae6566a2f3",
+        "created_at": "2022-08-10T09:16:00+00:00",
+        "updated_at": "2026-11-19T05:17:04.794554+00:00"
+      },
+      {
+        "memory": "John congratulated James on adopting a puppy, saying it makes days brighter",
+        "score": 0.2142,
+        "id": "088b42e6-2000-4547-8ea0-135bf1c0c841",
+        "created_at": "2022-04-12T09:52:00+00:00",
+        "updated_at": "2026-11-19T04:21:23.251568+00:00"
+      },
+      {
+        "memory": "John expressed excitement to catch up with James",
+        "score": 0.2132,
+        "id": "177dd8b5-6bfa-43ab-815a-299f8ff59979",
+        "created_at": "2022-10-21T19:36:00+00:00",
+        "updated_at": "2026-11-19T05:45:29.307507+00:00"
+      },
+      {
+        "memory": "John expressed that he finds James's dogs bonding sweet and enjoys seeing them have a great time together",
+        "score": 0.2129,
+        "id": "dfab2b4f-a113-4628-a616-b77a26646f6c",
+        "created_at": "2022-06-19T21:59:00+00:00",
+        "updated_at": "2026-11-19T05:00:47.617403+00:00"
+      },
+      {
+        "memory": "John says James gained a new experience from communicating with other dog lovers",
+        "score": 0.2128,
+        "id": "629262c4-6b7b-4a53-b4a7-dca371967091",
+        "created_at": "2022-08-10T09:16:00+00:00",
+        "updated_at": "2026-11-19T05:19:53.419698+00:00"
+      },
+      {
+        "memory": "James is excited about the world and story of the game John recommended and thanks John for the recommendation",
+        "score": 0.2128,
+        "id": "50fb33a1-78b5-4fb8-98cc-9fe2bb5c9ac2",
+        "created_at": "2022-10-03T09:20:00+00:00",
+        "updated_at": "2026-11-19T05:42:16.722784+00:00"
+      },
+      {
+        "memory": "John thanked James and said he will be waiting for James's journey, wishing him Bon Voyage",
+        "score": 0.2121,
+        "id": "01e9da57-6f74-4201-afc6-11024d789e19",
+        "created_at": "2022-07-09T17:13:00+00:00",
+        "updated_at": "2026-11-19T05:07:31.128474+00:00"
+      },
+      {
+        "memory": "John says he is always happy to help and believes James will love the trilogy",
+        "score": 0.2094,
+        "id": "7e663e35-dc56-4d3f-902c-05ab972e228f",
+        "created_at": "2022-04-29T14:36:00+00:00",
+        "updated_at": "2026-11-19T04:35:09.983360+00:00"
+      },
+      {
+        "memory": "John expressed that he is looking forward to hearing James's story",
+        "score": 0.209,
+        "id": "889da4a7-7003-4d7a-a420-b8b107aee9a4",
+        "created_at": "2022-11-07T20:57:00+00:00",
+        "updated_at": "2026-11-19T05:57:13.538919+00:00"
+      },
+      {
+        "memory": "On April 12, 2022, James said he would check out the game link John promised and would let John know his thoughts, expressing excitement to try it.",
+        "score": 0.2084,
+        "id": "91ab6168-78dc-4a1f-bbae-8ff2c3b41c1a",
+        "created_at": "2022-04-12T09:52:00+00:00",
+        "updated_at": "2026-11-19T04:23:52.751661+00:00"
+      },
+      {
+        "memory": "John said he was glad James enjoyed it",
+        "score": 0.2083,
+        "id": "e6f6b0ff-b6d5-4b90-b482-68df392a6046",
+        "created_at": "2022-10-31T00:37:00+00:00",
+        "updated_at": "2026-11-19T05:52:06.188365+00:00"
+      },
+      {
+        "memory": "James received autographs from the whole team at the gaming tournament and felt very happy about it",
+        "score": 0.2082,
+        "id": "38bd1c22-64da-4161-a293-32184a5da067",
+        "created_at": "2022-04-04T14:13:00+00:00",
+        "updated_at": "2026-11-19T04:17:47.171222+00:00"
+      },
+      {
+        "memory": "John asked James to keep him informed about how things go, wished him safety, and said he would talk soon",
+        "score": 0.2078,
+        "id": "63aa9b1f-f7b4-4ff4-907f-94c794fcae78",
+        "created_at": "2022-04-04T14:13:00+00:00",
+        "updated_at": "2026-11-19T04:20:09.338828+00:00"
+      },
+      {
+        "memory": "James and his family are on a road trip as of November 7, 2022 and have already visited friends Josh and Mark during the trip",
+        "score": 0.2068,
+        "id": "657a2b2e-4b97-415a-ba17-253dd0e75e7e",
+        "created_at": "2022-11-07T20:57:00+00:00",
+        "updated_at": "2026-11-19T05:55:49.285423+00:00"
+      }
+    ],
+    "search_latency_ms": 379.7,
+    "total_results": 50
+  },
+  "cutoff_results": {
+    "top_50": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "No. Before meeting Samantha, James repeatedly said his dogs and time with his sister brought him a great deal of happiness, and that gaming helped him chill out—signs he wasn’t feeling lonely.",
+      "memories_evaluated": 50,
+      "reason": "It contradicts the gold by saying he wasn’t lonely and adds other sources of joy, failing to include either key item (only joy from dogs, actively trying to date)."
+    }
+  }
+}

@@ -1,0 +1,379 @@
+{
+  "question_id": "conv6_q0",
+  "conversation_idx": 6,
+  "category": 3,
+  "category_name": "open-domain",
+  "question": "What are John's suspected health problems?",
+  "ground_truth_answer": "Obesity",
+  "evidence": [
+    "D1:27"
+  ],
+  "user_id": "locomo_6_fe8ec031",
+  "reference_date": "8:57 pm on 7 November, 2022",
+  "retrieval": {
+    "search_query": "What are John's suspected health problems?",
+    "search_results": [
+      {
+        "memory": "James offered to help John by asking about the problem with his project and offering to figure out ideas together",
+        "score": 0.4434,
+        "id": "75b986a8-cb74-4b0f-bc0a-92fff8443d09",
+        "created_at": "2022-04-23T11:04:00+00:00",
+        "updated_at": "2026-11-19T04:31:06.099975+00:00"
+      },
+      {
+        "memory": "John needs chill vibes because it has been crazy for him lately",
+        "score": 0.2726,
+        "id": "2814026e-7d7b-4fb9-836e-73071ae2d7a2",
+        "created_at": "2022-04-23T11:04:00+00:00",
+        "updated_at": "2026-11-19T04:28:51.144351+00:00"
+      },
+      {
+        "memory": "John says he is going through difficult times as of September 1, 2022",
+        "score": 0.262,
+        "id": "d6fe823c-2e04-4065-a8f3-d7a088e5a9cc",
+        "created_at": "2022-09-01T18:53:00+00:00",
+        "updated_at": "2026-11-19T05:30:53.196440+00:00"
+      },
+      {
+        "memory": "John says his fingers are too big.",
+        "score": 0.2522,
+        "id": "bceb248a-ea6f-4c53-a0ab-12c23df44478",
+        "created_at": "2022-03-17T15:47:00+00:00",
+        "updated_at": "2026-11-19T04:07:07.628131+00:00"
+      },
+      {
+        "memory": "James asked John what challenges he has encountered",
+        "score": 0.2487,
+        "id": "c4cf9d85-f2f7-45c2-81d4-ba9910ca9bc7",
+        "created_at": "2022-04-29T14:36:00+00:00",
+        "updated_at": "2026-11-19T04:34:05.660159+00:00"
+      },
+      {
+        "memory": "John reported having an eventful week since his last chat with James.",
+        "score": 0.2485,
+        "id": "742e581d-58cf-40df-ad06-1b940237bf93",
+        "created_at": "2022-05-04T19:01:00+00:00",
+        "updated_at": "2026-11-19T04:38:36.342500+00:00"
+      },
+      {
+        "memory": "John says he has learned a lot, his progress is slow, and there have been some hiccups in his journey",
+        "score": 0.2402,
+        "id": "92d70af1-f988-42a9-9789-d19689e82995",
+        "created_at": "2022-04-29T14:36:00+00:00",
+        "updated_at": "2026-11-19T04:34:17.125832+00:00"
+      },
+      {
+        "memory": "James says John is the best",
+        "score": 0.2397,
+        "id": "d712e8cc-094a-4a1c-bd6f-b843d39a35a9",
+        "created_at": "2022-09-01T18:53:00+00:00",
+        "updated_at": "2026-11-19T05:30:41.930426+00:00"
+      },
+      {
+        "memory": "James feels proud of John",
+        "score": 0.2396,
+        "id": "c429e048-e05a-4098-b7a9-d217a7cb1d4c",
+        "created_at": "2022-05-08T00:45:00+00:00",
+        "updated_at": "2026-11-19T04:44:43.228384+00:00"
+      },
+      {
+        "memory": "John said he will check it out.",
+        "score": 0.2395,
+        "id": "512f5c28-dbf8-4b88-8ac0-117b0afae111",
+        "created_at": "2022-05-04T19:01:00+00:00",
+        "updated_at": "2026-11-19T04:42:15.054407+00:00"
+      },
+      {
+        "memory": "James expressed enthusiasm about John's news and asked him what he did",
+        "score": 0.2378,
+        "id": "1d78d659-1c2d-486c-b421-8738426ca592",
+        "created_at": "2022-11-05T17:20:00+00:00",
+        "updated_at": "2026-11-19T05:53:37.717205+00:00"
+      },
+      {
+        "memory": "James asked John what else is new in his life",
+        "score": 0.2367,
+        "id": "f0e5fa1c-1048-43d0-9694-a1ed55af61d7",
+        "created_at": "2022-09-04T21:23:00+00:00",
+        "updated_at": "2026-11-19T05:32:09.035096+00:00"
+      },
+      {
+        "memory": "James thought John's project sounded amazing",
+        "score": 0.2365,
+        "id": "2ae4d4ad-e2c2-4d3d-ace5-56adc926688b",
+        "created_at": "2022-11-07T20:57:00+00:00",
+        "updated_at": "2026-11-19T05:56:04.481981+00:00"
+      },
+      {
+        "memory": "John expressed excitement to catch up with James",
+        "score": 0.2358,
+        "id": "177dd8b5-6bfa-43ab-815a-299f8ff59979",
+        "created_at": "2022-10-21T19:36:00+00:00",
+        "updated_at": "2026-11-19T05:45:29.307507+00:00"
+      },
+      {
+        "memory": "John said he will look after James's pockets",
+        "score": 0.2339,
+        "id": "a531b5cd-48e4-4d83-9140-50c217f0b117",
+        "created_at": "2022-03-17T15:47:00+00:00",
+        "updated_at": "2026-11-19T04:07:40.862452+00:00"
+      },
+      {
+        "memory": "James expressed confidence that John could do cool things with nonprofits because of his skills and passion",
+        "score": 0.2335,
+        "id": "2f74fd5a-b0e9-431f-84ce-a8d5e73b6610",
+        "created_at": "2022-06-19T21:59:00+00:00",
+        "updated_at": "2026-11-19T05:03:00.611848+00:00"
+      },
+      {
+        "memory": "John expressed empathy about James's project frustration and asked what happened with the project",
+        "score": 0.2332,
+        "id": "2fbd9566-355f-47df-a4f8-2cc32722a63d",
+        "created_at": "2022-05-04T19:01:00+00:00",
+        "updated_at": "2026-11-19T04:39:03.516290+00:00"
+      },
+      {
+        "memory": "John asked James what happened to James's puppy and whether it is okay",
+        "score": 0.233,
+        "id": "7b24c0c8-4335-4417-8f10-9ac8b8b24a22",
+        "created_at": "2022-08-06T13:45:00+00:00",
+        "updated_at": "2026-11-19T05:16:00.092270+00:00"
+      },
+      {
+        "memory": "John shared an image showing a medical chart with instructions for the procedure",
+        "score": 0.2329,
+        "id": "4afc5b7b-896d-43ed-9eee-5bdb72fad69b",
+        "created_at": "2022-03-17T15:47:00+00:00",
+        "updated_at": "2026-11-19T04:06:08.068737+00:00"
+      },
+      {
+        "memory": "John says Max seems like a go-getter",
+        "score": 0.2328,
+        "id": "2dbc2342-a56b-4703-87ee-f7c4eb9e76e9",
+        "created_at": "2022-06-16T17:07:00+00:00",
+        "updated_at": "2026-11-19T04:58:48.643663+00:00"
+      },
+      {
+        "memory": "John said his week was chaotic with everything going on, but he is powering through, during the week of September 20, 2022",
+        "score": 0.2314,
+        "id": "bee690ca-2472-43a3-ba0e-46be5c1c8574",
+        "created_at": "2022-09-20T20:56:00+00:00",
+        "updated_at": "2026-11-19T05:40:11.321803+00:00"
+      },
+      {
+        "memory": "John asked whether there will be an interview required.",
+        "score": 0.2312,
+        "id": "b6712707-d55c-4655-8023-e69d20f318a6",
+        "created_at": "2022-06-19T21:59:00+00:00",
+        "updated_at": "2026-11-19T05:04:18.315533+00:00"
+      },
+      {
+        "memory": "John said James is always looking for a way to improve himself",
+        "score": 0.2311,
+        "id": "7b2a9d94-3269-43ca-aab2-2cf681328f08",
+        "created_at": "2022-09-04T21:23:00+00:00",
+        "updated_at": "2026-11-19T05:33:17.927659+00:00"
+      },
+      {
+        "memory": "James told John he is here for him and asked if there is anything John wants to talk about",
+        "score": 0.2298,
+        "id": "c1430f20-b929-4995-a1d9-09ee5532e20d",
+        "created_at": "2022-04-23T11:04:00+00:00",
+        "updated_at": "2026-11-19T04:28:52.200169+00:00"
+      },
+      {
+        "memory": "John said James looks happy and that it is a great achievement",
+        "score": 0.2297,
+        "id": "4aa432eb-550f-4bbd-bcb4-e26a857f562a",
+        "created_at": "2022-06-16T17:07:00+00:00",
+        "updated_at": "2026-11-19T04:58:31.084215+00:00"
+      },
+      {
+        "memory": "James said he will reach out to John if he needs help.",
+        "score": 0.2293,
+        "id": "a7454122-f83c-43f1-b4fa-49e5bf5a06a6",
+        "created_at": "2022-10-21T19:36:00+00:00",
+        "updated_at": "2026-11-19T05:48:24.594870+00:00"
+      },
+      {
+        "memory": "John said the picture was nice",
+        "score": 0.2288,
+        "id": "16ea5d31-7c34-470a-a4a8-941fc9b13621",
+        "created_at": "2022-07-22T09:49:00+00:00",
+        "updated_at": "2026-11-19T05:11:34.574897+00:00"
+      },
+      {
+        "memory": "James asked John how he's doing and what new games he's into",
+        "score": 0.2283,
+        "id": "0ba8fc9b-1662-4b44-a7dd-001902f37eb3",
+        "created_at": "2022-05-08T00:45:00+00:00",
+        "updated_at": "2026-11-19T04:42:47.731125+00:00"
+      },
+      {
+        "memory": "John says Jill will be delighted",
+        "score": 0.228,
+        "id": "7f01e0f8-972a-4009-b4cd-3ce4c310e0e2",
+        "created_at": "2022-07-22T09:49:00+00:00",
+        "updated_at": "2026-11-19T05:11:21.431673+00:00"
+      },
+      {
+        "memory": "James says he has something to show John",
+        "score": 0.228,
+        "id": "528b2e7f-a5ba-4f7a-8682-9e421618d987",
+        "created_at": "2022-03-20T21:26:00+00:00",
+        "updated_at": "2026-11-19T04:10:46.405596+00:00"
+      },
+      {
+        "memory": "John says he is super busy at work, with many deadlines and a hectic schedule",
+        "score": 0.2274,
+        "id": "42b40ec9-06dc-4a35-801c-3182d2e1ec41",
+        "created_at": "2022-04-23T11:04:00+00:00",
+        "updated_at": "2026-11-19T04:29:14.291914+00:00"
+      },
+      {
+        "memory": "James asked John if he has thought about any ideas on how to make a difference.",
+        "score": 0.2257,
+        "id": "9f11ebcb-02f2-4121-ae95-29130a6caf06",
+        "created_at": "2022-06-19T21:59:00+00:00",
+        "updated_at": "2026-11-19T05:02:02.326070+00:00"
+      },
+      {
+        "memory": "John asks if Max has any special talents",
+        "score": 0.2256,
+        "id": "3d87bc2e-9049-41e0-b3bb-7ff9c39fd32e",
+        "created_at": "2022-06-16T17:07:00+00:00",
+        "updated_at": "2026-11-19T04:58:48.643663+00:00"
+      },
+      {
+        "memory": "John hasn't gotten a dog yet and still really wants one",
+        "score": 0.2251,
+        "id": "e99dfe05-cb0c-4b5c-9ec6-e03b0158ecdc",
+        "created_at": "2022-11-07T20:57:00+00:00",
+        "updated_at": "2026-11-19T05:57:46.661281+00:00"
+      },
+      {
+        "memory": "James encouraged John, telling him that getting started can be rough but he will do great, advised him not to be afraid to seek help, and said he can't wait to hear about John's experience",
+        "score": 0.2249,
+        "id": "03b75382-10fe-47c1-99a5-96d303060eda",
+        "created_at": "2022-06-13T16:30:00+00:00",
+        "updated_at": "2026-11-19T04:52:13.652762+00:00"
+      },
+      {
+        "memory": "James thanked John for his support and said he hopes to treat John to a dish he creates once he learns more about cooking",
+        "score": 0.2247,
+        "id": "83b00296-ffda-48c0-8a34-1de8c7b5ef0a",
+        "created_at": "2022-09-04T21:23:00+00:00",
+        "updated_at": "2026-11-19T05:33:22.410042+00:00"
+      },
+      {
+        "memory": "James says he will always be here for John and offers financial assistance or advice whenever John needs it",
+        "score": 0.2246,
+        "id": "50c105dd-a9a8-4060-a330-14c344d7b078",
+        "created_at": "2022-08-06T13:45:00+00:00",
+        "updated_at": "2026-11-19T05:15:17.489804+00:00"
+      },
+      {
+        "memory": "James told John to take time for himself and offered encouragement, saying \"You've got this\" after noting John's busy week",
+        "score": 0.2246,
+        "id": "ac230c14-68d2-4d12-96ce-54d950d77470",
+        "created_at": "2022-09-20T20:56:00+00:00",
+        "updated_at": "2026-11-19T05:40:15.962727+00:00"
+      },
+      {
+        "memory": "James expressed that he and John can do this together",
+        "score": 0.224,
+        "id": "c88863c3-f4fe-4501-b485-bc9f55cba6fa",
+        "created_at": "2022-06-19T21:59:00+00:00",
+        "updated_at": "2026-11-19T05:04:46.635794+00:00"
+      },
+      {
+        "memory": "James said he finds John's volunteer programming experience inspiring",
+        "score": 0.224,
+        "id": "306c7f2e-68a0-4075-8ad9-260442fba126",
+        "created_at": "2022-05-11T17:00:00+00:00",
+        "updated_at": "2026-11-19T04:47:05.064532+00:00"
+      },
+      {
+        "memory": "James thinks that John’s charity tournament required a lot of effort but was worth it",
+        "score": 0.224,
+        "id": "29ad323c-d403-4f4b-8b0a-005ae589bd0d",
+        "created_at": "2022-05-08T00:45:00+00:00",
+        "updated_at": "2026-11-19T04:42:48.093653+00:00"
+      },
+      {
+        "memory": "James believes some of the previous staff are still present and offers to introduce John to them",
+        "score": 0.2239,
+        "id": "7f7c347a-bfaa-4de8-abb2-9189f46370e9",
+        "created_at": "2022-06-19T21:59:00+00:00",
+        "updated_at": "2026-11-19T05:04:10.687322+00:00"
+      },
+      {
+        "memory": "At the convention, John tried out many games",
+        "score": 0.2239,
+        "id": "50025765-6397-4a2a-97ff-c2060776efc6",
+        "created_at": "2022-03-27T00:40:00+00:00",
+        "updated_at": "2026-11-19T04:13:45.708159+00:00"
+      },
+      {
+        "memory": "James congratulated John on his tournament achievement and imagined the rush John must have felt during the competition",
+        "score": 0.2239,
+        "id": "e7cbbfc6-b19a-43e7-b048-edc8780ca176",
+        "created_at": "2022-05-23T19:33:00+00:00",
+        "updated_at": "2026-11-19T04:48:37.948573+00:00"
+      },
+      {
+        "memory": "James said he will show John what Samantha looks like",
+        "score": 0.2238,
+        "id": "090013f5-62bc-4762-b529-74df7d710b0b",
+        "created_at": "2022-09-04T21:23:00+00:00",
+        "updated_at": "2026-11-19T05:31:55.104441+00:00"
+      },
+      {
+        "memory": "James believes that winning felt good for John",
+        "score": 0.2237,
+        "id": "20778c3c-1b95-4f59-a3dd-4ce51635d1ee",
+        "created_at": "2022-11-05T17:20:00+00:00",
+        "updated_at": "2026-11-19T05:54:16.286628+00:00"
+      },
+      {
+        "memory": "James praised John for helping those in need, saying John is doing a great job",
+        "score": 0.2237,
+        "id": "7978e3a0-af46-428f-b04f-65d000f4d6d2",
+        "created_at": "2022-05-08T00:45:00+00:00",
+        "updated_at": "2026-11-19T04:44:23.095917+00:00"
+      },
+      {
+        "memory": "James tells John that he is available to talk or vent with him to help alleviate difficult times",
+        "score": 0.2233,
+        "id": "21c02227-b3a6-4bac-80fb-6d7434f44bde",
+        "created_at": "2022-09-01T18:53:00+00:00",
+        "updated_at": "2026-11-19T05:31:03.655885+00:00"
+      },
+      {
+        "memory": "John commented that James really roots for this team",
+        "score": 0.2233,
+        "id": "725d6ac9-a19e-45a1-8228-0a2e0c4a3c22",
+        "created_at": "2022-06-13T16:30:00+00:00",
+        "updated_at": "2026-11-19T04:53:44.041181+00:00"
+      },
+      {
+        "memory": "James wishes John good luck in this matter",
+        "score": 0.2231,
+        "id": "101b145c-fadf-4eac-9ba9-fbdb5f449ad8",
+        "created_at": "2022-03-20T21:26:00+00:00",
+        "updated_at": "2026-11-19T04:10:46.405596+00:00"
+      }
+    ],
+    "search_latency_ms": 630.6,
+    "total_results": 50
+  },
+  "cutoff_results": {
+    "top_50": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "John was dealing with significant stress and overwork in 2022 (reported on April 23, September 1, and September 20), suggesting burnout-type concerns, and he shared a medical chart with procedure instructions on March 17, 2022, indicating he was involved in a medical procedure (the specific condition wasn’t stated).",
+      "memories_evaluated": 50,
+      "reason": "The generated answer discusses stress, burnout, and an unspecified procedure but does not mention obesity, the only item in the gold answer."
+    }
+  }
+}

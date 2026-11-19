@@ -1,0 +1,382 @@
+{
+  "question_id": "conv5_q53",
+  "conversation_idx": 5,
+  "category": 3,
+  "category_name": "open-domain",
+  "question": "What is a career that Andrew could potentially pursue with his love for animals and nature?",
+  "ground_truth_answer": "Park ranger or a similar position working for the National Park Services.",
+  "evidence": [
+    "D2:18",
+    "D3:1",
+    "D5:7",
+    "D8:27"
+  ],
+  "user_id": "locomo_5_fe8ec031",
+  "reference_date": "9:02 am on 22 November, 2023",
+  "retrieval": {
+    "search_query": "What is a career that Andrew could potentially pursue with his love for animals and nature?",
+    "search_results": [
+      {
+        "memory": "Andrew has no pets currently but loves animals",
+        "score": 0.6215,
+        "id": "baabe1d7-931b-4de7-93a1-f96bd0ac1f07",
+        "created_at": "2023-03-27T13:10:00+00:00",
+        "updated_at": "2026-11-19T04:03:55.760487+00:00"
+      },
+      {
+        "memory": "Audrey asked Andrew if he has a favorite animal",
+        "score": 0.4878,
+        "id": "6b1eb378-2f8e-4cb8-9a55-f93f49869152",
+        "created_at": "2023-03-27T13:10:00+00:00",
+        "updated_at": "2026-11-19T04:04:00.513998+00:00"
+      },
+      {
+        "memory": "Audrey said animals brighten the day and give lots of love and joy, and she is sure the pet shelter appreciated Andrew's help",
+        "score": 0.4556,
+        "id": "4c510cb5-13fc-44e8-9dd5-bc2769d0b5e3",
+        "created_at": "2023-07-27T15:52:00+00:00",
+        "updated_at": "2026-11-19T05:01:55.035093+00:00"
+      },
+      {
+        "memory": "Andrew learned a lot about animals, plants, and ecosystems and finds it fascinating how they all work together",
+        "score": 0.4132,
+        "id": "a4a1b305-8919-4bf7-89b8-9ef980bbe649",
+        "created_at": "2023-10-01T19:09:00+00:00",
+        "updated_at": "2026-11-19T05:27:32.400081+00:00"
+      },
+      {
+        "memory": "Buddy loves checking out new hiking trails with Andrew and gets stoked and interested in everything nature has to offer",
+        "score": 0.4126,
+        "id": "a1fd05e8-d229-4206-8fd3-fa1f3bb9b083",
+        "created_at": "2023-10-19T18:12:00+00:00",
+        "updated_at": "2026-11-19T05:40:53.682497+00:00"
+      },
+      {
+        "memory": "Andrew says volunteering is his way of giving back and making the lives of the animals better",
+        "score": 0.4049,
+        "id": "b94da8c1-e56e-4249-b06c-14bc962b4eae",
+        "created_at": "2023-07-27T15:52:00+00:00",
+        "updated_at": "2026-11-19T05:02:22.321310+00:00"
+      },
+      {
+        "memory": "Andrew expressed that nature can have awesome surprises",
+        "score": 0.3944,
+        "id": "a10af49c-a840-4ac0-ba59-c4aeeb025c4c",
+        "created_at": "2023-07-08T09:48:00+00:00",
+        "updated_at": "2026-11-19T04:56:31.051121+00:00"
+      },
+      {
+        "memory": "Andrew said nature always pushes him out of his comfort zone",
+        "score": 0.3881,
+        "id": "13ebdeb2-9591-4e0c-9cef-617e571a8ed3",
+        "created_at": "2023-06-13T17:23:00+00:00",
+        "updated_at": "2026-11-19T04:33:57.559997+00:00"
+      },
+      {
+        "memory": "Andrew expressed interest in joining Audrey and her dogs for a walk in nature",
+        "score": 0.3779,
+        "id": "4db57d32-fba8-4df5-9692-32288df31402",
+        "created_at": "2023-06-13T17:23:00+00:00",
+        "updated_at": "2026-11-19T04:35:11.586088+00:00"
+      },
+      {
+        "memory": "Andrew says being in nature is refreshing and always brings him joy",
+        "score": 0.3706,
+        "id": "277f5c9d-7ae5-406d-8622-95de7d57d30f",
+        "created_at": "2023-07-08T09:48:00+00:00",
+        "updated_at": "2026-11-19T04:49:37.637687+00:00"
+      },
+      {
+        "memory": "Audrey (Audrey) expressed that Andrew misses being outdoors and being surrounded by nature",
+        "score": 0.3647,
+        "id": "c80183a5-9fce-4a8e-82a6-eee14fbadb98",
+        "created_at": "2023-10-04T16:18:00+00:00",
+        "updated_at": "2026-11-19T05:30:41.090233+00:00"
+      },
+      {
+        "memory": "Andrew believes nature always makes people and their pets happy",
+        "score": 0.3611,
+        "id": "05381579-4872-4699-85bf-bc49abaf076f",
+        "created_at": "2023-06-13T17:23:00+00:00",
+        "updated_at": "2026-11-19T04:37:20.576201+00:00"
+      },
+      {
+        "memory": "Andrew finds nature refreshing for the mind, gives him a different outlook, and turns to nature for a reset when he needs one",
+        "score": 0.3525,
+        "id": "d573d9a5-d02e-45c6-ab1d-4f4fce5df41e",
+        "created_at": "2023-06-13T17:23:00+00:00",
+        "updated_at": "2026-11-19T04:39:13.839492+00:00"
+      },
+      {
+        "memory": "Andrew expressed that he is missing his connection with nature and looks forward to exploring more",
+        "score": 0.3433,
+        "id": "3f64b621-0b54-41d8-a1f2-8a893da346eb",
+        "created_at": "2023-06-26T13:51:00+00:00",
+        "updated_at": "2026-11-19T04:43:27.620257+00:00"
+      },
+      {
+        "memory": "Andrew believes nature is interconnected and that humans need to look after it",
+        "score": 0.3424,
+        "id": "e04ef63b-2eff-4d63-8686-a73db85446ca",
+        "created_at": "2023-10-01T19:09:00+00:00",
+        "updated_at": "2026-11-19T05:28:01.336881+00:00"
+      },
+      {
+        "memory": "Andrew loves his dog Toby",
+        "score": 0.34,
+        "id": "635b90a0-f970-4f1c-a227-a4ca9bb4032e",
+        "created_at": "2023-08-24T00:24:00+00:00",
+        "updated_at": "2026-11-19T05:14:47.854624+00:00"
+      },
+      {
+        "memory": "Andrew said Audrey's dogs are a real source of love for her",
+        "score": 0.3353,
+        "id": "4ac436a8-4803-47f4-9945-20665d486bdd",
+        "created_at": "2023-10-13T16:22:00+00:00",
+        "updated_at": "2026-11-19T05:38:28.358890+00:00"
+      },
+      {
+        "memory": "Audrey wishes Andrew a great time reconnecting with nature and reminds him to take nice pictures",
+        "score": 0.3272,
+        "id": "62f764da-b89a-482c-af00-f906731073c2",
+        "created_at": "2023-08-19T21:19:00+00:00",
+        "updated_at": "2026-11-19T05:11:57.504592+00:00"
+      },
+      {
+        "memory": "Audrey (Audrey) would love to take her dogs to Andrew's location soon",
+        "score": 0.3261,
+        "id": "48b99ae4-b8ec-491d-b1e0-5473fbef8e9e",
+        "created_at": "2023-06-26T13:51:00+00:00",
+        "updated_at": "2026-11-19T04:41:24.875293+00:00"
+      },
+      {
+        "memory": "Andrew plans to go to a nature reserve on the weekend of August 19-20, 2023 to reconnect with the outdoors",
+        "score": 0.3231,
+        "id": "8db41760-05d4-4271-86d9-e361f86bcfbe",
+        "created_at": "2023-08-19T21:19:00+00:00",
+        "updated_at": "2026-11-19T05:11:55.216097+00:00"
+      },
+      {
+        "memory": "Andrew is looking for a place near a park or woods so he can stay close to nature and give his dog a large open space to run around",
+        "score": 0.3199,
+        "id": "64227ba6-1464-40ff-b431-a10099ccce56",
+        "created_at": "2023-05-06T10:47:00+00:00",
+        "updated_at": "2026-11-19T05:48:39.220217+00:00"
+      },
+      {
+        "memory": "Andrew says he is currently focusing on urban adventures rather than being out on nature trails",
+        "score": 0.3168,
+        "id": "9e8cfe15-50f0-4552-ad6d-3f191dfb8c90",
+        "created_at": "2023-07-03T20:32:00+00:00",
+        "updated_at": "2026-11-19T04:45:32.090433+00:00"
+      },
+      {
+        "memory": "Andrew says it has been a long time since he, his girlfriend, Toby, and the dogs have been together in nature, and he is looking forward to the upcoming hike",
+        "score": 0.3167,
+        "id": "c1eb0ccb-e0bf-4775-a27b-2a00b867277e",
+        "created_at": "2023-10-01T19:09:00+00:00",
+        "updated_at": "2026-11-19T05:24:08.791595+00:00"
+      },
+      {
+        "memory": "Andrew finds nature calms his mind and relaxes him, serving as a break from the craziness of city living",
+        "score": 0.3161,
+        "id": "531b6ffe-a20c-4da7-819d-2e00f7544802",
+        "created_at": "2023-08-04T11:05:00+00:00",
+        "updated_at": "2026-11-19T05:04:31.536836+00:00"
+      },
+      {
+        "memory": "Andrew plans a hike for next month and invites Audrey and her dogs to join, looking forward to enjoying nature together.",
+        "score": 0.3143,
+        "id": "a1b0d96d-3a36-45ce-8409-ac4e23d2d099",
+        "created_at": "2023-07-11T10:05:00+00:00",
+        "updated_at": "2026-11-19T04:57:54.402900+00:00"
+      },
+      {
+        "memory": "Andrew lives in the city, misses nature a lot, and whenever possible he tries to go to nearby parks or on hikes, finding them peaceful and joyful experiences.",
+        "score": 0.3142,
+        "id": "3525ea71-4124-4b86-89e8-719bf68ca037",
+        "created_at": "2023-10-13T16:22:00+00:00",
+        "updated_at": "2026-11-19T05:38:37.540036+00:00"
+      },
+      {
+        "memory": "Andrew loves being outdoors and enjoys seeing others enjoy it too",
+        "score": 0.3086,
+        "id": "a29e9e15-23a2-4257-b2df-d9e19f0010e0",
+        "created_at": "2023-07-08T09:48:00+00:00",
+        "updated_at": "2026-11-19T04:55:52.433587+00:00"
+      },
+      {
+        "memory": "Andrew misses exploring nature trails with his family's dog, recalling past hikes",
+        "score": 0.3075,
+        "id": "badfc88b-9727-4dbb-a6ee-ca40bed9ad51",
+        "created_at": "2023-04-02T14:42:00+00:00",
+        "updated_at": "2026-11-19T04:09:26.643504+00:00"
+      },
+      {
+        "memory": "Audrey believes that with love, Andrew and his dog Toby can develop a strong bond",
+        "score": 0.3046,
+        "id": "a2969088-2d4e-4a38-9bb6-a0e78264d01f",
+        "created_at": "2023-08-24T00:24:00+00:00",
+        "updated_at": "2026-11-19T05:13:56.141617+00:00"
+      },
+      {
+        "memory": "Andrew feels happy when he sees the dogs content and realizes they are special and full of love",
+        "score": 0.3012,
+        "id": "cc242f37-e5cf-47bb-91a9-965dc1f58f98",
+        "created_at": "2023-07-27T15:52:00+00:00",
+        "updated_at": "2026-11-19T05:00:05.641456+00:00"
+      },
+      {
+        "memory": "Andrew believes that letting dogs explore and have fun is important and thinks the dogs must be loving it",
+        "score": 0.2936,
+        "id": "9fde43a3-ae7e-4879-887b-3b14a25bb36a",
+        "created_at": "2023-06-13T17:23:00+00:00",
+        "updated_at": "2026-11-19T04:36:59.553467+00:00"
+      },
+      {
+        "memory": "Andrew feels sad when not out in nature and misses the peacefulness of hiking, saying he thrives while hiking",
+        "score": 0.2928,
+        "id": "9fbd8368-6c8d-4687-a05b-58f712018e49",
+        "created_at": "2023-04-16T16:19:00+00:00",
+        "updated_at": "2026-11-19T04:11:29.273771+00:00"
+      },
+      {
+        "memory": "Andrew commented that the dogs look content in the picture, the meadow looks nice, and nature brings Audrey's pets joy",
+        "score": 0.2922,
+        "id": "7735bbc6-114a-43ea-8fa1-f78907b4f64f",
+        "created_at": "2023-06-13T17:23:00+00:00",
+        "updated_at": "2026-11-19T04:37:51.205878+00:00"
+      },
+      {
+        "memory": "Andrew went on a bike ride with his girlfriend over the weekend, discovering a park outside of town and enjoying being surrounded by nature",
+        "score": 0.2904,
+        "id": "fc9647be-12a4-4ec4-bf75-b646bc4d9046",
+        "created_at": "2023-11-04T19:59:00+00:00",
+        "updated_at": "2026-11-19T05:51:53.591880+00:00"
+      },
+      {
+        "memory": "Andrew wishes he could go on a road trip with a furry companion",
+        "score": 0.2885,
+        "id": "c84cc544-3f16-4be5-9cd5-e430aed74880",
+        "created_at": "2023-05-06T10:47:00+00:00",
+        "updated_at": "2026-11-19T04:26:32.735839+00:00"
+      },
+      {
+        "memory": "Andrew said rock climbing was awesome, describing it as a challenging but satisfying experience with a stunning view, and expressed pride in himself and admiration for nature.",
+        "score": 0.2878,
+        "id": "dd5f11df-357d-432c-bb11-fd4a6dffe28c",
+        "created_at": "2023-06-13T17:23:00+00:00",
+        "updated_at": "2026-11-19T04:32:49.598191+00:00"
+      },
+      {
+        "memory": "Andrew feels that nature is soothing and acts like a reset button when life gets too chaotic",
+        "score": 0.2871,
+        "id": "157e88b3-f864-4cdb-9de5-fa572fe0148d",
+        "created_at": "2023-04-16T16:19:00+00:00",
+        "updated_at": "2026-11-19T04:12:35.617997+00:00"
+      },
+      {
+        "memory": "Andrew observes that Audrey's dogs look comfortable in their bed and are clearly well loved",
+        "score": 0.2863,
+        "id": "7cfbc047-7613-4422-8acb-b1708ea9a0e4",
+        "created_at": "2023-07-03T20:32:00+00:00",
+        "updated_at": "2026-11-19T04:46:04.308507+00:00"
+      },
+      {
+        "memory": "Andrew says hiking is the best, that being out in nature with trees and fresh air always refreshes him, and reaching the top of a challenging trail makes his worries vanish.",
+        "score": 0.2846,
+        "id": "8a0d502a-17d6-4e77-8fd0-9a2a31b58f35",
+        "created_at": "2023-08-04T11:05:00+00:00",
+        "updated_at": "2026-11-19T05:04:08.518309+00:00"
+      },
+      {
+        "memory": "Andrew had a great hike on the weekend of May 6–7, 2023, with friends and his girlfriend at a recently discovered spot, describing the nature as peaceful and relaxing",
+        "score": 0.2843,
+        "id": "de2e3ce4-b15c-4f16-907a-31a9d24fc488",
+        "created_at": "2023-05-11T14:03:00+00:00",
+        "updated_at": "2026-11-19T04:27:55.263577+00:00"
+      },
+      {
+        "memory": "Andrew feels that being out in nature takes his breath away, feels like a home for his soul, and experiences a deep sense of connection when he is there",
+        "score": 0.2834,
+        "id": "fcb00d97-01b2-4659-99b0-049e3dc56921",
+        "created_at": "2023-04-16T16:19:00+00:00",
+        "updated_at": "2026-11-19T04:12:12.205186+00:00"
+      },
+      {
+        "memory": "Andrew is planning a weekend camping trip with his girlfriend and Toby, noting that it has been a long time since he was in nature",
+        "score": 0.2833,
+        "id": "d1250c91-aa01-4d7b-9a97-ff40824ec7bd",
+        "created_at": "2023-08-04T11:05:00+00:00",
+        "updated_at": "2026-11-19T05:02:48.694213+00:00"
+      },
+      {
+        "memory": "Andrew would enjoy hanging out with a dog and cuddling",
+        "score": 0.283,
+        "id": "ab308bba-b251-4218-9e37-8081330b5c81",
+        "created_at": "2023-04-02T14:42:00+00:00",
+        "updated_at": "2026-11-19T04:09:26.643504+00:00"
+      },
+      {
+        "memory": "Andrew expressed that he is glad to have the opportunity to bond with Audrey's pets",
+        "score": 0.2719,
+        "id": "4cc04200-e015-4627-ad5d-89f196b5572d",
+        "created_at": "2023-05-11T14:03:00+00:00",
+        "updated_at": "2026-11-19T04:28:27.792488+00:00"
+      },
+      {
+        "memory": "Andrew says he has managed to make it work with dogs while still living in the city",
+        "score": 0.2709,
+        "id": "dc660f2b-10ea-4b4e-94b5-5aa912acd2ae",
+        "created_at": "2023-11-04T19:59:00+00:00",
+        "updated_at": "2026-11-19T05:53:46.123268+00:00"
+      },
+      {
+        "memory": "Andrew has always wanted to learn dog grooming but has never had time to do so",
+        "score": 0.2706,
+        "id": "04a7c6be-00fc-459a-aa50-64961bd14c14",
+        "created_at": "2023-08-19T21:19:00+00:00",
+        "updated_at": "2026-11-19T05:10:53.947433+00:00"
+      },
+      {
+        "memory": "User says Andrew's dog Buddy is his sidekick",
+        "score": 0.2698,
+        "id": "38807a2a-6b86-42a6-99aa-08fdfb03fd42",
+        "created_at": "2023-10-19T18:12:00+00:00",
+        "updated_at": "2026-11-19T05:40:32.670844+00:00"
+      },
+      {
+        "memory": "User indicates that Andrew has a dog named Buddy",
+        "score": 0.2697,
+        "id": "5e1fd1c7-6b0d-4b71-bbab-f9f5ebb57d1c",
+        "created_at": "2023-11-04T19:59:00+00:00",
+        "updated_at": "2026-11-19T05:52:40.913165+00:00"
+      },
+      {
+        "memory": "Andrew said he will look into the pet training classes",
+        "score": 0.2694,
+        "id": "87b32053-1aec-4381-82e8-91ed9d4e089d",
+        "created_at": "2023-05-11T14:03:00+00:00",
+        "updated_at": "2026-11-19T04:30:18.427027+00:00"
+      },
+      {
+        "memory": "Andrew has always been awed by birds and admires their power to soar and explore new spots",
+        "score": 0.2687,
+        "id": "87c8f818-8e91-4ee9-8cbe-5bad3ede8e43",
+        "created_at": "2023-03-27T13:10:00+00:00",
+        "updated_at": "2026-11-19T04:04:09.026050+00:00"
+      }
+    ],
+    "search_latency_ms": 375.5,
+    "total_results": 50
+  },
+  "cutoff_results": {
+    "top_50": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Park ranger.",
+      "memories_evaluated": 50,
+      "reason": "The generated answer exactly matches the gold answer’s suggested career of park ranger."
+    }
+  }
+}

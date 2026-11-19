@@ -1,0 +1,379 @@
+{
+  "question_id": "conv5_q43",
+  "conversation_idx": 5,
+  "category": 3,
+  "category_name": "open-domain",
+  "question": "Which US state do Audrey and Andrew potentially live in?",
+  "ground_truth_answer": "Minnesota",
+  "evidence": [
+    "D11:9"
+  ],
+  "user_id": "locomo_5_fe8ec031",
+  "reference_date": "9:02 am on 22 November, 2023",
+  "retrieval": {
+    "search_query": "Which US state do Audrey and Andrew potentially live in?",
+    "search_results": [
+      {
+        "memory": "Audrey asked Andrew whether he had found a dog-friendly place to live",
+        "score": 0.6449,
+        "id": "637f59b0-7fe5-45c2-8df5-a2629f8e5ed0",
+        "created_at": "2023-09-06T19:49:00+00:00",
+        "updated_at": "2026-11-19T05:18:28.124283+00:00"
+      },
+      {
+        "memory": "Andrew says he has managed to make it work with dogs while still living in the city",
+        "score": 0.5174,
+        "id": "dc660f2b-10ea-4b4e-94b5-5aa912acd2ae",
+        "created_at": "2023-11-04T19:59:00+00:00",
+        "updated_at": "2026-11-19T05:53:46.123268+00:00"
+      },
+      {
+        "memory": "Audrey (Audrey) thinks the place Andrew shared looks fun",
+        "score": 0.5142,
+        "id": "be81c991-a230-4c1b-a402-52e9aeab62ce",
+        "created_at": "2023-06-26T13:51:00+00:00",
+        "updated_at": "2026-11-19T04:41:24.875293+00:00"
+      },
+      {
+        "memory": "Audrey (Audrey) would love to take her dogs to Andrew's location soon",
+        "score": 0.4892,
+        "id": "48b99ae4-b8ec-491d-b1e0-5473fbef8e9e",
+        "created_at": "2023-06-26T13:51:00+00:00",
+        "updated_at": "2026-11-19T04:41:24.875293+00:00"
+      },
+      {
+        "memory": "Audrey feels she cannot live without her dogs, expressing strong attachment to them",
+        "score": 0.4823,
+        "id": "ac0d8e9c-c845-4ac5-8bfa-fd2ebd50daca",
+        "created_at": "2023-03-27T13:10:00+00:00",
+        "updated_at": "2026-11-19T04:03:21.844311+00:00"
+      },
+      {
+        "memory": "Audrey (Audrey) expressed that Andrew misses being outdoors and being surrounded by nature",
+        "score": 0.4759,
+        "id": "c80183a5-9fce-4a8e-82a6-eee14fbadb98",
+        "created_at": "2023-10-04T16:18:00+00:00",
+        "updated_at": "2026-11-19T05:30:41.090233+00:00"
+      },
+      {
+        "memory": "Andrew said he will keep Audrey posted",
+        "score": 0.4687,
+        "id": "5647409e-53d0-4176-8091-88abe01a54dc",
+        "created_at": "2023-07-03T20:32:00+00:00",
+        "updated_at": "2026-11-19T04:49:21.417121+00:00"
+      },
+      {
+        "memory": "Andrew said he will let Audrey know",
+        "score": 0.4659,
+        "id": "c5173794-019d-4041-a592-fc12b9b6b223",
+        "created_at": "2023-05-03T17:41:00+00:00",
+        "updated_at": "2026-11-19T04:24:08.407998+00:00"
+      },
+      {
+        "memory": "Audrey says Andrew already has some experience and is well prepared",
+        "score": 0.4634,
+        "id": "917a6d0d-9094-4eef-a38d-20ed6b8cc5d4",
+        "created_at": "2023-10-01T19:09:00+00:00",
+        "updated_at": "2026-11-19T05:26:55.158311+00:00"
+      },
+      {
+        "memory": "Andrew has never tried sushi before and is curious about trying it, stating he now understands the hype",
+        "score": 0.4607,
+        "id": "adb8da0b-95e0-437f-8a0d-116b3379bc41",
+        "created_at": "2023-10-24T10:14:00+00:00",
+        "updated_at": "2026-11-19T05:43:26.723032+00:00"
+      },
+      {
+        "memory": "Andrew sent prayers and wishes to Audrey",
+        "score": 0.4605,
+        "id": "68ad924c-35fb-4873-a543-8e9f48090510",
+        "created_at": "2023-10-28T14:36:00+00:00",
+        "updated_at": "2026-11-19T05:48:33.578661+00:00"
+      },
+      {
+        "memory": "Audrey asks Andrew to let her know how it goes",
+        "score": 0.4604,
+        "id": "87bff0a4-b77e-4269-bcc0-1a49441224a0",
+        "created_at": "2023-05-03T17:41:00+00:00",
+        "updated_at": "2026-11-19T04:23:44.891808+00:00"
+      },
+      {
+        "memory": "Audrey wishes Andrew a fun beach trip",
+        "score": 0.4586,
+        "id": "7d60f850-ed5c-4818-823e-b497f731c726",
+        "created_at": "2023-10-01T19:09:00+00:00",
+        "updated_at": "2026-11-19T05:23:51.828941+00:00"
+      },
+      {
+        "memory": "Audrey says Andrew's friendship means a lot to her",
+        "score": 0.4558,
+        "id": "6c3a95a2-d567-4f42-aea4-ba33a996cc0f",
+        "created_at": "2023-11-04T19:59:00+00:00",
+        "updated_at": "2026-11-19T05:54:57.086798+00:00"
+      },
+      {
+        "memory": "Audrey (Audrey) is expecting to receive a picture of Andrew's dog soon",
+        "score": 0.4528,
+        "id": "cb73812f-fe93-439f-b8b2-cbc6fa234f5e",
+        "created_at": "2023-05-06T10:47:00+00:00",
+        "updated_at": "2026-11-19T04:27:26.154185+00:00"
+      },
+      {
+        "memory": "Audrey (Audrey) is keeping her fingers crossed for Andrew to find a great furry friend and an apartment",
+        "score": 0.4471,
+        "id": "357ffd6e-7e0c-4b59-96ad-a88acc8163d9",
+        "created_at": "2023-04-02T14:42:00+00:00",
+        "updated_at": "2026-11-19T04:07:58.156142+00:00"
+      },
+      {
+        "memory": "Audrey thanked Andrew and said they will let him know",
+        "score": 0.4354,
+        "id": "0a834e58-cff5-483b-b7e7-b9e5f28b297c",
+        "created_at": "2023-03-27T13:10:00+00:00",
+        "updated_at": "2026-11-19T04:05:25.955153+00:00"
+      },
+      {
+        "memory": "Andrew feels lucky to have Audrey as a friend for outdoor trips",
+        "score": 0.4323,
+        "id": "963ce19c-9d13-41a2-aab6-b64bd29ee7a2",
+        "created_at": "2023-10-28T14:36:00+00:00",
+        "updated_at": "2026-11-19T05:50:22.089749+00:00"
+      },
+      {
+        "memory": "Audrey (Audrey) offered to help Andrew find a pet‑friendly spot by asking him to email her his criteria",
+        "score": 0.4306,
+        "id": "65150ee9-bf2a-485e-8f5e-4f353501b7dd",
+        "created_at": "2023-06-02T11:27:00+00:00",
+        "updated_at": "2026-11-19T04:31:51.643661+00:00"
+      },
+      {
+        "memory": "Andrew plans to get some awesome pictures to show Audrey when he returns",
+        "score": 0.4288,
+        "id": "713bbe4d-2be5-4f88-995f-ec771a7148f6",
+        "created_at": "2023-08-19T21:19:00+00:00",
+        "updated_at": "2026-11-19T05:12:03.109009+00:00"
+      },
+      {
+        "memory": "Audrey (Audrey) says she will keep Andrew posted and let him know if he needs any suggestions or help",
+        "score": 0.4268,
+        "id": "7c738219-a34c-462e-839f-0675aabecb19",
+        "created_at": "2023-05-06T10:47:00+00:00",
+        "updated_at": "2026-11-19T04:27:16.956626+00:00"
+      },
+      {
+        "memory": "Andrew said Audrey's dogs are a real source of love for her",
+        "score": 0.4234,
+        "id": "4ac436a8-4803-47f4-9945-20665d486bdd",
+        "created_at": "2023-10-13T16:22:00+00:00",
+        "updated_at": "2026-11-19T05:38:28.358890+00:00"
+      },
+      {
+        "memory": "Audrey expressed that living in the city without the opportunity to go outside is tough and feels like a different experience",
+        "score": 0.4221,
+        "id": "4e1ba171-9e85-438a-bbe1-6e0d0f7e0bf8",
+        "created_at": "2023-04-16T16:19:00+00:00",
+        "updated_at": "2026-11-19T04:13:55.100213+00:00"
+      },
+      {
+        "memory": "Andrew feels jealous of the fun outings Audrey has with her dogs",
+        "score": 0.4202,
+        "id": "fc8dedbb-7b85-42ae-b1da-25420b257688",
+        "created_at": "2023-03-27T13:10:00+00:00",
+        "updated_at": "2026-11-19T04:03:37.515314+00:00"
+      },
+      {
+        "memory": "Andrew observes that Audrey's dogs are having a blast",
+        "score": 0.4161,
+        "id": "dfd2e469-8aa0-4e77-9848-3474cefbd052",
+        "created_at": "2023-07-03T20:32:00+00:00",
+        "updated_at": "2026-11-19T04:45:33.334860+00:00"
+      },
+      {
+        "memory": "Andrew says Audrey is doing a great job and that the dogs are lucky to have her",
+        "score": 0.4161,
+        "id": "e5989c37-e193-4f9e-8ab4-fd1ff7ec7a38",
+        "created_at": "2023-10-28T14:36:00+00:00",
+        "updated_at": "2026-11-19T05:46:44.781595+00:00"
+      },
+      {
+        "memory": "Audrey suggested having a pastry party sometime with Andrew",
+        "score": 0.416,
+        "id": "76f3c081-db9b-4732-841d-385c42fcb43b",
+        "created_at": "2023-04-16T16:19:00+00:00",
+        "updated_at": "2026-11-19T04:16:17.898201+00:00"
+      },
+      {
+        "memory": "Audrey asked Andrew if he has a favorite animal",
+        "score": 0.4159,
+        "id": "6b1eb378-2f8e-4cb8-9a55-f93f49869152",
+        "created_at": "2023-03-27T13:10:00+00:00",
+        "updated_at": "2026-11-19T04:04:00.513998+00:00"
+      },
+      {
+        "memory": "Andrew thought the photo of Audrey's dogs was cute",
+        "score": 0.4138,
+        "id": "5764da5c-7019-48ed-a1ab-c1155384420d",
+        "created_at": "2023-07-27T15:52:00+00:00",
+        "updated_at": "2026-11-19T05:00:23.796965+00:00"
+      },
+      {
+        "memory": "Andrew expressed that he is glad to have the opportunity to bond with Audrey's pets",
+        "score": 0.4132,
+        "id": "4cc04200-e015-4627-ad5d-89f196b5572d",
+        "created_at": "2023-05-11T14:03:00+00:00",
+        "updated_at": "2026-11-19T04:28:27.792488+00:00"
+      },
+      {
+        "memory": "Andrew said he will let Audrey know if he decides to give it a try",
+        "score": 0.4129,
+        "id": "686dcd45-75f9-4c6c-b409-8dcd7babea1d",
+        "created_at": "2023-08-19T21:19:00+00:00",
+        "updated_at": "2026-11-19T05:11:41.038846+00:00"
+      },
+      {
+        "memory": "Audrey says Andrew's hike pictures are always nice and thanks him for them",
+        "score": 0.4124,
+        "id": "fa1c454f-2fe8-4175-9511-c39088042fa7",
+        "created_at": "2023-08-19T21:19:00+00:00",
+        "updated_at": "2026-11-19T05:12:17.423978+00:00"
+      },
+      {
+        "memory": "Andrew said he will reach out to Audrey for help or advice if he needs it",
+        "score": 0.4096,
+        "id": "12b1a7c4-7f25-4f8d-8076-f50221326077",
+        "created_at": "2023-10-04T16:18:00+00:00",
+        "updated_at": "2026-11-19T05:31:32.867656+00:00"
+      },
+      {
+        "memory": "Andrew is excited to meet Audrey's dogs and says they seem like a blast",
+        "score": 0.4032,
+        "id": "deca9479-207a-4b3a-822c-4da68a3e17ab",
+        "created_at": "2023-07-08T09:48:00+00:00",
+        "updated_at": "2026-11-19T04:53:05.715904+00:00"
+      },
+      {
+        "memory": "Audrey is excited for Andrew and looks forward to seeing where he and his furry friend will hang out",
+        "score": 0.4026,
+        "id": "aac3acd4-ff25-4980-9a89-9555ef149d90",
+        "created_at": "2023-04-02T14:42:00+00:00",
+        "updated_at": "2026-11-19T04:11:07.290657+00:00"
+      },
+      {
+        "memory": "Audrey believes Andrew's kindness and care will make the dogs happier",
+        "score": 0.4018,
+        "id": "0b7b52c3-a347-495e-8e9a-6dd10c159124",
+        "created_at": "2023-07-27T15:52:00+00:00",
+        "updated_at": "2026-11-19T05:02:29.650769+00:00"
+      },
+      {
+        "memory": "Audrey (Audrey) says Toby looks adorable and expresses she is very happy for Andrew about his new puppy",
+        "score": 0.4011,
+        "id": "250b7605-266e-411f-81be-7cb4c4fc329b",
+        "created_at": "2023-07-11T10:05:00+00:00",
+        "updated_at": "2026-11-19T04:57:15.785825+00:00"
+      },
+      {
+        "memory": "Andrew states that he has never asked Audrey about her dogs' breed before",
+        "score": 0.3978,
+        "id": "21729de2-2564-4fbd-9d83-accc178962cf",
+        "created_at": "2023-07-03T20:32:00+00:00",
+        "updated_at": "2026-11-19T04:45:33.334860+00:00"
+      },
+      {
+        "memory": "Audrey agreed to plan a hike with Andrew and wants to pick a date for it",
+        "score": 0.3968,
+        "id": "3dd959cd-34e9-4892-a3af-1d175e5e6dbe",
+        "created_at": "2023-10-28T14:36:00+00:00",
+        "updated_at": "2026-11-19T05:48:52.457549+00:00"
+      },
+      {
+        "memory": "Andrew is excited about Audrey's upcoming pet‑bonding workshop and wishes her a great time",
+        "score": 0.3957,
+        "id": "ec412a03-073b-4a51-bbf2-05b1458d3811",
+        "created_at": "2023-05-11T14:03:00+00:00",
+        "updated_at": "2026-11-19T04:29:30.928560+00:00"
+      },
+      {
+        "memory": "Andrew said Audrey must be a good salesperson because he's almost sold on the pet‑bonding workshop class",
+        "score": 0.3932,
+        "id": "f44912f7-6ca7-4dfd-916d-eea85aba7a69",
+        "created_at": "2023-05-11T14:03:00+00:00",
+        "updated_at": "2026-11-19T04:29:49.367377+00:00"
+      },
+      {
+        "memory": "Audrey offered to help Andrew, saying she is available if he needs any assistance",
+        "score": 0.3905,
+        "id": "97a569d7-498e-4def-99f5-d8836b149b22",
+        "created_at": "2023-11-04T19:59:00+00:00",
+        "updated_at": "2026-11-19T05:53:25.194223+00:00"
+      },
+      {
+        "memory": "Andrew believes Audrey's dogs' happy faces mean a lot to her",
+        "score": 0.3864,
+        "id": "1def2ef8-36f8-40cd-ab64-ab8f9292c2e4",
+        "created_at": "2023-04-16T16:19:00+00:00",
+        "updated_at": "2026-11-19T04:17:10.130011+00:00"
+      },
+      {
+        "memory": "Audrey believes that with love, Andrew and his dog Toby can develop a strong bond",
+        "score": 0.384,
+        "id": "a2969088-2d4e-4a38-9bb6-a0e78264d01f",
+        "created_at": "2023-08-24T00:24:00+00:00",
+        "updated_at": "2026-11-19T05:13:56.141617+00:00"
+      },
+      {
+        "memory": "Andrew asked if Audrey's dogs enjoy playing in the garden",
+        "score": 0.3839,
+        "id": "0315c26a-d9bf-48f7-90b3-b8609462c642",
+        "created_at": "2023-09-24T17:53:00+00:00",
+        "updated_at": "2026-11-19T05:22:24.139074+00:00"
+      },
+      {
+        "memory": "Andrew feels glad that Audrey's dogs bring her a lot of joy",
+        "score": 0.383,
+        "id": "58a006f0-959b-4da3-a82a-c6b46e7b57fb",
+        "created_at": "2023-04-16T16:19:00+00:00",
+        "updated_at": "2026-11-19T04:18:31.049130+00:00"
+      },
+      {
+        "memory": "Andrew expressed interest in joining Audrey and her dogs for a walk in nature",
+        "score": 0.3829,
+        "id": "4db57d32-fba8-4df5-9692-32288df31402",
+        "created_at": "2023-06-13T17:23:00+00:00",
+        "updated_at": "2026-11-19T04:35:11.586088+00:00"
+      },
+      {
+        "memory": "Andrew lives in the city, misses nature a lot, and whenever possible he tries to go to nearby parks or on hikes, finding them peaceful and joyful experiences.",
+        "score": 0.3826,
+        "id": "3525ea71-4124-4b86-89e8-719bf68ca037",
+        "created_at": "2023-10-13T16:22:00+00:00",
+        "updated_at": "2026-11-19T05:38:37.540036+00:00"
+      },
+      {
+        "memory": "Andrew says Audrey is dedicated to making a difference even though she can no longer volunteer at the shelter",
+        "score": 0.3822,
+        "id": "33fc0aef-f904-41f5-8aa1-115f1f08b921",
+        "created_at": "2023-10-06T21:41:00+00:00",
+        "updated_at": "2026-11-19T05:33:59.039831+00:00"
+      },
+      {
+        "memory": "Andrew observes that Audrey's dogs look comfortable in their bed and are clearly well loved",
+        "score": 0.3821,
+        "id": "7cfbc047-7613-4422-8acb-b1708ea9a0e4",
+        "created_at": "2023-07-03T20:32:00+00:00",
+        "updated_at": "2026-11-19T04:46:04.308507+00:00"
+      }
+    ],
+    "search_latency_ms": 426.9,
+    "total_results": 50
+  },
+  "cutoff_results": {
+    "top_50": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "Indeterminate; the memories only support that they likely live in a coastal US state (city life with nearby hikes and a beach trip), but no specific state is identified.",
+      "memories_evaluated": 50,
+      "reason": "The generated answer does not mention Minnesota and instead claims the state is indeterminate and likely coastal, providing no overlap with the gold answer."
+    }
+  }
+}

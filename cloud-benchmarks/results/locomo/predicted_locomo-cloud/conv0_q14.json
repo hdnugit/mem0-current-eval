@@ -1,0 +1,380 @@
+{
+  "question_id": "conv0_q14",
+  "conversation_idx": 0,
+  "category": 3,
+  "category_name": "open-domain",
+  "question": "Would Caroline still want to pursue counseling as a career if she hadn't received support growing up?",
+  "ground_truth_answer": "Likely no",
+  "evidence": [
+    "D4:15",
+    "D3:5"
+  ],
+  "user_id": "locomo_0_fe8ec031",
+  "reference_date": "9:55 am on 22 October, 2023",
+  "retrieval": {
+    "search_query": "Would Caroline still want to pursue counseling as a career if she hadn't received support growing up?",
+    "search_results": [
+      {
+        "memory": "Caroline feels motivated and excited to give back after talking to the community, reinforcing her interest in pursuing counseling and mental health to help others",
+        "score": 0.6253,
+        "id": "bcae9645-a084-474b-a4b0-0f05abc8ce10",
+        "created_at": "2023-07-03T13:36:00+00:00",
+        "updated_at": "2026-11-19T04:21:05.934964+00:00"
+      },
+      {
+        "memory": "Caroline feels that her own journey and the support she received made a huge difference",
+        "score": 0.593,
+        "id": "7a2c7b4f-80b2-4a27-9e75-393fa969c340",
+        "created_at": "2023-06-27T10:37:00+00:00",
+        "updated_at": "2026-11-19T04:20:13.023045+00:00"
+      },
+      {
+        "memory": "Caroline is grateful for the support she has received from friends and mentors",
+        "score": 0.5924,
+        "id": "fec5f0c3-19c0-4e06-8c06-215dcb62b49a",
+        "created_at": "2023-05-25T13:14:00+00:00",
+        "updated_at": "2026-11-19T04:08:36.519045+00:00"
+      },
+      {
+        "memory": "Caroline feels that being themselves is a great feeling and sees life as an ongoing adventure of learning and growing",
+        "score": 0.5746,
+        "id": "a7c2e8be-a504-42f9-b56c-1519c30b8d59",
+        "created_at": "2023-10-13T10:31:00+00:00",
+        "updated_at": "2026-11-19T05:19:50.805433+00:00"
+      },
+      {
+        "memory": "Caroline struggled with mental health and found the support she received to be really helpful, realizing the importance of a support system for others",
+        "score": 0.5727,
+        "id": "13a8627f-76e5-4918-9a2d-003e0a68e93e",
+        "created_at": "2023-07-12T16:33:00+00:00",
+        "updated_at": "2026-11-19T04:28:42.083957+00:00"
+      },
+      {
+        "memory": "Caroline intends to pass on the love and support she has received by sharing her story with others",
+        "score": 0.5496,
+        "id": "79243ae5-f11c-41a6-ae81-20952cd70cf1",
+        "created_at": "2023-06-09T19:55:00+00:00",
+        "updated_at": "2026-11-19T04:12:36.016741+00:00"
+      },
+      {
+        "memory": "Caroline saw her mentee's face light up when they received support, describing it as a special and memorable moment",
+        "score": 0.4838,
+        "id": "7fc0ab33-4416-46fe-a351-1e193cf0ade9",
+        "created_at": "2023-07-17T14:31:00+00:00",
+        "updated_at": "2026-11-19T04:41:28.038795+00:00"
+      },
+      {
+        "memory": "Caroline is considering a career working with trans people, helping them accept themselves and supporting their mental health",
+        "score": 0.4759,
+        "id": "08a51e44-78e7-4806-bff0-142ca5123adf",
+        "created_at": "2023-06-27T10:37:00+00:00",
+        "updated_at": "2026-11-19T04:19:33.545821+00:00"
+      },
+      {
+        "memory": "Caroline intends to continue her education and explore career options, which she finds exciting",
+        "score": 0.4265,
+        "id": "fc957176-55f1-4277-b9df-12a611b80ef2",
+        "created_at": "2023-05-08T13:56:00+00:00",
+        "updated_at": "2026-11-19T04:03:25.065173+00:00"
+      },
+      {
+        "memory": "Caroline received extensive help from an adoption advice/assistance group she attended",
+        "score": 0.411,
+        "id": "fb7af2d7-65b5-47ed-8a17-48f4d1f85bdc",
+        "created_at": "2023-08-23T15:31:00+00:00",
+        "updated_at": "2026-11-19T04:54:11.794251+00:00"
+      },
+      {
+        "memory": "Caroline wants to live authentically and help others do the same",
+        "score": 0.3973,
+        "id": "e7749395-41b2-4ac7-8265-841262213918",
+        "created_at": "2023-08-23T15:31:00+00:00",
+        "updated_at": "2026-11-19T04:57:36.190656+00:00"
+      },
+      {
+        "memory": "Caroline reflects that transitioning and acceptance were difficult, but invaluable support from friends, family, and mentors helped her discover her true self; she now wants to provide the same support to anyone in need, finding joy in bringing comfort and fostering growth.",
+        "score": 0.3923,
+        "id": "81d1d4c3-83e2-41e4-867c-430d02e0d5d4",
+        "created_at": "2023-10-22T09:55:00+00:00",
+        "updated_at": "2026-11-19T05:25:34.624897+00:00"
+      },
+      {
+        "memory": "Caroline is looking into counseling and mental health work more, feeling passionate about helping people and making a positive impact, and notes that it is tough but also rewarding",
+        "score": 0.3775,
+        "id": "dc043952-bd24-44bc-a6f8-14336560b020",
+        "created_at": "2023-07-06T20:18:00+00:00",
+        "updated_at": "2026-11-19T04:27:31.316609+00:00"
+      },
+      {
+        "memory": "Caroline says the experience taught her self-acceptance and how to find support",
+        "score": 0.3668,
+        "id": "78027e6a-c871-45f8-a763-2f3c44b85d05",
+        "created_at": "2023-07-12T16:33:00+00:00",
+        "updated_at": "2026-11-19T04:29:47.883289+00:00"
+      },
+      {
+        "memory": "Caroline expressed gratitude for the support and the role of art in her life",
+        "score": 0.3542,
+        "id": "d810ffb6-98b7-4166-8de5-3ea755d8bac9",
+        "created_at": "2023-09-13T00:09:00+00:00",
+        "updated_at": "2026-11-19T05:12:02.655506+00:00"
+      },
+      {
+        "memory": "Caroline felt inspired and beyond words by being around people who embrace and support her",
+        "score": 0.3465,
+        "id": "60bc9b66-bbc4-4e1c-ad25-5c8bdd231688",
+        "created_at": "2023-07-15T13:51:00+00:00",
+        "updated_at": "2026-11-19T04:37:06.598399+00:00"
+      },
+      {
+        "memory": "Caroline attended an LGBTQ+ counseling workshop on Friday, June 23, 2023, where professionals discussed various therapeutic methods and how to create safe spaces for trans individuals",
+        "score": 0.345,
+        "id": "5657897c-d489-4370-8c28-bd0d994d5763",
+        "created_at": "2023-06-27T10:37:00+00:00",
+        "updated_at": "2026-11-19T04:19:33.545821+00:00"
+      },
+      {
+        "memory": "Caroline believes love and acceptance should be everyone's right and wants children to experience it",
+        "score": 0.3446,
+        "id": "5833e2c2-eef5-4184-afd3-5c7fe25e6c3b",
+        "created_at": "2023-10-22T09:55:00+00:00",
+        "updated_at": "2026-11-19T05:24:49.625506+00:00"
+      },
+      {
+        "memory": "Caroline's friends and community have her back, providing strong support",
+        "score": 0.3434,
+        "id": "946ef24d-f90e-4f4f-9f74-fa3d39190321",
+        "created_at": "2023-07-15T13:51:00+00:00",
+        "updated_at": "2026-11-19T04:37:17.895037+00:00"
+      },
+      {
+        "memory": "Caroline feels she has been blessed with abundant love and support throughout her journey",
+        "score": 0.3331,
+        "id": "d6f99f5b-3e1f-4f88-8558-0a915f8d8bc2",
+        "created_at": "2023-06-09T19:55:00+00:00",
+        "updated_at": "2026-11-19T04:12:36.016741+00:00"
+      },
+      {
+        "memory": "Caroline is passionate about creating a safe, inviting place for people to grow",
+        "score": 0.3325,
+        "id": "4f90d76c-fb97-4f3d-9515-f0fa06daf63c",
+        "created_at": "2023-06-27T10:37:00+00:00",
+        "updated_at": "2026-11-19T04:20:13.023045+00:00"
+      },
+      {
+        "memory": "Caroline feels that family love and support is the best",
+        "score": 0.331,
+        "id": "c84fabc1-f6f1-4931-8d21-6434745d5c1c",
+        "created_at": "2023-07-15T13:51:00+00:00",
+        "updated_at": "2026-11-19T04:38:33.219033+00:00"
+      },
+      {
+        "memory": "Caroline felt the experience was special, reminded her of her own past struggles, and was glad she could share her story and offer support, feeling she could make a difference",
+        "score": 0.3275,
+        "id": "688ef506-8250-4e3a-ba27-c1b956df0b43",
+        "created_at": "2023-08-28T15:19:00+00:00",
+        "updated_at": "2026-11-19T05:07:43.976125+00:00"
+      },
+      {
+        "memory": "Caroline notes that having people who accept and support her around is helpful and reassures her that she will be okay.",
+        "score": 0.3176,
+        "id": "dc0e3c73-7eed-4db2-a528-f400ad6e1aff",
+        "created_at": "2023-08-17T13:50:00+00:00",
+        "updated_at": "2026-11-19T04:49:58.143739+00:00"
+      },
+      {
+        "memory": "Caroline says she is always there for Melanie, expressing ongoing support",
+        "score": 0.3159,
+        "id": "ae7effa7-0900-4e17-b48e-52bf597c66f5",
+        "created_at": "2023-08-17T13:50:00+00:00",
+        "updated_at": "2026-11-19T04:52:47.542754+00:00"
+      },
+      {
+        "memory": "Caroline described the advocacy event as a cool experience with love and support",
+        "score": 0.3086,
+        "id": "13ac41cc-bd2e-4ce9-98ec-1a45b3b50855",
+        "created_at": "2023-08-14T14:24:00+00:00",
+        "updated_at": "2026-11-19T04:46:49.492953+00:00"
+      },
+      {
+        "memory": "Caroline feels accepted and has gained courage to embrace herself thanks to the LGBTQ support group",
+        "score": 0.3026,
+        "id": "f4fd269f-88f6-40a3-8a2e-40857448ae77",
+        "created_at": "2023-05-08T13:56:00+00:00",
+        "updated_at": "2026-11-19T04:03:21.401270+00:00"
+      },
+      {
+        "memory": "Melanie thanked Caroline, saying she is a real support and she appreciates her a lot",
+        "score": 0.3015,
+        "id": "0d8f0c15-9cd5-4472-8ea9-89825c589130",
+        "created_at": "2023-10-20T18:55:00+00:00",
+        "updated_at": "2026-11-19T05:22:16.249598+00:00"
+      },
+      {
+        "memory": "Caroline found the transgender stories inspiring and felt happy and thankful for the support",
+        "score": 0.3012,
+        "id": "e6736567-b25f-443b-9a96-2a40c3fe43dd",
+        "created_at": "2023-05-08T13:56:00+00:00",
+        "updated_at": "2026-11-19T04:03:06.621278+00:00"
+      },
+      {
+        "memory": "Melanie said Caroline has a caring heart and that the children she hopes to adopt will receive love and stability, and expressed excitement for this new chapter",
+        "score": 0.2999,
+        "id": "0ddab137-d0da-409f-95a6-6ad09813ed90",
+        "created_at": "2023-05-25T13:14:00+00:00",
+        "updated_at": "2026-11-19T04:10:32.041947+00:00"
+      },
+      {
+        "memory": "Caroline chose the adoption agencies because they help LGBTQ+ folks with adoption, and their inclusivity and support resonated with her",
+        "score": 0.2861,
+        "id": "6566e0eb-5dc1-4675-9f7e-5e95a91540c4",
+        "created_at": "2023-05-25T13:14:00+00:00",
+        "updated_at": "2026-11-19T04:09:01.780832+00:00"
+      },
+      {
+        "memory": "Caroline thanked Melanie for her support and encouragement, expressed a desire to spread love and understanding, and said they can tackle life's challenges together",
+        "score": 0.2797,
+        "id": "4aa7eafa-b7a4-4744-ad8d-9b7fd31122a3",
+        "created_at": "2023-06-09T19:55:00+00:00",
+        "updated_at": "2026-11-19T04:14:38.559497+00:00"
+      },
+      {
+        "memory": "Caroline says that finding a community where she is accepted, loved, and supported has meant a lot to her and has made a huge difference because the people understand what she is going through",
+        "score": 0.2786,
+        "id": "ad7314e1-8493-46b3-a3b9-fe260952fe0b",
+        "created_at": "2023-08-25T13:33:00+00:00",
+        "updated_at": "2026-11-19T05:01:43.011702+00:00"
+      },
+      {
+        "memory": "Caroline attended an LGBTQ support group on May 7, 2023, and found it powerful",
+        "score": 0.2761,
+        "id": "433e2efa-4ae0-4dd2-90cb-4cfd4c7f6080",
+        "created_at": "2023-05-08T13:56:00+00:00",
+        "updated_at": "2026-11-19T04:02:49.382283+00:00"
+      },
+      {
+        "memory": "Caroline says finding self-acceptance was a long process, and now she feels ready to offer love and support to those who need it, finding it empowering to make a positive difference in someone's life",
+        "score": 0.2757,
+        "id": "6db0f579-7be9-43a5-af4b-db9484c9ce38",
+        "created_at": "2023-10-22T09:55:00+00:00",
+        "updated_at": "2026-11-19T05:25:35.478315+00:00"
+      },
+      {
+        "memory": "Caroline says that after coming out, some close friends continued to support her while a few couldn't handle it, and she now feels much happier being around those who accept and love her, noting her relationships feel more genuine",
+        "score": 0.2719,
+        "id": "e2144ff0-de6d-4180-ad7c-a279cc767fa9",
+        "created_at": "2023-09-13T00:09:00+00:00",
+        "updated_at": "2026-11-19T05:13:21.128895+00:00"
+      },
+      {
+        "memory": "Melanie expressed that Caroline cares about being authentic and helping others, and wished her the best on her adoption journey",
+        "score": 0.2663,
+        "id": "ceb22d2e-5173-4b01-9ce7-c9380546f515",
+        "created_at": "2023-08-23T15:31:00+00:00",
+        "updated_at": "2026-11-19T04:58:46.252513+00:00"
+      },
+      {
+        "memory": "Caroline expressed enthusiasm for Melanie's friend's adoption, noting it can be tough but worthwhile, and offered to help if Melanie decides to adopt, saying she would love to support the process",
+        "score": 0.2655,
+        "id": "fa957de4-78e3-4001-909f-c9132f08da4c",
+        "created_at": "2023-10-13T10:31:00+00:00",
+        "updated_at": "2026-11-19T05:15:17.060812+00:00"
+      },
+      {
+        "memory": "Caroline says Melanie's support means a lot to her, describing her journey as amazing, a real gift, and expressing gratitude for being able to share it and help others.",
+        "score": 0.2598,
+        "id": "d8fb6c2b-2646-477f-917c-4d344af18115",
+        "created_at": "2023-10-22T09:55:00+00:00",
+        "updated_at": "2026-11-19T05:25:55.996078+00:00"
+      },
+      {
+        "memory": "Caroline feels inspired seeing her artwork make a difference for the LGBTQ+ community, is thankful for the support of friends, family, and mentors, and says this motivates her to keep creating art",
+        "score": 0.257,
+        "id": "6b6e214f-ebd3-44d3-b143-87bac5160120",
+        "created_at": "2023-09-13T00:09:00+00:00",
+        "updated_at": "2026-11-19T05:11:25.593585+00:00"
+      },
+      {
+        "memory": "Melanie said Caroline has found the courage to be herself, which is important for mental health and finding peace",
+        "score": 0.2558,
+        "id": "60d02440-2a6b-4a0b-9a54-70af787e1dc8",
+        "created_at": "2023-07-15T13:51:00+00:00",
+        "updated_at": "2026-11-19T04:37:44.900643+00:00"
+      },
+      {
+        "memory": "Caroline stated that creating art was crucial during her transition, helping her understand and accept herself",
+        "score": 0.2547,
+        "id": "3e3d6963-51dc-4f25-82a3-e2bfde5e19e3",
+        "created_at": "2023-09-13T00:09:00+00:00",
+        "updated_at": "2026-11-19T05:12:02.655506+00:00"
+      },
+      {
+        "memory": "Melanie feels proud of Caroline for taking the step toward adoption",
+        "score": 0.2517,
+        "id": "8276b183-716d-4257-a900-6b87e931972d",
+        "created_at": "2023-08-23T15:31:00+00:00",
+        "updated_at": "2026-11-19T04:54:32.904561+00:00"
+      },
+      {
+        "memory": "Caroline finds art empowering and cathartic",
+        "score": 0.2504,
+        "id": "c82a413a-6de6-4186-a364-6e034c966875",
+        "created_at": "2023-09-13T00:09:00+00:00",
+        "updated_at": "2026-11-19T05:11:41.466336+00:00"
+      },
+      {
+        "memory": "The meeting made Caroline even more determined to adopt",
+        "score": 0.2503,
+        "id": "2f3f6161-b3ef-44b6-8358-86f18a44cba9",
+        "created_at": "2023-07-15T13:51:00+00:00",
+        "updated_at": "2026-11-19T04:34:47.458232+00:00"
+      },
+      {
+        "memory": "Caroline felt fulfilled guiding and supporting strong young people at the LGBTQ+ youth center, noting their challenges and sharing her own story to let them know they're not alone, describing the experience as powerful and emotional",
+        "score": 0.2502,
+        "id": "2713a41c-e54d-426f-9324-865f14f72dd5",
+        "created_at": "2023-08-28T15:19:00+00:00",
+        "updated_at": "2026-11-19T05:07:23.640217+00:00"
+      },
+      {
+        "memory": "Melanie expressed that it must be tough for Caroline dealing with those changes and said she is glad Caroline has people who uplift and accept her",
+        "score": 0.2488,
+        "id": "68355e23-deda-4106-90c1-89adebdcc8ad",
+        "created_at": "2023-09-13T00:09:00+00:00",
+        "updated_at": "2026-11-19T05:13:38.148868+00:00"
+      },
+      {
+        "memory": "Caroline expressed that she is glad Melanie has people to lean on, noting it helps during tougher times",
+        "score": 0.2481,
+        "id": "73c826ca-4aaf-4b80-9efa-61b148111e0e",
+        "created_at": "2023-10-20T18:55:00+00:00",
+        "updated_at": "2026-11-19T05:22:16.484903+00:00"
+      },
+      {
+        "memory": "Melanie appreciates her friendship with Caroline and says Caroline has always been there for her",
+        "score": 0.248,
+        "id": "d1d6d808-995e-4e4f-bad3-e78677996701",
+        "created_at": "2023-08-17T13:50:00+00:00",
+        "updated_at": "2026-11-19T04:52:35.668636+00:00"
+      },
+      {
+        "memory": "Melanie expressed that Caroline's future family will benefit from having her",
+        "score": 0.2478,
+        "id": "88f2b323-e4da-49b3-8852-a473825a3c98",
+        "created_at": "2023-07-15T13:51:00+00:00",
+        "updated_at": "2026-11-19T04:34:54.056952+00:00"
+      }
+    ],
+    "search_latency_ms": 434.4,
+    "total_results": 50
+  },
+  "cutoff_results": {
+    "top_50": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Likely no. Caroline’s drive to pursue counseling comes specifically from the support she received and how transformative it was for her. She repeatedly links her career interest to “passing on” that support and creating safe spaces for others (6/9/23; 6/27/23—considering a counseling career because the support she received made a huge difference; 7/3/23—giving back reinforced her interest in counseling; 7/12/23—her own struggles and the help she got made her value support systems; 10/22/23—she wants to provide the same support to others). Without that formative support, she likely wouldn’t feel the same pull toward counseling.",
+      "memories_evaluated": 50,
+      "reason": "The generated answer matches the gold by stating 'Likely no' and provides consistent supporting rationale."
+    }
+  }
+}

@@ -1,0 +1,379 @@
+{
+  "question_id": "conv7_q48",
+  "conversation_idx": 7,
+  "category": 3,
+  "category_name": "open-domain",
+  "question": "Which US state did Jolene visit during her internship?",
+  "ground_truth_answer": "Alaska",
+  "evidence": [
+    "D13:15"
+  ],
+  "user_id": "locomo_7_fe8ec031",
+  "reference_date": "10:17 am on 20 September, 2023",
+  "retrieval": {
+    "search_query": "Which US state did Jolene visit during her internship?",
+    "search_results": [
+      {
+        "memory": "Deborah asked how the internship has impacted Jolene",
+        "score": 0.606,
+        "id": "9ebffd58-c94c-453e-bde9-e731bff39f2a",
+        "created_at": "2023-06-06T15:56:00+00:00",
+        "updated_at": "2026-11-19T04:46:25.375515+00:00"
+      },
+      {
+        "memory": "Jolene is considering pursuing additional internships to further enhance her skills",
+        "score": 0.5798,
+        "id": "379b4ac5-7e60-46e4-b66a-40ee37804c6d",
+        "created_at": "2023-08-24T09:34:00+00:00",
+        "updated_at": "2026-11-19T05:21:29.589520+00:00"
+      },
+      {
+        "memory": "Deborah asked if Jolene has been able to find a good work-life balance during her internship",
+        "score": 0.5565,
+        "id": "581298af-adbe-4b1d-82bd-86a77e7ae38e",
+        "created_at": "2023-06-06T15:56:00+00:00",
+        "updated_at": "2026-11-19T04:46:48.035939+00:00"
+      },
+      {
+        "memory": "Jolene says her internship is super hectic and she could use a break, finding the upcoming retreat sounds awesome.",
+        "score": 0.5478,
+        "id": "f1c46b3e-7557-41af-bb83-54470fb171c8",
+        "created_at": "2023-06-26T09:17:00+00:00",
+        "updated_at": "2026-11-19T04:49:25.951040+00:00"
+      },
+      {
+        "memory": "Jolene said the country she visited was awesome, introduced her to different kinds of yoga and their backgrounds, which increased her appreciation, and she visited many delicious cafes during the trip",
+        "score": 0.4797,
+        "id": "47a87aab-187e-496b-860a-542c3dca3526",
+        "created_at": "2023-08-30T11:46:00+00:00",
+        "updated_at": "2026-11-19T05:30:30.527151+00:00"
+      },
+      {
+        "memory": "Jolene says the engineering internship/project has had a positive impact on her life, reigniting her love of engineering and motivating her to keep striving for her dreams",
+        "score": 0.4509,
+        "id": "6d83fce0-92db-4a87-9edc-07e6b663fd22",
+        "created_at": "2023-06-06T15:56:00+00:00",
+        "updated_at": "2026-11-19T04:46:34.467346+00:00"
+      },
+      {
+        "memory": "Jolene had a great time visiting an old temple and thought the stairs were amazing",
+        "score": 0.4378,
+        "id": "129399b6-5871-46e0-b09d-2af4fdcf2529",
+        "created_at": "2023-08-30T11:46:00+00:00",
+        "updated_at": "2026-11-19T05:33:15.312770+00:00"
+      },
+      {
+        "memory": "Jolene expressed that she would love to visit a retreat, describing it as an ideal spot to find peace and refreshment",
+        "score": 0.4255,
+        "id": "c10ccd35-7b0f-4362-b380-cc554bb088fe",
+        "created_at": "2023-06-26T09:17:00+00:00",
+        "updated_at": "2026-11-19T04:51:54.791610+00:00"
+      },
+      {
+        "memory": "Jolene explored new places",
+        "score": 0.3194,
+        "id": "b3926e04-6a3f-4665-b756-8a4f91a0efeb",
+        "created_at": "2023-03-02T19:18:00+00:00",
+        "updated_at": "2026-11-19T04:31:50.971990+00:00"
+      },
+      {
+        "memory": "Jolene mentioned that they went on many excursions in Rio de Janeiro",
+        "score": 0.3043,
+        "id": "1fd952e3-a4ce-468e-a57f-60162215d2b0",
+        "created_at": "2023-08-30T11:46:00+00:00",
+        "updated_at": "2026-11-19T05:33:09.392910+00:00"
+      },
+      {
+        "memory": "Jolene has snakes",
+        "score": 0.296,
+        "id": "3f4e9435-e6a5-4ae3-8d92-3add1cb0edcd",
+        "created_at": "2023-08-26T17:33:00+00:00",
+        "updated_at": "2026-11-19T05:27:55.610654+00:00"
+      },
+      {
+        "memory": "Jolene recently returned from a trip with her partner",
+        "score": 0.2929,
+        "id": "01c91641-048f-490e-8da2-b1f255c93630",
+        "created_at": "2023-09-20T10:17:00+00:00",
+        "updated_at": "2026-11-19T05:56:28.281964+00:00"
+      },
+      {
+        "memory": "Jolene has been trying to squeeze in some me-time",
+        "score": 0.2817,
+        "id": "a5fd262b-a5f6-4f40-8c2a-4da6b56f631d",
+        "created_at": "2023-03-02T19:18:00+00:00",
+        "updated_at": "2026-11-19T04:30:32.875351+00:00"
+      },
+      {
+        "memory": "User asked Jolene what the trip taught her",
+        "score": 0.2797,
+        "id": "4e9d5307-f4c8-42e5-8dd0-54a858c68031",
+        "created_at": "2023-08-30T11:46:00+00:00",
+        "updated_at": "2026-11-19T05:30:21.743286+00:00"
+      },
+      {
+        "memory": "Jolene experimented with a method and found it really helped her",
+        "score": 0.2781,
+        "id": "e2d7eaf1-8331-4cab-8fb9-4ce2c6a63794",
+        "created_at": "2023-09-08T19:39:00+00:00",
+        "updated_at": "2026-11-19T05:42:53.562677+00:00"
+      },
+      {
+        "memory": "Jolene learned to play on her own as a child",
+        "score": 0.2772,
+        "id": "63506ae9-4501-4d45-8021-e65999a60131",
+        "created_at": "2023-01-27T09:49:00+00:00",
+        "updated_at": "2026-11-19T04:09:01.132342+00:00"
+      },
+      {
+        "memory": "Jolene goes to a nearby tranquil spot to meditate",
+        "score": 0.277,
+        "id": "d747d41a-f4eb-4696-b602-aa8d0a259eaf",
+        "created_at": "2023-08-30T11:46:00+00:00",
+        "updated_at": "2026-11-19T05:31:18.451113+00:00"
+      },
+      {
+        "memory": "Jolene says she is really finding her zen again",
+        "score": 0.2768,
+        "id": "6c9b5a2d-613f-4099-b810-e96a5252abe0",
+        "created_at": "2023-08-21T09:11:00+00:00",
+        "updated_at": "2026-11-19T05:19:34.442453+00:00"
+      },
+      {
+        "memory": "Jolene plans to get out in nature again in October 2023",
+        "score": 0.2762,
+        "id": "d8e16309-5c58-4e8e-9a0e-b6586b361fbf",
+        "created_at": "2023-09-20T10:17:00+00:00",
+        "updated_at": "2026-11-19T05:57:30.775254+00:00"
+      },
+      {
+        "memory": "Jolene did yoga on top of Mount Talkeetna on the morning of June 5, 2023",
+        "score": 0.2747,
+        "id": "ab36ebba-bbf1-4953-9b89-f19bd399bd1c",
+        "created_at": "2023-06-06T15:56:00+00:00",
+        "updated_at": "2026-11-19T04:47:15.666187+00:00"
+      },
+      {
+        "memory": "Jolene said she will keep Deborah posted if she decides to go there",
+        "score": 0.2716,
+        "id": "c42f68b1-e28c-480f-b78d-b873d277ecb5",
+        "created_at": "2023-02-22T16:12:00+00:00",
+        "updated_at": "2026-11-19T04:24:52.996715+00:00"
+      },
+      {
+        "memory": "Jolene wants to try yoga on the beach",
+        "score": 0.2684,
+        "id": "383fe2a9-983f-4ed7-9798-59afb7e8f2e8",
+        "created_at": "2023-02-22T16:12:00+00:00",
+        "updated_at": "2026-11-19T04:24:38.949780+00:00"
+      },
+      {
+        "memory": "Jolene expressed that she could really use some chill time and described it as peaceful",
+        "score": 0.2678,
+        "id": "9d88b372-0c9a-46d0-8ed5-6411c4904f9a",
+        "created_at": "2023-06-26T09:17:00+00:00",
+        "updated_at": "2026-11-19T04:52:07.600796+00:00"
+      },
+      {
+        "memory": "Jolene expressed that she will definitely go there together with Deborah sometime",
+        "score": 0.2677,
+        "id": "e178f524-f664-4b65-bca8-52497e7053fc",
+        "created_at": "2023-07-09T19:37:00+00:00",
+        "updated_at": "2026-11-19T04:59:29.021466+00:00"
+      },
+      {
+        "memory": "Jolene found the architecture and history of Rio de Janeiro to be really interesting",
+        "score": 0.267,
+        "id": "53dc2d87-3506-4bde-b2c1-aab99fed8e27",
+        "created_at": "2023-08-30T11:46:00+00:00",
+        "updated_at": "2026-11-19T05:33:49.399205+00:00"
+      },
+      {
+        "memory": "Jolene loves going for walks whenever she can to take it all in",
+        "score": 0.2658,
+        "id": "f7927764-1427-42af-ac26-415f10d915fd",
+        "created_at": "2023-07-09T19:37:00+00:00",
+        "updated_at": "2026-11-19T04:58:17.679559+00:00"
+      },
+      {
+        "memory": "Jolene says a hidden gem makes her feel peaceful and tranquil",
+        "score": 0.2646,
+        "id": "7ab4e56b-fd49-4778-8af0-9964030e00a7",
+        "created_at": "2023-07-09T19:37:00+00:00",
+        "updated_at": "2026-11-19T04:59:08.243686+00:00"
+      },
+      {
+        "memory": "Jolene says her bathroom has an aesthetic vibe",
+        "score": 0.2644,
+        "id": "bd3f858d-0d3b-4a06-9e32-18520e3c1481",
+        "created_at": "2023-09-17T13:24:00+00:00",
+        "updated_at": "2026-11-19T05:54:10.430385+00:00"
+      },
+      {
+        "memory": "Jolene used to bake cookies with someone close to her",
+        "score": 0.2638,
+        "id": "3ac8493b-9b06-4fc5-b472-ac2c8fb56564",
+        "created_at": "2023-09-17T13:24:00+00:00",
+        "updated_at": "2026-11-19T05:53:01.373161+00:00"
+      },
+      {
+        "memory": "Jolene says she is experiencing a new level of joy and happiness",
+        "score": 0.2626,
+        "id": "42e7d353-9eb7-4d29-8d0a-964ac9766fdb",
+        "created_at": "2023-09-12T14:18:00+00:00",
+        "updated_at": "2026-11-19T05:46:58.403334+00:00"
+      },
+      {
+        "memory": "Jolene found a cool dive spot that she can explore together with a partner",
+        "score": 0.262,
+        "id": "71c0b58b-4842-49c3-9591-d1c845764b0f",
+        "created_at": "2023-09-17T13:24:00+00:00",
+        "updated_at": "2026-11-19T05:53:07.239311+00:00"
+      },
+      {
+        "memory": "Jolene was told that the beach is a great place for finding peace and relaxation",
+        "score": 0.2618,
+        "id": "4859272b-f5fd-4c8c-8bf0-d1ebd30efa16",
+        "created_at": "2023-09-17T13:24:00+00:00",
+        "updated_at": "2026-11-19T05:54:25.570424+00:00"
+      },
+      {
+        "memory": "Jolene is currently focusing on studying and gaining more experience",
+        "score": 0.2612,
+        "id": "03c46a1b-34b5-4239-860d-69b1e117460e",
+        "created_at": "2023-08-24T09:34:00+00:00",
+        "updated_at": "2026-11-19T05:21:29.589520+00:00"
+      },
+      {
+        "memory": "Jolene and her partner plan a camping trip to connect with nature and practice yoga",
+        "score": 0.2608,
+        "id": "81f26bd0-c666-4a8b-abf6-477d16290491",
+        "created_at": "2023-09-08T19:39:00+00:00",
+        "updated_at": "2026-11-19T05:42:15.149572+00:00"
+      },
+      {
+        "memory": "Jolene said she will look into some of it and is eager to get started",
+        "score": 0.2602,
+        "id": "b2ff7f7e-cdad-44ab-b18c-291f71c4099e",
+        "created_at": "2023-08-16T14:58:00+00:00",
+        "updated_at": "2026-11-19T05:09:36.700900+00:00"
+      },
+      {
+        "memory": "Jolene expressed excitement for the upcoming coffee date with Deborah",
+        "score": 0.2596,
+        "id": "c7347752-48d4-4f86-94a2-aaa8343efb20",
+        "created_at": "2023-09-08T19:39:00+00:00",
+        "updated_at": "2026-11-19T05:45:03.395065+00:00"
+      },
+      {
+        "memory": "Jolene says she really likes it",
+        "score": 0.2591,
+        "id": "af2d8854-e9e8-45bf-a077-5525f4d6fcd3",
+        "created_at": "2023-09-17T13:24:00+00:00",
+        "updated_at": "2026-11-19T05:53:36.015333+00:00"
+      },
+      {
+        "memory": "Jolene said she will make sure to take it.",
+        "score": 0.2586,
+        "id": "21f19254-c02a-4580-88d0-4bd1de11e0a5",
+        "created_at": "2023-03-13T11:22:00+00:00",
+        "updated_at": "2026-11-19T04:35:45.302140+00:00"
+      },
+      {
+        "memory": "Jolene says her way to relax is connecting with nature",
+        "score": 0.2577,
+        "id": "e43c05a6-53cd-4df9-a394-f972602eb2e1",
+        "created_at": "2023-08-24T09:34:00+00:00",
+        "updated_at": "2026-11-19T05:20:25.287044+00:00"
+      },
+      {
+        "memory": "Deborah asks Jolene about her career aspirations",
+        "score": 0.2567,
+        "id": "7ef5be6b-14db-45c0-b5a3-096c4ee2da9c",
+        "created_at": "2023-02-04T09:48:00+00:00",
+        "updated_at": "2026-11-19T04:14:27.519298+00:00"
+      },
+      {
+        "memory": "Jolene expressed a desire to become a certified diver in the future",
+        "score": 0.2564,
+        "id": "25b6f395-d5a6-465e-b841-509858dc99c3",
+        "created_at": "2023-09-17T13:24:00+00:00",
+        "updated_at": "2026-11-19T05:53:07.239311+00:00"
+      },
+      {
+        "memory": "Jolene read a self-discovery book in her bathroom and it resonated with her",
+        "score": 0.2561,
+        "id": "552b5a8d-c7f5-4220-8def-908397f46a6b",
+        "created_at": "2023-09-17T13:24:00+00:00",
+        "updated_at": "2026-11-19T05:54:10.430385+00:00"
+      },
+      {
+        "memory": "Deborah noted that Jolene has a place where she can relax and tune out",
+        "score": 0.2558,
+        "id": "e5ad6bda-7a24-4de9-b1ac-1157d586d4fd",
+        "created_at": "2023-07-09T19:37:00+00:00",
+        "updated_at": "2026-11-19T04:59:18.003897+00:00"
+      },
+      {
+        "memory": "Deborah expressed pride in Jolene's recent accomplishment and acknowledged that Jolene must have worked really hard",
+        "score": 0.255,
+        "id": "becc7858-de72-4ce0-af85-a610137abbb5",
+        "created_at": "2023-02-04T09:48:00+00:00",
+        "updated_at": "2026-11-19T04:13:29.259284+00:00"
+      },
+      {
+        "memory": "Jolene says pets have been great company.",
+        "score": 0.2546,
+        "id": "afd3cfd8-5f8c-437b-9bd3-0eb2328e2b59",
+        "created_at": "2023-08-01T09:26:00+00:00",
+        "updated_at": "2026-11-19T05:00:19.690080+00:00"
+      },
+      {
+        "memory": "Deborah offered to suggest routines for Jolene to try",
+        "score": 0.2544,
+        "id": "75dc2fff-a7b3-4ab1-b2c3-dba567ada23f",
+        "created_at": "2023-08-01T09:26:00+00:00",
+        "updated_at": "2026-11-19T05:01:42.949765+00:00"
+      },
+      {
+        "memory": "Jolene thanked Deborah and asked for tips on studying and time management",
+        "score": 0.2537,
+        "id": "5788e41b-9848-469f-a5f0-5d1e5f90f928",
+        "created_at": "2023-03-02T19:18:00+00:00",
+        "updated_at": "2026-11-19T04:33:17.090625+00:00"
+      },
+      {
+        "memory": "Jolene is a big fan of being outside, describing it as calming and refreshing",
+        "score": 0.2526,
+        "id": "dd4a5d56-a74f-453b-869e-a1d417f53394",
+        "created_at": "2023-08-19T00:52:00+00:00",
+        "updated_at": "2026-11-19T05:13:19.422455+00:00"
+      },
+      {
+        "memory": "Jolene and her partner returned from a trip to Rio de Janeiro on August 29, 2023, where they attended yoga classes",
+        "score": 0.2523,
+        "id": "af0421f1-bc53-4c02-8224-c129e17c5879",
+        "created_at": "2023-08-30T11:46:00+00:00",
+        "updated_at": "2026-11-19T05:30:14.249640+00:00"
+      },
+      {
+        "memory": "Deborah says she finds Jolene inspiring",
+        "score": 0.2523,
+        "id": "18c4bf60-d377-463e-85cb-c16d20797567",
+        "created_at": "2023-08-26T17:33:00+00:00",
+        "updated_at": "2026-11-19T05:26:05.067876+00:00"
+      }
+    ],
+    "search_latency_ms": 340.8,
+    "total_results": 50
+  },
+  "cutoff_results": {
+    "top_50": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Alaska",
+      "memories_evaluated": 50,
+      "reason": "The generated answer exactly matches the gold answer, identifying Alaska as the state Jolene visited."
+    }
+  }
+}

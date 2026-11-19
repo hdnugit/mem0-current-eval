@@ -1,0 +1,379 @@
+{
+  "question_id": "conv4_q15",
+  "conversation_idx": 4,
+  "category": 3,
+  "category_name": "open-domain",
+  "question": "Who is Anthony?",
+  "ground_truth_answer": "likely John's friend, colleague or family",
+  "evidence": [
+    "D4:8"
+  ],
+  "user_id": "locomo_4_fe8ec031",
+  "reference_date": "1:41 pm on 12 January, 2024",
+  "retrieval": {
+    "search_query": "Who is Anthony?",
+    "search_results": [
+      {
+        "memory": "John and Anthony attended a charity event where they entered an intense Harry Potter trivia contest and performed reasonably well",
+        "score": 0.5105,
+        "id": "7cafcb71-9461-44f0-8f62-1ee9eae53a11",
+        "created_at": "2023-08-02T16:17:00+00:00",
+        "updated_at": "2026-11-19T04:19:34.294214+00:00"
+      },
+      {
+        "memory": "John shared an image of a white wall with black lettering that says \"30 positive suites\"",
+        "score": 0.1245,
+        "id": "d6c77605-7f33-47d7-8768-3be03efece4d",
+        "created_at": "2023-12-01T09:52:00+00:00",
+        "updated_at": "2026-11-19T05:25:05.803405+00:00"
+      },
+      {
+        "memory": "Tim attended an event in July 2023 that he considered one of his favorites, felt a strong sense of belonging, and expressed gratitude for people who share his interests",
+        "score": 0.1226,
+        "id": "8b94e6aa-013f-4439-998e-13e61ddba7cb",
+        "created_at": "2023-08-17T19:54:00+00:00",
+        "updated_at": "2026-11-19T04:30:14.580669+00:00"
+      },
+      {
+        "memory": "Tim shared an image of an Aragorn poster painting, showing a man with long hair",
+        "score": 0.1219,
+        "id": "f8cc322d-5d70-4ba6-b13d-39344a79c0dd",
+        "created_at": "2024-01-02T17:26:00+00:00",
+        "updated_at": "2026-11-19T05:59:15.676619+00:00"
+      },
+      {
+        "memory": "John has a pair of lucky basketball shoes kept in a box, which he says have been with him through good and bad times and each mark tells a story.",
+        "score": 0.1213,
+        "id": "6f430e56-d62a-4108-90ae-8843adeacf28",
+        "created_at": "2023-08-11T13:08:00+00:00",
+        "updated_at": "2026-11-19T04:25:39.865509+00:00"
+      },
+      {
+        "memory": "John shared a photo of a notebook with many notes",
+        "score": 0.1211,
+        "id": "637e5b31-02fa-43a6-9ecc-38a391b53d60",
+        "created_at": "2023-11-16T15:59:00+00:00",
+        "updated_at": "2026-11-19T05:18:12.721611+00:00"
+      },
+      {
+        "memory": "John says his family brings him a lot of happiness and helps him remember what's important, and he considers his basketball team as a second family too",
+        "score": 0.1207,
+        "id": "f8112485-26be-4820-85ef-6c7ffbb22e4b",
+        "created_at": "2023-10-21T17:51:00+00:00",
+        "updated_at": "2026-11-19T05:10:21.169169+00:00"
+      },
+      {
+        "memory": "Tim shared an image showing a basketball with a signed autograph",
+        "score": 0.1193,
+        "id": "6a4c8604-20ed-4c9a-8d54-3cfb256f86dd",
+        "created_at": "2023-12-26T15:35:00+00:00",
+        "updated_at": "2026-11-19T05:53:36.421393+00:00"
+      },
+      {
+        "memory": "John shared an image showing a collection of basketball jerseys laid on a bed",
+        "score": 0.1187,
+        "id": "3adbec61-0354-4d6e-9635-7b7030882ecf",
+        "created_at": "2023-05-21T19:48:00+00:00",
+        "updated_at": "2026-11-19T04:03:59.480812+00:00"
+      },
+      {
+        "memory": "John signed with a new team around May 21, 2023 and is excited for the season",
+        "score": 0.1181,
+        "id": "494c67e9-48a0-48b9-b926-a6f037674f57",
+        "created_at": "2023-05-21T19:48:00+00:00",
+        "updated_at": "2026-11-19T04:02:50.356995+00:00"
+      },
+      {
+        "memory": "John is excited to play for the Minnesota Wolves",
+        "score": 0.117,
+        "id": "85469a48-99b0-445e-8bb9-4807dfba909b",
+        "created_at": "2023-05-21T19:48:00+00:00",
+        "updated_at": "2026-11-19T04:03:34.285612+00:00"
+      },
+      {
+        "memory": "John felt great making plays for his team, loved seeing his teammates succeed because of the opportunities he creates for them, and described the arena atmosphere as electric during a memorable night against rivals",
+        "score": 0.1169,
+        "id": "27977031-77cc-4a5e-bd74-bb2f34bb6f67",
+        "created_at": "2023-12-11T20:28:00+00:00",
+        "updated_at": "2026-11-19T05:40:39.386029+00:00"
+      },
+      {
+        "memory": "John reunited with his teammates on August 15, 2023 after his trip, describing the atmosphere as electric, feeling welcomed back, and saying he is lucky to be part of the team.",
+        "score": 0.1166,
+        "id": "5a8492f7-7598-4aa8-9dcf-3b78871ed22c",
+        "created_at": "2023-08-17T19:54:00+00:00",
+        "updated_at": "2026-11-19T04:29:30.030669+00:00"
+      },
+      {
+        "memory": "John hurt his ankle last season, requiring time off and physical therapy; he focused on recovery, worked to strengthen his body, and learned the importance of patience and perseverance, feeling grateful to have overcome the challenge",
+        "score": 0.1162,
+        "id": "6af29e29-1896-4f87-ad61-d1c8bdc4cdcb",
+        "created_at": "2023-11-21T10:22:00+00:00",
+        "updated_at": "2026-11-19T05:20:52.472230+00:00"
+      },
+      {
+        "memory": "John took a trip to a new place around August 11, 2023, describing it as amazing and saying he loves the energy there",
+        "score": 0.1162,
+        "id": "9812afc2-03f0-4e4c-827d-b3b67bd6dbe2",
+        "created_at": "2023-08-11T13:08:00+00:00",
+        "updated_at": "2026-11-19T04:24:01.537546+00:00"
+      },
+      {
+        "memory": "John injured his ankle recently, resulting in a cast, and had to miss games and couldn't help his team; the shared image shows a person with a cast on the foot",
+        "score": 0.1152,
+        "id": "fb346244-9087-4653-8c09-128ed7496a06",
+        "created_at": "2023-12-16T15:37:00+00:00",
+        "updated_at": "2026-11-19T05:45:40.548308+00:00"
+      },
+      {
+        "memory": "John shared an image of a basketball card that depicts a man holding a basketball",
+        "score": 0.1148,
+        "id": "4f5e6bbc-3ea4-427a-9e47-91c01958c8af",
+        "created_at": "2023-07-16T16:21:00+00:00",
+        "updated_at": "2026-11-19T04:13:34.352824+00:00"
+      },
+      {
+        "memory": "Tim is staying busy and having fun, as noted by John",
+        "score": 0.1143,
+        "id": "32eaf919-b497-40c5-810f-d34f924c4dfa",
+        "created_at": "2023-08-21T16:29:00+00:00",
+        "updated_at": "2026-11-19T04:34:58.874316+00:00"
+      },
+      {
+        "memory": "John played a basketball game on June 15, 2023 and described it as an awesome feeling, loving being out there doing what he loves",
+        "score": 0.1143,
+        "id": "7a9d6e9f-7b5e-4671-bacb-01383345b243",
+        "created_at": "2023-06-15T17:08:00+00:00",
+        "updated_at": "2026-11-19T04:10:30.495337+00:00"
+      },
+      {
+        "memory": "Tim (Tim) recently attended an event in early August 2023, found it fantastic, and enjoyed being with other fans who love it too",
+        "score": 0.1143,
+        "id": "3fdd6bc7-79f1-4682-bf8f-87d33bb842d9",
+        "created_at": "2023-08-11T13:08:00+00:00",
+        "updated_at": "2026-11-19T04:23:55.113926+00:00"
+      },
+      {
+        "memory": "John shared an image showing a circle of shoes on the floor in a room",
+        "score": 0.1137,
+        "id": "02dfb951-e262-44d5-aedf-19449f3a7ec5",
+        "created_at": "2023-05-21T19:48:00+00:00",
+        "updated_at": "2026-11-19T04:05:42.335247+00:00"
+      },
+      {
+        "memory": "John visited Italy in December 2023, had a blast, and expressed enthusiasm about Tim's globetrotting group",
+        "score": 0.1133,
+        "id": "2f1f075f-5311-4ef6-80ee-a3af04768e30",
+        "created_at": "2024-01-02T17:26:00+00:00",
+        "updated_at": "2026-11-19T05:55:39.221995+00:00"
+      },
+      {
+        "memory": "Tim feels that having a second family through sport is a great feeling and is glad John has that support",
+        "score": 0.1132,
+        "id": "58803fce-73dd-45cd-b73e-265fba820172",
+        "created_at": "2023-07-16T16:21:00+00:00",
+        "updated_at": "2026-11-19T04:12:47.322084+00:00"
+      },
+      {
+        "memory": "John visited his family and old friends during the week of August 19–25, 2023",
+        "score": 0.1132,
+        "id": "19fc1fe2-34bb-41f0-acc5-7e2a945b596b",
+        "created_at": "2023-08-26T18:59:00+00:00",
+        "updated_at": "2026-11-19T04:40:12.790686+00:00"
+      },
+      {
+        "memory": "John shared an image of an Under Armour advertisement featuring a mannequin in a blue suit and a chair",
+        "score": 0.1131,
+        "id": "3bfddb5a-d5db-4fa0-9e75-5d7950c21ddd",
+        "created_at": "2023-07-16T16:21:00+00:00",
+        "updated_at": "2026-11-19T04:14:45.353897+00:00"
+      },
+      {
+        "memory": "John started surfing five years ago and loves the connection to nature",
+        "score": 0.113,
+        "id": "ce8ddf91-7f8e-4c53-a7ed-ecd81180c9b9",
+        "created_at": "2023-07-16T16:21:00+00:00",
+        "updated_at": "2026-11-19T04:16:54.990227+00:00"
+      },
+      {
+        "memory": "John says the team has been really nice and he is having fun",
+        "score": 0.1127,
+        "id": "07ab2c48-a6aa-46ef-8340-0def949b4843",
+        "created_at": "2023-05-21T19:48:00+00:00",
+        "updated_at": "2026-11-19T04:04:57.643870+00:00"
+      },
+      {
+        "memory": "John said he feels great after hard work and effort, and that his team won a trophy; a shared photo shows a man holding a trophy in front of a crowd",
+        "score": 0.1126,
+        "id": "12408df0-667c-4e10-a82d-91618e3a8dac",
+        "created_at": "2023-10-13T13:50:00+00:00",
+        "updated_at": "2026-11-19T04:57:16.612963+00:00"
+      },
+      {
+        "memory": "John attended a local restaurant with some new teammates last week and enjoyed getting to know them better",
+        "score": 0.1118,
+        "id": "2c03d35e-d7cd-4ee0-b703-af29f73527a0",
+        "created_at": "2023-09-21T20:17:00+00:00",
+        "updated_at": "2026-11-19T04:45:07.716804+00:00"
+      },
+      {
+        "memory": "John shared an image showing a man with a backpack walking down a path.",
+        "score": 0.1118,
+        "id": "d370cad0-9151-4563-a274-2bf75b472d20",
+        "created_at": "2023-12-19T10:04:00+00:00",
+        "updated_at": "2026-11-19T05:48:35.545966+00:00"
+      },
+      {
+        "memory": "John hates not being on the basketball court",
+        "score": 0.1117,
+        "id": "284ff08e-1b32-48ee-ae27-ba8c45cc5cf6",
+        "created_at": "2023-11-16T15:59:00+00:00",
+        "updated_at": "2026-11-19T05:19:25.710145+00:00"
+      },
+      {
+        "memory": "John shared an image showing a man holding a surfboard on a beach",
+        "score": 0.1116,
+        "id": "c3525eba-6f06-40dd-9b0d-f0a62d782471",
+        "created_at": "2023-07-16T16:21:00+00:00",
+        "updated_at": "2026-11-19T04:17:55.615954+00:00"
+      },
+      {
+        "memory": "John had a career-high in assists on Friday, December 8, 2023, during a big game against his rival",
+        "score": 0.111,
+        "id": "74b5831b-00da-44df-858f-e3fb995e4cc1",
+        "created_at": "2023-12-11T20:28:00+00:00",
+        "updated_at": "2026-11-19T05:39:45.026471+00:00"
+      },
+      {
+        "memory": "John says the team bond is awesome and makes all the hard work worth it",
+        "score": 0.1108,
+        "id": "a386e1f5-4eaf-4046-a0da-dd473ebba5e6",
+        "created_at": "2023-08-09T10:29:00+00:00",
+        "updated_at": "2026-11-19T04:21:38.132862+00:00"
+      },
+      {
+        "memory": "Tim attended a Harry Potter-themed party around December 8, 2023, met many fellow fans, and had a great time",
+        "score": 0.1106,
+        "id": "61d55509-b61e-4401-b40c-0a2da0030342",
+        "created_at": "2023-12-08T19:42:00+00:00",
+        "updated_at": "2026-11-19T05:35:18.585480+00:00"
+      },
+      {
+        "memory": "John expressed that he is glad he can make a difference",
+        "score": 0.1105,
+        "id": "8bf543be-b20d-41b5-b35d-bebc9440d353",
+        "created_at": "2023-12-26T15:35:00+00:00",
+        "updated_at": "2026-11-19T05:54:09.783484+00:00"
+      },
+      {
+        "memory": "Tim congratulated John on signing with a new team",
+        "score": 0.1104,
+        "id": "3bd11209-a44e-4a22-b8a5-bb0fb6e11127",
+        "created_at": "2023-05-21T19:48:00+00:00",
+        "updated_at": "2026-11-19T04:03:23.110898+00:00"
+      },
+      {
+        "memory": "John admires LeBron James, praising his skills and leadership",
+        "score": 0.1102,
+        "id": "966092b0-7f6c-46dc-8be7-d83c6c7d7dc5",
+        "created_at": "2023-10-02T15:00:00+00:00",
+        "updated_at": "2026-11-19T04:54:18.492649+00:00"
+      },
+      {
+        "memory": "Tim loves \"The Santa Clause\" movie, describing it as heartwarming and festive, and shared an image of its DVD cover",
+        "score": 0.1101,
+        "id": "c12fa4a5-c7d5-42ee-a243-b72820d2b455",
+        "created_at": "2023-08-21T16:29:00+00:00",
+        "updated_at": "2026-11-19T04:37:34.212055+00:00"
+      },
+      {
+        "memory": "Tim asks John which endorsements he has managed to get through networking",
+        "score": 0.1096,
+        "id": "93552cc8-becc-4c2a-b4c3-476499fed3ea",
+        "created_at": "2023-07-16T16:21:00+00:00",
+        "updated_at": "2026-11-19T04:13:40.975799+00:00"
+      },
+      {
+        "memory": "John shared an image of a basketball with his teammates' autographs on it, displayed on a table",
+        "score": 0.1092,
+        "id": "45af0c7c-61b6-4528-bc2c-7eb86429fea2",
+        "created_at": "2023-08-17T19:54:00+00:00",
+        "updated_at": "2026-11-19T04:30:53.130946+00:00"
+      },
+      {
+        "memory": "John shared an image showing a basketball team posing for a team photo",
+        "score": 0.1092,
+        "id": "5394ad77-2c3b-46f2-856a-d677225093d3",
+        "created_at": "2023-10-13T13:50:00+00:00",
+        "updated_at": "2026-11-19T04:56:33.651158+00:00"
+      },
+      {
+        "memory": "John has heard a lot about the main actress in Harry Potter recently",
+        "score": 0.1091,
+        "id": "6dd404a8-d203-43f1-bae3-827aafc6da5c",
+        "created_at": "2023-12-26T15:35:00+00:00",
+        "updated_at": "2026-11-19T05:52:22.553465+00:00"
+      },
+      {
+        "memory": "Tim congratulated John on his endorsement deals with Nike and Gatorade and expressed excitement",
+        "score": 0.1087,
+        "id": "3f116554-3179-4966-8330-c95674a0341b",
+        "created_at": "2023-07-16T16:21:00+00:00",
+        "updated_at": "2026-11-19T04:14:41.295897+00:00"
+      },
+      {
+        "memory": "Tim shared an image of a cozy reading nook showing a living room with a brown couch and a white ottoman.",
+        "score": 0.1086,
+        "id": "f9cc64be-9684-4695-8818-ddb7dcb7c1aa",
+        "created_at": "2023-07-16T16:21:00+00:00",
+        "updated_at": "2026-11-19T04:17:54.161436+00:00"
+      },
+      {
+        "memory": "Tim appreciates that John keeps a reminder of his friends' energy and support, saying it's great to have a bit of their energy with him",
+        "score": 0.108,
+        "id": "dc444ac8-1a15-426c-81ac-3b773bc65f26",
+        "created_at": "2023-08-17T19:54:00+00:00",
+        "updated_at": "2026-11-19T04:31:15.761698+00:00"
+      },
+      {
+        "memory": "John shared an image of a rack of basketball jerseys displayed in a store",
+        "score": 0.1079,
+        "id": "f5d36ae2-3f3d-47c3-b990-df2e73489ac2",
+        "created_at": "2023-07-16T16:21:00+00:00",
+        "updated_at": "2026-11-19T04:12:20.977048+00:00"
+      },
+      {
+        "memory": "John is now mentoring the younger players on his team, finding it rewarding and a way to stay involved in basketball during the off-season",
+        "score": 0.1078,
+        "id": "be041962-6b40-4416-baff-c0cc74c3babd",
+        "created_at": "2023-10-17T13:50:00+00:00",
+        "updated_at": "2026-11-19T05:01:05.704289+00:00"
+      },
+      {
+        "memory": "Tim thinks the Wolves are solid and admires LeBron's skills and leadership",
+        "score": 0.1076,
+        "id": "e94b2e1c-c9a6-41c3-957a-3d6eb5a3be46",
+        "created_at": "2023-10-02T15:00:00+00:00",
+        "updated_at": "2026-11-19T04:54:29.498859+00:00"
+      },
+      {
+        "memory": "John felt great love and happiness celebrating with everyone, and some of his hiking club friends attended even though he had just joined the club",
+        "score": 0.1076,
+        "id": "5507b92e-b4a0-46d0-8fd3-0f4e6c5b65b1",
+        "created_at": "2023-10-02T15:00:00+00:00",
+        "updated_at": "2026-11-19T04:51:17.725236+00:00"
+      }
+    ],
+    "search_latency_ms": 1012.1,
+    "total_results": 50
+  },
+  "cutoff_results": {
+    "top_50": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Anthony is John’s friend who attended a charity event with him on August 2, 2023, where they teamed up for a Harry Potter trivia contest.",
+      "memories_evaluated": 50,
+      "reason": "The generated answer identifies Anthony as John’s friend, matching one of the gold answer’s possibilities, and the extra event details are acceptable."
+    }
+  }
+}

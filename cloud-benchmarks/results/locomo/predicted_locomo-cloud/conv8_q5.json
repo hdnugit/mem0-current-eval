@@ -1,0 +1,379 @@
+{
+  "question_id": "conv8_q5",
+  "conversation_idx": 8,
+  "category": 3,
+  "category_name": "open-domain",
+  "question": "Which country was Evan visiting in May 2023?",
+  "ground_truth_answer": "Canada",
+  "evidence": [
+    "D2:1"
+  ],
+  "user_id": "locomo_8_fe8ec031",
+  "reference_date": "9:37 pm on 11 January, 2024",
+  "retrieval": {
+    "search_query": "Which country was Evan visiting in May 2023?",
+    "search_results": [
+      {
+        "memory": "Evan went to the Canadian Rockies with his family on May 18, 2023",
+        "score": 0.4937,
+        "id": "4c43c990-82a7-47c4-bb3c-435a29179623",
+        "created_at": "2023-05-18T13:47:00+00:00",
+        "updated_at": "2026-11-19T04:03:37.540968+00:00"
+      },
+      {
+        "memory": "Evan (Evan) plans to explore an activity with Sam in December 2023",
+        "score": 0.4533,
+        "id": "2f3f49a6-744b-43ff-80b4-467776126105",
+        "created_at": "2023-11-09T21:13:00+00:00",
+        "updated_at": "2026-11-19T05:07:22.582202+00:00"
+      },
+      {
+        "memory": "Evan returned from a family trip on May 18, 2023, traveling in his new Prius",
+        "score": 0.4389,
+        "id": "6aa0f572-7e0a-4c27-ba26-84fde58e7f42",
+        "created_at": "2023-05-18T13:47:00+00:00",
+        "updated_at": "2026-11-19T04:02:42.158419+00:00"
+      },
+      {
+        "memory": "Evan hiked the trails with his family during the week of May 8–14, 2023, and described the views as amazing",
+        "score": 0.4374,
+        "id": "11fe1cd9-8795-422a-8adf-e7578034ae89",
+        "created_at": "2023-05-18T13:47:00+00:00",
+        "updated_at": "2026-11-19T04:03:48.730500+00:00"
+      },
+      {
+        "memory": "Evan frequently visits a peaceful place close to his home to relax and unwind",
+        "score": 0.4355,
+        "id": "cbaf3964-5efe-4b91-980a-c494bd57fefe",
+        "created_at": "2023-11-09T21:13:00+00:00",
+        "updated_at": "2026-11-19T05:06:12.534170+00:00"
+      },
+      {
+        "memory": "Evan says the place Sam liked is a calming spot and suggests they plan to visit it together soon",
+        "score": 0.4007,
+        "id": "3f1cdcab-3068-422d-b12b-4b20eac230d8",
+        "created_at": "2023-11-09T21:13:00+00:00",
+        "updated_at": "2026-11-19T05:06:56.159915+00:00"
+      },
+      {
+        "memory": "Evan went on a trip to Canada around July 31, 2023, during which he met an awesome Canadian woman who made him feel alive",
+        "score": 0.4,
+        "id": "a31b2218-2aa7-4390-93e6-1a64c2e5a12c",
+        "created_at": "2023-08-07T19:52:00+00:00",
+        "updated_at": "2026-11-19T04:20:04.362701+00:00"
+      },
+      {
+        "memory": "Evan (Evan) reflected that nature calms and revives the soul, and recalled that during summer 2023 he went on a camping trip and took a photo of an amazing sunset featuring a kayak seen from the front of the boat.",
+        "score": 0.3992,
+        "id": "45385a8e-3eca-4d97-b01f-7d3db96e56e7",
+        "created_at": "2024-01-11T21:37:00+00:00",
+        "updated_at": "2026-11-19T05:39:37.611255+00:00"
+      },
+      {
+        "memory": "Evan drove to Banff National Park in July 2023, where he skied on a snowy trail and enjoyed amazing mountain views",
+        "score": 0.3987,
+        "id": "3c320907-64c7-48bb-8315-a9736f95eb8e",
+        "created_at": "2023-08-19T18:17:00+00:00",
+        "updated_at": "2026-11-19T04:37:25.529501+00:00"
+      },
+      {
+        "memory": "Evan took his family on a road trip to Jasper National Park around the weekend of May 20–21, 2023, driving the Icefields Parkway and admiring glaciers and lakes",
+        "score": 0.382,
+        "id": "b6c04720-3ce4-4352-9344-1e2de127c8aa",
+        "created_at": "2023-05-24T19:11:00+00:00",
+        "updated_at": "2026-11-19T04:06:33.455334+00:00"
+      },
+      {
+        "memory": "Evan took the Prius for a long drive to the mountains around December 30, 2023",
+        "score": 0.3806,
+        "id": "59fa9cdd-a343-46bb-ac2f-a34a949eb895",
+        "created_at": "2023-12-31T11:00:00+00:00",
+        "updated_at": "2026-11-19T05:25:18.176488+00:00"
+      },
+      {
+        "memory": "Evan helped a lost tourist find their way and took an unexpected city tour together around September 22, 2023 (two weeks before October 6, 2023)",
+        "score": 0.3797,
+        "id": "227d3bbb-4599-43cc-a75e-0afff6926146",
+        "created_at": "2023-10-06T20:57:00+00:00",
+        "updated_at": "2026-11-19T04:45:44.566037+00:00"
+      },
+      {
+        "memory": "Evan had a great time kayaking and watching the sunset during summer 2023, describing the experience as unforgettable and peaceful",
+        "score": 0.3769,
+        "id": "0670f557-e354-4415-bebb-930c440629c7",
+        "created_at": "2024-01-11T21:37:00+00:00",
+        "updated_at": "2026-11-19T05:39:51.010891+00:00"
+      },
+      {
+        "memory": "Evan recalled feeling down last spring (spring 2023) but the vibrant colors of the pink‑flowered tree lifted his spirits briefly",
+        "score": 0.374,
+        "id": "02eaf2ac-a67b-463f-be8b-d79dac54d5c4",
+        "created_at": "2024-01-11T21:37:00+00:00",
+        "updated_at": "2026-11-19T05:40:41.962494+00:00"
+      },
+      {
+        "memory": "Evan got married around December 20, 2023 (last week relative to the observation date)",
+        "score": 0.3661,
+        "id": "c6b5b5e0-78b1-43e7-ba22-de37971a2fb5",
+        "created_at": "2023-12-26T16:25:00+00:00",
+        "updated_at": "2026-11-19T05:21:23.185232+00:00"
+      },
+      {
+        "memory": "Evan was at the gym on 2023-10-16 and noted that he was gaining strength",
+        "score": 0.3644,
+        "id": "e795aba1-0b29-4c42-806a-9d1b7edf345a",
+        "created_at": "2023-10-17T13:50:00+00:00",
+        "updated_at": "2026-11-19T04:56:32.167475+00:00"
+      },
+      {
+        "memory": "Evan's son injured his ankle in a soccer accident on Saturday, August 12, 2023, and Evan took him to the doctor.",
+        "score": 0.361,
+        "id": "1385e91f-d8ba-4ba6-b6b5-e8db261556c9",
+        "created_at": "2023-08-15T16:20:00+00:00",
+        "updated_at": "2026-11-19T04:28:49.656856+00:00"
+      },
+      {
+        "memory": "Evan's cactus watercolor painting was created based on a road trip in September 2023",
+        "score": 0.3547,
+        "id": "66b60529-a833-452e-8aa3-6c98fa6782a6",
+        "created_at": "2023-10-06T20:57:00+00:00",
+        "updated_at": "2026-11-19T04:46:31.436807+00:00"
+      },
+      {
+        "memory": "Evan lost his job in October 2023, describing it as a tough time since their last catch‑up",
+        "score": 0.3481,
+        "id": "ee750f4e-d434-4445-9109-101731be88ba",
+        "created_at": "2023-11-09T21:13:00+00:00",
+        "updated_at": "2026-11-19T05:04:48.523794+00:00"
+      },
+      {
+        "memory": "Evan took a road trip in July 2023, during which he photographed his Prius parked near a lake with mountains in the background, describing the scenery as stunning and the nature as chilling him out",
+        "score": 0.3477,
+        "id": "26d4ac18-8b9f-41b5-bc76-de9d362aa8c5",
+        "created_at": "2023-08-27T10:18:00+00:00",
+        "updated_at": "2026-11-19T04:40:14.225487+00:00"
+      },
+      {
+        "memory": "Evan went for a morning walk on October 25, 2023, which he says helps him start the day actively",
+        "score": 0.3457,
+        "id": "2bbe80a9-4817-4659-90d2-f9f7c77687ff",
+        "created_at": "2023-10-25T14:56:00+00:00",
+        "updated_at": "2026-11-19T04:58:02.509651+00:00"
+      },
+      {
+        "memory": "As of August 7, 2023, Evan is dealing with health issues, according to Sam.",
+        "score": 0.3429,
+        "id": "3e87f15f-90b4-4dd2-82a3-af3d6986bc0a",
+        "created_at": "2023-08-07T19:52:00+00:00",
+        "updated_at": "2026-11-19T04:21:33.097890+00:00"
+      },
+      {
+        "memory": "Evan (Evan) had a health scare and went to the hospital around November 14, 2023, where a suspicious finding was later determined to be a misunderstanding, prompting him to realize the importance of monitoring his health",
+        "score": 0.3347,
+        "id": "e66a5de4-f922-4b07-bdf3-cbc7fa250fb3",
+        "created_at": "2023-11-21T19:30:00+00:00",
+        "updated_at": "2026-11-19T05:07:37.057966+00:00"
+      },
+      {
+        "memory": "Evan (Evan) described the recent trip as a real retreat with fresh air, peacefulness, and a cozy cabin surrounded by mountains and forests",
+        "score": 0.3335,
+        "id": "51adc811-fa49-44fc-ad33-40857d3fa3e2",
+        "created_at": "2023-05-24T19:11:00+00:00",
+        "updated_at": "2026-11-19T04:07:05.193792+00:00"
+      },
+      {
+        "memory": "Evan experienced a minor scrape with the Prius on the way back from the mountain drive around December 30, 2023",
+        "score": 0.3302,
+        "id": "4e88a41c-478c-40e8-ac22-7efd0035fa39",
+        "created_at": "2023-12-31T11:00:00+00:00",
+        "updated_at": "2026-11-19T05:25:18.176488+00:00"
+      },
+      {
+        "memory": "Evan took a photo at his favorite beach spot on Friday, November 3, 2023, capturing waves and sunset colors",
+        "score": 0.3301,
+        "id": "f29eb883-434c-4523-adc8-2cadd7930d2a",
+        "created_at": "2023-11-09T21:13:00+00:00",
+        "updated_at": "2026-11-19T05:06:32.714025+00:00"
+      },
+      {
+        "memory": "Evan plans to paint with Sam on Saturday, September 16, 2023, and will get all supplies ready",
+        "score": 0.3267,
+        "id": "51f98c0c-e830-410a-9659-36527a8fc2fb",
+        "created_at": "2023-09-11T09:28:00+00:00",
+        "updated_at": "2026-11-19T04:44:32.608558+00:00"
+      },
+      {
+        "memory": "Evan (Evan) is super pumped for Sam and plans to catch up soon to see how Sam is enjoying his new hobbies",
+        "score": 0.3247,
+        "id": "3e65df91-38a5-4569-9034-c85044b4005b",
+        "created_at": "2023-05-18T13:47:00+00:00",
+        "updated_at": "2026-11-19T04:06:05.974047+00:00"
+      },
+      {
+        "memory": "Evan experienced a sudden heart palpitation health scare during the week of May 30, 2023, which he described as a serious wake‑up call about his lifestyle",
+        "score": 0.3167,
+        "id": "5f1e4e39-5967-413d-b4d9-5d5b15dd10cd",
+        "created_at": "2023-06-06T15:55:00+00:00",
+        "updated_at": "2026-11-19T04:10:19.138554+00:00"
+      },
+      {
+        "memory": "Evan (Evan) plans a honeymoon trip to Canada in February 2024, looking forward to exploring beautiful snowy landscapes.",
+        "score": 0.3045,
+        "id": "d44af963-e1d2-435b-8095-63d4fef4b78d",
+        "created_at": "2024-01-06T13:32:00+00:00",
+        "updated_at": "2026-11-19T05:33:09.534957+00:00"
+      },
+      {
+        "memory": "Evan twisted his knee on Friday, August 25, 2023, which is painful and has made it difficult to stay consistent with his usual fitness routine",
+        "score": 0.3036,
+        "id": "f3e82535-a3b4-4212-a9ef-7e699bbdd05f",
+        "created_at": "2023-08-27T10:18:00+00:00",
+        "updated_at": "2026-11-19T04:38:45.116442+00:00"
+      },
+      {
+        "memory": "Evan injured his knee playing basketball with his kids around the week of September 29, 2023, and finds it tough to stay active.",
+        "score": 0.298,
+        "id": "2635f8a9-de58-4787-b0f0-3f9147f10ac7",
+        "created_at": "2023-10-06T20:57:00+00:00",
+        "updated_at": "2026-11-19T04:45:10.692172+00:00"
+      },
+      {
+        "memory": "Evan reports that his son had a bike accident on Tuesday, December 12, 2023, fell off his bike, was on crutches, but is now doing better",
+        "score": 0.2935,
+        "id": "f509b526-270c-4bc9-ba4d-072ad175ab5d",
+        "created_at": "2023-12-17T18:48:00+00:00",
+        "updated_at": "2026-11-19T05:18:55.347708+00:00"
+      },
+      {
+        "memory": "On August 15, 2023, Evan reported that Sam's son's ankle is getting better but still sore after the earlier soccer injury.",
+        "score": 0.293,
+        "id": "0472c645-14c3-4c57-9c00-9b7c6039fb98",
+        "created_at": "2023-08-15T16:20:00+00:00",
+        "updated_at": "2026-11-19T04:34:46.933002+00:00"
+      },
+      {
+        "memory": "Evan believes that small moments outdoors can make a big impact on his mood",
+        "score": 0.2813,
+        "id": "1e063860-2d97-45c5-8a11-fc567e3e634d",
+        "created_at": "2024-01-11T21:37:00+00:00",
+        "updated_at": "2026-11-19T05:40:41.962494+00:00"
+      },
+      {
+        "memory": "Evan cut down on sugary snacks, increased his intake of vegetables and fruit, and reported a big positive impact on his health as of July 27, 2023",
+        "score": 0.2794,
+        "id": "33b47591-4ad8-46e8-951c-2799554a79f1",
+        "created_at": "2023-07-27T10:52:00+00:00",
+        "updated_at": "2026-11-19T04:15:54.477883+00:00"
+      },
+      {
+        "memory": "Evan (Evan) shared an image of a stream flowing through a snowy forest, depicting a snowy Canadian landscape for the upcoming honeymoon.",
+        "score": 0.2791,
+        "id": "53b57435-2ace-4b0e-b84f-816448efb8c2",
+        "created_at": "2024-01-06T13:32:00+00:00",
+        "updated_at": "2026-11-19T05:33:09.534957+00:00"
+      },
+      {
+        "memory": "Evan's newly purchased Prius broke down around December 5, 2023, causing stress because he relies on it for his active lifestyle and road trips",
+        "score": 0.2765,
+        "id": "a0075a61-0c50-4c02-b280-4ab491a8dbca",
+        "created_at": "2023-12-05T20:16:00+00:00",
+        "updated_at": "2026-11-19T05:15:21.872152+00:00"
+      },
+      {
+        "memory": "Evan plans to try poutine while on their honeymoon trip to Canada",
+        "score": 0.2733,
+        "id": "06001de1-10bc-4f7d-9302-b7e2f9f58a8e",
+        "created_at": "2024-01-06T13:32:00+00:00",
+        "updated_at": "2026-11-19T05:32:59.317589+00:00"
+      },
+      {
+        "memory": "Evan enjoys chatting about tranquil times",
+        "score": 0.2714,
+        "id": "ab2b8198-4565-45cf-9118-9a8ec48dec29",
+        "created_at": "2023-11-21T19:30:00+00:00",
+        "updated_at": "2026-11-19T05:11:59.271770+00:00"
+      },
+      {
+        "memory": "Sam offered to accompany Evan to the store and suggested Evan call him there",
+        "score": 0.2706,
+        "id": "b72ffe60-943f-463e-98f9-1b790fec36fd",
+        "created_at": "2023-12-31T11:00:00+00:00",
+        "updated_at": "2026-11-19T05:28:58.294363+00:00"
+      },
+      {
+        "memory": "Evan says he is ready for an adventure and asks Sam where they will go",
+        "score": 0.2701,
+        "id": "dfcec374-a988-42d2-9b4b-d7b2384f1b57",
+        "created_at": "2023-10-14T16:07:00+00:00",
+        "updated_at": "2026-11-19T04:53:40.860072+00:00"
+      },
+      {
+        "memory": "Evan went up to the Rocky Mountains, found the views stunning and felt relaxed",
+        "score": 0.2643,
+        "id": "36ee84aa-7ecf-4329-ab6e-2046d747a93b",
+        "created_at": "2023-08-27T10:18:00+00:00",
+        "updated_at": "2026-11-19T04:39:54.543011+00:00"
+      },
+      {
+        "memory": "Evan obtained the item from a nearby restaurant",
+        "score": 0.263,
+        "id": "11c38740-d332-47f0-a4c5-f95107bcbb9a",
+        "created_at": "2024-01-10T00:17:00+00:00",
+        "updated_at": "2026-11-19T05:36:57.590935+00:00"
+      },
+      {
+        "memory": "Evan shared an image of a tent pitched in a grassy field beside a lake with lush greenery during his Canada trip",
+        "score": 0.2624,
+        "id": "f4d58c1c-3992-43c4-a032-f43688f223e0",
+        "created_at": "2023-08-13T16:09:00+00:00",
+        "updated_at": "2026-11-19T04:24:36.502409+00:00"
+      },
+      {
+        "memory": "Evan grew up on the small island shown in the image and describes it as his happy place",
+        "score": 0.2615,
+        "id": "5cfa6767-a677-4e36-9a1d-1670ed53c14c",
+        "created_at": "2023-11-21T19:30:00+00:00",
+        "updated_at": "2026-11-19T05:10:40.403498+00:00"
+      },
+      {
+        "memory": "Evan returned from a vacation in Canada with his new significant other, where they went hiking, biking, and explored the outdoors together",
+        "score": 0.2594,
+        "id": "ab1d1196-095c-48c1-9ac9-63a4e351b75f",
+        "created_at": "2023-08-13T16:09:00+00:00",
+        "updated_at": "2026-11-19T04:24:36.502409+00:00"
+      },
+      {
+        "memory": "Evan shared a photo showing a woman with a backpack on a mountain",
+        "score": 0.255,
+        "id": "0b1b4f1a-9ad5-4cbb-b921-486f5738ee51",
+        "created_at": "2023-07-27T10:52:00+00:00",
+        "updated_at": "2026-11-19T04:18:18.788296+00:00"
+      },
+      {
+        "memory": "Evan (Evan) expressed interest in receiving Sam's recipe and thanked Sam for sharing it",
+        "score": 0.2522,
+        "id": "49164833-c39a-494c-abec-0acac3b012ba",
+        "created_at": "2023-08-19T18:17:00+00:00",
+        "updated_at": "2026-11-19T04:34:46.410150+00:00"
+      },
+      {
+        "memory": "Evan said he misses the family adventures they had last year and recalls the good times together.",
+        "score": 0.2521,
+        "id": "dd2ff974-03d2-47c7-b448-7d3a4e0fe2d7",
+        "created_at": "2023-10-06T20:57:00+00:00",
+        "updated_at": "2026-11-19T04:45:10.692172+00:00"
+      }
+    ],
+    "search_latency_ms": 637.8,
+    "total_results": 50
+  },
+  "cutoff_results": {
+    "top_50": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Canada",
+      "memories_evaluated": 50,
+      "reason": "The generated answer matches the gold answer exactly."
+    }
+  }
+}

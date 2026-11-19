@@ -1,0 +1,382 @@
+{
+  "question_id": "conv8_q51",
+  "conversation_idx": 8,
+  "category": 3,
+  "category_name": "open-domain",
+  "question": "What challenges does Sam face in his quest for a healthier lifestyle, and how does he address them?",
+  "ground_truth_answer": "Sam faces challenges like maintaining motivation and making dietary changes. He addresses them by enrolling in cooking classes and seeking support from friends like Evan.",
+  "evidence": [
+    "D4:2",
+    "D4:6",
+    "D14:1",
+    "D14:2"
+  ],
+  "user_id": "locomo_8_fe8ec031",
+  "reference_date": "9:37 pm on 11 January, 2024",
+  "retrieval": {
+    "search_query": "What challenges does Sam face in his quest for a healthier lifestyle, and how does he address them?",
+    "search_results": [
+      {
+        "memory": "Sam is getting into a healthier lifestyle",
+        "score": 0.6782,
+        "id": "6b3c2693-3cb3-454d-afad-e54768da4863",
+        "created_at": "2023-12-31T11:00:00+00:00",
+        "updated_at": "2026-11-19T05:25:32.248858+00:00"
+      },
+      {
+        "memory": "Sam said his journey has been a difficult road, acknowledging the challenges he has faced",
+        "score": 0.5895,
+        "id": "a1b57d16-2457-46ba-8a96-ed75b16a33e7",
+        "created_at": "2023-11-09T21:13:00+00:00",
+        "updated_at": "2026-11-19T05:04:15.541177+00:00"
+      },
+      {
+        "memory": "Evan recommends Sam try exercising as a way to address his weight",
+        "score": 0.583,
+        "id": "647b0219-97a5-4d4a-8dfb-0e3005088f6f",
+        "created_at": "2023-05-24T19:11:00+00:00",
+        "updated_at": "2026-11-19T04:09:02.095829+00:00"
+      },
+      {
+        "memory": "Evan told Sam that Sam has come a long way in his quest for better health and expressed excitement about what comes next for Sam",
+        "score": 0.5667,
+        "id": "925a352d-b635-424e-9b83-10454f8b80e0",
+        "created_at": "2023-11-09T21:13:00+00:00",
+        "updated_at": "2026-11-19T05:02:54.510865+00:00"
+      },
+      {
+        "memory": "Sam said being chosen as a coach is a great step in his quest for better health",
+        "score": 0.5484,
+        "id": "aa8bcd7a-3735-4180-807b-757da5058d3c",
+        "created_at": "2023-11-09T21:13:00+00:00",
+        "updated_at": "2026-11-19T05:02:48.664247+00:00"
+      },
+      {
+        "memory": "Sam is trying to eat healthier these days",
+        "score": 0.5221,
+        "id": "fe33f4da-148c-4200-a9c6-0d395a71a268",
+        "created_at": "2023-06-06T15:55:00+00:00",
+        "updated_at": "2026-11-19T04:10:47.761765+00:00"
+      },
+      {
+        "memory": "Sam wants healthier snack ideas",
+        "score": 0.4946,
+        "id": "e40ac58d-c2d0-4959-9a4b-1c81f8534b67",
+        "created_at": "2023-12-31T11:00:00+00:00",
+        "updated_at": "2026-11-19T05:27:46.255358+00:00"
+      },
+      {
+        "memory": "Sam is working on becoming healthier and hopes a road trip and a hike will be possible soon",
+        "score": 0.4575,
+        "id": "4d65fef1-38c2-400c-8e12-8873d0147766",
+        "created_at": "2023-08-27T10:18:00+00:00",
+        "updated_at": "2026-11-19T04:40:10.673897+00:00"
+      },
+      {
+        "memory": "Sam is taking a cooking class to learn how to make healthier meals.",
+        "score": 0.4496,
+        "id": "91122db4-d410-4bb2-8e81-5f7eab174ca5",
+        "created_at": "2023-08-15T16:20:00+00:00",
+        "updated_at": "2026-11-19T04:29:57.732388+00:00"
+      },
+      {
+        "memory": "Evan encourages Sam to focus on healthy swaps, take small steps, and stay upbeat",
+        "score": 0.4426,
+        "id": "8794c07b-e538-40ad-b585-ac103a5feccb",
+        "created_at": "2023-07-27T10:52:00+00:00",
+        "updated_at": "2026-11-19T04:17:51.604445+00:00"
+      },
+      {
+        "memory": "Evan expressed empathy to Sam about his health challenges, noted that Sam stays positive, and reminded Sam to take care of himself",
+        "score": 0.4198,
+        "id": "dd6a323e-5581-414e-8046-725beb7c4e0f",
+        "created_at": "2024-01-11T21:37:00+00:00",
+        "updated_at": "2026-11-19T05:39:04.636692+00:00"
+      },
+      {
+        "memory": "Sam continues to enjoy soda and candy, acknowledging that it is not a healthy habit",
+        "score": 0.4186,
+        "id": "edf6d747-e789-43b8-ac39-7b1170d5aa7d",
+        "created_at": "2023-06-06T15:55:00+00:00",
+        "updated_at": "2026-11-19T04:16:24.611115+00:00"
+      },
+      {
+        "memory": "Sam hopes for positive changes by pursuing a healthier diet and practicing yoga",
+        "score": 0.4116,
+        "id": "345ec6f3-5ff0-4bbe-b068-592bff6a496e",
+        "created_at": "2024-01-10T00:17:00+00:00",
+        "updated_at": "2026-11-19T05:37:19.488573+00:00"
+      },
+      {
+        "memory": "Sam says his health has been challenging lately and that some issues have been hard on his health",
+        "score": 0.4098,
+        "id": "36966d1e-25c3-4c97-be8b-098e27c5f8ca",
+        "created_at": "2023-08-13T16:09:00+00:00",
+        "updated_at": "2026-11-19T04:25:42.490441+00:00"
+      },
+      {
+        "memory": "Evan notes that both he and Sam are being compelled to take better care of their health after recent challenges",
+        "score": 0.4062,
+        "id": "df7d5e91-4136-41b4-9c8d-31d46b0c48bc",
+        "created_at": "2023-08-15T16:20:00+00:00",
+        "updated_at": "2026-11-19T04:30:11.751177+00:00"
+      },
+      {
+        "memory": "Evan offered to support Sam in his health journey, expressing willingness to help with Sam's health challenges",
+        "score": 0.3995,
+        "id": "fc1ae038-a016-4bc0-b476-14ab2b6f8d8e",
+        "created_at": "2023-05-24T19:11:00+00:00",
+        "updated_at": "2026-11-19T04:07:48.050206+00:00"
+      },
+      {
+        "memory": "Sam says swimming is a good, low-impact, joint-friendly, refreshing activity and encourages Evan to keep up an active lifestyle",
+        "score": 0.3891,
+        "id": "74d14bf6-6fa9-45f7-8376-e964cabdec52",
+        "created_at": "2023-08-27T10:18:00+00:00",
+        "updated_at": "2026-11-19T04:39:28.785919+00:00"
+      },
+      {
+        "memory": "Sam is trying to make healthier choices but still experiences occasional cravings for sugary drinks and snacks, describing it as a real struggle",
+        "score": 0.3769,
+        "id": "eba26c48-ffe3-4498-a58d-db2688da4580",
+        "created_at": "2023-09-11T09:28:00+00:00",
+        "updated_at": "2026-11-19T04:42:19.505193+00:00"
+      },
+      {
+        "memory": "Sam says \"Don't fear it, just take the first step\" and notes that taking the first step has been helping him move forward to healthier habits",
+        "score": 0.3763,
+        "id": "b75c54a5-59ff-41c0-91b8-c1992411e9f3",
+        "created_at": "2023-08-13T16:09:00+00:00",
+        "updated_at": "2026-11-19T04:26:33.264785+00:00"
+      },
+      {
+        "memory": "Evan praised Sam for having a health plan and being dedicated to staying healthy, and asked Sam whether he has consulted his doctor for additional diet and exercise advice",
+        "score": 0.3757,
+        "id": "03d4415a-d424-409f-97a4-b803aef695c3",
+        "created_at": "2024-01-10T00:17:00+00:00",
+        "updated_at": "2026-11-19T05:35:24.362525+00:00"
+      },
+      {
+        "memory": "Sam posted a before-and-after body photo showing a bowl of beef and vegetables with a healthy choice package, illustrating the results of his new diet",
+        "score": 0.36,
+        "id": "8de069f0-3de7-4f6d-bd16-0b562138149a",
+        "created_at": "2023-09-11T09:28:00+00:00",
+        "updated_at": "2026-11-19T04:41:40.084388+00:00"
+      },
+      {
+        "memory": "Sam shared an image of a bowl of fruit on a striped cloth, depicting a healthy snack",
+        "score": 0.3505,
+        "id": "f98fcecb-f39e-46ca-a91a-17fab3a8ab22",
+        "created_at": "2023-10-06T20:57:00+00:00",
+        "updated_at": "2026-11-19T04:45:32.513994+00:00"
+      },
+      {
+        "memory": "Sam says the snacks look healthy and delicious and are perfect for after a hike or post-accident recovery",
+        "score": 0.3499,
+        "id": "8b62733b-437c-465a-aa5a-bb395f79a705",
+        "created_at": "2023-12-31T11:00:00+00:00",
+        "updated_at": "2026-11-19T05:27:03.034167+00:00"
+      },
+      {
+        "memory": "Evan suggested Sam swap soda for flavored seltzer water and replace candy with dark chocolate that has a high cocoa content as healthier alternatives",
+        "score": 0.3496,
+        "id": "ab1260c8-6c20-4013-bf79-e568cceb9a55",
+        "created_at": "2023-06-06T15:55:00+00:00",
+        "updated_at": "2026-11-19T04:11:31.123154+00:00"
+      },
+      {
+        "memory": "Sam recommended low-impact exercises or physical therapy to stay active when facing an obstacle",
+        "score": 0.34,
+        "id": "1b328a37-d0b6-49d3-adc3-e6619bf8acec",
+        "created_at": "2023-08-27T10:18:00+00:00",
+        "updated_at": "2026-11-19T04:39:07.628352+00:00"
+      },
+      {
+        "memory": "Evan believes that health improvement involves exercise, diet, and lifestyle changes together",
+        "score": 0.3277,
+        "id": "5763580d-974c-4ad7-99b9-17cc99584dab",
+        "created_at": "2023-07-27T10:52:00+00:00",
+        "updated_at": "2026-11-19T04:15:37.445869+00:00"
+      },
+      {
+        "memory": "Sam said he started thinking about ways to cope with the situation after talking with Evan, but finds it challenging.",
+        "score": 0.3239,
+        "id": "afbba258-c462-4a45-93f9-f85c4f588308",
+        "created_at": "2023-12-17T18:48:00+00:00",
+        "updated_at": "2026-11-19T05:18:15.523665+00:00"
+      },
+      {
+        "memory": "Sam says he has been trying to make diet changes, but finds it hard",
+        "score": 0.3099,
+        "id": "f46a66f8-c17c-4c62-b201-f353642b8449",
+        "created_at": "2023-11-21T19:30:00+00:00",
+        "updated_at": "2026-11-19T05:07:57.672427+00:00"
+      },
+      {
+        "memory": "Sam expressed that being a Weight Watchers coach will keep him motivated and help others stay committed, describing it as a big challenge he feels ready for, and said it feels great to see progress",
+        "score": 0.3054,
+        "id": "d28c59b5-31ed-4025-8d14-3a438c55832f",
+        "created_at": "2023-11-09T21:13:00+00:00",
+        "updated_at": "2026-11-19T05:03:44.908450+00:00"
+      },
+      {
+        "memory": "Sam is on a diet and living healthier, finding it tough but staying determined",
+        "score": 0.3043,
+        "id": "d81c5ddb-bde5-440a-9476-e92a62dc1171",
+        "created_at": "2023-08-19T18:17:00+00:00",
+        "updated_at": "2026-11-19T04:33:13.985441+00:00"
+      },
+      {
+        "memory": "Evan is trying to eat healthier",
+        "score": 0.3007,
+        "id": "992824f8-271c-44bf-881c-9d0a4f1d9d30",
+        "created_at": "2023-12-31T11:00:00+00:00",
+        "updated_at": "2026-11-19T05:27:58.907709+00:00"
+      },
+      {
+        "memory": "Sam says handling his health changes has been kinda wild",
+        "score": 0.2973,
+        "id": "15af877e-7d53-431c-a956-e17d2a1758cc",
+        "created_at": "2023-09-11T09:28:00+00:00",
+        "updated_at": "2026-11-19T04:42:19.505193+00:00"
+      },
+      {
+        "memory": "Sam says he is doing his best with his health",
+        "score": 0.2959,
+        "id": "588b562c-61c7-40c6-a02a-770dd121e3c6",
+        "created_at": "2024-01-11T21:37:00+00:00",
+        "updated_at": "2026-11-19T05:38:41.281341+00:00"
+      },
+      {
+        "memory": "Evan encouraged Sam to be patient with himself, emphasized that Sam's health matters, and urged him to stay upbeat and keep going",
+        "score": 0.2957,
+        "id": "f553ec21-3303-41f5-9cc7-5b86e32f009e",
+        "created_at": "2023-10-08T15:09:00+00:00",
+        "updated_at": "2026-11-19T04:49:27.441655+00:00"
+      },
+      {
+        "memory": "Sam says his fitness goals have been hard to reach",
+        "score": 0.2945,
+        "id": "a3d23281-5c29-472d-ab53-2adf99a5d1c2",
+        "created_at": "2023-11-21T19:30:00+00:00",
+        "updated_at": "2026-11-19T05:10:11.149124+00:00"
+      },
+      {
+        "memory": "Sam says he is dealing with health issues, feels his weight is keeping him from fully living, and is trying to stay positive even though it’s not easy",
+        "score": 0.2886,
+        "id": "0473d4c1-3b1e-4420-ba7b-20843e8f12fe",
+        "created_at": "2024-01-11T21:37:00+00:00",
+        "updated_at": "2026-11-19T05:37:55.980635+00:00"
+      },
+      {
+        "memory": "Sam is motivated by something he saw and, starting today, intends to stay on track with his health goals",
+        "score": 0.2836,
+        "id": "80365477-fe38-4e0f-854a-108e0741dcbb",
+        "created_at": "2024-01-10T00:17:00+00:00",
+        "updated_at": "2026-11-19T05:35:24.814903+00:00"
+      },
+      {
+        "memory": "Sam expressed excitement about going on a hike with Evan, calling it a fun challenge and a chance to appreciate the beauty of nature.",
+        "score": 0.2797,
+        "id": "a5ba49e9-3777-4e9d-822a-fe563d2788e9",
+        "created_at": "2023-10-17T13:50:00+00:00",
+        "updated_at": "2026-11-19T04:56:19.740669+00:00"
+      },
+      {
+        "memory": "Sam says he is trying to keep up with his new health routine but finds it tough and feels pressured by his family",
+        "score": 0.2793,
+        "id": "6eabf577-974b-449f-aa01-52a8433180d5",
+        "created_at": "2023-10-25T14:56:00+00:00",
+        "updated_at": "2026-11-19T04:57:53.058047+00:00"
+      },
+      {
+        "memory": "Evan encouraged Sam to focus on a balanced diet and low‑impact exercises, reminding him to keep him updated on progress",
+        "score": 0.2793,
+        "id": "18853efc-a2fe-4d76-80dc-d4795b481c5a",
+        "created_at": "2024-01-10T00:17:00+00:00",
+        "updated_at": "2026-11-19T05:36:20.492622+00:00"
+      },
+      {
+        "memory": "Sam had a tough week and a doctor's appointment, which he described as a wake‑up call to take better care of himself.",
+        "score": 0.2792,
+        "id": "75f5d3d0-88f8-43cd-bdaf-60cf54553c19",
+        "created_at": "2023-08-15T16:20:00+00:00",
+        "updated_at": "2026-11-19T04:29:57.732388+00:00"
+      },
+      {
+        "memory": "Sam is reducing his soda and candy intake, finding it tough but determined to make a change",
+        "score": 0.2772,
+        "id": "2128e068-7331-4c68-88c3-aa15b9c40c3a",
+        "created_at": "2023-07-27T10:52:00+00:00",
+        "updated_at": "2026-11-19T04:16:27.429483+00:00"
+      },
+      {
+        "memory": "Evan reports that making healthier choices has made a noticeable positive difference for him",
+        "score": 0.2758,
+        "id": "37596b15-9b53-4319-a61a-cdd63db77859",
+        "created_at": "2023-09-11T09:28:00+00:00",
+        "updated_at": "2026-11-19T04:41:47.943955+00:00"
+      },
+      {
+        "memory": "Sam says he couldn't resist the unhealthy snacks and wants to do better with his snack choices",
+        "score": 0.2753,
+        "id": "3cc3e1a7-f3b5-4eb5-9da9-2fc028748d7a",
+        "created_at": "2023-10-14T16:07:00+00:00",
+        "updated_at": "2026-11-19T04:51:51.068001+00:00"
+      },
+      {
+        "memory": "Evan praised Sam for sticking to his health routine and asked if Sam has noticed any positive changes",
+        "score": 0.2746,
+        "id": "33017013-8543-4dbc-aea2-eb2988dbbca1",
+        "created_at": "2023-08-19T18:17:00+00:00",
+        "updated_at": "2026-11-19T04:33:54.140832+00:00"
+      },
+      {
+        "memory": "Sam is feeling a mix of emotions, being somewhat concerned about his health but also motivated to make positive changes, and is taking things one step at a time",
+        "score": 0.2695,
+        "id": "ce5345be-ff4b-449d-848c-8b1afbc22c3c",
+        "created_at": "2023-08-15T16:20:00+00:00",
+        "updated_at": "2026-11-19T04:33:10.691765+00:00"
+      },
+      {
+        "memory": "Assistant Sam expressed excitement about trying new things",
+        "score": 0.2642,
+        "id": "a3fd8513-8518-4a40-8871-8447d4630afe",
+        "created_at": "2023-05-18T13:47:00+00:00",
+        "updated_at": "2026-11-19T04:05:52.131923+00:00"
+      },
+      {
+        "memory": "Sam is struggling with his weight, which is affecting his confidence and causing a lack of motivation",
+        "score": 0.2641,
+        "id": "0deeb400-f83f-4d26-b068-ecbfa34759ef",
+        "created_at": "2023-12-17T18:48:00+00:00",
+        "updated_at": "2026-11-19T05:19:39.135532+00:00"
+      },
+      {
+        "memory": "Evan offered to help Sam after hearing about Sam's tough week",
+        "score": 0.2636,
+        "id": "0719f850-0754-41f6-b193-dbb6e4fff851",
+        "created_at": "2023-05-24T19:11:00+00:00",
+        "updated_at": "2026-11-19T04:07:28.510903+00:00"
+      },
+      {
+        "memory": "Sam gave in and bought some unhealthy snacks during a rough week, feeling guilty about it",
+        "score": 0.2636,
+        "id": "2a452029-e0fe-4802-a454-c226c92f34de",
+        "created_at": "2023-10-14T16:07:00+00:00",
+        "updated_at": "2026-11-19T04:51:24.735024+00:00"
+      }
+    ],
+    "search_latency_ms": 375.2,
+    "total_results": 50
+  },
+  "cutoff_results": {
+    "top_50": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "- Challenges:\n  - Ongoing weight and health issues that make him feel limited, hurt his confidence, and sap motivation.\n  - Strong cravings for soda and candy, with occasional lapses into unhealthy snacks—especially during rough weeks.\n  - Sticking to a routine is tough; diet changes and fitness goals feel hard to reach.\n  - External stressors, including family pressure.\n\n- How he addresses them:\n  - Stays determined and adopts a “first step” mindset; recommits when he slips.\n  - Makes healthy swaps (flavored seltzer for soda, high‑cocoa dark chocolate for candy) and seeks healthy snack ideas.\n  - Builds skills with a cooking class to prepare healthier meals.\n  - Chooses low‑impact, sustainable activity (swimming, yoga) and stays active with hikes; suggests PT/low‑impact options when obstacles arise.\n  - Uses support and accountability: leans on Evan, shares progress, took a doctor’s visit as a wake‑up call, and became a Weight Watchers coach to stay motivated while helping others.",
+      "memories_evaluated": 50,
+      "reason": "The response covers motivation and dietary change challenges and states he takes cooking classes and leans on Evan for support, aligning with the gold answer."
+    }
+  }
+}

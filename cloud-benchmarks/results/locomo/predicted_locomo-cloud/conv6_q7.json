@@ -1,0 +1,379 @@
+{
+  "question_id": "conv6_q7",
+  "conversation_idx": 6,
+  "category": 3,
+  "category_name": "open-domain",
+  "question": "In which state is the shelter from which James adopted the puppy?",
+  "ground_truth_answer": "Connecticut.",
+  "evidence": [
+    "D5:1"
+  ],
+  "user_id": "locomo_6_fe8ec031",
+  "reference_date": "8:57 pm on 7 November, 2022",
+  "retrieval": {
+    "search_query": "In which state is the shelter from which James adopted the puppy?",
+    "search_results": [
+      {
+        "memory": "James adopted a puppy named Ned from a shelter in Stamford around April 5, 2022, and says his days have become much happier with him in the family",
+        "score": 0.6952,
+        "id": "4f6ef514-5ea6-4b0f-8f6d-fbb2acbd3214",
+        "created_at": "2022-04-12T09:52:00+00:00",
+        "updated_at": "2026-11-19T04:20:17.923175+00:00"
+      },
+      {
+        "memory": "John congratulated James on adopting a puppy, saying it makes days brighter",
+        "score": 0.6319,
+        "id": "088b42e6-2000-4547-8ea0-135bf1c0c841",
+        "created_at": "2022-04-12T09:52:00+00:00",
+        "updated_at": "2026-11-19T04:21:23.251568+00:00"
+      },
+      {
+        "memory": "John asked James what happened to James's puppy and whether it is okay",
+        "score": 0.5726,
+        "id": "7b24c0c8-4335-4417-8f10-9ac8b8b24a22",
+        "created_at": "2022-08-06T13:45:00+00:00",
+        "updated_at": "2026-11-19T05:16:00.092270+00:00"
+      },
+      {
+        "memory": "James is asking for the name of a puppy",
+        "score": 0.5686,
+        "id": "129e4bfd-d38a-46ca-8860-d4901f9e5e00",
+        "created_at": "2022-11-07T20:57:00+00:00",
+        "updated_at": "2026-11-19T05:58:44.209086+00:00"
+      },
+      {
+        "memory": "John thinks James's puppy is cute",
+        "score": 0.567,
+        "id": "5b90332f-a65f-424c-a696-87a15417f80f",
+        "created_at": "2022-08-26T21:18:00+00:00",
+        "updated_at": "2026-11-19T05:24:44.623259+00:00"
+      },
+      {
+        "memory": "James took his puppy to the clinic on August 5, 2022",
+        "score": 0.5521,
+        "id": "d74f07eb-c402-4c8a-afd9-eec1437cf598",
+        "created_at": "2022-08-06T13:45:00+00:00",
+        "updated_at": "2026-11-19T05:15:44.674742+00:00"
+      },
+      {
+        "memory": "James's puppy underwent a routine examination at the clinic on August 5, 2022",
+        "score": 0.497,
+        "id": "36518390-66e8-479b-adc2-41dbf6de36cc",
+        "created_at": "2022-08-06T13:45:00+00:00",
+        "updated_at": "2026-11-19T05:16:56.130623+00:00"
+      },
+      {
+        "memory": "James's puppy was vaccinated during the clinic visit to protect against seasonal canine disease",
+        "score": 0.4882,
+        "id": "eba8333b-6876-41ff-a863-7f7bdcf9ab70",
+        "created_at": "2022-08-06T13:45:00+00:00",
+        "updated_at": "2026-11-19T05:16:56.130623+00:00"
+      },
+      {
+        "memory": "James saw rescue dogs that were cute and wanted to adopt them, but remembered he already has three dogs at home and believes having more than three dogs would be too many",
+        "score": 0.4584,
+        "id": "dedd2db9-fbdc-4346-a68b-22934e718e49",
+        "created_at": "2022-11-07T20:57:00+00:00",
+        "updated_at": "2026-11-19T05:57:34.170521+00:00"
+      },
+      {
+        "memory": "John expressed relief that James's puppy is okay after the clinic visit and praised James for caring about his pets.",
+        "score": 0.4373,
+        "id": "d4003b16-9e02-4938-bd7b-08dfff13d1de",
+        "created_at": "2022-08-06T13:45:00+00:00",
+        "updated_at": "2026-11-19T05:16:23.742232+00:00"
+      },
+      {
+        "memory": "James introduced his dogs Max, Daisy, and his newly adopted pup Ned to each other on Friday, June 17, 2022; the dogs were initially hesitant but are now slowly adapting and bonding together",
+        "score": 0.368,
+        "id": "bfa7642b-d4b8-40db-a6d7-0c8d93c84012",
+        "created_at": "2022-06-19T21:59:00+00:00",
+        "updated_at": "2026-11-19T05:00:32.178715+00:00"
+      },
+      {
+        "memory": "James says a pet would be great for John, offering to help find the perfect one and stating John would make a great pet parent because pets bring love and companionship",
+        "score": 0.3178,
+        "id": "410aadb3-5851-45b3-8367-03009eb923de",
+        "created_at": "2022-03-20T21:26:00+00:00",
+        "updated_at": "2026-11-19T04:12:00.629582+00:00"
+      },
+      {
+        "memory": "James encourages trying something, stating it is really great and there will be no regrets",
+        "score": 0.2964,
+        "id": "ed52ca2a-6dc8-4b0f-9088-9047c277a4ce",
+        "created_at": "2022-05-04T19:01:00+00:00",
+        "updated_at": "2026-11-19T04:42:07.817839+00:00"
+      },
+      {
+        "memory": "John shared a photo of his cousin's golden retriever puppy, a dog sitting on a rug in front of a couch",
+        "score": 0.2805,
+        "id": "a8ad5ca9-f096-4f87-8d0b-9aa1f59cf94d",
+        "created_at": "2022-11-07T20:57:00+00:00",
+        "updated_at": "2026-11-19T05:58:27.937287+00:00"
+      },
+      {
+        "memory": "James says his dogs are like family",
+        "score": 0.2715,
+        "id": "39998939-267d-4459-ae0b-42d0bd7b668b",
+        "created_at": "2022-03-20T21:26:00+00:00",
+        "updated_at": "2026-11-19T04:11:33.714056+00:00"
+      },
+      {
+        "memory": "John confirms that James's dog is named Ned",
+        "score": 0.268,
+        "id": "ac9261e5-1267-441d-8b3b-d397231ac2cd",
+        "created_at": "2022-08-26T21:18:00+00:00",
+        "updated_at": "2026-11-19T05:24:50.859969+00:00"
+      },
+      {
+        "memory": "James's dogs were seen playing in a fenced backyard on May 4, 2022",
+        "score": 0.265,
+        "id": "940f855e-61cd-4f5c-8858-7b4f669888c9",
+        "created_at": "2022-05-04T19:01:00+00:00",
+        "updated_at": "2026-11-19T04:39:54.909439+00:00"
+      },
+      {
+        "memory": "James believes Liverpool is the best club, stating there is no club better than Liverpool",
+        "score": 0.2624,
+        "id": "51411f7b-9021-45da-ac2d-9abf0778acd2",
+        "created_at": "2022-06-13T16:30:00+00:00",
+        "updated_at": "2026-11-19T04:53:22.956874+00:00"
+      },
+      {
+        "memory": "James says his dogs are the source of his joy and he will always take care of them",
+        "score": 0.2607,
+        "id": "0a25edc1-f552-4f39-92f1-db34679f2b28",
+        "created_at": "2022-08-06T13:45:00+00:00",
+        "updated_at": "2026-11-19T05:16:37.127147+00:00"
+      },
+      {
+        "memory": "James and his dog Max enjoy taking walks on a nearby trail that is about a mile from James's house; the trail is tranquil and provides a great way to relax and connect with nature, and James shared a photo of a dirt path in a field with trees",
+        "score": 0.2594,
+        "id": "a4d6f579-390e-476c-9122-5906c3d875f4",
+        "created_at": "2022-06-16T17:07:00+00:00",
+        "updated_at": "2026-11-19T04:59:34.532320+00:00"
+      },
+      {
+        "memory": "John loves hearing about the joy that James's furry friends bring into James's life",
+        "score": 0.2581,
+        "id": "4d5193c3-da27-4299-91f6-c30af1240150",
+        "created_at": "2022-05-04T19:01:00+00:00",
+        "updated_at": "2026-11-19T04:40:22.750531+00:00"
+      },
+      {
+        "memory": "James spent time with his beloved pets on May 4, 2022",
+        "score": 0.2559,
+        "id": "675e38c9-3eb1-4228-a5a9-b51010c96835",
+        "created_at": "2022-05-04T19:01:00+00:00",
+        "updated_at": "2026-11-19T04:39:54.909439+00:00"
+      },
+      {
+        "memory": "James has two dogs, shown in a shared image where they are tied to a fence with a leash",
+        "score": 0.2556,
+        "id": "9ff20d00-ac71-47fa-bb79-0acb2c68cd1e",
+        "created_at": "2022-03-17T15:47:00+00:00",
+        "updated_at": "2026-11-19T04:04:06.176004+00:00"
+      },
+      {
+        "memory": "James says his dogs Max, Daisy, and Ned are loyal and bring him joy",
+        "score": 0.2544,
+        "id": "7a6458df-5eda-43fa-93f1-34b42e529aaa",
+        "created_at": "2022-05-04T19:01:00+00:00",
+        "updated_at": "2026-11-19T04:40:15.325580+00:00"
+      },
+      {
+        "memory": "John's main goal was to raise money for a dog shelter near his street, and they succeeded in doing so",
+        "score": 0.25,
+        "id": "ca704f2b-f2ae-47ff-9382-5bb5b86a602a",
+        "created_at": "2022-05-08T00:45:00+00:00",
+        "updated_at": "2026-11-19T04:43:40.307947+00:00"
+      },
+      {
+        "memory": "John said James has found someone other than his dogs who brings him joy",
+        "score": 0.2431,
+        "id": "d76bf0ef-8f53-4da2-b442-f3d1c8764814",
+        "created_at": "2022-09-04T21:23:00+00:00",
+        "updated_at": "2026-11-19T05:31:41.429001+00:00"
+      },
+      {
+        "memory": "John said they had leftover money after helping the dog shelter and decided to use it to buy groceries and cook food for the homeless, who were very happy.",
+        "score": 0.2423,
+        "id": "56ca87ce-0e75-41c7-bfc1-6e7a5d2c1765",
+        "created_at": "2022-05-08T00:45:00+00:00",
+        "updated_at": "2026-11-19T04:44:17.260136+00:00"
+      },
+      {
+        "memory": "James shared a photo of his dog Max standing in front of a pool",
+        "score": 0.2414,
+        "id": "a999f901-4e0c-4d78-bac3-f8be8d76a39c",
+        "created_at": "2022-06-16T17:07:00+00:00",
+        "updated_at": "2026-11-19T04:57:50.792054+00:00"
+      },
+      {
+        "memory": "James was chilling with his sister and his dogs on July 21, 2022, and says they bring him a great deal of happiness",
+        "score": 0.2403,
+        "id": "2658678d-d44d-4636-bcd6-18ce7f24b529",
+        "created_at": "2022-07-22T09:49:00+00:00",
+        "updated_at": "2026-11-19T05:11:41.565952+00:00"
+      },
+      {
+        "memory": "James will go train",
+        "score": 0.2375,
+        "id": "68197956-9c09-4ac7-b478-2ba4a9cba2a7",
+        "created_at": "2022-11-05T17:20:00+00:00",
+        "updated_at": "2026-11-19T05:55:32.462016+00:00"
+      },
+      {
+        "memory": "James took his three dogs to a beach outing on August 9, 2022, to have fun and bond with other dogkeepers",
+        "score": 0.2374,
+        "id": "88e8f278-eba6-4265-9e05-1d1b568a193e",
+        "created_at": "2022-08-10T09:16:00+00:00",
+        "updated_at": "2026-11-19T05:19:47.083049+00:00"
+      },
+      {
+        "memory": "James and Samantha have decided to move in together",
+        "score": 0.2372,
+        "id": "01388527-71cc-4b0c-ac1f-fc46a19722d7",
+        "created_at": "2022-10-31T00:37:00+00:00",
+        "updated_at": "2026-11-19T05:52:15.024091+00:00"
+      },
+      {
+        "memory": "James's dog came to him while he was playing on a console on August 26, 2022, and he was holding the dog on a couch",
+        "score": 0.2336,
+        "id": "20474e0c-bdd9-428a-a647-93c1e0b21d66",
+        "created_at": "2022-08-26T21:18:00+00:00",
+        "updated_at": "2026-11-19T05:24:36.149109+00:00"
+      },
+      {
+        "memory": "John said the place looked cool where James took his dogs, on April 23, 2022",
+        "score": 0.2305,
+        "id": "c2eaf64e-5d0f-46dc-92ca-ea20ac0acfec",
+        "created_at": "2022-04-23T11:04:00+00:00",
+        "updated_at": "2026-11-19T04:27:43.168444+00:00"
+      },
+      {
+        "memory": "James shared a photo of a small dog standing on a skateboard",
+        "score": 0.2254,
+        "id": "233a0a41-4e41-4334-80d5-d4779e1e4397",
+        "created_at": "2022-07-22T09:49:00+00:00",
+        "updated_at": "2026-11-19T05:10:04.227484+00:00"
+      },
+      {
+        "memory": "On April 29, 2022, James was playing a video game when his dog Daisy came and lay down next to him on the bed beside his computer, making the moment cute",
+        "score": 0.225,
+        "id": "3e7de69a-e92d-47b5-a30f-57d70ca60530",
+        "created_at": "2022-04-29T14:36:00+00:00",
+        "updated_at": "2026-11-19T04:35:16.798914+00:00"
+      },
+      {
+        "memory": "John expressed that he finds James's dogs bonding sweet and enjoys seeing them have a great time together",
+        "score": 0.2245,
+        "id": "dfab2b4f-a113-4628-a616-b77a26646f6c",
+        "created_at": "2022-06-19T21:59:00+00:00",
+        "updated_at": "2026-11-19T05:00:47.617403+00:00"
+      },
+      {
+        "memory": "James shared a photo of a dog running in a field with a frisbee and says he loves making the dog happy",
+        "score": 0.2198,
+        "id": "fbdb2d29-92e3-4db4-b61c-4e840e0665a4",
+        "created_at": "2022-06-16T17:07:00+00:00",
+        "updated_at": "2026-11-19T04:58:41.041972+00:00"
+      },
+      {
+        "memory": "James taught his dogs to balance on a skateboard, showing they can ride it",
+        "score": 0.2198,
+        "id": "898e485d-bb1b-464c-a101-fe963ae376bf",
+        "created_at": "2022-07-22T09:49:00+00:00",
+        "updated_at": "2026-11-19T05:10:04.227484+00:00"
+      },
+      {
+        "memory": "James shared a photo showing a man kneeling down next to a dog at the animal sanctuary",
+        "score": 0.2169,
+        "id": "0ef0123b-007d-457c-affb-9aa9eb29e858",
+        "created_at": "2022-11-07T20:57:00+00:00",
+        "updated_at": "2026-11-19T05:57:28.470604+00:00"
+      },
+      {
+        "memory": "James and Samantha mutually decided to rent an apartment not far from McGee's bar",
+        "score": 0.2146,
+        "id": "89485122-e8b1-4549-8b98-e6b93556311d",
+        "created_at": "2022-10-31T00:37:00+00:00",
+        "updated_at": "2026-11-19T05:52:51.070182+00:00"
+      },
+      {
+        "memory": "John expressed that James' support means a lot to him",
+        "score": 0.2146,
+        "id": "0de1c030-381f-475d-9af9-f358e2ceabb6",
+        "created_at": "2022-10-03T09:20:00+00:00",
+        "updated_at": "2026-11-19T05:41:39.027991+00:00"
+      },
+      {
+        "memory": "James has a new computer",
+        "score": 0.2141,
+        "id": "25b5e1d5-23bb-42cd-982d-a61d98dfb093",
+        "created_at": "2022-10-03T09:20:00+00:00",
+        "updated_at": "2026-11-19T05:42:34.410178+00:00"
+      },
+      {
+        "memory": "James's dogs Max, Daisy, and Ned love to watch him gaming and often hug him, serving as cuddle buddies.",
+        "score": 0.2136,
+        "id": "009a7553-c370-4da5-8ddd-e630928a2c79",
+        "created_at": "2022-04-29T14:36:00+00:00",
+        "updated_at": "2026-11-19T04:35:29.594852+00:00"
+      },
+      {
+        "memory": "James and Samantha were at McGee's bar around September 4, 2022",
+        "score": 0.2136,
+        "id": "9a8cdb0b-1a62-4db8-8a5c-1f477706864b",
+        "created_at": "2022-09-04T21:23:00+00:00",
+        "updated_at": "2026-11-19T05:31:35.287163+00:00"
+      },
+      {
+        "memory": "James says everything went great",
+        "score": 0.2135,
+        "id": "22e0334a-c5cc-4796-b56e-25985b9dbd46",
+        "created_at": "2022-07-22T09:49:00+00:00",
+        "updated_at": "2026-11-19T05:10:51.150486+00:00"
+      },
+      {
+        "memory": "John observed that James's dogs Max and Daisy look like they're having a blast and asked if they can do any tricks.",
+        "score": 0.2133,
+        "id": "61cc7905-c391-4b7e-b93b-814519c28e2f",
+        "created_at": "2022-03-20T21:26:00+00:00",
+        "updated_at": "2026-11-19T04:11:09.891515+00:00"
+      },
+      {
+        "memory": "John said he will definitely take James's advice and called James the best",
+        "score": 0.2127,
+        "id": "eb552078-9c95-4198-8342-e8058197fdf9",
+        "created_at": "2022-09-20T20:56:00+00:00",
+        "updated_at": "2026-11-19T05:40:47.875892+00:00"
+      },
+      {
+        "memory": "James walked his dogs in his neighborhood on April 6, 2022, where he encountered a stranger whose appearance inspired a character he later embodied in his game",
+        "score": 0.2125,
+        "id": "38dd6406-ba1e-471f-929b-3ad3bce76bc4",
+        "created_at": "2022-04-20T21:32:00+00:00",
+        "updated_at": "2026-11-19T04:24:42.473429+00:00"
+      },
+      {
+        "memory": "James's dog Daisy is a Labrador who loves playing with her toys and especially loves to eat",
+        "score": 0.2121,
+        "id": "de358ef0-e8db-480d-9b78-a302b63f628e",
+        "created_at": "2022-05-04T19:01:00+00:00",
+        "updated_at": "2026-11-19T04:40:03.339629+00:00"
+      }
+    ],
+    "search_latency_ms": 419.2,
+    "total_results": 50
+  },
+  "cutoff_results": {
+    "top_50": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Connecticut",
+      "memories_evaluated": 50,
+      "reason": "The generated answer matches the gold answer: both state Connecticut."
+    }
+  }
+}

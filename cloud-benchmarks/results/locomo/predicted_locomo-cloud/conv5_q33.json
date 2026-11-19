@@ -1,0 +1,381 @@
+{
+  "question_id": "conv5_q33",
+  "conversation_idx": 5,
+  "category": 3,
+  "category_name": "open-domain",
+  "question": "What can Andrew potentially do to improve his stress and accomodate his living situation with his dogs?",
+  "ground_truth_answer": "Change to a hybrid or remote job so he can move away from the city to the suburbs to have a larger living space and be closer to nature.",
+  "evidence": [
+    "D12:3",
+    "D18:1",
+    "D21:5"
+  ],
+  "user_id": "locomo_5_fe8ec031",
+  "reference_date": "9:02 am on 22 November, 2023",
+  "retrieval": {
+    "search_query": "What can Andrew potentially do to improve his stress and accomodate his living situation with his dogs?",
+    "search_results": [
+      {
+        "memory": "Andrew says he has managed to make it work with dogs while still living in the city",
+        "score": 0.6843,
+        "id": "dc660f2b-10ea-4b4e-94b5-5aa912acd2ae",
+        "created_at": "2023-11-04T19:59:00+00:00",
+        "updated_at": "2026-11-19T05:53:46.123268+00:00"
+      },
+      {
+        "memory": "Audrey asked Andrew whether he had found a dog-friendly place to live",
+        "score": 0.5689,
+        "id": "637f59b0-7fe5-45c2-8df5-a2629f8e5ed0",
+        "created_at": "2023-09-06T19:49:00+00:00",
+        "updated_at": "2026-11-19T05:18:28.124283+00:00"
+      },
+      {
+        "memory": "Andrew has a family dog that was shown in a photo sitting on a couch in a living room",
+        "score": 0.5439,
+        "id": "98bcfb7f-952f-42c0-a84b-e5dfb4c9e757",
+        "created_at": "2023-04-02T14:42:00+00:00",
+        "updated_at": "2026-11-19T04:08:46.507257+00:00"
+      },
+      {
+        "memory": "Andrew advises that when choosing a puppy, consider the size of living space and the breed's exercise needs; for apartment dwellers a smaller dog is best, while active people should choose a dog that loves to play and run",
+        "score": 0.5214,
+        "id": "bfd31649-7f26-4712-b3c4-d452919d17e8",
+        "created_at": "2023-05-06T10:47:00+00:00",
+        "updated_at": "2026-11-19T04:24:53.586715+00:00"
+      },
+      {
+        "memory": "Andrew says cooking helps him de-stress and be creative, and he considers himself a rookie at it",
+        "score": 0.4338,
+        "id": "1400928d-2d5f-4735-be69-3910374a4108",
+        "created_at": "2023-07-03T20:32:00+00:00",
+        "updated_at": "2026-11-19T04:48:20.746313+00:00"
+      },
+      {
+        "memory": "Andrew introduced his new puppy named Toby, describing him as a bundle of joy he brought home while living in the city, and shared a photo of Toby sitting on a leash in a room",
+        "score": 0.4313,
+        "id": "264ddca9-28d1-4b28-b2e4-8046b6819b35",
+        "created_at": "2023-07-11T10:05:00+00:00",
+        "updated_at": "2026-11-19T04:57:10.726812+00:00"
+      },
+      {
+        "memory": "Audrey feels she cannot live without her dogs, expressing strong attachment to them",
+        "score": 0.3945,
+        "id": "ac0d8e9c-c845-4ac5-8bfa-fd2ebd50daca",
+        "created_at": "2023-03-27T13:10:00+00:00",
+        "updated_at": "2026-11-19T04:03:21.844311+00:00"
+      },
+      {
+        "memory": "Andrew said he will take good care of his dogs first",
+        "score": 0.3885,
+        "id": "e2a2358a-61bd-4319-9cc0-7c02ffc7156b",
+        "created_at": "2023-11-04T19:59:00+00:00",
+        "updated_at": "2026-11-19T05:53:11.608580+00:00"
+      },
+      {
+        "memory": "Andrew says the dogs make everyone smile",
+        "score": 0.3799,
+        "id": "b38527c2-a5c1-445d-8d06-efebe2fee1a6",
+        "created_at": "2023-07-08T09:48:00+00:00",
+        "updated_at": "2026-11-19T04:55:17.670355+00:00"
+      },
+      {
+        "memory": "Andrew finds nature calms his mind and relaxes him, serving as a break from the craziness of city living",
+        "score": 0.3779,
+        "id": "531b6ffe-a20c-4da7-819d-2e00f7544802",
+        "created_at": "2023-08-04T11:05:00+00:00",
+        "updated_at": "2026-11-19T05:04:31.536836+00:00"
+      },
+      {
+        "memory": "Andrew offered to help find more dog-friendly places for dogs",
+        "score": 0.3742,
+        "id": "c6ac8dcc-2e08-428b-a2c8-b30fa90e5445",
+        "created_at": "2023-06-26T13:51:00+00:00",
+        "updated_at": "2026-11-19T04:42:14.302394+00:00"
+      },
+      {
+        "memory": "Andrew would enjoy hanging out with a dog and cuddling",
+        "score": 0.3712,
+        "id": "ab308bba-b251-4218-9e37-8081330b5c81",
+        "created_at": "2023-04-02T14:42:00+00:00",
+        "updated_at": "2026-11-19T04:09:26.643504+00:00"
+      },
+      {
+        "memory": "User indicates that Andrew has a dog named Buddy",
+        "score": 0.3665,
+        "id": "5e1fd1c7-6b0d-4b71-bbab-f9f5ebb57d1c",
+        "created_at": "2023-11-04T19:59:00+00:00",
+        "updated_at": "2026-11-19T05:52:40.913165+00:00"
+      },
+      {
+        "memory": "User says Andrew's dog Buddy is his sidekick",
+        "score": 0.364,
+        "id": "38807a2a-6b86-42a6-99aa-08fdfb03fd42",
+        "created_at": "2023-10-19T18:12:00+00:00",
+        "updated_at": "2026-11-19T05:40:32.670844+00:00"
+      },
+      {
+        "memory": "Andrew has not taken his dogs to the groomer yet but plans to do so soon",
+        "score": 0.3618,
+        "id": "80d0de35-461c-4063-ba98-249548140fd0",
+        "created_at": "2023-11-22T09:02:00+00:00",
+        "updated_at": "2026-11-19T05:55:58.016237+00:00"
+      },
+      {
+        "memory": "Audrey believes Andrew's kindness and care will make the dogs happier",
+        "score": 0.3515,
+        "id": "0b7b52c3-a347-495e-8e9a-6dd10c159124",
+        "created_at": "2023-07-27T15:52:00+00:00",
+        "updated_at": "2026-11-19T05:02:29.650769+00:00"
+      },
+      {
+        "memory": "Andrew said Audrey's dogs are a real source of love for her",
+        "score": 0.35,
+        "id": "4ac436a8-4803-47f4-9945-20665d486bdd",
+        "created_at": "2023-10-13T16:22:00+00:00",
+        "updated_at": "2026-11-19T05:38:28.358890+00:00"
+      },
+      {
+        "memory": "Andrew says Audrey is doing a great job and that the dogs are lucky to have her",
+        "score": 0.3492,
+        "id": "e5989c37-e193-4f9e-8ab4-fd1ff7ec7a38",
+        "created_at": "2023-10-28T14:36:00+00:00",
+        "updated_at": "2026-11-19T05:46:44.781595+00:00"
+      },
+      {
+        "memory": "Andrew said the place shown is far from the city and wishes he could take his dogs there",
+        "score": 0.347,
+        "id": "6913718c-62e0-4293-b1ae-e984016c5d10",
+        "created_at": "2023-10-19T18:12:00+00:00",
+        "updated_at": "2026-11-19T05:42:03.651531+00:00"
+      },
+      {
+        "memory": "Andrew observes that Audrey's dogs are having a blast",
+        "score": 0.3462,
+        "id": "dfd2e469-8aa0-4e77-9848-3474cefbd052",
+        "created_at": "2023-07-03T20:32:00+00:00",
+        "updated_at": "2026-11-19T04:45:33.334860+00:00"
+      },
+      {
+        "memory": "Andrew plans to try the dog activities suggested by Audrey with his pups",
+        "score": 0.3451,
+        "id": "4a80f80f-e065-4773-af94-bd30046cb66e",
+        "created_at": "2023-11-04T19:59:00+00:00",
+        "updated_at": "2026-11-19T05:54:39.081494+00:00"
+      },
+      {
+        "memory": "Andrew is considering getting another dog but is unsure because caring for two dogs is already a lot of work",
+        "score": 0.345,
+        "id": "4a755f98-d2ab-4a30-be25-85751b56219b",
+        "created_at": "2023-11-04T19:59:00+00:00",
+        "updated_at": "2026-11-19T05:52:28.153870+00:00"
+      },
+      {
+        "memory": "Andrew said the dogs look sweet in the sweater",
+        "score": 0.3436,
+        "id": "3c0d14b4-6142-4cb7-a6f2-416b21ce809a",
+        "created_at": "2023-10-13T16:22:00+00:00",
+        "updated_at": "2026-11-19T05:35:40.101126+00:00"
+      },
+      {
+        "memory": "Andrew is excited to meet Audrey's dogs and says they seem like a blast",
+        "score": 0.3435,
+        "id": "deca9479-207a-4b3a-822c-4da68a3e17ab",
+        "created_at": "2023-07-08T09:48:00+00:00",
+        "updated_at": "2026-11-19T04:53:05.715904+00:00"
+      },
+      {
+        "memory": "Audrey (Audrey) would love to take her dogs to Andrew's location soon",
+        "score": 0.3414,
+        "id": "48b99ae4-b8ec-491d-b1e0-5473fbef8e9e",
+        "created_at": "2023-06-26T13:51:00+00:00",
+        "updated_at": "2026-11-19T04:41:24.875293+00:00"
+      },
+      {
+        "memory": "Andrew thought the photo of Audrey's dogs was cute",
+        "score": 0.341,
+        "id": "5764da5c-7019-48ed-a1ab-c1155384420d",
+        "created_at": "2023-07-27T15:52:00+00:00",
+        "updated_at": "2026-11-19T05:00:23.796965+00:00"
+      },
+      {
+        "memory": "Andrew loves his dog Toby",
+        "score": 0.3399,
+        "id": "635b90a0-f970-4f1c-a227-a4ca9bb4032e",
+        "created_at": "2023-08-24T00:24:00+00:00",
+        "updated_at": "2026-11-19T05:14:47.854624+00:00"
+      },
+      {
+        "memory": "Andrew shared a photo of a dog sleeping in a dog bed on the floor",
+        "score": 0.3394,
+        "id": "1336e8f5-0d93-4d81-99c1-e5213bd7e030",
+        "created_at": "2023-08-24T00:24:00+00:00",
+        "updated_at": "2026-11-19T05:14:09.178658+00:00"
+      },
+      {
+        "memory": "Audrey finds caring for a dog in the city challenging but doable with the right approach and stresses that keeping the dog active is essential",
+        "score": 0.3358,
+        "id": "4b5b7bb0-bf04-4b74-a1fd-8f1689e5938a",
+        "created_at": "2023-11-04T19:59:00+00:00",
+        "updated_at": "2026-11-19T05:53:52.891546+00:00"
+      },
+      {
+        "memory": "Andrew lives in the city, misses nature a lot, and whenever possible he tries to go to nearby parks or on hikes, finding them peaceful and joyful experiences.",
+        "score": 0.3351,
+        "id": "3525ea71-4124-4b86-89e8-719bf68ca037",
+        "created_at": "2023-10-13T16:22:00+00:00",
+        "updated_at": "2026-11-19T05:38:37.540036+00:00"
+      },
+      {
+        "memory": "Andrew expressed interest in joining Audrey and her dogs for a walk in nature",
+        "score": 0.335,
+        "id": "4db57d32-fba8-4df5-9692-32288df31402",
+        "created_at": "2023-06-13T17:23:00+00:00",
+        "updated_at": "2026-11-19T04:35:11.586088+00:00"
+      },
+      {
+        "memory": "Andrew believes that letting dogs explore and have fun is important and thinks the dogs must be loving it",
+        "score": 0.3331,
+        "id": "9fde43a3-ae7e-4879-887b-3b14a25bb36a",
+        "created_at": "2023-06-13T17:23:00+00:00",
+        "updated_at": "2026-11-19T04:36:59.553467+00:00"
+      },
+      {
+        "memory": "Andrew has always wanted to learn dog grooming but has never had time to do so",
+        "score": 0.3324,
+        "id": "04a7c6be-00fc-459a-aa50-64961bd14c14",
+        "created_at": "2023-08-19T21:19:00+00:00",
+        "updated_at": "2026-11-19T05:10:53.947433+00:00"
+      },
+      {
+        "memory": "Andrew is finding a pet-friendly place to live, finds it tough, and is contacting landlords and checking neighborhoods to find the perfect spot",
+        "score": 0.3317,
+        "id": "4c72e586-cedc-4dd3-bd40-b62e22cde66d",
+        "created_at": "2023-05-06T10:47:00+00:00",
+        "updated_at": "2026-11-19T04:26:05.137262+00:00"
+      },
+      {
+        "memory": "Andrew asked Audrey for tips on being a multi-dog pet owner",
+        "score": 0.3309,
+        "id": "a39064e6-fcea-4637-9d1a-c73edd3f62e1",
+        "created_at": "2023-11-04T19:59:00+00:00",
+        "updated_at": "2026-11-19T05:52:28.153870+00:00"
+      },
+      {
+        "memory": "Andrew plans to ensure the trail is safe for the dogs to run around and have fun",
+        "score": 0.3296,
+        "id": "864804bd-1a52-4740-97cd-1205dde4d750",
+        "created_at": "2023-07-08T09:48:00+00:00",
+        "updated_at": "2026-11-19T04:52:20.653978+00:00"
+      },
+      {
+        "memory": "Andrew feels anxious about his dog getting lost",
+        "score": 0.3295,
+        "id": "c385f5b8-5346-434a-b910-8bc937583e65",
+        "created_at": "2023-09-24T17:53:00+00:00",
+        "updated_at": "2026-11-19T05:19:46.632337+00:00"
+      },
+      {
+        "memory": "Andrew says Audrey's dogs look like they're really enjoying themselves during the walk",
+        "score": 0.328,
+        "id": "5e314e01-59a6-49a6-8ae7-d23a8b1dd482",
+        "created_at": "2023-06-13T17:23:00+00:00",
+        "updated_at": "2026-11-19T04:36:23.274601+00:00"
+      },
+      {
+        "memory": "Andrew was recommended a great dog park close by and the idea to bring coffee over",
+        "score": 0.3274,
+        "id": "8b4c33ff-23d6-4296-ac93-802d1288670d",
+        "created_at": "2023-10-13T16:22:00+00:00",
+        "updated_at": "2026-11-19T05:36:00.129231+00:00"
+      },
+      {
+        "memory": "Andrew feels glad that Audrey's dogs bring her a lot of joy",
+        "score": 0.3272,
+        "id": "58a006f0-959b-4da3-a82a-c6b46e7b57fb",
+        "created_at": "2023-04-16T16:19:00+00:00",
+        "updated_at": "2026-11-19T04:18:31.049130+00:00"
+      },
+      {
+        "memory": "Andrew asked if Audrey's dogs enjoy playing in the garden",
+        "score": 0.3242,
+        "id": "0315c26a-d9bf-48f7-90b3-b8609462c642",
+        "created_at": "2023-09-24T17:53:00+00:00",
+        "updated_at": "2026-11-19T05:22:24.139074+00:00"
+      },
+      {
+        "memory": "Andrew said he will try the dog-friendly websites that Audrey mentioned for finding a dog-friendly place",
+        "score": 0.3238,
+        "id": "c3139416-6bfa-49ff-80f4-b6f31623746f",
+        "created_at": "2023-04-02T14:42:00+00:00",
+        "updated_at": "2026-11-19T04:07:24.689880+00:00"
+      },
+      {
+        "memory": "Andrew thought the picture of a dog on a trail was cute",
+        "score": 0.3237,
+        "id": "da92a702-5935-4476-9f48-1167271ddb7b",
+        "created_at": "2023-04-02T14:42:00+00:00",
+        "updated_at": "2026-11-19T04:09:26.643504+00:00"
+      },
+      {
+        "memory": "Andrew said that about an hour is a good amount of time for a nice stroll and to look around with his dogs",
+        "score": 0.3226,
+        "id": "a4aa9aa2-c3e5-432b-95a3-424cf8c0f7e9",
+        "created_at": "2023-06-13T17:23:00+00:00",
+        "updated_at": "2026-11-19T04:36:43.149804+00:00"
+      },
+      {
+        "memory": "Andrew shared a photo of a man lying on a couch with a dog",
+        "score": 0.322,
+        "id": "7fa53de9-2491-4f5c-bd86-c23c39a320ec",
+        "created_at": "2023-08-16T21:58:00+00:00",
+        "updated_at": "2026-11-19T05:09:28.319513+00:00"
+      },
+      {
+        "memory": "Andrew has hiked with her dogs and finds it a fun way to bond and create memories",
+        "score": 0.3217,
+        "id": "c25346af-e621-4881-a7dd-b698de55384d",
+        "created_at": "2023-10-13T16:22:00+00:00",
+        "updated_at": "2026-11-19T05:40:33.214571+00:00"
+      },
+      {
+        "memory": "Andrew observes that Audrey's dogs look comfortable in their bed and are clearly well loved",
+        "score": 0.32,
+        "id": "7cfbc047-7613-4422-8acb-b1708ea9a0e4",
+        "created_at": "2023-07-03T20:32:00+00:00",
+        "updated_at": "2026-11-19T04:46:04.308507+00:00"
+      },
+      {
+        "memory": "Andrew believes that some dogs just need more time to build a bond",
+        "score": 0.3182,
+        "id": "3ad58ef4-6aac-4285-8e57-74c4a5506dd6",
+        "created_at": "2023-09-24T17:53:00+00:00",
+        "updated_at": "2026-11-19T05:20:34.518937+00:00"
+      },
+      {
+        "memory": "Andrew mentioned a nearby doggy daycare that has a large indoor space for dogs to play",
+        "score": 0.3177,
+        "id": "9b2e756b-99f2-4623-ae39-a4790b112d4c",
+        "created_at": "2023-06-26T13:51:00+00:00",
+        "updated_at": "2026-11-19T04:41:48.470518+00:00"
+      },
+      {
+        "memory": "Andrew is looking forward to going hiking with the dogs soon",
+        "score": 0.3169,
+        "id": "dd8137c9-38a0-4f48-aa77-e381518a16ec",
+        "created_at": "2023-07-08T09:48:00+00:00",
+        "updated_at": "2026-11-19T04:55:17.670355+00:00"
+      }
+    ],
+    "search_latency_ms": 400.3,
+    "total_results": 50
+  },
+  "cutoff_results": {
+    "top_50": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "- Lean on what already reduces his stress: cook to unwind and get into nature—nearby parks or hikes—since he says these calm him from city life.\n- Build routines that help both him and the dogs: daily ~1‑hour strolls and trips to the recommended nearby dog park (coffee in hand), keeping them active like Audrey suggested.\n- Use city-friendly supports: take advantage of the nearby doggy daycare with a large indoor play space when apartment life limits exercise.\n- Make housing easier: follow through on the dog‑friendly websites Audrey shared and keep contacting landlords/neighborhoods to secure a more pet‑friendly place.\n- Apartment upkeep: take the dogs to the groomer as planned (or learn basic grooming) to cut down on shedding and mess at home.\n- Manage load: hold off on adding another dog until the current care workload feels manageable.\n- Ease worries: invest extra bonding time (as he’s noted some dogs need) to reduce his anxiety about a dog getting lost and improve recall.",
+      "memories_evaluated": 50,
+      "reason": "The generated answer doesn’t include changing to a hybrid/remote job or moving to the suburbs for more space and proximity to nature, which are the gold answer’s core items."
+    }
+  }
+}

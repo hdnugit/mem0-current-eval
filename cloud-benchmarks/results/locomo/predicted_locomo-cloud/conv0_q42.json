@@ -1,0 +1,380 @@
+{
+  "question_id": "conv0_q42",
+  "conversation_idx": 0,
+  "category": 3,
+  "category_name": "open-domain",
+  "question": "Would Melanie be more interested in going to a national park or a theme park?",
+  "ground_truth_answer": "National park; she likes the outdoors",
+  "evidence": [
+    "D10:12",
+    "D10:14"
+  ],
+  "user_id": "locomo_0_fe8ec031",
+  "reference_date": "9:55 am on 22 October, 2023",
+  "retrieval": {
+    "search_query": "Would Melanie be more interested in going to a national park or a theme park?",
+    "search_results": [
+      {
+        "memory": "Melanie is going swimming with her kids",
+        "score": 0.5781,
+        "id": "5d87d1d0-d866-4708-b212-c9ca7ffe0f90",
+        "created_at": "2023-05-08T13:56:00+00:00",
+        "updated_at": "2026-11-19T04:05:25.313020+00:00"
+      },
+      {
+        "memory": "Caroline expressed relief that everything worked out and said that Melanie had a good time at the park",
+        "score": 0.537,
+        "id": "23440931-32c7-42a1-acb1-8db1d28f06be",
+        "created_at": "2023-09-13T00:09:00+00:00",
+        "updated_at": "2026-11-19T05:14:11.913372+00:00"
+      },
+      {
+        "memory": "Melanie said her kids are really amazing, she wishes she were as resilient as they are, and that they give her strength to keep going",
+        "score": 0.5094,
+        "id": "d80cb478-573d-4e16-a06d-9c50d4141b54",
+        "created_at": "2023-10-20T18:55:00+00:00",
+        "updated_at": "2026-11-19T05:21:22.990885+00:00"
+      },
+      {
+        "memory": "Melanie shared a photo showing a band playing on a stage in a park with colorful lights and a microphone",
+        "score": 0.4405,
+        "id": "ef0f2d72-53d8-4c55-8f32-9164ea153bda",
+        "created_at": "2023-08-28T15:19:00+00:00",
+        "updated_at": "2026-11-19T05:08:14.706788+00:00"
+      },
+      {
+        "memory": "Melanie expressed that she loves the self-acceptance and love theme in Caroline's artwork",
+        "score": 0.4293,
+        "id": "8b7f5b6e-979f-4720-8340-838f5847751a",
+        "created_at": "2023-08-14T14:24:00+00:00",
+        "updated_at": "2026-11-19T04:49:08.223235+00:00"
+      },
+      {
+        "memory": "Melanie shared a photo showing a man and a woman sitting on a blanket eating food at a family picnic in a park",
+        "score": 0.3851,
+        "id": "1923e624-735a-470d-86b2-c132f042e8b3",
+        "created_at": "2023-06-09T19:55:00+00:00",
+        "updated_at": "2026-11-19T04:16:18.596724+00:00"
+      },
+      {
+        "memory": "Melanie went to the beach recently with her kids, and they had a blast",
+        "score": 0.3739,
+        "id": "4143a6bd-3d39-4ee6-b8f9-bee0aaaa14b7",
+        "created_at": "2023-07-20T20:56:00+00:00",
+        "updated_at": "2026-11-19T04:43:19.151735+00:00"
+      },
+      {
+        "memory": "Melanie had a quiet weekend on July 15-16, 2023, after going camping with her family on July 8-9, 2023, and enjoyed unplugging and hanging out with the kids.",
+        "score": 0.3614,
+        "id": "f732288a-2cb3-48cf-b588-d69233d7e7f5",
+        "created_at": "2023-07-17T14:31:00+00:00",
+        "updated_at": "2026-11-19T04:40:43.646716+00:00"
+      },
+      {
+        "memory": "Melanie took her kids to a park on August 27, 2023, where they explored and played on a playground with a climbing net and a slide, having fun outdoors.",
+        "score": 0.3603,
+        "id": "9b9c85e6-642f-4c43-9c43-e5e159a65188",
+        "created_at": "2023-08-28T15:19:00+00:00",
+        "updated_at": "2026-11-19T05:06:48.034388+00:00"
+      },
+      {
+        "memory": "Melanie went camping with her kids a few weeks before September 13, 2023, exploring the forest and hiking, and described it as a blast.",
+        "score": 0.3073,
+        "id": "ae4d8b4e-70ff-4402-8ad9-593f2b9d6782",
+        "created_at": "2023-09-13T00:09:00+00:00",
+        "updated_at": "2026-11-19T05:11:06.333419+00:00"
+      },
+      {
+        "memory": "Melanie suggested planning a family outing this summer",
+        "score": 0.2869,
+        "id": "fc09cd8b-dfe6-4f09-b121-184ff556ea61",
+        "created_at": "2023-08-17T13:50:00+00:00",
+        "updated_at": "2026-11-19T04:53:04.901646+00:00"
+      },
+      {
+        "memory": "Melanie feels both excited and nervous about a big decision",
+        "score": 0.2798,
+        "id": "5479799b-03e1-4178-8153-9d2802388c88",
+        "created_at": "2023-08-23T15:31:00+00:00",
+        "updated_at": "2026-11-19T04:55:03.031142+00:00"
+      },
+      {
+        "memory": "Melanie shared that during her recent family camping trip she explored nature, roasted marshmallows around a campfire, and went on a hike, noting the view from the top was amazing and that her two younger kids love nature, describing the moments as special and unforgettable",
+        "score": 0.2753,
+        "id": "ec19c238-fb8f-401a-b49e-c633ea0db1b5",
+        "created_at": "2023-06-27T10:37:00+00:00",
+        "updated_at": "2026-11-19T04:19:55.155812+00:00"
+      },
+      {
+        "memory": "Caroline felt glad about bonding with Melanie over their shared love of nature",
+        "score": 0.2741,
+        "id": "50d1a8bc-ab65-4a74-acb7-09196ef760be",
+        "created_at": "2023-07-15T13:51:00+00:00",
+        "updated_at": "2026-11-19T04:34:47.458232+00:00"
+      },
+      {
+        "memory": "User expressed that Melanie's volunteering is heartwarming and inspirational",
+        "score": 0.2741,
+        "id": "d044f2a3-6d1d-4220-987d-83ab41e286a7",
+        "created_at": "2023-08-25T13:33:00+00:00",
+        "updated_at": "2026-11-19T05:00:57.976998+00:00"
+      },
+      {
+        "memory": "Melanie enjoys hiking in the mountains and exploring forests as a way to connect with nature and each other",
+        "score": 0.2717,
+        "id": "71f733c7-90e5-4372-912e-c604ef954550",
+        "created_at": "2023-07-15T13:51:00+00:00",
+        "updated_at": "2026-11-19T04:39:34.966136+00:00"
+      },
+      {
+        "memory": "Melanie says camping trips help her reset and recharge, and that nature brings her peace and serenity",
+        "score": 0.2715,
+        "id": "50c0c7d1-5381-4c7b-bb41-5e31cf31e939",
+        "created_at": "2023-10-20T18:55:00+00:00",
+        "updated_at": "2026-11-19T05:22:58.805719+00:00"
+      },
+      {
+        "memory": "Melanie expressed excitement about seeing where pottery takes her",
+        "score": 0.2699,
+        "id": "4d460a5b-5a1f-4d9d-91da-0f9a08d016d4",
+        "created_at": "2023-07-03T13:36:00+00:00",
+        "updated_at": "2026-11-19T04:23:11.821620+00:00"
+      },
+      {
+        "memory": "Caroline is going to do some research",
+        "score": 0.2692,
+        "id": "3e0703b8-d508-44b6-b201-20dcc79bf32e",
+        "created_at": "2023-05-08T13:56:00+00:00",
+        "updated_at": "2026-11-19T04:05:09.067403+00:00"
+      },
+      {
+        "memory": "Caroline looks forward to making awesome memories with Melanie",
+        "score": 0.2691,
+        "id": "b063cdfe-5a2e-4c45-8348-006ed0ec4410",
+        "created_at": "2023-08-17T13:50:00+00:00",
+        "updated_at": "2026-11-19T04:53:42.669868+00:00"
+      },
+      {
+        "memory": "Melanie loves live music",
+        "score": 0.2664,
+        "id": "2f540624-ceb5-4985-8cc6-1bea0d9ca393",
+        "created_at": "2023-08-28T15:19:00+00:00",
+        "updated_at": "2026-11-19T05:08:14.706788+00:00"
+      },
+      {
+        "memory": "Caroline is glad Melanie got some rest and relaxation after the drive",
+        "score": 0.2634,
+        "id": "dd952717-6bbc-4968-bb27-14d30a6ccbab",
+        "created_at": "2023-10-20T18:55:00+00:00",
+        "updated_at": "2026-11-19T05:22:50.591465+00:00"
+      },
+      {
+        "memory": "Melanie says her favorite subjects to paint are landscapes and still life",
+        "score": 0.2631,
+        "id": "8fd021e6-d1b0-40ad-8ad5-a6f9d698d52a",
+        "created_at": "2023-08-25T13:33:00+00:00",
+        "updated_at": "2026-11-19T05:05:34.507406+00:00"
+      },
+      {
+        "memory": "Melanie thought the adoption agency Caroline was considering looked great",
+        "score": 0.2625,
+        "id": "297b8a6b-c3ef-40c7-baa7-7fef0262d6c2",
+        "created_at": "2023-05-25T13:14:00+00:00",
+        "updated_at": "2026-11-19T04:08:53.106048+00:00"
+      },
+      {
+        "memory": "Caroline thought Melanie's wedding was special",
+        "score": 0.2617,
+        "id": "eb3d64ce-f00f-46e0-a936-e3aae878b130",
+        "created_at": "2023-07-15T13:51:00+00:00",
+        "updated_at": "2026-11-19T04:35:32.792798+00:00"
+      },
+      {
+        "memory": "Melanie suggested planning something special with Caroline",
+        "score": 0.2603,
+        "id": "05856952-8f50-4472-bd77-de051ac35889",
+        "created_at": "2023-08-17T13:50:00+00:00",
+        "updated_at": "2026-11-19T04:53:49.115021+00:00"
+      },
+      {
+        "memory": "Melanie congratulated Caroline on her journey",
+        "score": 0.259,
+        "id": "5938f145-e096-4ef3-8da4-a629b7eacfc6",
+        "created_at": "2023-10-13T10:31:00+00:00",
+        "updated_at": "2026-11-19T05:14:44.078436+00:00"
+      },
+      {
+        "memory": "Melanie is doing an awesome job looking after herself and her family",
+        "score": 0.2585,
+        "id": "2829a9f7-711b-4638-9d7b-f37adeceb1ee",
+        "created_at": "2023-05-25T13:14:00+00:00",
+        "updated_at": "2026-11-19T04:07:20.317624+00:00"
+      },
+      {
+        "memory": "Melanie is swamped with the kids and work",
+        "score": 0.2584,
+        "id": "4eb9aece-af23-43ec-9f7d-ed500ec1e160",
+        "created_at": "2023-05-08T13:56:00+00:00",
+        "updated_at": "2026-11-19T04:02:41.090773+00:00"
+      },
+      {
+        "memory": "Melanie expressed interest in seeing another painting from Caroline",
+        "score": 0.2575,
+        "id": "db54397d-26d4-45d4-8557-7b3edf3f4ee4",
+        "created_at": "2023-08-14T14:24:00+00:00",
+        "updated_at": "2026-11-19T04:48:31.329373+00:00"
+      },
+      {
+        "memory": "Melanie says she and her kids go to the beach only once or twice a year, and she finds those visits the best and special time together",
+        "score": 0.2574,
+        "id": "6c1f2c26-51df-4312-a887-68c946ffad78",
+        "created_at": "2023-07-20T20:56:00+00:00",
+        "updated_at": "2026-11-19T04:43:41.420629+00:00"
+      },
+      {
+        "memory": "Melanie said life is about learning and exploring and expressed gladness about being on a trip together with Caroline",
+        "score": 0.2574,
+        "id": "d99a2dca-d56b-4c16-9f70-82c4ed955342",
+        "created_at": "2023-10-13T10:31:00+00:00",
+        "updated_at": "2026-11-19T05:19:57.922001+00:00"
+      },
+      {
+        "memory": "Melanie mentions she has been reading a book that Caroline recommended and painting to keep busy",
+        "score": 0.2566,
+        "id": "dcb1b137-2e94-4ee2-a991-2fd350c335a4",
+        "created_at": "2023-10-13T10:31:00+00:00",
+        "updated_at": "2026-11-19T05:16:56.017518+00:00"
+      },
+      {
+        "memory": "Caroline is looking forward to seeing Melanie's pottery project and is happy that Melanie found something that makes her happy",
+        "score": 0.2551,
+        "id": "19b3e396-1cc8-4a8e-acad-7f5a4dec4d24",
+        "created_at": "2023-08-17T13:50:00+00:00",
+        "updated_at": "2026-11-19T04:50:14.949383+00:00"
+      },
+      {
+        "memory": "Melanie said the sign was just a precaution and that she had a great time",
+        "score": 0.254,
+        "id": "46bde0ce-7243-44ef-9113-0892b2cb789b",
+        "created_at": "2023-09-13T00:09:00+00:00",
+        "updated_at": "2026-11-19T05:14:04.924782+00:00"
+      },
+      {
+        "memory": "Melanie believes pets are awesome for joy and comfort",
+        "score": 0.2539,
+        "id": "77c51c84-a5d2-4275-b662-a4501415fa1d",
+        "created_at": "2023-07-12T16:33:00+00:00",
+        "updated_at": "2026-11-19T04:30:12.548029+00:00"
+      },
+      {
+        "memory": "Melanie said she can't wait to hear about Caroline's upcoming transgender conference and wished her fun and safety",
+        "score": 0.253,
+        "id": "11c96d85-8ea4-45b4-925b-221e45093e15",
+        "created_at": "2023-07-03T13:36:00+00:00",
+        "updated_at": "2026-11-19T04:24:04.640611+00:00"
+      },
+      {
+        "memory": "Caroline asked Melanie how she is doing in finding peace",
+        "score": 0.2525,
+        "id": "25467a45-9e82-411a-a31d-5593944eafbc",
+        "created_at": "2023-07-15T13:51:00+00:00",
+        "updated_at": "2026-11-19T04:37:57.499031+00:00"
+      },
+      {
+        "memory": "Melanie cherishes time with family and feels alive and happy when she does",
+        "score": 0.252,
+        "id": "88284b4a-e289-42cc-a42e-0cb878182eb5",
+        "created_at": "2023-06-09T19:55:00+00:00",
+        "updated_at": "2026-11-19T04:18:03.974124+00:00"
+      },
+      {
+        "memory": "Caroline says she finds Melanie's family time peaceful, calming, and tranquil, and appreciates that Melanie gets to spend quality, tranquil time with her family",
+        "score": 0.2517,
+        "id": "72e4c954-b6a8-4d93-8ac3-55db74cd9b75",
+        "created_at": "2023-10-20T18:55:00+00:00",
+        "updated_at": "2026-11-19T05:23:28.551315+00:00"
+      },
+      {
+        "memory": "Melanie said that creativity and family keep her at peace",
+        "score": 0.2511,
+        "id": "c6f74d97-9d46-4757-a3f6-1c87ed882375",
+        "created_at": "2023-07-15T13:51:00+00:00",
+        "updated_at": "2026-11-19T04:38:09.804757+00:00"
+      },
+      {
+        "memory": "Melanie said the event was thought‑provoking.",
+        "score": 0.2509,
+        "id": "758c7d92-113f-4877-acc2-0934745f0d6c",
+        "created_at": "2023-05-25T13:14:00+00:00",
+        "updated_at": "2026-11-19T04:06:21.049809+00:00"
+      },
+      {
+        "memory": "Melanie says her family are her biggest motivation and support",
+        "score": 0.2503,
+        "id": "446790e6-9534-41c2-8ba5-28299d856d9f",
+        "created_at": "2023-10-20T18:55:00+00:00",
+        "updated_at": "2026-11-19T05:21:54.914998+00:00"
+      },
+      {
+        "memory": "Melanie expressed that she loves the inclusivity and support of the adoption agency being considered",
+        "score": 0.25,
+        "id": "fc557e8d-6a4d-41aa-99c4-1fb1f831692a",
+        "created_at": "2023-05-25T13:14:00+00:00",
+        "updated_at": "2026-11-19T04:09:14.675841+00:00"
+      },
+      {
+        "memory": "Caroline expressed that she is glad to have Melanie as a friend to share her journey and thanked her, calling her awesome",
+        "score": 0.2497,
+        "id": "95732dc8-2df7-416e-8379-837acf743af8",
+        "created_at": "2023-07-15T13:51:00+00:00",
+        "updated_at": "2026-11-19T04:39:38.530472+00:00"
+      },
+      {
+        "memory": "Caroline asked Melanie if she likes painting animals",
+        "score": 0.2489,
+        "id": "47f4028e-d723-45ed-86dc-0a9ecbba9b7e",
+        "created_at": "2023-08-23T15:31:00+00:00",
+        "updated_at": "2026-11-19T04:56:34.862212+00:00"
+      },
+      {
+        "memory": "Melanie felt it was hard to see neglected people but felt great to make a difference during the volunteer day",
+        "score": 0.2479,
+        "id": "e630797e-db7e-4df2-9ee3-fc463ab58571",
+        "created_at": "2023-08-25T13:33:00+00:00",
+        "updated_at": "2026-11-19T05:00:38.936628+00:00"
+      },
+      {
+        "memory": "Caroline asked Melanie about her favorite tunes",
+        "score": 0.2476,
+        "id": "113f122a-2f3b-4cba-aac3-2f18c876674a",
+        "created_at": "2023-08-28T15:19:00+00:00",
+        "updated_at": "2026-11-19T05:10:32.494696+00:00"
+      },
+      {
+        "memory": "Melanie said the item was gorgeous",
+        "score": 0.2464,
+        "id": "4764d8b0-34cd-4459-b7e8-295884819ec9",
+        "created_at": "2023-08-25T13:33:00+00:00",
+        "updated_at": "2026-11-19T05:03:22.672950+00:00"
+      },
+      {
+        "memory": "Caroline observed that Melanie and her family looked happy",
+        "score": 0.2461,
+        "id": "10d810cd-71eb-41bd-9448-e35e662e0d73",
+        "created_at": "2023-06-09T19:55:00+00:00",
+        "updated_at": "2026-11-19T04:16:23.063154+00:00"
+      }
+    ],
+    "search_latency_ms": 393.5,
+    "total_results": 50
+  },
+  "cutoff_results": {
+    "top_50": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "A national park.",
+      "memories_evaluated": 50,
+      "reason": "The generated answer matches the gold answer by selecting a national park."
+    }
+  }
+}

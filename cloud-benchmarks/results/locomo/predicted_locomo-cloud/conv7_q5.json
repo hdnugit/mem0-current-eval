@@ -1,0 +1,379 @@
+{
+  "question_id": "conv7_q5",
+  "conversation_idx": 7,
+  "category": 3,
+  "category_name": "open-domain",
+  "question": "In what country did Jolene's mother buy her the pendant?",
+  "ground_truth_answer": "In France",
+  "evidence": [
+    "D1:8"
+  ],
+  "user_id": "locomo_7_fe8ec031",
+  "reference_date": "10:17 am on 20 September, 2023",
+  "retrieval": {
+    "search_query": "In what country did Jolene's mother buy her the pendant?",
+    "search_results": [
+      {
+        "memory": "Jolene bought her pendant in Paris around January 27, 2022",
+        "score": 0.7157,
+        "id": "49a40eef-309f-4539-bdf9-d2b1dca5500b",
+        "created_at": "2023-01-27T09:49:00+00:00",
+        "updated_at": "2026-11-19T04:08:12.183971+00:00"
+      },
+      {
+        "memory": "Jolene has a heart-shaped pendant with a bird motif that was given to her by her mother in 2010 in Paris",
+        "score": 0.7091,
+        "id": "506ebf33-1f46-49b9-be41-d202751bef08",
+        "created_at": "2023-01-23T16:06:00+00:00",
+        "updated_at": "2026-11-19T04:08:08.199514+00:00"
+      },
+      {
+        "memory": "Deborah has a pendant that reminds her of her mother",
+        "score": 0.633,
+        "id": "2dd6d38d-4060-47d6-8edc-c2b4d3b82221",
+        "created_at": "2023-01-23T16:06:00+00:00",
+        "updated_at": "2026-11-19T04:03:42.512389+00:00"
+      },
+      {
+        "memory": "Anna wears a pendant in memory of her mother, and this has brought her closer to Deborah",
+        "score": 0.6154,
+        "id": "13bbda80-7fc7-4b54-a238-a02c5581cbec",
+        "created_at": "2023-02-04T09:48:00+00:00",
+        "updated_at": "2026-11-19T04:19:54.289190+00:00"
+      },
+      {
+        "memory": "Jolene's mother passed away in 2022",
+        "score": 0.5877,
+        "id": "cd36d3a0-5246-4f09-b99a-06d83d8c912a",
+        "created_at": "2023-01-23T16:06:00+00:00",
+        "updated_at": "2026-11-19T04:03:25.657017+00:00"
+      },
+      {
+        "memory": "Jolene's heart-shaped pendant features a special symbol that represents freedom for her and serves as a reminder to pursue her goals",
+        "score": 0.5393,
+        "id": "91a25baf-a627-437d-a0de-5ba87065ab88",
+        "created_at": "2023-01-23T16:06:00+00:00",
+        "updated_at": "2026-11-19T04:03:49.791110+00:00"
+      },
+      {
+        "memory": "Jolene said it’s great that Deborah could reconnect with her mother’s old friends",
+        "score": 0.5195,
+        "id": "0b2cb4b6-be0d-419d-b0b2-5fcbc572cbf6",
+        "created_at": "2023-09-15T15:09:00+00:00",
+        "updated_at": "2026-11-19T05:48:28.001615+00:00"
+      },
+      {
+        "memory": "Jolene bought a black Xbox console as a gift for her partner on August 17, 2023",
+        "score": 0.4876,
+        "id": "0020adf1-674a-4930-a576-bef7f42117d6",
+        "created_at": "2023-08-19T00:52:00+00:00",
+        "updated_at": "2026-11-19T05:10:24.518128+00:00"
+      },
+      {
+        "memory": "Deborah believes her pendant should give her strength and energy",
+        "score": 0.4489,
+        "id": "598232c3-2a42-435a-975e-6f024ec42815",
+        "created_at": "2023-01-23T16:06:00+00:00",
+        "updated_at": "2026-11-19T04:03:56.777960+00:00"
+      },
+      {
+        "memory": "Jolene bought a new aquarium the day before yesterday and has her snake Seraphim in it, sharing new photos of Seraphim curled up in a plant‑filled area",
+        "score": 0.4479,
+        "id": "ee5fcaf1-b75b-4225-abc2-105adf302884",
+        "created_at": "2023-06-26T09:17:00+00:00",
+        "updated_at": "2026-11-19T04:49:41.780489+00:00"
+      },
+      {
+        "memory": "Jolene said the country she visited was awesome, introduced her to different kinds of yoga and their backgrounds, which increased her appreciation, and she visited many delicious cafes during the trip",
+        "score": 0.4465,
+        "id": "47a87aab-187e-496b-860a-542c3dca3526",
+        "created_at": "2023-08-30T11:46:00+00:00",
+        "updated_at": "2026-11-19T05:30:30.527151+00:00"
+      },
+      {
+        "memory": "Jolene has a room in her mother's house that she uses as a serene yoga studio, featuring a bench and a window, and she has many memories there",
+        "score": 0.4419,
+        "id": "c4097b1e-9b25-4cb4-a669-a8d13e985540",
+        "created_at": "2023-01-23T16:06:00+00:00",
+        "updated_at": "2026-11-19T04:03:25.657017+00:00"
+      },
+      {
+        "memory": "Jolene received a lot of support from her parents",
+        "score": 0.2921,
+        "id": "e166eccc-63ea-4f5b-987e-036821347b6a",
+        "created_at": "2023-09-03T14:14:00+00:00",
+        "updated_at": "2026-11-19T05:37:47.257251+00:00"
+      },
+      {
+        "memory": "Jolene explored new places",
+        "score": 0.2873,
+        "id": "b3926e04-6a3f-4665-b756-8a4f91a0efeb",
+        "created_at": "2023-03-02T19:18:00+00:00",
+        "updated_at": "2026-11-19T04:31:50.971990+00:00"
+      },
+      {
+        "memory": "Jolene has snakes",
+        "score": 0.2863,
+        "id": "3f4e9435-e6a5-4ae3-8d92-3add1cb0edcd",
+        "created_at": "2023-08-26T17:33:00+00:00",
+        "updated_at": "2026-11-19T05:27:55.610654+00:00"
+      },
+      {
+        "memory": "Jolene experimented with a method and found it really helped her",
+        "score": 0.2834,
+        "id": "e2d7eaf1-8331-4cab-8fb9-4ce2c6a63794",
+        "created_at": "2023-09-08T19:39:00+00:00",
+        "updated_at": "2026-11-19T05:42:53.562677+00:00"
+      },
+      {
+        "memory": "Jolene has been trying to squeeze in some me-time",
+        "score": 0.2822,
+        "id": "a5fd262b-a5f6-4f40-8c2a-4da6b56f631d",
+        "created_at": "2023-03-02T19:18:00+00:00",
+        "updated_at": "2026-11-19T04:30:32.875351+00:00"
+      },
+      {
+        "memory": "Jolene learned to play on her own as a child",
+        "score": 0.2822,
+        "id": "63506ae9-4501-4d45-8021-e65999a60131",
+        "created_at": "2023-01-27T09:49:00+00:00",
+        "updated_at": "2026-11-19T04:09:01.132342+00:00"
+      },
+      {
+        "memory": "Jolene recently returned from a trip with her partner",
+        "score": 0.28,
+        "id": "01c91641-048f-490e-8da2-b1f255c93630",
+        "created_at": "2023-09-20T10:17:00+00:00",
+        "updated_at": "2026-11-19T05:56:28.281964+00:00"
+      },
+      {
+        "memory": "Jolene said that the amulet can keep loved ones close in their hearts every day",
+        "score": 0.277,
+        "id": "8c3d058c-98da-4d4b-a0d1-fd9fd9f5785c",
+        "created_at": "2023-02-04T09:48:00+00:00",
+        "updated_at": "2026-11-19T04:19:44.592897+00:00"
+      },
+      {
+        "memory": "Deborah felt nostalgia, longing, and gratitude while at the bench where she and her mother used to chat, after bringing flowers there.",
+        "score": 0.274,
+        "id": "ec890cf1-249b-4b77-934c-df404ed502bd",
+        "created_at": "2023-08-21T09:11:00+00:00",
+        "updated_at": "2026-11-19T05:15:41.701595+00:00"
+      },
+      {
+        "memory": "Jolene says she is really finding her zen again",
+        "score": 0.2729,
+        "id": "6c9b5a2d-613f-4099-b810-e96a5252abe0",
+        "created_at": "2023-08-21T09:11:00+00:00",
+        "updated_at": "2026-11-19T05:19:34.442453+00:00"
+      },
+      {
+        "memory": "Jolene used to bake cookies with someone close to her",
+        "score": 0.2683,
+        "id": "3ac8493b-9b06-4fc5-b472-ac2c8fb56564",
+        "created_at": "2023-09-17T13:24:00+00:00",
+        "updated_at": "2026-11-19T05:53:01.373161+00:00"
+      },
+      {
+        "memory": "User asked Jolene what the trip taught her",
+        "score": 0.2671,
+        "id": "4e9d5307-f4c8-42e5-8dd0-54a858c68031",
+        "created_at": "2023-08-30T11:46:00+00:00",
+        "updated_at": "2026-11-19T05:30:21.743286+00:00"
+      },
+      {
+        "memory": "Jolene says a hidden gem makes her feel peaceful and tranquil",
+        "score": 0.2666,
+        "id": "7ab4e56b-fd49-4778-8af0-9964030e00a7",
+        "created_at": "2023-07-09T19:37:00+00:00",
+        "updated_at": "2026-11-19T04:59:08.243686+00:00"
+      },
+      {
+        "memory": "Jolene is not familiar with the referenced item and asks what it is about",
+        "score": 0.266,
+        "id": "3b255439-16c1-4672-968d-1b25359c37a7",
+        "created_at": "2023-03-22T17:35:00+00:00",
+        "updated_at": "2026-11-19T04:37:25.223388+00:00"
+      },
+      {
+        "memory": "Jolene mentioned that they went on many excursions in Rio de Janeiro",
+        "score": 0.2657,
+        "id": "1fd952e3-a4ce-468e-a57f-60162215d2b0",
+        "created_at": "2023-08-30T11:46:00+00:00",
+        "updated_at": "2026-11-19T05:33:09.392910+00:00"
+      },
+      {
+        "memory": "Deborah says she will always be by Jolene's side",
+        "score": 0.2655,
+        "id": "2e3472db-0410-41f3-8634-3bdac5f5d74a",
+        "created_at": "2023-08-24T09:34:00+00:00",
+        "updated_at": "2026-11-19T05:23:41.257302+00:00"
+      },
+      {
+        "memory": "Jolene said she will make sure to take it.",
+        "score": 0.2635,
+        "id": "21f19254-c02a-4580-88d0-4bd1de11e0a5",
+        "created_at": "2023-03-13T11:22:00+00:00",
+        "updated_at": "2026-11-19T04:35:45.302140+00:00"
+      },
+      {
+        "memory": "Jolene shared an image showing a purse with a plant on a table",
+        "score": 0.2627,
+        "id": "8aefd78a-bdfb-4a3a-986b-3dde3fef2c78",
+        "created_at": "2023-02-01T19:03:00+00:00",
+        "updated_at": "2026-11-19T04:12:02.480289+00:00"
+      },
+      {
+        "memory": "Jolene encouraged Deborah to keep finding beautiful things",
+        "score": 0.2626,
+        "id": "e0f9fad5-cfa7-45d2-ac4f-6e219c3d6d09",
+        "created_at": "2023-09-20T10:17:00+00:00",
+        "updated_at": "2026-11-19T05:58:39.491442+00:00"
+      },
+      {
+        "memory": "Jolene says she really likes it",
+        "score": 0.2623,
+        "id": "af2d8854-e9e8-45bf-a077-5525f4d6fcd3",
+        "created_at": "2023-09-17T13:24:00+00:00",
+        "updated_at": "2026-11-19T05:53:36.015333+00:00"
+      },
+      {
+        "memory": "Jolene said she will keep Deborah posted if she decides to go there",
+        "score": 0.2622,
+        "id": "c42f68b1-e28c-480f-b78d-b873d277ecb5",
+        "created_at": "2023-02-22T16:12:00+00:00",
+        "updated_at": "2026-11-19T04:24:52.996715+00:00"
+      },
+      {
+        "memory": "Jolene thanked Deborah and said she will let her know if she needs anything else",
+        "score": 0.2614,
+        "id": "594cbd81-e725-4a95-84e1-8fb5010eab86",
+        "created_at": "2023-02-09T21:03:00+00:00",
+        "updated_at": "2026-11-19T04:22:32.023920+00:00"
+      },
+      {
+        "memory": "Jolene goes to a nearby tranquil spot to meditate",
+        "score": 0.2604,
+        "id": "d747d41a-f4eb-4696-b602-aa8d0a259eaf",
+        "created_at": "2023-08-30T11:46:00+00:00",
+        "updated_at": "2026-11-19T05:31:18.451113+00:00"
+      },
+      {
+        "memory": "Jolene is really thankful for her significant other, who encourages her goals",
+        "score": 0.2601,
+        "id": "531d9a97-7d81-4066-a540-b357b0452c90",
+        "created_at": "2023-09-03T14:14:00+00:00",
+        "updated_at": "2026-11-19T05:37:10.493190+00:00"
+      },
+      {
+        "memory": "Jolene says pets have been great company.",
+        "score": 0.2566,
+        "id": "afd3cfd8-5f8c-437b-9bd3-0eb2328e2b59",
+        "created_at": "2023-08-01T09:26:00+00:00",
+        "updated_at": "2026-11-19T05:00:19.690080+00:00"
+      },
+      {
+        "memory": "Jolene says she is experiencing a new level of joy and happiness",
+        "score": 0.2566,
+        "id": "42e7d353-9eb7-4d29-8d0a-964ac9766fdb",
+        "created_at": "2023-09-12T14:18:00+00:00",
+        "updated_at": "2026-11-19T05:46:58.403334+00:00"
+      },
+      {
+        "memory": "Deborah expressed pride in Jolene's recent accomplishment and acknowledged that Jolene must have worked really hard",
+        "score": 0.2564,
+        "id": "becc7858-de72-4ce0-af85-a610137abbb5",
+        "created_at": "2023-02-04T09:48:00+00:00",
+        "updated_at": "2026-11-19T04:13:29.259284+00:00"
+      },
+      {
+        "memory": "Jolene expressed appreciation for Deborah's support",
+        "score": 0.2563,
+        "id": "3d1b456d-d380-473b-b23a-f73aff0ec6c7",
+        "created_at": "2023-08-12T20:50:00+00:00",
+        "updated_at": "2026-11-19T05:03:50.294870+00:00"
+      },
+      {
+        "memory": "Jolene expressed that she could really use some chill time and described it as peaceful",
+        "score": 0.2562,
+        "id": "9d88b372-0c9a-46d0-8ed5-6411c4904f9a",
+        "created_at": "2023-06-26T09:17:00+00:00",
+        "updated_at": "2026-11-19T04:52:07.600796+00:00"
+      },
+      {
+        "memory": "Jolene loves going for walks whenever she can to take it all in",
+        "score": 0.2561,
+        "id": "f7927764-1427-42af-ac26-415f10d915fd",
+        "created_at": "2023-07-09T19:37:00+00:00",
+        "updated_at": "2026-11-19T04:58:17.679559+00:00"
+      },
+      {
+        "memory": "Jolene has a snake named Susie that she says always calms her down and makes her happy",
+        "score": 0.2551,
+        "id": "8faab1b4-cfc8-4e41-ae40-aba029813d05",
+        "created_at": "2023-01-27T09:49:00+00:00",
+        "updated_at": "2026-11-19T04:07:20.587621+00:00"
+      },
+      {
+        "memory": "Jolene expressed thankfulness for having a calm creature (her pet)",
+        "score": 0.2549,
+        "id": "408bbcbc-7acf-4742-8e8b-47bda6572b59",
+        "created_at": "2023-06-26T09:17:00+00:00",
+        "updated_at": "2026-11-19T04:50:29.317878+00:00"
+      },
+      {
+        "memory": "Deborah wants to hear more about Jolene's reflections and how they changed her",
+        "score": 0.2526,
+        "id": "1f31e2b1-cb02-4c74-adfe-d7581990c91d",
+        "created_at": "2023-09-12T14:18:00+00:00",
+        "updated_at": "2026-11-19T05:45:36.315769+00:00"
+      },
+      {
+        "memory": "Jolene thanked Deborah and asked for tips on studying and time management",
+        "score": 0.252,
+        "id": "5788e41b-9848-469f-a5f0-5d1e5f90f928",
+        "created_at": "2023-03-02T19:18:00+00:00",
+        "updated_at": "2026-11-19T04:33:17.090625+00:00"
+      },
+      {
+        "memory": "Jolene finds that music helps her",
+        "score": 0.2514,
+        "id": "78a294bb-d888-4a4b-a953-b829867fc596",
+        "created_at": "2023-03-28T16:03:00+00:00",
+        "updated_at": "2026-11-19T04:42:13.466072+00:00"
+      },
+      {
+        "memory": "Jolene plans to get out in nature again in October 2023",
+        "score": 0.251,
+        "id": "d8e16309-5c58-4e8e-9a0e-b6586b361fbf",
+        "created_at": "2023-09-20T10:17:00+00:00",
+        "updated_at": "2026-11-19T05:57:30.775254+00:00"
+      },
+      {
+        "memory": "Deborah offered to suggest routines for Jolene to try",
+        "score": 0.2505,
+        "id": "75dc2fff-a7b3-4ab1-b2c3-dba567ada23f",
+        "created_at": "2023-08-01T09:26:00+00:00",
+        "updated_at": "2026-11-19T05:01:42.949765+00:00"
+      },
+      {
+        "memory": "Jolene was advised that a cozy nook is essential for peace and relaxation",
+        "score": 0.2505,
+        "id": "8de09e3b-4f8a-4033-8e3e-e83e971813f2",
+        "created_at": "2023-09-17T13:24:00+00:00",
+        "updated_at": "2026-11-19T05:54:25.570424+00:00"
+      }
+    ],
+    "search_latency_ms": 643.8,
+    "total_results": 50
+  },
+  "cutoff_results": {
+    "top_50": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "France",
+      "memories_evaluated": 50,
+      "reason": "The generated answer exactly matches the gold answer's country."
+    }
+  }
+}

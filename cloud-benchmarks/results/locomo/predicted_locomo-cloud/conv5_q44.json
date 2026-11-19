@@ -1,0 +1,380 @@
+{
+  "question_id": "conv5_q44",
+  "conversation_idx": 5,
+  "category": 3,
+  "category_name": "open-domain",
+  "question": "Which national park could Audrey and Andrew be referring to in their conversations?",
+  "ground_truth_answer": "Voyageurs National Park",
+  "evidence": [
+    "D5:8",
+    "D11:9"
+  ],
+  "user_id": "locomo_5_fe8ec031",
+  "reference_date": "9:02 am on 22 November, 2023",
+  "retrieval": {
+    "search_query": "Which national park could Audrey and Andrew be referring to in their conversations?",
+    "search_results": [
+      {
+        "memory": "Audrey said the photo Andrew shared of the national park looks gorgeous",
+        "score": 0.6894,
+        "id": "78094be7-006d-441b-aea2-0775fce3f831",
+        "created_at": "2023-10-28T14:36:00+00:00",
+        "updated_at": "2026-11-19T05:48:02.828029+00:00"
+      },
+      {
+        "memory": "Audrey shared a photo of three dogs running through a grassy field in the national park",
+        "score": 0.5802,
+        "id": "454ca9d7-9483-4f7a-9e57-bf4c6f2186bb",
+        "created_at": "2023-05-06T10:47:00+00:00",
+        "updated_at": "2026-11-19T04:26:23.726266+00:00"
+      },
+      {
+        "memory": "Audrey went on a road trip to a national park on Friday, May 5, 2023, and her dogs had a blast there",
+        "score": 0.5738,
+        "id": "a5514b00-d9aa-4cf4-8ad5-124c9bd1207f",
+        "created_at": "2023-05-06T10:47:00+00:00",
+        "updated_at": "2026-11-19T04:26:23.726266+00:00"
+      },
+      {
+        "memory": "Andrew shared a photo he took at a national park showing a man hiking up a mountain with a backpack",
+        "score": 0.559,
+        "id": "b6522695-3d87-4f95-9fab-5fb3b4d0e62c",
+        "created_at": "2023-10-28T14:36:00+00:00",
+        "updated_at": "2026-11-19T05:48:33.578661+00:00"
+      },
+      {
+        "memory": "Audrey (Audrey) hiked to a national park during the week of May 26–June 1, 2023, reaching a beautiful peak at sunset, feeling a nice breeze and hearing birds chirping, describing the experience as a slice of paradise.",
+        "score": 0.4454,
+        "id": "d37cde95-1554-4e0d-b14d-9d224a491d71",
+        "created_at": "2023-06-02T11:27:00+00:00",
+        "updated_at": "2026-11-19T04:30:56.068187+00:00"
+      },
+      {
+        "memory": "Audrey (Audrey) expressed that Andrew misses being outdoors and being surrounded by nature",
+        "score": 0.3888,
+        "id": "c80183a5-9fce-4a8e-82a6-eee14fbadb98",
+        "created_at": "2023-10-04T16:18:00+00:00",
+        "updated_at": "2026-11-19T05:30:41.090233+00:00"
+      },
+      {
+        "memory": "Audrey (Audrey) thinks the place Andrew shared looks fun",
+        "score": 0.3836,
+        "id": "be81c991-a230-4c1b-a402-52e9aeab62ce",
+        "created_at": "2023-06-26T13:51:00+00:00",
+        "updated_at": "2026-11-19T04:41:24.875293+00:00"
+      },
+      {
+        "memory": "Andrew shared a photo of a map of a park trail for the upcoming hike",
+        "score": 0.3598,
+        "id": "b8f02005-f89f-459f-aa3e-8227f4c338ed",
+        "created_at": "2023-07-08T09:48:00+00:00",
+        "updated_at": "2026-11-19T04:52:13.376522+00:00"
+      },
+      {
+        "memory": "Audrey (Audrey) would love to take her dogs to Andrew's location soon",
+        "score": 0.3561,
+        "id": "48b99ae4-b8ec-491d-b1e0-5473fbef8e9e",
+        "created_at": "2023-06-26T13:51:00+00:00",
+        "updated_at": "2026-11-19T04:41:24.875293+00:00"
+      },
+      {
+        "memory": "Audrey enjoys checking out new parks with her four dogs",
+        "score": 0.3556,
+        "id": "3c223ed3-1d32-4d3f-ae90-1292eac56462",
+        "created_at": "2023-11-04T19:59:00+00:00",
+        "updated_at": "2026-11-19T05:52:10.365405+00:00"
+      },
+      {
+        "memory": "Audrey's dogs love running around the park",
+        "score": 0.355,
+        "id": "b687bc26-35f2-4564-a935-d2a746743465",
+        "created_at": "2023-10-13T16:22:00+00:00",
+        "updated_at": "2026-11-19T05:36:20.637529+00:00"
+      },
+      {
+        "memory": "Audrey has a park near her home that is great for her dogs' walks",
+        "score": 0.3508,
+        "id": "406ea301-4c28-4ee0-bb3b-f49efae280cb",
+        "created_at": "2023-05-06T10:47:00+00:00",
+        "updated_at": "2026-11-19T04:26:23.726266+00:00"
+      },
+      {
+        "memory": "Audrey refers to her dogs as \"fur babies\"",
+        "score": 0.3386,
+        "id": "11d5726d-137d-47a4-a8f1-130b499213a8",
+        "created_at": "2023-09-24T17:53:00+00:00",
+        "updated_at": "2026-11-19T05:22:48.721704+00:00"
+      },
+      {
+        "memory": "Audrey wishes Andrew a fun beach trip",
+        "score": 0.3372,
+        "id": "7d60f850-ed5c-4818-823e-b497f731c726",
+        "created_at": "2023-10-01T19:09:00+00:00",
+        "updated_at": "2026-11-19T05:23:51.828941+00:00"
+      },
+      {
+        "memory": "Audrey says Andrew's hike pictures are always nice and thanks him for them",
+        "score": 0.3347,
+        "id": "fa1c454f-2fe8-4175-9511-c39088042fa7",
+        "created_at": "2023-08-19T21:19:00+00:00",
+        "updated_at": "2026-11-19T05:12:17.423978+00:00"
+      },
+      {
+        "memory": "Andrew sent prayers and wishes to Audrey",
+        "score": 0.3342,
+        "id": "68ad924c-35fb-4873-a543-8e9f48090510",
+        "created_at": "2023-10-28T14:36:00+00:00",
+        "updated_at": "2026-11-19T05:48:33.578661+00:00"
+      },
+      {
+        "memory": "Audrey asks Andrew to let her know how it goes",
+        "score": 0.3335,
+        "id": "87bff0a4-b77e-4269-bcc0-1a49441224a0",
+        "created_at": "2023-05-03T17:41:00+00:00",
+        "updated_at": "2026-11-19T04:23:44.891808+00:00"
+      },
+      {
+        "memory": "Andrew feels lucky to have Audrey as a friend for outdoor trips",
+        "score": 0.3314,
+        "id": "963ce19c-9d13-41a2-aab6-b64bd29ee7a2",
+        "created_at": "2023-10-28T14:36:00+00:00",
+        "updated_at": "2026-11-19T05:50:22.089749+00:00"
+      },
+      {
+        "memory": "Andrew said he will let Audrey know",
+        "score": 0.3284,
+        "id": "c5173794-019d-4041-a592-fc12b9b6b223",
+        "created_at": "2023-05-03T17:41:00+00:00",
+        "updated_at": "2026-11-19T04:24:08.407998+00:00"
+      },
+      {
+        "memory": "Audrey shared a photo showing a group of people and dogs in a park",
+        "score": 0.3267,
+        "id": "7dbcff84-2f00-480b-a243-8fc5ac683a42",
+        "created_at": "2023-11-04T19:59:00+00:00",
+        "updated_at": "2026-11-19T05:52:21.558230+00:00"
+      },
+      {
+        "memory": "Andrew was recommended a great dog park close by and the idea to bring coffee over",
+        "score": 0.3263,
+        "id": "8b4c33ff-23d6-4296-ac93-802d1288670d",
+        "created_at": "2023-10-13T16:22:00+00:00",
+        "updated_at": "2026-11-19T05:36:00.129231+00:00"
+      },
+      {
+        "memory": "Audrey says Andrew's friendship means a lot to her",
+        "score": 0.3249,
+        "id": "6c3a95a2-d567-4f42-aea4-ba33a996cc0f",
+        "created_at": "2023-11-04T19:59:00+00:00",
+        "updated_at": "2026-11-19T05:54:57.086798+00:00"
+      },
+      {
+        "memory": "Audrey (Audrey) offered to help Andrew find a pet‑friendly spot by asking him to email her his criteria",
+        "score": 0.3247,
+        "id": "65150ee9-bf2a-485e-8f5e-4f353501b7dd",
+        "created_at": "2023-06-02T11:27:00+00:00",
+        "updated_at": "2026-11-19T04:31:51.643661+00:00"
+      },
+      {
+        "memory": "Audrey says Andrew already has some experience and is well prepared",
+        "score": 0.3238,
+        "id": "917a6d0d-9094-4eef-a38d-20ed6b8cc5d4",
+        "created_at": "2023-10-01T19:09:00+00:00",
+        "updated_at": "2026-11-19T05:26:55.158311+00:00"
+      },
+      {
+        "memory": "Andrew said he will keep Audrey posted",
+        "score": 0.3223,
+        "id": "5647409e-53d0-4176-8091-88abe01a54dc",
+        "created_at": "2023-07-03T20:32:00+00:00",
+        "updated_at": "2026-11-19T04:49:21.417121+00:00"
+      },
+      {
+        "memory": "Audrey thanked Andrew and said they will let him know",
+        "score": 0.3205,
+        "id": "0a834e58-cff5-483b-b7e7-b9e5f28b297c",
+        "created_at": "2023-03-27T13:10:00+00:00",
+        "updated_at": "2026-11-19T04:05:25.955153+00:00"
+      },
+      {
+        "memory": "Audrey (Audrey) is expecting to receive a picture of Andrew's dog soon",
+        "score": 0.3196,
+        "id": "cb73812f-fe93-439f-b8b2-cbc6fa234f5e",
+        "created_at": "2023-05-06T10:47:00+00:00",
+        "updated_at": "2026-11-19T04:27:26.154185+00:00"
+      },
+      {
+        "memory": "Audrey agreed to plan a hike with Andrew and wants to pick a date for it",
+        "score": 0.3196,
+        "id": "3dd959cd-34e9-4892-a3af-1d175e5e6dbe",
+        "created_at": "2023-10-28T14:36:00+00:00",
+        "updated_at": "2026-11-19T05:48:52.457549+00:00"
+      },
+      {
+        "memory": "Audrey asked Andrew if he has a favorite animal",
+        "score": 0.3167,
+        "id": "6b1eb378-2f8e-4cb8-9a55-f93f49869152",
+        "created_at": "2023-03-27T13:10:00+00:00",
+        "updated_at": "2026-11-19T04:04:00.513998+00:00"
+      },
+      {
+        "memory": "Andrew feels jealous of the fun outings Audrey has with her dogs",
+        "score": 0.3166,
+        "id": "fc8dedbb-7b85-42ae-b1da-25420b257688",
+        "created_at": "2023-03-27T13:10:00+00:00",
+        "updated_at": "2026-11-19T04:03:37.515314+00:00"
+      },
+      {
+        "memory": "Andrew plans to take Scout, Toby, and Buddy to a nearby park for fresh air",
+        "score": 0.3161,
+        "id": "d248e7a7-323f-427d-9f35-2b7ea86524eb",
+        "created_at": "2023-11-22T09:02:00+00:00",
+        "updated_at": "2026-11-19T05:56:21.113085+00:00"
+      },
+      {
+        "memory": "Audrey (Audrey) is keeping her fingers crossed for Andrew to find a great furry friend and an apartment",
+        "score": 0.3146,
+        "id": "357ffd6e-7e0c-4b59-96ad-a88acc8163d9",
+        "created_at": "2023-04-02T14:42:00+00:00",
+        "updated_at": "2026-11-19T04:07:58.156142+00:00"
+      },
+      {
+        "memory": "Andrew thought the photo of Audrey's dogs was cute",
+        "score": 0.314,
+        "id": "5764da5c-7019-48ed-a1ab-c1155384420d",
+        "created_at": "2023-07-27T15:52:00+00:00",
+        "updated_at": "2026-11-19T05:00:23.796965+00:00"
+      },
+      {
+        "memory": "Andrew expressed that he is glad to have the opportunity to bond with Audrey's pets",
+        "score": 0.3118,
+        "id": "4cc04200-e015-4627-ad5d-89f196b5572d",
+        "created_at": "2023-05-11T14:03:00+00:00",
+        "updated_at": "2026-11-19T04:28:27.792488+00:00"
+      },
+      {
+        "memory": "Andrew observes that Audrey's dogs are having a blast",
+        "score": 0.3101,
+        "id": "dfd2e469-8aa0-4e77-9848-3474cefbd052",
+        "created_at": "2023-07-03T20:32:00+00:00",
+        "updated_at": "2026-11-19T04:45:33.334860+00:00"
+      },
+      {
+        "memory": "Andrew plans to get some awesome pictures to show Audrey when he returns",
+        "score": 0.3082,
+        "id": "713bbe4d-2be5-4f88-995f-ec771a7148f6",
+        "created_at": "2023-08-19T21:19:00+00:00",
+        "updated_at": "2026-11-19T05:12:03.109009+00:00"
+      },
+      {
+        "memory": "Audrey suggested having a pastry party sometime with Andrew",
+        "score": 0.3081,
+        "id": "76f3c081-db9b-4732-841d-385c42fcb43b",
+        "created_at": "2023-04-16T16:19:00+00:00",
+        "updated_at": "2026-11-19T04:16:17.898201+00:00"
+      },
+      {
+        "memory": "Andrew said Audrey's dogs are a real source of love for her",
+        "score": 0.3065,
+        "id": "4ac436a8-4803-47f4-9945-20665d486bdd",
+        "created_at": "2023-10-13T16:22:00+00:00",
+        "updated_at": "2026-11-19T05:38:28.358890+00:00"
+      },
+      {
+        "memory": "Audrey is excited for Andrew and looks forward to seeing where he and his furry friend will hang out",
+        "score": 0.3037,
+        "id": "aac3acd4-ff25-4980-9a89-9555ef149d90",
+        "created_at": "2023-04-02T14:42:00+00:00",
+        "updated_at": "2026-11-19T04:11:07.290657+00:00"
+      },
+      {
+        "memory": "Andrew expressed interest in joining Audrey and her dogs for a walk in nature",
+        "score": 0.3035,
+        "id": "4db57d32-fba8-4df5-9692-32288df31402",
+        "created_at": "2023-06-13T17:23:00+00:00",
+        "updated_at": "2026-11-19T04:35:11.586088+00:00"
+      },
+      {
+        "memory": "Andrew says Audrey is doing a great job and that the dogs are lucky to have her",
+        "score": 0.3031,
+        "id": "e5989c37-e193-4f9e-8ab4-fd1ff7ec7a38",
+        "created_at": "2023-10-28T14:36:00+00:00",
+        "updated_at": "2026-11-19T05:46:44.781595+00:00"
+      },
+      {
+        "memory": "Andrew is excited to meet Audrey's dogs and says they seem like a blast",
+        "score": 0.3014,
+        "id": "deca9479-207a-4b3a-822c-4da68a3e17ab",
+        "created_at": "2023-07-08T09:48:00+00:00",
+        "updated_at": "2026-11-19T04:53:05.715904+00:00"
+      },
+      {
+        "memory": "Audrey wishes Andrew a great time reconnecting with nature and reminds him to take nice pictures",
+        "score": 0.3011,
+        "id": "62f764da-b89a-482c-af00-f906731073c2",
+        "created_at": "2023-08-19T21:19:00+00:00",
+        "updated_at": "2026-11-19T05:11:57.504592+00:00"
+      },
+      {
+        "memory": "Audrey asked Andrew whether he had found a dog-friendly place to live",
+        "score": 0.3005,
+        "id": "637f59b0-7fe5-45c2-8df5-a2629f8e5ed0",
+        "created_at": "2023-09-06T19:49:00+00:00",
+        "updated_at": "2026-11-19T05:18:28.124283+00:00"
+      },
+      {
+        "memory": "Andrew says Audrey's dogs look like they're really enjoying themselves during the walk",
+        "score": 0.3003,
+        "id": "5e314e01-59a6-49a6-8ae7-d23a8b1dd482",
+        "created_at": "2023-06-13T17:23:00+00:00",
+        "updated_at": "2026-11-19T04:36:23.274601+00:00"
+      },
+      {
+        "memory": "Audrey says the spot is right by the park they usually walk, offering many trees and benches where they can watch the dogs play",
+        "score": 0.2978,
+        "id": "707988c8-2663-4b44-8f39-943a8a49cd0a",
+        "created_at": "2023-05-03T17:41:00+00:00",
+        "updated_at": "2026-11-19T04:23:28.437792+00:00"
+      },
+      {
+        "memory": "Andrew asked if Audrey's dogs enjoy playing in the garden",
+        "score": 0.2974,
+        "id": "0315c26a-d9bf-48f7-90b3-b8609462c642",
+        "created_at": "2023-09-24T17:53:00+00:00",
+        "updated_at": "2026-11-19T05:22:24.139074+00:00"
+      },
+      {
+        "memory": "Audrey expressed interest in planning a future hike with Andrew's dog Toby",
+        "score": 0.2942,
+        "id": "6302f86d-f51f-4f56-a444-fb278770990f",
+        "created_at": "2023-09-06T19:49:00+00:00",
+        "updated_at": "2026-11-19T05:18:55.599186+00:00"
+      },
+      {
+        "memory": "Audrey (Audrey) says she will keep Andrew posted and let him know if he needs any suggestions or help",
+        "score": 0.2935,
+        "id": "7c738219-a34c-462e-839f-0675aabecb19",
+        "created_at": "2023-05-06T10:47:00+00:00",
+        "updated_at": "2026-11-19T04:27:16.956626+00:00"
+      },
+      {
+        "memory": "Audrey shared a photo showing a group of people walking with her four dogs in a park",
+        "score": 0.2933,
+        "id": "0db39923-84b4-4f84-abfb-80e049a4371a",
+        "created_at": "2023-08-16T21:58:00+00:00",
+        "updated_at": "2026-11-19T05:08:02.185965+00:00"
+      }
+    ],
+    "search_latency_ms": 430.2,
+    "total_results": 50
+  },
+  "cutoff_results": {
+    "top_50": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "They don’t name it—Audrey and Andrew just refer to “a national park” (Audrey’s May 5 road trip, her late‑May hike, and Andrew’s Oct 28 photo), without specifying which one.",
+      "memories_evaluated": 50,
+      "reason": "The generated answer does not identify Voyageurs National Park and instead claims the park is unspecified, containing none of the gold answer items."
+    }
+  }
+}

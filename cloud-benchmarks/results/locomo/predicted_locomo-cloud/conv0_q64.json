@@ -1,0 +1,379 @@
+{
+  "question_id": "conv0_q64",
+  "conversation_idx": 0,
+  "category": 3,
+  "category_name": "open-domain",
+  "question": "Would Melanie likely enjoy the song \"The Four Seasons\" by Vivaldi?",
+  "ground_truth_answer": "Yes; it's classical music",
+  "evidence": [
+    "D15:28"
+  ],
+  "user_id": "locomo_0_fe8ec031",
+  "reference_date": "9:55 am on 22 October, 2023",
+  "retrieval": {
+    "search_query": "Would Melanie likely enjoy the song \"The Four Seasons\" by Vivaldi?",
+    "search_results": [
+      {
+        "memory": "Melanie said Matt Patterson is talented and that his voice and songs were amazing",
+        "score": 0.5399,
+        "id": "07a5b46e-9a43-4eb7-ab53-e0c330e3cbd6",
+        "created_at": "2023-08-14T14:24:00+00:00",
+        "updated_at": "2026-11-19T04:46:55.106188+00:00"
+      },
+      {
+        "memory": "Melanie played an awesome pop song titled \"Summer Sounds\" that got everyone dancing and singing, describing it as fun and lively",
+        "score": 0.4511,
+        "id": "cb8cc33f-3803-4e60-8c26-c5c8da78a958",
+        "created_at": "2023-08-28T15:19:00+00:00",
+        "updated_at": "2026-11-19T05:08:37.213936+00:00"
+      },
+      {
+        "memory": "Melanie said the song is gorgeous and fits Caroline's journey and determination to make a difference, noting that music can be inspiring and uplifting",
+        "score": 0.4365,
+        "id": "39563244-a0f3-4b69-a7e3-0af134d1d81a",
+        "created_at": "2023-08-28T15:19:00+00:00",
+        "updated_at": "2026-11-19T05:09:33.022238+00:00"
+      },
+      {
+        "memory": "Melanie is a fan of classical music, specifically Bach and Mozart, and also enjoys modern music such as Ed Sheeran's \"Perfect\"",
+        "score": 0.3599,
+        "id": "4819d29b-fe22-48be-912c-5eee53e0443d",
+        "created_at": "2023-08-28T15:19:00+00:00",
+        "updated_at": "2026-11-19T05:10:43.758980+00:00"
+      },
+      {
+        "memory": "Melanie enjoys hiking in the mountains and exploring forests as a way to connect with nature and each other",
+        "score": 0.3457,
+        "id": "71f733c7-90e5-4372-912e-c604ef954550",
+        "created_at": "2023-07-15T13:51:00+00:00",
+        "updated_at": "2026-11-19T04:39:34.966136+00:00"
+      },
+      {
+        "memory": "Melanie enjoys painting together lately, especially nature-inspired subjects, and created a new painting of a sunset with a palm tree last weekend",
+        "score": 0.2929,
+        "id": "7e24f521-91e5-402b-89f7-5047b48aba1e",
+        "created_at": "2023-07-15T13:51:00+00:00",
+        "updated_at": "2026-11-19T04:33:41.892882+00:00"
+      },
+      {
+        "memory": "Melanie expressed that she finds nature and quality time unbeatable, indicating she values spending time in nature and enjoying quality moments",
+        "score": 0.2859,
+        "id": "f4bb3aed-e878-4449-a1fe-b1b14e05f481",
+        "created_at": "2023-10-20T18:55:00+00:00",
+        "updated_at": "2026-11-19T05:23:37.380482+00:00"
+      },
+      {
+        "memory": "Melanie loves live music",
+        "score": 0.2819,
+        "id": "2f540624-ceb5-4985-8cc6-1bea0d9ca393",
+        "created_at": "2023-08-28T15:19:00+00:00",
+        "updated_at": "2026-11-19T05:08:14.706788+00:00"
+      },
+      {
+        "memory": "Caroline asked Melanie about her favorite tunes",
+        "score": 0.2756,
+        "id": "113f122a-2f3b-4cba-aac3-2f18c876674a",
+        "created_at": "2023-08-28T15:19:00+00:00",
+        "updated_at": "2026-11-19T05:10:32.494696+00:00"
+      },
+      {
+        "memory": "Caroline thought Melanie's wedding was special",
+        "score": 0.2755,
+        "id": "eb3d64ce-f00f-46e0-a936-e3aae878b130",
+        "created_at": "2023-07-15T13:51:00+00:00",
+        "updated_at": "2026-11-19T04:35:32.792798+00:00"
+      },
+      {
+        "memory": "Melanie said the item was gorgeous",
+        "score": 0.2718,
+        "id": "4764d8b0-34cd-4459-b7e8-295884819ec9",
+        "created_at": "2023-08-25T13:33:00+00:00",
+        "updated_at": "2026-11-19T05:03:22.672950+00:00"
+      },
+      {
+        "memory": "User expressed that Melanie's volunteering is heartwarming and inspirational",
+        "score": 0.263,
+        "id": "d044f2a3-6d1d-4220-987d-83ab41e286a7",
+        "created_at": "2023-08-25T13:33:00+00:00",
+        "updated_at": "2026-11-19T05:00:57.976998+00:00"
+      },
+      {
+        "memory": "Caroline says she finds Melanie's family time peaceful, calming, and tranquil, and appreciates that Melanie gets to spend quality, tranquil time with her family",
+        "score": 0.2626,
+        "id": "72e4c954-b6a8-4d93-8ac3-55db74cd9b75",
+        "created_at": "2023-10-20T18:55:00+00:00",
+        "updated_at": "2026-11-19T05:23:28.551315+00:00"
+      },
+      {
+        "memory": "Caroline said Melanie has an awesome family and expressed that she feels lucky for Melanie's beautiful family moment",
+        "score": 0.2626,
+        "id": "9001a01b-17b6-4545-a222-02a87065d65f",
+        "created_at": "2023-07-20T20:56:00+00:00",
+        "updated_at": "2026-11-19T04:46:26.769740+00:00"
+      },
+      {
+        "memory": "Melanie had a quiet weekend on July 15-16, 2023, after going camping with her family on July 8-9, 2023, and enjoyed unplugging and hanging out with the kids.",
+        "score": 0.2605,
+        "id": "f732288a-2cb3-48cf-b588-d69233d7e7f5",
+        "created_at": "2023-07-17T14:31:00+00:00",
+        "updated_at": "2026-11-19T04:40:43.646716+00:00"
+      },
+      {
+        "memory": "Caroline looks forward to making awesome memories with Melanie",
+        "score": 0.2585,
+        "id": "b063cdfe-5a2e-4c45-8348-006ed0ec4410",
+        "created_at": "2023-08-17T13:50:00+00:00",
+        "updated_at": "2026-11-19T04:53:42.669868+00:00"
+      },
+      {
+        "memory": "Melanie took her kids to a museum on July 5, 2023, where they enjoyed a dinosaur exhibit and laughed while playing in a water play area, as shown in a shared photo",
+        "score": 0.2584,
+        "id": "11b8a01e-6aa8-44e6-b25a-416b7cc8fc6f",
+        "created_at": "2023-07-06T20:18:00+00:00",
+        "updated_at": "2026-11-19T04:25:41.911862+00:00"
+      },
+      {
+        "memory": "Caroline wishes she had known Melanie earlier in life",
+        "score": 0.2579,
+        "id": "6e11c886-e3fb-4ace-916c-66760d887749",
+        "created_at": "2023-07-15T13:51:00+00:00",
+        "updated_at": "2026-11-19T04:35:32.792798+00:00"
+      },
+      {
+        "memory": "Caroline asked Melanie if she plays any instruments",
+        "score": 0.2563,
+        "id": "5c475ad0-63e8-4806-9394-ef72777a91b6",
+        "created_at": "2023-08-28T15:19:00+00:00",
+        "updated_at": "2026-11-19T05:10:01.950319+00:00"
+      },
+      {
+        "memory": "Melanie shared a photo showing her two children standing on a rocky cliff overlooking the Grand Canyon, indicating they enjoyed the Grand Canyon trip",
+        "score": 0.2551,
+        "id": "b1ef9fc2-bf6b-46c3-a01c-6d546553d6f2",
+        "created_at": "2023-10-20T18:55:00+00:00",
+        "updated_at": "2026-11-19T05:20:48.160234+00:00"
+      },
+      {
+        "memory": "Melanie cherishes time with family and feels alive and happy when she does",
+        "score": 0.2549,
+        "id": "88284b4a-e289-42cc-a42e-0cb878182eb5",
+        "created_at": "2023-06-09T19:55:00+00:00",
+        "updated_at": "2026-11-19T04:18:03.974124+00:00"
+      },
+      {
+        "memory": "Caroline thanked Melanie and described the shared image as beautiful",
+        "score": 0.2513,
+        "id": "722ed096-684b-4d85-8f92-67e16b89c208",
+        "created_at": "2023-10-22T09:55:00+00:00",
+        "updated_at": "2026-11-19T05:24:30.936101+00:00"
+      },
+      {
+        "memory": "Caroline asks Melanie what flowers mean to her",
+        "score": 0.2511,
+        "id": "23f96996-4b88-49b6-b57b-94147fb7a4ef",
+        "created_at": "2023-07-15T13:51:00+00:00",
+        "updated_at": "2026-11-19T04:35:10.551686+00:00"
+      },
+      {
+        "memory": "Caroline told Melanie to cherish moments, saying they are the best",
+        "score": 0.2506,
+        "id": "906f6be0-2ab5-473e-9743-64004e5e2af1",
+        "created_at": "2023-06-09T19:55:00+00:00",
+        "updated_at": "2026-11-19T04:16:47.876901+00:00"
+      },
+      {
+        "memory": "Caroline thanked Melanie, calling her comment sweet, and asked whether the painting Melanie shared was her own",
+        "score": 0.2498,
+        "id": "06586157-abe4-4936-81fe-b9ab39bcd148",
+        "created_at": "2023-05-08T13:56:00+00:00",
+        "updated_at": "2026-11-19T04:04:35.297322+00:00"
+      },
+      {
+        "memory": "Caroline is looking forward to seeing Melanie's pottery project and is happy that Melanie found something that makes her happy",
+        "score": 0.2496,
+        "id": "19b3e396-1cc8-4a8e-acad-7f5a4dec4d24",
+        "created_at": "2023-08-17T13:50:00+00:00",
+        "updated_at": "2026-11-19T04:50:14.949383+00:00"
+      },
+      {
+        "memory": "Melanie shared a photo of sheet music with notes and a pencil",
+        "score": 0.2491,
+        "id": "04e755db-cd34-4321-9a42-513b9f991076",
+        "created_at": "2023-08-28T15:19:00+00:00",
+        "updated_at": "2026-11-19T05:10:29.339561+00:00"
+      },
+      {
+        "memory": "Melanie said the event was thought‑provoking.",
+        "score": 0.2488,
+        "id": "758c7d92-113f-4877-acc2-0934745f0d6c",
+        "created_at": "2023-05-25T13:14:00+00:00",
+        "updated_at": "2026-11-19T04:06:21.049809+00:00"
+      },
+      {
+        "memory": "Caroline praised Melanie's painting, noting the colors and the chilled-out sunset vibe",
+        "score": 0.2481,
+        "id": "d8b47383-3494-49e6-a88b-b83db69b70e3",
+        "created_at": "2023-10-13T10:31:00+00:00",
+        "updated_at": "2026-11-19T05:17:13.557065+00:00"
+      },
+      {
+        "memory": "Caroline observed that Melanie and her family looked happy",
+        "score": 0.2475,
+        "id": "10d810cd-71eb-41bd-9448-e35e662e0d73",
+        "created_at": "2023-06-09T19:55:00+00:00",
+        "updated_at": "2026-11-19T04:16:23.063154+00:00"
+      },
+      {
+        "memory": "Melanie expressed that she feels lucky to be with her family, appreciates life, and values special moments",
+        "score": 0.2474,
+        "id": "9e2bb7da-20f1-4ea8-95ca-be25015f3ef1",
+        "created_at": "2023-07-20T20:56:00+00:00",
+        "updated_at": "2026-11-19T04:46:18.922251+00:00"
+      },
+      {
+        "memory": "Melanie expressed excitement about seeing where pottery takes her",
+        "score": 0.2466,
+        "id": "4d460a5b-5a1f-4d9d-91da-0f9a08d016d4",
+        "created_at": "2023-07-03T13:36:00+00:00",
+        "updated_at": "2026-11-19T04:23:11.821620+00:00"
+      },
+      {
+        "memory": "Caroline says the picture shared by Melanie is great",
+        "score": 0.2464,
+        "id": "443a3054-9d12-4c11-82e7-7f5e672be960",
+        "created_at": "2023-07-06T20:18:00+00:00",
+        "updated_at": "2026-11-19T04:24:54.124737+00:00"
+      },
+      {
+        "memory": "Melanie congratulated Caroline on her journey",
+        "score": 0.246,
+        "id": "5938f145-e096-4ef3-8da4-a629b7eacfc6",
+        "created_at": "2023-10-13T10:31:00+00:00",
+        "updated_at": "2026-11-19T05:14:44.078436+00:00"
+      },
+      {
+        "memory": "Melanie is doing an awesome job looking after herself and her family",
+        "score": 0.246,
+        "id": "2829a9f7-711b-4638-9d7b-f37adeceb1ee",
+        "created_at": "2023-05-25T13:14:00+00:00",
+        "updated_at": "2026-11-19T04:07:20.317624+00:00"
+      },
+      {
+        "memory": "Melanie said that joyful moments show life's beauty",
+        "score": 0.2457,
+        "id": "dc4076c6-c951-4660-9f87-7c6b2161e63e",
+        "created_at": "2023-09-13T00:09:00+00:00",
+        "updated_at": "2026-11-19T05:14:19.421799+00:00"
+      },
+      {
+        "memory": "Melanie said the sign was just a precaution and that she had a great time",
+        "score": 0.2457,
+        "id": "46bde0ce-7243-44ef-9113-0892b2cb789b",
+        "created_at": "2023-09-13T00:09:00+00:00",
+        "updated_at": "2026-11-19T05:14:04.924782+00:00"
+      },
+      {
+        "memory": "Melanie suggested planning a family outing this summer",
+        "score": 0.2449,
+        "id": "fc09cd8b-dfe6-4f09-b121-184ff556ea61",
+        "created_at": "2023-08-17T13:50:00+00:00",
+        "updated_at": "2026-11-19T04:53:04.901646+00:00"
+      },
+      {
+        "memory": "Melanie says her favorite subjects to paint are landscapes and still life",
+        "score": 0.2447,
+        "id": "8fd021e6-d1b0-40ad-8ad5-a6f9d698d52a",
+        "created_at": "2023-08-25T13:33:00+00:00",
+        "updated_at": "2026-11-19T05:05:34.507406+00:00"
+      },
+      {
+        "memory": "Caroline asked Melanie how she is doing in finding peace",
+        "score": 0.2445,
+        "id": "25467a45-9e82-411a-a31d-5593944eafbc",
+        "created_at": "2023-07-15T13:51:00+00:00",
+        "updated_at": "2026-11-19T04:37:57.499031+00:00"
+      },
+      {
+        "memory": "Melanie suggested planning something special with Caroline",
+        "score": 0.2431,
+        "id": "05856952-8f50-4472-bd77-de051ac35889",
+        "created_at": "2023-08-17T13:50:00+00:00",
+        "updated_at": "2026-11-19T04:53:49.115021+00:00"
+      },
+      {
+        "memory": "Melanie expressed interest in seeing another painting from Caroline",
+        "score": 0.2429,
+        "id": "db54397d-26d4-45d4-8557-7b3edf3f4ee4",
+        "created_at": "2023-08-14T14:24:00+00:00",
+        "updated_at": "2026-11-19T04:48:31.329373+00:00"
+      },
+      {
+        "memory": "Caroline noted that Melanie recently made new family memories",
+        "score": 0.2427,
+        "id": "44db39af-765b-43b3-a1fa-a19c8c8f5f22",
+        "created_at": "2023-06-27T10:37:00+00:00",
+        "updated_at": "2026-11-19T04:18:35.646041+00:00"
+      },
+      {
+        "memory": "Caroline felt glad about bonding with Melanie over their shared love of nature",
+        "score": 0.2427,
+        "id": "50d1a8bc-ab65-4a74-acb7-09196ef760be",
+        "created_at": "2023-07-15T13:51:00+00:00",
+        "updated_at": "2026-11-19T04:34:47.458232+00:00"
+      },
+      {
+        "memory": "Melanie appreciates her friendship with Caroline and says Caroline has always been there for her",
+        "score": 0.2419,
+        "id": "d1d6d808-995e-4e4f-bad3-e78677996701",
+        "created_at": "2023-08-17T13:50:00+00:00",
+        "updated_at": "2026-11-19T04:52:35.668636+00:00"
+      },
+      {
+        "memory": "Melanie plays the clarinet, having started when she was young, and uses it as a way to express herself and relax",
+        "score": 0.241,
+        "id": "d61c3fb0-cdc2-4559-a5fc-132b59f948f9",
+        "created_at": "2023-08-28T15:19:00+00:00",
+        "updated_at": "2026-11-19T05:10:29.339561+00:00"
+      },
+      {
+        "memory": "Caroline says that running can really boost Melanie's mood",
+        "score": 0.2406,
+        "id": "148077d5-60b6-48f8-880f-601adb837b78",
+        "created_at": "2023-07-12T16:33:00+00:00",
+        "updated_at": "2026-11-19T04:31:44.509629+00:00"
+      },
+      {
+        "memory": "Melanie shared an image of a painting of a sunset over a lake",
+        "score": 0.2402,
+        "id": "d1ed4be6-fd39-477e-a0b6-2ea88b787f10",
+        "created_at": "2023-05-08T13:56:00+00:00",
+        "updated_at": "2026-11-19T04:03:58.436587+00:00"
+      },
+      {
+        "memory": "Melanie said that creativity and family keep her at peace",
+        "score": 0.2399,
+        "id": "c6f74d97-9d46-4757-a3f6-1c87ed882375",
+        "created_at": "2023-07-15T13:51:00+00:00",
+        "updated_at": "2026-11-19T04:38:09.804757+00:00"
+      },
+      {
+        "memory": "Caroline is glad Melanie got some rest and relaxation after the drive",
+        "score": 0.2398,
+        "id": "dd952717-6bbc-4968-bb27-14d30a6ccbab",
+        "created_at": "2023-10-20T18:55:00+00:00",
+        "updated_at": "2026-11-19T05:22:50.591465+00:00"
+      }
+    ],
+    "search_latency_ms": 368.0,
+    "total_results": 50
+  },
+  "cutoff_results": {
+    "top_50": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Yes. Melanie likes classical music—she specifically mentioned Bach and Mozart—and enjoys live music; given her taste for Baroque-era composers like Bach, Vivaldi’s The Four Seasons would very likely appeal to her.",
+      "memories_evaluated": 50,
+      "reason": "The generated answer agrees with the gold answer by stating 'Yes,' matching the expected conclusion."
+    }
+  }
+}

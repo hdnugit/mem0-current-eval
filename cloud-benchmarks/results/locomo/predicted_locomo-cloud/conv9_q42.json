@@ -1,0 +1,377 @@
+{
+  "question_id": "conv9_q42",
+  "conversation_idx": 9,
+  "category": 3,
+  "category_name": "open-domain",
+  "question": "Based on the conversation, did Calvin and Dave have a meeting in Boston between August and November 2023? Answer in yes or no.",
+  "ground_truth_answer": "No",
+  "evidence": [],
+  "user_id": "locomo_9_fe8ec031",
+  "reference_date": "10:54 am on 17 November, 2023",
+  "retrieval": {
+    "search_query": "Based on the conversation, did Calvin and Dave have a meeting in Boston between August and November 2023? Answer in yes or no.",
+    "search_results": [
+      {
+        "memory": "Calvin will let Dave know when he is in Boston",
+        "score": 0.6548,
+        "id": "73e0c927-b5cf-4870-bca3-6d407511c85b",
+        "created_at": "2023-09-13T10:56:00+00:00",
+        "updated_at": "2026-11-19T05:04:16.534394+00:00"
+      },
+      {
+        "memory": "Calvin accepted an invitation to perform at an upcoming show in Boston on November 17, 2023",
+        "score": 0.654,
+        "id": "2e7f2383-e9e0-48f6-8eef-44ec5ae70c4a",
+        "created_at": "2023-11-17T10:54:00+00:00",
+        "updated_at": "2026-11-19T05:48:42.905824+00:00"
+      },
+      {
+        "memory": "Calvin attended a fancy gala in Boston on November 16, 2023, where he met several interesting people.",
+        "score": 0.6459,
+        "id": "2849c8f4-2586-4cb8-bd20-40b90ce37a94",
+        "created_at": "2023-11-17T10:54:00+00:00",
+        "updated_at": "2026-11-19T05:45:50.118808+00:00"
+      },
+      {
+        "memory": "Calvin booked a flight to Boston during the week of August 21–27, 2023",
+        "score": 0.6374,
+        "id": "632645f4-a9c3-4462-837e-060c38f09eb0",
+        "created_at": "2023-09-02T09:19:00+00:00",
+        "updated_at": "2026-11-19T05:02:01.507360+00:00"
+      },
+      {
+        "memory": "Calvin will let Dave know when he arrives in Boston",
+        "score": 0.6356,
+        "id": "27e30809-e4c0-4128-b029-848a33e5c5fb",
+        "created_at": "2023-09-02T09:19:00+00:00",
+        "updated_at": "2026-11-19T05:02:33.359261+00:00"
+      },
+      {
+        "memory": "Dave plans to show Calvin some classic cars when Calvin visits Boston",
+        "score": 0.6046,
+        "id": "97f87c13-e9f0-47ae-8a30-a9cd81355e0c",
+        "created_at": "2023-04-20T16:15:00+00:00",
+        "updated_at": "2026-11-19T04:11:42.165441+00:00"
+      },
+      {
+        "memory": "Dave offered to show Calvin around Boston and its cool spots during Calvin's upcoming trip",
+        "score": 0.6012,
+        "id": "f5c1121d-2475-4be7-ac4d-3e5e400d38a2",
+        "created_at": "2023-04-20T16:15:00+00:00",
+        "updated_at": "2026-11-19T04:12:16.380213+00:00"
+      },
+      {
+        "memory": "Dave expressed that he might attend one of Calvin's upcoming shows in Boston",
+        "score": 0.5998,
+        "id": "3896f569-1953-40b3-958c-1df95188800b",
+        "created_at": "2023-11-17T10:54:00+00:00",
+        "updated_at": "2026-11-19T05:50:07.327278+00:00"
+      },
+      {
+        "memory": "Dave looks forward to hearing about Calvin's Boston trip when Calvin returns",
+        "score": 0.5911,
+        "id": "e4d52e34-2da1-4c03-863a-65a797c99f66",
+        "created_at": "2023-05-31T18:06:00+00:00",
+        "updated_at": "2026-11-19T04:30:07.140619+00:00"
+      },
+      {
+        "memory": "Calvin plans to visit Boston in July 2023",
+        "score": 0.588,
+        "id": "f534d224-f9fa-4218-9e8f-e4e149b8a527",
+        "created_at": "2023-06-09T14:31:00+00:00",
+        "updated_at": "2026-11-19T05:01:55.742169+00:00"
+      },
+      {
+        "memory": "Dave said he'll be in the front row when Calvin performs onstage in Boston",
+        "score": 0.5876,
+        "id": "1477dbe7-7759-4efd-9c5c-c02630dabc10",
+        "created_at": "2023-04-20T16:15:00+00:00",
+        "updated_at": "2026-11-19T04:12:16.380213+00:00"
+      },
+      {
+        "memory": "Calvin will travel to Tokyo in November 2023, after his tour ends",
+        "score": 0.5632,
+        "id": "458060b8-7137-4fba-8c27-bae84469aa98",
+        "created_at": "2023-10-19T10:11:00+00:00",
+        "updated_at": "2026-11-19T05:25:05.613121+00:00"
+      },
+      {
+        "memory": "Calvin thinks Boston looks great after receiving tips from Dave",
+        "score": 0.5621,
+        "id": "bb0577e0-1202-472c-a1ba-950aaf31acdd",
+        "created_at": "2023-04-20T16:15:00+00:00",
+        "updated_at": "2026-11-19T04:11:19.440982+00:00"
+      },
+      {
+        "memory": "Calvin's tour ends soon and he is heading to Boston, suggesting he could meet Dave there",
+        "score": 0.526,
+        "id": "d9ce27ac-199c-4adb-9b68-65194b827cce",
+        "created_at": "2023-08-22T11:06:00+00:00",
+        "updated_at": "2026-11-19T04:55:30.404095+00:00"
+      },
+      {
+        "memory": "Calvin has never been to Boston before",
+        "score": 0.5245,
+        "id": "d90c18c0-5049-4d55-ad70-eaf4dcb74d5e",
+        "created_at": "2023-06-09T14:31:00+00:00",
+        "updated_at": "2026-11-19T04:31:09.674928+00:00"
+      },
+      {
+        "memory": "Dave says Boston's music scene is awesome, with many talented musicians and cool places to play, and he will be there to cheer Calvin on during his Boston performance",
+        "score": 0.5068,
+        "id": "450411ea-c02a-4ebd-913c-ea4630d72a7f",
+        "created_at": "2023-05-31T18:06:00+00:00",
+        "updated_at": "2026-11-19T04:29:54.696759+00:00"
+      },
+      {
+        "memory": "Dave took a photo of a clock tower in a city with buildings (Boston) in September 2023",
+        "score": 0.4767,
+        "id": "5e19dd93-b96e-43ea-a227-173e5d259c62",
+        "created_at": "2023-10-29T10:49:00+00:00",
+        "updated_at": "2026-11-19T05:33:57.287432+00:00"
+      },
+      {
+        "memory": "Calvin visited some sights in Boston with a high school friend on October 24, 2023, and had a great, eye-opening time",
+        "score": 0.4536,
+        "id": "eb2f1ddc-9a81-467a-bad3-1daf1b1bf9c2",
+        "created_at": "2023-10-25T20:25:00+00:00",
+        "updated_at": "2026-11-19T05:30:33.963327+00:00"
+      },
+      {
+        "memory": "Calvin is excited about the upcoming trip to Boston",
+        "score": 0.4521,
+        "id": "7718b095-09e1-40c8-8508-7837963a98ef",
+        "created_at": "2023-09-02T09:19:00+00:00",
+        "updated_at": "2026-11-19T05:02:01.507360+00:00"
+      },
+      {
+        "memory": "Dave attended a rock concert in Boston over the weekend of September 9-10, 2023, noting the amazing atmosphere",
+        "score": 0.4273,
+        "id": "de05ca6b-1c02-418a-b902-56a107411b97",
+        "created_at": "2023-09-15T00:13:00+00:00",
+        "updated_at": "2026-11-19T05:05:11.868463+00:00"
+      },
+      {
+        "memory": "Calvin felt good after the Boston performance and invitation",
+        "score": 0.4179,
+        "id": "4389fcce-3530-4109-82d2-a5b641f31401",
+        "created_at": "2023-11-13T21:15:00+00:00",
+        "updated_at": "2026-11-19T05:43:18.185206+00:00"
+      },
+      {
+        "memory": "Calvin had a wonderful experience in Boston, appreciating its awesome architecture, cool history, and peaceful atmosphere after following Dave's advice",
+        "score": 0.4068,
+        "id": "31995ead-1c92-4382-a8fc-24f69c6b36b1",
+        "created_at": "2023-10-25T20:25:00+00:00",
+        "updated_at": "2026-11-19T05:31:01.406426+00:00"
+      },
+      {
+        "memory": "Calvin will be in Japan for a few months before traveling to Boston",
+        "score": 0.4025,
+        "id": "4e762a57-753a-460b-9e0f-487f3fe666e1",
+        "created_at": "2023-03-23T11:53:00+00:00",
+        "updated_at": "2026-11-19T04:05:23.446191+00:00"
+      },
+      {
+        "memory": "Dave attended a music festival in Boston during the weekend of March 18–19, 2023, describing it as awesome with many cool bands and an electric atmosphere",
+        "score": 0.4012,
+        "id": "6b4ef0d2-38c6-494b-9b1b-2cf042aad820",
+        "created_at": "2023-03-26T16:45:00+00:00",
+        "updated_at": "2026-11-19T04:06:55.000335+00:00"
+      },
+      {
+        "memory": "Dave thanked Calvin, said it means a lot, and expressed that he will keep chasing his dreams and working hard, noting that conversations with Calvin remind him why he loves what he does",
+        "score": 0.3944,
+        "id": "20581bc6-6d68-411c-a4fc-8043f0ac7199",
+        "created_at": "2023-10-08T15:13:00+00:00",
+        "updated_at": "2026-11-19T05:16:55.539087+00:00"
+      },
+      {
+        "memory": "Calvin is excited to perform in Boston for his hometown audience as part of the tour with Frank",
+        "score": 0.3858,
+        "id": "9f21114d-2d87-4be7-80a1-3a482dfd9ac7",
+        "created_at": "2023-05-31T18:06:00+00:00",
+        "updated_at": "2026-11-19T04:29:43.086895+00:00"
+      },
+      {
+        "memory": "Calvin attended a networking event to meet more artists in October 2023, aiming to expand his fan base and expressed strong excitement about the possibilities",
+        "score": 0.3828,
+        "id": "ad4353b0-62fd-43a0-acfa-74ee2ab32cba",
+        "created_at": "2023-10-29T10:49:00+00:00",
+        "updated_at": "2026-11-19T05:33:25.823581+00:00"
+      },
+      {
+        "memory": "Dave asked Calvin to fill him in on the details when Calvin has them and suggested they meet up when Calvin is in town",
+        "score": 0.3804,
+        "id": "dff871a9-162e-4d4d-9a60-93c4cb5606be",
+        "created_at": "2023-08-22T11:06:00+00:00",
+        "updated_at": "2026-11-19T04:55:41.879386+00:00"
+      },
+      {
+        "memory": "Calvin performed with his band on August 2, 2023, as shown in a photo of a band playing on stage with lights",
+        "score": 0.3783,
+        "id": "f9116941-4136-46d0-9fc0-18db30350c1d",
+        "created_at": "2023-08-03T13:12:00+00:00",
+        "updated_at": "2026-11-19T04:46:35.230834+00:00"
+      },
+      {
+        "memory": "Calvin started shooting a video for his new album on the weekend of August 26-27, 2023",
+        "score": 0.3743,
+        "id": "77ff2319-6b3a-4c97-b7b1-94e3856e95af",
+        "created_at": "2023-08-31T14:55:00+00:00",
+        "updated_at": "2026-11-19T04:57:11.930583+00:00"
+      },
+      {
+        "memory": "Calvin and his friends recorded a podcast on August 21, 2023 discussing the rapidly evolving rap industry",
+        "score": 0.3724,
+        "id": "f58828d4-9260-4823-ac16-8d7f391898d8",
+        "created_at": "2023-08-22T11:06:00+00:00",
+        "updated_at": "2026-11-19T04:56:50.952936+00:00"
+      },
+      {
+        "memory": "Calvin (Calvin) will let Dave know how it goes",
+        "score": 0.3716,
+        "id": "8dc345d7-fdb0-40d3-84e5-d39a58cc0dc4",
+        "created_at": "2023-03-26T16:45:00+00:00",
+        "updated_at": "2026-11-19T04:09:02.199735+00:00"
+      },
+      {
+        "memory": "Dave is eager to catch up with Calvin",
+        "score": 0.37,
+        "id": "0201be02-de6c-4e92-9e94-3b3b020a8a35",
+        "created_at": "2023-08-22T11:06:00+00:00",
+        "updated_at": "2026-11-19T04:56:50.952936+00:00"
+      },
+      {
+        "memory": "Calvin shared a photo of a boarding pass for a Boston flight",
+        "score": 0.3632,
+        "id": "628a1ae6-94ef-49e6-a78f-093030c9fc8d",
+        "created_at": "2023-09-02T09:19:00+00:00",
+        "updated_at": "2026-11-19T05:02:01.507360+00:00"
+      },
+      {
+        "memory": "Calvin says he can't wait to see what Dave will show",
+        "score": 0.3581,
+        "id": "cbf31032-a49f-4a8f-ac74-e856c6b1ed17",
+        "created_at": "2023-11-17T10:54:00+00:00",
+        "updated_at": "2026-11-19T05:48:24.133722+00:00"
+      },
+      {
+        "memory": "Calvin met with several artists in Boston on October 3, 2023, and discussed future music collaborations, describing the experience as inspiring and exciting with each artist having an individual style.",
+        "score": 0.3569,
+        "id": "25537780-961b-4fb9-a6fe-ee0d7bee8161",
+        "created_at": "2023-10-04T14:44:00+00:00",
+        "updated_at": "2026-11-19T05:10:23.660686+00:00"
+      },
+      {
+        "memory": "Dave invited Calvin to jam music together",
+        "score": 0.3531,
+        "id": "d3e906dd-1048-41d7-9159-7fe1c040f946",
+        "created_at": "2023-09-22T20:57:00+00:00",
+        "updated_at": "2026-11-19T05:09:03.837243+00:00"
+      },
+      {
+        "memory": "Calvin thanks Dave for checking in and asks how Dave has been, indicating ongoing communication between them",
+        "score": 0.3393,
+        "id": "16a34016-f54c-47c2-bb4e-e027cdd95e0b",
+        "created_at": "2023-06-09T14:31:00+00:00",
+        "updated_at": "2026-11-19T04:30:36.462217+00:00"
+      },
+      {
+        "memory": "Calvin says Dave brings joy to others",
+        "score": 0.3352,
+        "id": "db8bb47f-0d2e-4cef-a32f-680652dcd68b",
+        "created_at": "2023-09-02T09:19:00+00:00",
+        "updated_at": "2026-11-19T05:02:01.507360+00:00"
+      },
+      {
+        "memory": "Dave returned from San Francisco on September 1, 2023, bringing great insights and knowledge on car modification that he wants to share with Calvin",
+        "score": 0.3316,
+        "id": "7fb17cfb-2907-4945-a7d1-376f5c875b35",
+        "created_at": "2023-09-02T09:19:00+00:00",
+        "updated_at": "2026-11-19T05:00:34.363150+00:00"
+      },
+      {
+        "memory": "Calvin expressed happiness for Dave's amazing place",
+        "score": 0.3301,
+        "id": "1ec47c70-7c88-4688-9e25-c3ec46c06a19",
+        "created_at": "2023-07-21T18:38:00+00:00",
+        "updated_at": "2026-11-19T04:42:22.560995+00:00"
+      },
+      {
+        "memory": "Calvin says he can't wait to see Dave when he arrives on the trip",
+        "score": 0.3293,
+        "id": "aec11475-9e63-4cc7-87f0-ac49e56c012b",
+        "created_at": "2023-09-02T09:19:00+00:00",
+        "updated_at": "2026-11-19T05:02:39.737811+00:00"
+      },
+      {
+        "memory": "Calvin looks forward to catching up with Dave soon",
+        "score": 0.3291,
+        "id": "6bbf085e-9959-49f5-9d93-062b70bd249a",
+        "created_at": "2023-10-15T09:39:00+00:00",
+        "updated_at": "2026-11-19T05:21:30.279819+00:00"
+      },
+      {
+        "memory": "Dave expressed enthusiasm to make awesome memories and have a great time with Calvin",
+        "score": 0.3289,
+        "id": "f074a5a7-4963-415c-9c6b-134a4433806f",
+        "created_at": "2023-09-22T20:57:00+00:00",
+        "updated_at": "2026-11-19T05:09:45.984550+00:00"
+      },
+      {
+        "memory": "Calvin said he will let Dave know when he's free",
+        "score": 0.3281,
+        "id": "46cb8af2-eb5a-46da-acef-dee7324fb6dd",
+        "created_at": "2023-10-29T10:49:00+00:00",
+        "updated_at": "2026-11-19T05:35:24.884362+00:00"
+      },
+      {
+        "memory": "Dave observed that Calvin is motivated",
+        "score": 0.3274,
+        "id": "9b170e8d-96a4-45b2-b880-6c4af54ea085",
+        "created_at": "2023-08-03T13:12:00+00:00",
+        "updated_at": "2026-11-19T04:46:13.485973+00:00"
+      },
+      {
+        "memory": "Calvin thanks Dave and appreciates his support",
+        "score": 0.3247,
+        "id": "9b0833cb-0336-452a-a485-f3460830359c",
+        "created_at": "2023-11-02T17:46:00+00:00",
+        "updated_at": "2026-11-19T05:40:44.744158+00:00"
+      },
+      {
+        "memory": "Dave invited Calvin to visit his car maintenance shop",
+        "score": 0.3245,
+        "id": "0cc2d9f9-30fa-43a0-b69e-8884c88353ba",
+        "created_at": "2023-05-01T18:24:00+00:00",
+        "updated_at": "2026-11-19T04:18:11.822105+00:00"
+      },
+      {
+        "memory": "Calvin is looking forward to an upcoming trip to Boston after finishing his Frank Ocean tour, having heard the Boston music scene is awesome and eager to check it out",
+        "score": 0.3244,
+        "id": "190df0bc-c5a3-447e-82cf-7e05bd0ef435",
+        "created_at": "2023-04-20T16:15:00+00:00",
+        "updated_at": "2026-11-19T05:01:55.766177+00:00"
+      },
+      {
+        "memory": "Dave bought a new vintage camera in November 2023",
+        "score": 0.3238,
+        "id": "a0ff42b3-f72f-4492-b416-71bd70c01b00",
+        "created_at": "2023-11-17T10:54:00+00:00",
+        "updated_at": "2026-11-19T05:46:22.722647+00:00"
+      }
+    ],
+    "search_latency_ms": 370.3,
+    "total_results": 50
+  },
+  "cutoff_results": {
+    "top_50": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "No",
+      "memories_evaluated": 50,
+      "reason": "The generated answer matches the gold answer ('No')."
+    }
+  }
+}

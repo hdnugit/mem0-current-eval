@@ -1,0 +1,379 @@
+{
+  "question_id": "conv2_q39",
+  "conversation_idx": 2,
+  "category": 3,
+  "category_name": "open-domain",
+  "question": "Around which US holiday did Maria get into a car accident?",
+  "ground_truth_answer": "Independence Day",
+  "evidence": [
+    "D21:3"
+  ],
+  "user_id": "locomo_2_fe8ec031",
+  "reference_date": "11:08 am on 16 August, 2023",
+  "retrieval": {
+    "search_query": "Around which US holiday did Maria get into a car accident?",
+    "search_results": [
+      {
+        "memory": "Maria was involved in a car accident where a car ran a red light and hit them, but everyone was okay",
+        "score": 0.6562,
+        "id": "5db84492-a442-4245-9237-1f0436944416",
+        "created_at": "2023-07-03T20:43:00+00:00",
+        "updated_at": "2026-11-19T05:16:58.110773+00:00"
+      },
+      {
+        "memory": "Maria donated her old car to the homeless shelter she volunteers at on December 21, 2022",
+        "score": 0.4283,
+        "id": "30e073a7-a3d8-4cfa-9453-fb73cc389f5e",
+        "created_at": "2022-12-22T18:10:00+00:00",
+        "updated_at": "2026-11-19T04:04:57.406747+00:00"
+      },
+      {
+        "memory": "Maria went on a family road trip to Oregon when she was younger",
+        "score": 0.2755,
+        "id": "a9a93274-cf67-46e8-98e8-432f847a0a66",
+        "created_at": "2023-06-12T14:47:00+00:00",
+        "updated_at": "2026-11-19T05:04:27.113133+00:00"
+      },
+      {
+        "memory": "Maria made peach cobbler in December 2022",
+        "score": 0.2553,
+        "id": "3a4a390c-f30b-444f-97e6-11827c83b39e",
+        "created_at": "2022-12-22T18:10:00+00:00",
+        "updated_at": "2026-11-19T04:08:24.739037+00:00"
+      },
+      {
+        "memory": "User congratulated Maria on her recent positive experience",
+        "score": 0.2512,
+        "id": "c92ee601-1892-4e20-a92e-d12c61fa6312",
+        "created_at": "2023-06-16T19:20:00+00:00",
+        "updated_at": "2026-11-19T05:07:49.159660+00:00"
+      },
+      {
+        "memory": "Around April 10, 2023, Maria bought a cross necklace to feel closer to her faith, which made her happy.",
+        "score": 0.2439,
+        "id": "ceba8cae-fc84-4d7f-b3e7-c747b32093d8",
+        "created_at": "2023-04-10T18:13:00+00:00",
+        "updated_at": "2026-11-19T04:39:20.025001+00:00"
+      },
+      {
+        "memory": "Maria made dinner together with her mom on May 3, 2023 (the night before the conversation)",
+        "score": 0.2386,
+        "id": "b8d935fe-c6c5-4c8c-8d84-6cc142c3db29",
+        "created_at": "2023-05-04T15:18:00+00:00",
+        "updated_at": "2026-11-19T04:47:29.266191+00:00"
+      },
+      {
+        "memory": "Maria said she is off to bake some cakes",
+        "score": 0.2384,
+        "id": "0d3913f6-3f05-4bea-880f-dc69a103e1f0",
+        "created_at": "2023-07-22T18:21:00+00:00",
+        "updated_at": "2026-11-19T05:31:18.094101+00:00"
+      },
+      {
+        "memory": "Maria is heading to dinner with some friends from the gym",
+        "score": 0.2375,
+        "id": "e4999c31-d361-4b40-9d50-6f885c6ed0a1",
+        "created_at": "2023-07-07T18:29:00+00:00",
+        "updated_at": "2026-11-19T05:25:29.330159+00:00"
+      },
+      {
+        "memory": "A car was damaged and placed on a flatbed on July 2, 2023, as shown in a shared photo",
+        "score": 0.2374,
+        "id": "449bdef5-3b14-4ef2-98f4-d30252305965",
+        "created_at": "2023-07-03T20:43:00+00:00",
+        "updated_at": "2026-11-19T05:16:09.578244+00:00"
+      },
+      {
+        "memory": "Maria says she is good",
+        "score": 0.236,
+        "id": "a99d2655-94a4-46bf-a208-ba6ee53e254d",
+        "created_at": "2023-05-20T19:38:00+00:00",
+        "updated_at": "2026-11-19T04:54:46.046654+00:00"
+      },
+      {
+        "memory": "Maria shared a photo showing a bride and groom walking down the street.",
+        "score": 0.2322,
+        "id": "45ebee38-61eb-46ee-9f49-8c3e6aa54a26",
+        "created_at": "2023-03-06T18:03:00+00:00",
+        "updated_at": "2026-11-19T04:26:56.604968+00:00"
+      },
+      {
+        "memory": "John thanks Maria, calling her an awesome friend",
+        "score": 0.2313,
+        "id": "4e6760b4-8f6e-4c65-8d27-d950f73d0b7f",
+        "created_at": "2023-01-09T19:06:00+00:00",
+        "updated_at": "2026-11-19T04:16:47.967017+00:00"
+      },
+      {
+        "memory": "John is thrilled for Maria and finds her joining a church encouraging",
+        "score": 0.2305,
+        "id": "59680cf0-9162-4fa1-b86f-f7e84eca811c",
+        "created_at": "2023-05-06T17:04:00+00:00",
+        "updated_at": "2026-11-19T04:52:18.334281+00:00"
+      },
+      {
+        "memory": "Maria did community work with her church friends on August 4, 2023, and found it super rewarding",
+        "score": 0.2303,
+        "id": "7ba45c35-db27-4367-96b1-6140d1234813",
+        "created_at": "2023-08-05T17:19:00+00:00",
+        "updated_at": "2026-11-19T05:39:47.467349+00:00"
+      },
+      {
+        "memory": "Maria said John did awesome",
+        "score": 0.2302,
+        "id": "c308343b-36cd-4da2-9fc1-4ca3ebeacae1",
+        "created_at": "2023-02-05T14:33:00+00:00",
+        "updated_at": "2026-11-19T04:23:04.350258+00:00"
+      },
+      {
+        "memory": "Maria says she has been struggling.",
+        "score": 0.2297,
+        "id": "46e64911-7ab7-4433-9cb1-e035deb4a192",
+        "created_at": "2023-06-27T00:21:00+00:00",
+        "updated_at": "2026-11-19T05:12:11.874007+00:00"
+      },
+      {
+        "memory": "Maria expressed that the recent power outage was rough",
+        "score": 0.2263,
+        "id": "216cf7a7-8875-4374-a1c4-d0f1d984bd90",
+        "created_at": "2023-05-06T17:04:00+00:00",
+        "updated_at": "2026-11-19T04:52:55.773138+00:00"
+      },
+      {
+        "memory": "John thanks Maria and notes this is a reminder to stay strong during tough times",
+        "score": 0.2252,
+        "id": "680ddfaf-2463-4ae1-887e-b9dfd5c4cebe",
+        "created_at": "2023-01-09T19:06:00+00:00",
+        "updated_at": "2026-11-19T04:12:31.051449+00:00"
+      },
+      {
+        "memory": "John and Maria had not spoken for a few days before April 10, 2023.",
+        "score": 0.225,
+        "id": "dd931fd1-57d4-47fb-a645-b0c60863e6bb",
+        "created_at": "2023-04-10T18:13:00+00:00",
+        "updated_at": "2026-11-19T04:38:06.059502+00:00"
+      },
+      {
+        "memory": "Maria is planning a ring-toss tournament for the homeless shelter's fundraiser later in May 2023.",
+        "score": 0.2245,
+        "id": "72601ef2-a8fa-4922-80b6-bb4d783d406e",
+        "created_at": "2023-05-20T19:38:00+00:00",
+        "updated_at": "2026-11-19T04:57:20.395696+00:00"
+      },
+      {
+        "memory": "John expressed gladness that Maria found something that brings her joy",
+        "score": 0.2235,
+        "id": "1509ef60-b886-4925-97f6-621b1f7500f4",
+        "created_at": "2023-05-06T17:04:00+00:00",
+        "updated_at": "2026-11-19T04:51:48.860947+00:00"
+      },
+      {
+        "memory": "Maria says Max brings John lots of joy",
+        "score": 0.2227,
+        "id": "1bfd7dc2-3908-45ef-9d7a-f4f3b5cd427c",
+        "created_at": "2023-08-11T00:10:00+00:00",
+        "updated_at": "2026-11-19T05:46:25.963306+00:00"
+      },
+      {
+        "memory": "During the car windshield incident in early January 2023, John stayed calm, asked for assistance, and safely made it back home",
+        "score": 0.2226,
+        "id": "bce2b9a6-ffea-48d6-aebd-8ae67d7a0b58",
+        "created_at": "2023-01-09T19:06:00+00:00",
+        "updated_at": "2026-11-19T04:12:47.244728+00:00"
+      },
+      {
+        "memory": "Maria wanted to make connections, laugh together, and take in nature's beauty",
+        "score": 0.2225,
+        "id": "9eaffa65-d2c2-447a-9dd4-62899ed11be7",
+        "created_at": "2023-07-22T18:21:00+00:00",
+        "updated_at": "2026-11-19T05:28:41.185321+00:00"
+      },
+      {
+        "memory": "Maria believes making memories together is valuable",
+        "score": 0.2211,
+        "id": "e79d4582-00a2-47a0-8c52-0f25ffb7c5ab",
+        "created_at": "2023-03-06T18:03:00+00:00",
+        "updated_at": "2026-11-19T04:28:52.107467+00:00"
+      },
+      {
+        "memory": "Maria recalled that she and John volunteered together at a local homeless shelter in 2022",
+        "score": 0.2199,
+        "id": "05475426-5e3b-4e5b-a71b-2b050fe486df",
+        "created_at": "2023-04-02T09:36:00+00:00",
+        "updated_at": "2026-11-19T04:34:54.119880+00:00"
+      },
+      {
+        "memory": "Maria described a meal that included salads, sandwiches, and homemade desserts",
+        "score": 0.2185,
+        "id": "b0a69e16-9f16-4d5a-81d4-f314c22b28fb",
+        "created_at": "2023-05-04T15:18:00+00:00",
+        "updated_at": "2026-11-19T04:48:49.904285+00:00"
+      },
+      {
+        "memory": "John says Maria is dedicated to helping people",
+        "score": 0.2183,
+        "id": "38885740-d05a-4cdc-8242-4d7281f36cf3",
+        "created_at": "2023-04-18T19:34:00+00:00",
+        "updated_at": "2026-11-19T04:45:05.592124+00:00"
+      },
+      {
+        "memory": "Maria went camping with friends from her church around the weekend of June 10-11, 2023, and said it was a blast",
+        "score": 0.2179,
+        "id": "af1d0b1b-d088-4505-a900-3c6eac1b1e65",
+        "created_at": "2023-06-12T14:47:00+00:00",
+        "updated_at": "2026-11-19T05:03:29.750760+00:00"
+      },
+      {
+        "memory": "John expressed sympathy to Maria about her loss and offered to help her",
+        "score": 0.2178,
+        "id": "db7f5771-98e4-4a88-ae2a-92a69c498119",
+        "created_at": "2023-03-06T18:03:00+00:00",
+        "updated_at": "2026-11-19T04:27:12.047674+00:00"
+      },
+      {
+        "memory": "John says Maria's kindness ripples and creates incredible relationships",
+        "score": 0.2177,
+        "id": "d1eed562-5671-4c61-adf7-e69f81d60868",
+        "created_at": "2023-04-10T18:13:00+00:00",
+        "updated_at": "2026-11-19T04:40:09.551768+00:00"
+      },
+      {
+        "memory": "Maria's favorite dessert is a banana split sundae, which she enjoys after a day of volunteering",
+        "score": 0.2171,
+        "id": "cd8c6e8a-ce6c-47b2-8c95-7c7de7b2ed8d",
+        "created_at": "2023-05-04T15:18:00+00:00",
+        "updated_at": "2026-11-19T04:48:49.904285+00:00"
+      },
+      {
+        "memory": "John says Maria's determination never ceases to amaze him",
+        "score": 0.217,
+        "id": "5037a50f-4666-4a93-bb25-462784aaddef",
+        "created_at": "2023-07-07T18:29:00+00:00",
+        "updated_at": "2026-11-19T05:23:58.977710+00:00"
+      },
+      {
+        "memory": "John finds it easy to get lost and forget things, and appreciates Maria's support",
+        "score": 0.2164,
+        "id": "beca10df-0aa0-4faa-a9b1-f8f2625f1967",
+        "created_at": "2023-05-06T17:04:00+00:00",
+        "updated_at": "2026-11-19T04:51:32.654945+00:00"
+      },
+      {
+        "memory": "Maria loved doing similar memory-making activities with her siblings when she was young",
+        "score": 0.2158,
+        "id": "57178cc3-84e4-4e1a-89f6-a5184764f971",
+        "created_at": "2023-03-06T18:03:00+00:00",
+        "updated_at": "2026-11-19T04:28:52.107467+00:00"
+      },
+      {
+        "memory": "John says he and Maria get creative together and have a blast",
+        "score": 0.2153,
+        "id": "92d2efa8-a182-4852-9e97-885159808fb6",
+        "created_at": "2022-12-22T18:10:00+00:00",
+        "updated_at": "2026-11-19T04:08:34.030170+00:00"
+      },
+      {
+        "memory": "John and Maria had a meaningful experience at a military memorial during the week of July 24–30, 2023, which made a strong impact on John's kids",
+        "score": 0.2147,
+        "id": "e31a9779-7511-402b-ae81-04fa2f570dea",
+        "created_at": "2023-08-03T18:20:00+00:00",
+        "updated_at": "2026-11-19T05:38:04.378048+00:00"
+      },
+      {
+        "memory": "Maria says her family has been there for her all the way, they have been her rock, giving her words of encouragement and reminding her she's not alone",
+        "score": 0.214,
+        "id": "7501f36d-921a-4bfc-854d-ccd86970fa8d",
+        "created_at": "2023-06-27T00:21:00+00:00",
+        "updated_at": "2026-11-19T05:12:16.134513+00:00"
+      },
+      {
+        "memory": "Maria noticed an approximately 8‑year‑old girl sitting alone with no family, sat with her, talked, gave her comfort and a listening ear, and they ended up laughing and having a good time, which broke Maria’s heart",
+        "score": 0.2138,
+        "id": "2468070a-4ef4-4ba0-880e-9a3277836b49",
+        "created_at": "2023-01-28T13:17:00+00:00",
+        "updated_at": "2026-11-19T04:19:30.955419+00:00"
+      },
+      {
+        "memory": "Maria says everyone can do something to make a difference",
+        "score": 0.2134,
+        "id": "60c5b4c5-5df6-47d5-902f-21a423145e6e",
+        "created_at": "2023-04-18T19:34:00+00:00",
+        "updated_at": "2026-11-19T04:45:32.160967+00:00"
+      },
+      {
+        "memory": "Maria has been taking regular \"me-time\" walks at a nearby park, and it has made a big impact",
+        "score": 0.2133,
+        "id": "d0699a23-88d8-4f20-a614-a64cfa658ce8",
+        "created_at": "2023-07-05T18:59:00+00:00",
+        "updated_at": "2026-11-19T05:23:01.612724+00:00"
+      },
+      {
+        "memory": "John expressed that Maria's recent help was amazing and speculated it must have felt great for her",
+        "score": 0.2131,
+        "id": "ede5434e-f05d-473e-b8b6-400f312551b6",
+        "created_at": "2023-06-27T00:21:00+00:00",
+        "updated_at": "2026-11-19T05:13:32.499985+00:00"
+      },
+      {
+        "memory": "Maria shared a photo showing a person walking on the beach with a surfboard",
+        "score": 0.2127,
+        "id": "1bd79a5f-e297-40e5-b9e0-5eafa6a7f67a",
+        "created_at": "2023-03-06T18:03:00+00:00",
+        "updated_at": "2026-11-19T04:27:27.795724+00:00"
+      },
+      {
+        "memory": "Maria shared a photo showing a poster on a table featuring a Santa Claus",
+        "score": 0.2123,
+        "id": "617f0a84-4d38-42e0-8074-dfe30a658c56",
+        "created_at": "2023-01-01T20:30:00+00:00",
+        "updated_at": "2026-11-19T04:09:27.211549+00:00"
+      },
+      {
+        "memory": "John felt relieved and grateful to have made it through the car windshield incident without further incident",
+        "score": 0.2122,
+        "id": "5b2c6b5b-b86a-4e3f-89fc-611472e2d9e6",
+        "created_at": "2023-01-09T19:06:00+00:00",
+        "updated_at": "2026-11-19T04:13:37.768677+00:00"
+      },
+      {
+        "memory": "Maria finds being around people like John inspiring",
+        "score": 0.212,
+        "id": "a2ba0a29-2116-40a7-a2e9-51118e16430e",
+        "created_at": "2023-04-18T19:34:00+00:00",
+        "updated_at": "2026-11-19T04:44:29.703543+00:00"
+      },
+      {
+        "memory": "John expressed that he was glad Maria was there for the girl when she needed someone, feeling it made a big impact",
+        "score": 0.212,
+        "id": "2efa99ad-0386-4ead-82e6-0fe5f88698d1",
+        "created_at": "2023-01-28T13:17:00+00:00",
+        "updated_at": "2026-11-19T04:19:38.294670+00:00"
+      },
+      {
+        "memory": "Maria expressed sympathy for John about the recent flood in his area and asked if she could help.",
+        "score": 0.2112,
+        "id": "6a560471-5fb3-42b1-8732-f510c759d176",
+        "created_at": "2023-07-07T18:29:00+00:00",
+        "updated_at": "2026-11-19T05:23:28.325596+00:00"
+      },
+      {
+        "memory": "Maria says John is a great friend and she'll always be there for him",
+        "score": 0.2111,
+        "id": "de599ec9-1645-4be2-a894-62ba624847a5",
+        "created_at": "2023-02-05T14:33:00+00:00",
+        "updated_at": "2026-11-19T04:24:19.138317+00:00"
+      }
+    ],
+    "search_latency_ms": 595.7,
+    "total_results": 50
+  },
+  "cutoff_results": {
+    "top_50": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Independence Day (Fourth of July).",
+      "memories_evaluated": 50,
+      "reason": "The generated answer matches the gold answer by identifying Independence Day (Fourth of July)."
+    }
+  }
+}

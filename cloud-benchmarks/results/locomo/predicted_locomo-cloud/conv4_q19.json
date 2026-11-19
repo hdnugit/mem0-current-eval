@@ -1,0 +1,381 @@
+{
+  "question_id": "conv4_q19",
+  "conversation_idx": 4,
+  "category": 3,
+  "category_name": "open-domain",
+  "question": "What is a prominent charity organization that John might want to work with and why?",
+  "ground_truth_answer": "Good Sports, because they work with Nike, Gatorade, and Under Armour and they aim toprovide youth sports opportunities for kids ages 3-18 in high-need communities.",
+  "evidence": [
+    "D3:13",
+    "D3:15",
+    "D6:15"
+  ],
+  "user_id": "locomo_4_fe8ec031",
+  "reference_date": "1:41 pm on 12 January, 2024",
+  "retrieval": {
+    "search_query": "What is a prominent charity organization that John might want to work with and why?",
+    "search_results": [
+      {
+        "memory": "John wants to use his platform to make a positive difference, inspire others, possibly start a foundation and do charity work, and aims to leave a meaningful legacy",
+        "score": 0.6331,
+        "id": "e0cd84c3-d208-40cd-ae8e-86ecdbdfc37e",
+        "created_at": "2023-09-21T20:17:00+00:00",
+        "updated_at": "2026-11-19T04:48:11.552965+00:00"
+      },
+      {
+        "memory": "Tim asked John how he plans to kick off his charity work",
+        "score": 0.6219,
+        "id": "7b2de919-9f13-4acc-8c2c-75ab97698463",
+        "created_at": "2023-08-11T13:08:00+00:00",
+        "updated_at": "2026-11-19T04:27:44.352994+00:00"
+      },
+      {
+        "memory": "Tim expressed enthusiasm and support for John's charity work, calling it amazing, looking forward to its impact, and wishing all the best",
+        "score": 0.5338,
+        "id": "0ab31960-a4dd-488b-afe2-091b68aa5d07",
+        "created_at": "2023-08-11T13:08:00+00:00",
+        "updated_at": "2026-11-19T04:28:20.920233+00:00"
+      },
+      {
+        "memory": "John said the charity basketball game was a total success, with many people attending and money raised for charity",
+        "score": 0.4963,
+        "id": "761d740c-fa87-4452-aaf9-47fe914fda5c",
+        "created_at": "2024-01-07T17:24:00+00:00",
+        "updated_at": "2026-11-19T06:03:58.911842+00:00"
+      },
+      {
+        "memory": "John held a benefit basketball game last week as a charity tournament for children",
+        "score": 0.4516,
+        "id": "34d10d2a-8dbd-4285-aa77-9dd4eabe36a3",
+        "created_at": "2024-01-07T17:24:00+00:00",
+        "updated_at": "2026-11-19T06:03:41.306952+00:00"
+      },
+      {
+        "memory": "John is working to support youth sports and fight for fair chances for underserved communities, emphasizing that every kid should have access to good sports programs, and is collaborating with organizations to create more opportunities for young athletes.",
+        "score": 0.435,
+        "id": "21e18213-a47b-4b20-b08b-c5874fd1099d",
+        "created_at": "2023-12-26T15:35:00+00:00",
+        "updated_at": "2026-11-19T05:53:18.339135+00:00"
+      },
+      {
+        "memory": "John is teaming up with a local organization that helps disadvantaged kids with sports and school, hoping to use his platform to positively impact the community and inspire others",
+        "score": 0.3959,
+        "id": "f736a211-8ea8-4086-9f0a-e50fe20cec78",
+        "created_at": "2023-08-11T13:08:00+00:00",
+        "updated_at": "2026-11-19T04:28:03.928413+00:00"
+      },
+      {
+        "memory": "John shared a photo from a charity event where he was speaking, showing two men standing next to each other on a stage",
+        "score": 0.3738,
+        "id": "258e9c82-f7b1-4bdd-be10-a1f834ada2fd",
+        "created_at": "2023-12-26T15:35:00+00:00",
+        "updated_at": "2026-11-19T05:53:06.013402+00:00"
+      },
+      {
+        "memory": "John wants to keep reaching for new goals",
+        "score": 0.3611,
+        "id": "0287b613-7354-4e20-bee9-b806c5f6d7bb",
+        "created_at": "2023-08-02T16:17:00+00:00",
+        "updated_at": "2026-11-19T04:20:12.308369+00:00"
+      },
+      {
+        "memory": "John told Tim about his fun time at a charity event with Harry Potter trivia in August 2023",
+        "score": 0.3598,
+        "id": "151c2c73-96eb-4954-915e-a1f03fd86d44",
+        "created_at": "2023-12-08T19:42:00+00:00",
+        "updated_at": "2026-11-19T05:35:40.669801+00:00"
+      },
+      {
+        "memory": "John and Anthony attended a charity event where they entered an intense Harry Potter trivia contest and performed reasonably well",
+        "score": 0.3595,
+        "id": "7cafcb71-9461-44f0-8f62-1ee9eae53a11",
+        "created_at": "2023-08-02T16:17:00+00:00",
+        "updated_at": "2026-11-19T04:19:34.294214+00:00"
+      },
+      {
+        "memory": "Tim praised John for wanting to make a difference and motivate others, expressed confidence that John will succeed, and asked how he could support John.",
+        "score": 0.3352,
+        "id": "246010a0-af2c-4403-bb32-dcdd5abbbc2b",
+        "created_at": "2023-09-21T20:17:00+00:00",
+        "updated_at": "2026-11-19T04:48:32.646754+00:00"
+      },
+      {
+        "memory": "John shared an image showing a boy dribbling a basketball on a court, related to the charity basketball tournament",
+        "score": 0.3204,
+        "id": "a1c7f232-02b9-4230-9b0f-f647702726ab",
+        "created_at": "2024-01-07T17:24:00+00:00",
+        "updated_at": "2026-11-19T06:03:41.306952+00:00"
+      },
+      {
+        "memory": "John intends to keep working hard",
+        "score": 0.3062,
+        "id": "c2f8e9d8-0313-4353-a698-33e2f3e90310",
+        "created_at": "2023-11-21T10:22:00+00:00",
+        "updated_at": "2026-11-19T05:22:02.149615+00:00"
+      },
+      {
+        "memory": "John is exploring endorsement opportunities, hoping to work with brands, and feels rewarded that his hard work is paying off",
+        "score": 0.3041,
+        "id": "a0ede6df-b078-4d07-87f6-dd4b1cc5ba4c",
+        "created_at": "2023-06-15T17:08:00+00:00",
+        "updated_at": "2026-11-19T05:32:46.580449+00:00"
+      },
+      {
+        "memory": "John says his teammates believing in him and his love for improving his skills keep him going during tough times, and he doesn't want to let them down.",
+        "score": 0.2807,
+        "id": "8fe84bbb-5654-483d-9397-a3e5d4e89b41",
+        "created_at": "2023-10-21T17:51:00+00:00",
+        "updated_at": "2026-11-19T05:09:00.077039+00:00"
+      },
+      {
+        "memory": "John says the team bond is awesome and makes all the hard work worth it",
+        "score": 0.2788,
+        "id": "a386e1f5-4eaf-4046-a0da-dd473ebba5e6",
+        "created_at": "2023-08-09T10:29:00+00:00",
+        "updated_at": "2026-11-19T04:21:38.132862+00:00"
+      },
+      {
+        "memory": "Tim asked John which other brands he dreams of working with for endorsements",
+        "score": 0.2776,
+        "id": "4eb3954e-d931-459f-bf04-d844fef2094b",
+        "created_at": "2023-07-16T16:21:00+00:00",
+        "updated_at": "2026-11-19T04:14:41.295897+00:00"
+      },
+      {
+        "memory": "Tim asked John about the causes he is working on, expressing interest in learning more about them",
+        "score": 0.25,
+        "id": "f51ef78d-6b5b-4f45-807e-ee28328d41f9",
+        "created_at": "2023-12-26T15:35:00+00:00",
+        "updated_at": "2026-11-19T05:52:56.527544+00:00"
+      },
+      {
+        "memory": "John says his hard work is paying off and things are going great",
+        "score": 0.2489,
+        "id": "bef83650-7fe5-4145-bcea-cf10852dd396",
+        "created_at": "2023-12-16T15:37:00+00:00",
+        "updated_at": "2026-11-19T05:47:00.927951+00:00"
+      },
+      {
+        "memory": "John asked Tim how long he has been reading J.K. Rowling's works",
+        "score": 0.245,
+        "id": "db2cfa8d-fb2b-4417-86f5-ac9f89993415",
+        "created_at": "2023-10-21T17:51:00+00:00",
+        "updated_at": "2026-11-19T05:07:10.603721+00:00"
+      },
+      {
+        "memory": "John said winning felt amazing and was worth all the hard work his team put in",
+        "score": 0.244,
+        "id": "2a1dd3d1-acad-4852-a9f5-b04fe1190038",
+        "created_at": "2023-12-08T19:42:00+00:00",
+        "updated_at": "2026-11-19T05:36:50.677651+00:00"
+      },
+      {
+        "memory": "Tim encouraged John (or the recipient) to stay motivated, saying anything is possible with hard work and to keep pushing for goals",
+        "score": 0.2435,
+        "id": "1c3feccd-51a1-4851-8636-0c75385fce36",
+        "created_at": "2023-10-13T13:50:00+00:00",
+        "updated_at": "2026-11-19T04:58:43.667671+00:00"
+      },
+      {
+        "memory": "Tim believes that John's recent accomplishment thrilled him, boosted his self-esteem, and proved that all the hard work was worth it",
+        "score": 0.2406,
+        "id": "6d273d03-f4af-40b2-bf50-00223351436e",
+        "created_at": "2024-01-12T13:41:00+00:00",
+        "updated_at": "2026-11-19T06:06:36.263393+00:00"
+      },
+      {
+        "memory": "John felt elated after Tim's support, said the support means a lot to him, and pledged to keep working hard",
+        "score": 0.2405,
+        "id": "5ec16343-ac40-4897-8772-9a21203b7c98",
+        "created_at": "2023-10-13T13:50:00+00:00",
+        "updated_at": "2026-11-19T04:57:44.770888+00:00"
+      },
+      {
+        "memory": "John felt the energy at the basketball game was crazy and motivating, especially after seeing top players, which made him want to work harder",
+        "score": 0.2349,
+        "id": "06efc704-4c7a-4843-99d1-90bc86f91407",
+        "created_at": "2023-10-02T15:00:00+00:00",
+        "updated_at": "2026-11-19T04:55:25.257971+00:00"
+      },
+      {
+        "memory": "At the charity event, a super‑nerd won the prize—a signed Harry Potter book (shown in the shared image of a book with a person holding a bookmark)",
+        "score": 0.2329,
+        "id": "9b9c0a09-8283-40b5-a204-01cf9f115d8b",
+        "created_at": "2023-08-02T16:17:00+00:00",
+        "updated_at": "2026-11-19T04:19:34.294214+00:00"
+      },
+      {
+        "memory": "John expressed gratitude for Tim's support, saying he really appreciates it, and stated he is excited to work hard and make a positive impact",
+        "score": 0.2308,
+        "id": "ac1456a6-6957-41bd-b65f-dee41f3512cd",
+        "created_at": "2023-08-11T13:08:00+00:00",
+        "updated_at": "2026-11-19T04:28:33.769748+00:00"
+      },
+      {
+        "memory": "Tim (Tim) asked John about memorable experiences working with his outdoor gear endorsement partner",
+        "score": 0.2271,
+        "id": "772cfb6a-56a2-4158-8cab-025361c838bd",
+        "created_at": "2023-12-26T15:35:00+00:00",
+        "updated_at": "2026-11-19T05:53:19.991350+00:00"
+      },
+      {
+        "memory": "User appreciates John's encouragement and thanks him for his support",
+        "score": 0.2246,
+        "id": "49f214a1-2fa2-4e05-9948-d24dbf532652",
+        "created_at": "2024-01-02T17:26:00+00:00",
+        "updated_at": "2026-11-19T05:57:38.348431+00:00"
+      },
+      {
+        "memory": "John expressed that he is glad he can make a difference",
+        "score": 0.2219,
+        "id": "8bf543be-b20d-41b5-b35d-bebc9440d353",
+        "created_at": "2023-12-26T15:35:00+00:00",
+        "updated_at": "2026-11-19T05:54:09.783484+00:00"
+      },
+      {
+        "memory": "Tim congratulated John on winning a trophy, saying the hard work paid off and expressing pride",
+        "score": 0.2199,
+        "id": "4ca9d7c4-e9b3-4693-8556-f16522b36953",
+        "created_at": "2023-10-13T13:50:00+00:00",
+        "updated_at": "2026-11-19T04:57:27.971628+00:00"
+      },
+      {
+        "memory": "John said he finds it inspiring to see people who use their platform for important causes and make a difference",
+        "score": 0.2192,
+        "id": "ca7945e1-f510-4cda-b7e7-81f5471417ea",
+        "created_at": "2023-12-26T15:35:00+00:00",
+        "updated_at": "2026-11-19T05:52:33.920917+00:00"
+      },
+      {
+        "memory": "Tim offered to help John, saying he owes him one and to let John know if he needs anything",
+        "score": 0.2177,
+        "id": "ba17de9a-e09e-458f-aac4-44c691b7f28c",
+        "created_at": "2024-01-12T13:41:00+00:00",
+        "updated_at": "2026-11-19T06:07:29.337010+00:00"
+      },
+      {
+        "memory": "Tim appreciated John's encouragement",
+        "score": 0.2124,
+        "id": "30c8a438-8528-49fe-b439-aa50d48286d6",
+        "created_at": "2023-08-31T14:52:00+00:00",
+        "updated_at": "2026-11-19T04:43:13.429923+00:00"
+      },
+      {
+        "memory": "Tim believes John’s basketball shoes reflect his hard work, successes, and the amazing times he’s had playing basketball",
+        "score": 0.2118,
+        "id": "50f9ec63-a132-4e0f-9666-8e50ce0f7a10",
+        "created_at": "2023-08-11T13:08:00+00:00",
+        "updated_at": "2026-11-19T04:26:14.673234+00:00"
+      },
+      {
+        "memory": "Tim thanked John for his offer and asked John to let him know if he can lend a hand",
+        "score": 0.2109,
+        "id": "237ae533-3538-4d1d-8947-fb0491888efa",
+        "created_at": "2023-12-06T17:34:00+00:00",
+        "updated_at": "2026-11-19T05:35:06.331996+00:00"
+      },
+      {
+        "memory": "John says he is lucky to have super supportive people who are always there for him",
+        "score": 0.2085,
+        "id": "ff3364a6-a0e6-402c-a452-ffadce37f41e",
+        "created_at": "2023-10-21T17:51:00+00:00",
+        "updated_at": "2026-11-19T05:09:23.569317+00:00"
+      },
+      {
+        "memory": "Tim thinks John has a passion that helps him grow and reach his goals",
+        "score": 0.2073,
+        "id": "adeedb0e-e8ab-43fe-a305-af120afb47be",
+        "created_at": "2023-09-21T20:17:00+00:00",
+        "updated_at": "2026-11-19T04:48:24.913761+00:00"
+      },
+      {
+        "memory": "John enjoys being with people who share his passion for Harry Potter",
+        "score": 0.2058,
+        "id": "df40453e-29c4-4b77-a99b-f2b2239a6e90",
+        "created_at": "2023-12-08T19:42:00+00:00",
+        "updated_at": "2026-11-19T05:35:40.669801+00:00"
+      },
+      {
+        "memory": "Tim says John has tons of determination and passion and will make a difference",
+        "score": 0.2056,
+        "id": "adced3f6-6a0a-4030-8967-e896bb874f19",
+        "created_at": "2023-08-11T13:08:00+00:00",
+        "updated_at": "2026-11-19T04:29:03.740350+00:00"
+      },
+      {
+        "memory": "John's number one goal is winning a championship",
+        "score": 0.2046,
+        "id": "fb1c955c-4724-4eff-89a8-ca246ff6b700",
+        "created_at": "2023-08-11T13:08:00+00:00",
+        "updated_at": "2026-11-19T04:27:07.710628+00:00"
+      },
+      {
+        "memory": "Tim thanked John, said it means a lot, and suggested they keep each other motivated",
+        "score": 0.2019,
+        "id": "ba9efc26-caf4-4e8a-8650-bb40dc12dc28",
+        "created_at": "2023-12-11T20:28:00+00:00",
+        "updated_at": "2026-11-19T05:43:04.803997+00:00"
+      },
+      {
+        "memory": "Tim appreciates that John keeps a reminder of his friends' energy and support, saying it's great to have a bit of their energy with him",
+        "score": 0.2008,
+        "id": "dc444ac8-1a15-426c-81ac-3b773bc65f26",
+        "created_at": "2023-08-17T19:54:00+00:00",
+        "updated_at": "2026-11-19T04:31:15.761698+00:00"
+      },
+      {
+        "memory": "Tim expressed empathy about John's recent ankle injury and asked whether John has been able to stay active or maintain his fitness routine while recovering",
+        "score": 0.1987,
+        "id": "87dd8bd8-4930-41cb-bf29-a599bb4b73b0",
+        "created_at": "2023-12-16T15:37:00+00:00",
+        "updated_at": "2026-11-19T05:46:05.224583+00:00"
+      },
+      {
+        "memory": "Tim said that making a difference to the kids was great and praised John’s passion for helping others",
+        "score": 0.1959,
+        "id": "8bfb78db-b754-485c-84fa-f1757ab13919",
+        "created_at": "2023-12-26T15:35:00+00:00",
+        "updated_at": "2026-11-19T05:53:36.421393+00:00"
+      },
+      {
+        "memory": "Tim congratulated John on his endorsement pursuits, expressing excitement about the brand partnerships he is seeking",
+        "score": 0.1954,
+        "id": "e6bbaacf-5310-485f-9500-25a16f0be318",
+        "created_at": "2023-06-15T17:08:00+00:00",
+        "updated_at": "2026-11-19T04:07:27.980585+00:00"
+      },
+      {
+        "memory": "Tim said his encouragement helped John",
+        "score": 0.1951,
+        "id": "54a99fd4-75d5-4471-9f8e-47e722bab6d0",
+        "created_at": "2023-10-13T13:50:00+00:00",
+        "updated_at": "2026-11-19T04:59:31.039462+00:00"
+      },
+      {
+        "memory": "John used his contacts in the basketball industry and his marketing skills to make connections, emphasizing that networking is crucial for securing endorsements and expressing gratitude for the support he has received",
+        "score": 0.1948,
+        "id": "a9a33d97-5e0f-4609-8f2c-e6479ea33d75",
+        "created_at": "2023-07-16T16:21:00+00:00",
+        "updated_at": "2026-11-19T04:13:34.352824+00:00"
+      },
+      {
+        "memory": "Tim asks John which endorsements he has managed to get through networking",
+        "score": 0.1946,
+        "id": "93552cc8-becc-4c2a-b4c3-476499fed3ea",
+        "created_at": "2023-07-16T16:21:00+00:00",
+        "updated_at": "2026-11-19T04:13:40.975799+00:00"
+      }
+    ],
+    "search_latency_ms": 1026.0,
+    "total_results": 50
+  },
+  "cutoff_results": {
+    "top_50": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "Boys & Girls Clubs of America — because they specialize in serving underserved youth with exactly the mix John cares about: accessible after-school sports programs, mentoring, and academic support. Their nationwide club network would let him scale charity basketball clinics, tournaments, and tutoring/mentorship initiatives, turning his platform and events into consistent, measurable impact for the kids he wants to help.",
+      "memories_evaluated": 50,
+      "reason": "The generated answer names Boys & Girls Clubs of America and does not mention Good Sports or the specific partners (Nike, Gatorade, Under Armour) or the 3–18 youth mission from the gold answer, so none of the gold items appear."
+    }
+  }
+}

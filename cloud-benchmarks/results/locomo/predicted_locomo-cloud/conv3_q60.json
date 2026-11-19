@@ -1,0 +1,379 @@
+{
+  "question_id": "conv3_q60",
+  "conversation_idx": 3,
+  "category": 3,
+  "category_name": "open-domain",
+  "question": "What Console does Nate own?",
+  "ground_truth_answer": "A Nintendo Switch; since the game \"Xenoblade 2\" is made for this console.",
+  "evidence": [
+    "D27:23"
+  ],
+  "user_id": "locomo_3_fe8ec031",
+  "reference_date": "12:06 am on 11 November, 2022",
+  "retrieval": {
+    "search_query": "What Console does Nate own?",
+    "search_results": [
+      {
+        "memory": "Nate is a big fan of Nintendo games",
+        "score": 0.3697,
+        "id": "035d67de-46d9-463d-99d1-250eb31fe21e",
+        "created_at": "2022-11-07T20:10:00+00:00",
+        "updated_at": "2026-11-19T05:41:44.036160+00:00"
+      },
+      {
+        "memory": "Nate enjoys connecting with fellow gamers",
+        "score": 0.3507,
+        "id": "b692c7a7-8479-40a2-a32b-a01125127a6d",
+        "created_at": "2022-06-03T17:44:00+00:00",
+        "updated_at": "2026-11-19T04:57:12.265203+00:00"
+      },
+      {
+        "memory": "Nate shared an image of a bookcase filled with DVDs and movies",
+        "score": 0.3503,
+        "id": "f10a0446-a5b8-4d84-abcd-72419e37d276",
+        "created_at": "2022-10-09T10:58:00+00:00",
+        "updated_at": "2026-11-19T05:27:03.723053+00:00"
+      },
+      {
+        "memory": "Nate has been practicing for his next video game tournament",
+        "score": 0.3447,
+        "id": "c84ae421-28b3-4ba3-b2e1-fa42783a9bbc",
+        "created_at": "2022-10-21T14:01:00+00:00",
+        "updated_at": "2026-11-19T05:30:18.481966+00:00"
+      },
+      {
+        "memory": "Nate frequently plays Street Fighter with his friends",
+        "score": 0.3447,
+        "id": "8778ba0b-94e6-44e3-9ce2-e4822de33958",
+        "created_at": "2022-05-02T11:54:00+00:00",
+        "updated_at": "2026-11-19T04:38:44.651368+00:00"
+      },
+      {
+        "memory": "Nate said he is all about desserts",
+        "score": 0.3414,
+        "id": "3f2207fc-12bf-46fb-8642-205328fd494f",
+        "created_at": "2022-02-25T13:07:00+00:00",
+        "updated_at": "2026-11-19T04:18:05.677428+00:00"
+      },
+      {
+        "memory": "Joanna says goodbye to Nate",
+        "score": 0.3414,
+        "id": "eeaaf75d-e1f4-46ef-bed4-8bd2537db265",
+        "created_at": "2022-10-09T10:58:00+00:00",
+        "updated_at": "2026-11-19T05:28:59.520228+00:00"
+      },
+      {
+        "memory": "Nate loves watching classic movies",
+        "score": 0.3396,
+        "id": "bb913e10-d0e0-442a-9ba4-370467163217",
+        "created_at": "2022-01-21T19:31:00+00:00",
+        "updated_at": "2026-11-19T04:05:04.663541+00:00"
+      },
+      {
+        "memory": "Nate shared an image showing a gaming room with a computer and a gaming chair",
+        "score": 0.3379,
+        "id": "1cf800ce-67aa-4b51-be48-a4b3fecabf02",
+        "created_at": "2022-05-02T11:54:00+00:00",
+        "updated_at": "2026-11-19T04:37:40.171906+00:00"
+      },
+      {
+        "memory": "Joanna asked Nate about his next move in the gaming world",
+        "score": 0.3364,
+        "id": "d4cd752a-3c3b-4e40-a44a-5eff7bc328a4",
+        "created_at": "2022-11-09T17:54:00+00:00",
+        "updated_at": "2026-11-19T05:45:18.224835+00:00"
+      },
+      {
+        "memory": "Nate shared an image of his desk showing a computer, headphones, and a microphone",
+        "score": 0.3322,
+        "id": "2be1c7b9-de40-49ae-a205-24d482b6621b",
+        "created_at": "2022-11-09T17:54:00+00:00",
+        "updated_at": "2026-11-19T05:46:51.208154+00:00"
+      },
+      {
+        "memory": "Joanna agreed to see Nate later",
+        "score": 0.3316,
+        "id": "19cf38a8-152c-4b57-a99d-af6e432fb65e",
+        "created_at": "2022-05-12T15:35:00+00:00",
+        "updated_at": "2026-11-19T04:43:35.491889+00:00"
+      },
+      {
+        "memory": "Nate appreciates Joanna's support and mentions that it has been a while since his first video game tournament",
+        "score": 0.3302,
+        "id": "82e0ee6c-661a-4cba-8684-bca22f6c95a1",
+        "created_at": "2022-06-03T17:44:00+00:00",
+        "updated_at": "2026-11-19T04:58:20.372991+00:00"
+      },
+      {
+        "memory": "Nate says the space is very comfy and he wants to get a similar setup for himself",
+        "score": 0.3294,
+        "id": "dc4e966e-a018-4c25-9e9f-3fa112087839",
+        "created_at": "2022-10-09T10:58:00+00:00",
+        "updated_at": "2026-11-19T05:28:10.475559+00:00"
+      },
+      {
+        "memory": "Nate's game tournament was pushed back",
+        "score": 0.3289,
+        "id": "9b33bca3-4c14-4c78-aeeb-eaee0f4ea286",
+        "created_at": "2022-11-09T17:54:00+00:00",
+        "updated_at": "2026-11-19T05:44:15.474168+00:00"
+      },
+      {
+        "memory": "Nate believes that encouragement has been crucial to his gaming career",
+        "score": 0.3286,
+        "id": "2c481cf3-ff1d-42dd-9787-60a1d0025969",
+        "created_at": "2022-10-06T11:15:00+00:00",
+        "updated_at": "2026-11-19T05:24:22.684692+00:00"
+      },
+      {
+        "memory": "User asked Nate what his favorite superhero is",
+        "score": 0.328,
+        "id": "df80387c-3deb-46e9-86ec-7644977bbb29",
+        "created_at": "2022-06-05T14:12:00+00:00",
+        "updated_at": "2026-11-19T05:00:32.254079+00:00"
+      },
+      {
+        "memory": "Nate has many books he hasn't read in years",
+        "score": 0.3278,
+        "id": "997c3b71-74d9-43dc-95cd-9359fe4c7aba",
+        "created_at": "2022-04-17T18:44:00+00:00",
+        "updated_at": "2026-11-19T04:29:27.708413+00:00"
+      },
+      {
+        "memory": "User expressed enthusiasm about Nate's first video game tournament win",
+        "score": 0.3276,
+        "id": "833dbd30-c389-4474-954a-c92fa534c604",
+        "created_at": "2022-01-21T19:31:00+00:00",
+        "updated_at": "2026-11-19T04:03:35.778325+00:00"
+      },
+      {
+        "memory": "Nate mentioned that he has had a busy week.",
+        "score": 0.3273,
+        "id": "55b9af6c-f029-4ea7-8e5c-39032a6c76b6",
+        "created_at": "2022-05-20T19:49:00+00:00",
+        "updated_at": "2026-11-19T04:44:00.053601+00:00"
+      },
+      {
+        "memory": "Nate shared an image of a purple and blue controller featuring a star‑field design.",
+        "score": 0.3255,
+        "id": "393e724f-5dd5-42be-acde-d81a9fec4e56",
+        "created_at": "2022-06-03T17:44:00+00:00",
+        "updated_at": "2026-11-19T04:58:31.925119+00:00"
+      },
+      {
+        "memory": "Joanna asked Nate what inspired him",
+        "score": 0.3249,
+        "id": "cf4b9d74-00d6-4ca6-bf50-27cd2f73fb67",
+        "created_at": "2022-10-06T11:15:00+00:00",
+        "updated_at": "2026-11-19T05:24:03.546646+00:00"
+      },
+      {
+        "memory": "Joanna asked Nate what game he was playing",
+        "score": 0.3241,
+        "id": "a04247f6-03a2-4d98-8967-ed9b6937f589",
+        "created_at": "2022-05-02T11:54:00+00:00",
+        "updated_at": "2026-11-19T04:39:20.451700+00:00"
+      },
+      {
+        "memory": "User congratulated Nate on his recent tournament win",
+        "score": 0.3241,
+        "id": "4c4da7ff-4352-4dca-83d0-bbe8b302eb42",
+        "created_at": "2022-05-02T11:54:00+00:00",
+        "updated_at": "2026-11-19T04:39:20.451700+00:00"
+      },
+      {
+        "memory": "Nate has been wanting to play a particular Nintendo game for a while because his friends have played it and recommended it",
+        "score": 0.3236,
+        "id": "5e6b4458-5297-47fc-a8f0-f7bed4c4f93b",
+        "created_at": "2022-11-07T20:10:00+00:00",
+        "updated_at": "2026-11-19T05:41:44.036160+00:00"
+      },
+      {
+        "memory": "Nate said he will give Joanna a shout whenever he runs out of things to watch",
+        "score": 0.3233,
+        "id": "3347d2ca-ec94-4318-b2aa-b6f0e8ab3757",
+        "created_at": "2022-02-07T09:27:00+00:00",
+        "updated_at": "2026-11-19T04:15:38.448676+00:00"
+      },
+      {
+        "memory": "Nate has liked turtles since he was a boy and says he knows all about them",
+        "score": 0.3221,
+        "id": "d0ab0e4c-0aaa-4756-8db4-40c5cc8b1bef",
+        "created_at": "2022-10-25T20:16:00+00:00",
+        "updated_at": "2026-11-19T05:34:47.892451+00:00"
+      },
+      {
+        "memory": "Nate said his gaming party was a great success",
+        "score": 0.3218,
+        "id": "41c11335-28c8-41c9-b40c-a9d78f5fc3ae",
+        "created_at": "2022-06-24T10:55:00+00:00",
+        "updated_at": "2026-11-19T05:02:47.813882+00:00"
+      },
+      {
+        "memory": "Joanna expressed that something Nate showed looks awesome",
+        "score": 0.3206,
+        "id": "212cc1df-df89-444f-9b56-1005e187f580",
+        "created_at": "2022-10-06T11:15:00+00:00",
+        "updated_at": "2026-11-19T05:24:03.546646+00:00"
+      },
+      {
+        "memory": "Joanna asked Nate about his current projects",
+        "score": 0.3202,
+        "id": "a0e45c62-de48-4386-a045-f602478951a5",
+        "created_at": "2022-11-09T17:54:00+00:00",
+        "updated_at": "2026-11-19T05:46:28.398531+00:00"
+      },
+      {
+        "memory": "Joanna will see Nate on 2022-11-10",
+        "score": 0.3187,
+        "id": "d7d4b60f-c6ac-40b1-8053-207886a50065",
+        "created_at": "2022-11-09T17:54:00+00:00",
+        "updated_at": "2026-11-19T05:49:30.907604+00:00"
+      },
+      {
+        "memory": "Nate shared an image showing a bookcase filled with books and a toy car.",
+        "score": 0.3185,
+        "id": "5bc4e505-c96f-433f-8233-c3ba5a7320cc",
+        "created_at": "2022-08-22T10:57:00+00:00",
+        "updated_at": "2026-11-19T05:14:29.738871+00:00"
+      },
+      {
+        "memory": "Nate usually plays Counter-Strike: Global Offensive (CS:GO)",
+        "score": 0.318,
+        "id": "00b5a83a-f98a-452e-8550-d8b52a1d5c63",
+        "created_at": "2022-05-02T11:54:00+00:00",
+        "updated_at": "2026-11-19T04:38:44.651368+00:00"
+      },
+      {
+        "memory": "Joanna expressed pride in Nate's gaming room and said it looks great",
+        "score": 0.3172,
+        "id": "bd7f7c91-a3f6-4ea9-a3c7-560ceb24fa5d",
+        "created_at": "2022-05-02T11:54:00+00:00",
+        "updated_at": "2026-11-19T04:37:47.855787+00:00"
+      },
+      {
+        "memory": "Joanna expresses enthusiasm about Nate's turtles, calling them cool, and asks Nate what he loves most about having them",
+        "score": 0.3171,
+        "id": "3a1f672a-8ab6-40f5-b5f4-e9d680905672",
+        "created_at": "2022-11-11T00:06:00+00:00",
+        "updated_at": "2026-11-19T05:50:53.284401+00:00"
+      },
+      {
+        "memory": "Nate practices and competes at the location he mentioned, and sometimes uses it when playing games with friends",
+        "score": 0.3167,
+        "id": "64483e4e-f32c-41dc-b10c-0899ce6ab26e",
+        "created_at": "2022-11-07T20:10:00+00:00",
+        "updated_at": "2026-11-19T05:40:22.205198+00:00"
+      },
+      {
+        "memory": "Joanna (Joanna) says she will keep Nate posted and loves his creations",
+        "score": 0.3163,
+        "id": "e1122805-4ff4-4f87-8076-478d3c699db4",
+        "created_at": "2022-02-25T13:07:00+00:00",
+        "updated_at": "2026-11-19T04:18:25.678038+00:00"
+      },
+      {
+        "memory": "Nate expressed that Joanna can always count on him for support",
+        "score": 0.3158,
+        "id": "5f83f849-8783-4963-bc06-ffa7816dc120",
+        "created_at": "2022-10-06T11:15:00+00:00",
+        "updated_at": "2026-11-19T05:23:58.385723+00:00"
+      },
+      {
+        "memory": "Nate prefers to stay around more chill people because some are more competitive",
+        "score": 0.3151,
+        "id": "f1348ef0-785e-4d27-9044-8a8a15709d0d",
+        "created_at": "2022-01-23T14:01:00+00:00",
+        "updated_at": "2026-11-19T04:08:15.782372+00:00"
+      },
+      {
+        "memory": "Nate mentioned they played chess afterward just for fun",
+        "score": 0.3136,
+        "id": "809a6f32-3baf-4b31-864f-c2650f04b723",
+        "created_at": "2022-06-24T10:55:00+00:00",
+        "updated_at": "2026-11-19T05:02:47.813882+00:00"
+      },
+      {
+        "memory": "Joanna says it's great to hear about Nate's tournaments throughout the years",
+        "score": 0.3128,
+        "id": "a51ae8bb-7674-4a26-9f6c-fdbac404fe49",
+        "created_at": "2022-06-03T17:44:00+00:00",
+        "updated_at": "2026-11-19T04:57:38.189588+00:00"
+      },
+      {
+        "memory": "Nate is getting a third turtle in 2022",
+        "score": 0.3125,
+        "id": "c98584a0-dbec-410b-a995-8592f9d0d854",
+        "created_at": "2022-11-09T17:54:00+00:00",
+        "updated_at": "2026-11-19T05:48:52.155568+00:00"
+      },
+      {
+        "memory": "Joanna thinks Nate's cooking is amazing",
+        "score": 0.3124,
+        "id": "999678f7-c3ac-417d-baa3-8f4505cb246b",
+        "created_at": "2022-02-25T13:07:00+00:00",
+        "updated_at": "2026-11-19T04:22:35.050080+00:00"
+      },
+      {
+        "memory": "Nate won his first video game tournament around January 14, 2022",
+        "score": 0.3123,
+        "id": "757ddc7e-e47b-4d7e-9240-c7f7a62d02ff",
+        "created_at": "2022-01-21T19:31:00+00:00",
+        "updated_at": "2026-11-19T04:02:51.252189+00:00"
+      },
+      {
+        "memory": "Nate will invite some old friends and teammates from other tournaments",
+        "score": 0.3118,
+        "id": "6e4a9247-152a-4ea7-807c-15f4e77dab80",
+        "created_at": "2022-06-03T17:44:00+00:00",
+        "updated_at": "2026-11-19T04:59:31.487644+00:00"
+      },
+      {
+        "memory": "Joanna asks Nate why he chose turtles as pets",
+        "score": 0.3113,
+        "id": "81310b51-312a-4f03-8218-ac3cf1474ae1",
+        "created_at": "2022-03-18T18:59:00+00:00",
+        "updated_at": "2026-11-19T04:21:18.827584+00:00"
+      },
+      {
+        "memory": "Joanna hasn't seen pictures of Nate's turtles in a while",
+        "score": 0.3112,
+        "id": "a4fc11c3-04a7-494c-93d8-d46604492938",
+        "created_at": "2022-11-07T20:10:00+00:00",
+        "updated_at": "2026-11-19T05:39:21.628463+00:00"
+      },
+      {
+        "memory": "Nate loves dark skies and green scenery",
+        "score": 0.3106,
+        "id": "7a927502-d273-4d62-a2e3-489335b216e5",
+        "created_at": "2022-05-12T15:35:00+00:00",
+        "updated_at": "2026-11-19T04:41:50.715220+00:00"
+      },
+      {
+        "memory": "Nate says he no longer feels stressed and can enjoy his movies and games",
+        "score": 0.3103,
+        "id": "0653be4a-e4d1-4257-a82d-0348839b38ea",
+        "created_at": "2022-10-06T11:15:00+00:00",
+        "updated_at": "2026-11-19T05:22:52.814175+00:00"
+      },
+      {
+        "memory": "Nate says the turtles might be small but have big personalities",
+        "score": 0.31,
+        "id": "9cbabc72-7ea4-483a-975e-e175a17f082a",
+        "created_at": "2022-01-23T14:01:00+00:00",
+        "updated_at": "2026-11-19T04:07:47.551697+00:00"
+      }
+    ],
+    "search_latency_ms": 559.1,
+    "total_results": 50
+  },
+  "cutoff_results": {
+    "top_50": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Nintendo Switch",
+      "memories_evaluated": 50,
+      "reason": "The generated answer exactly matches the gold answer ('Nintendo Switch')."
+    }
+  }
+}

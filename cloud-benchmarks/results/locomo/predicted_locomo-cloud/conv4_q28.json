@@ -1,0 +1,380 @@
+{
+  "question_id": "conv4_q28",
+  "conversation_idx": 4,
+  "category": 3,
+  "category_name": "open-domain",
+  "question": "Which popular music composer's tunes does Tim enjoy playing on the piano?",
+  "ground_truth_answer": "John Williams",
+  "evidence": [
+    "D8:14",
+    "D8:16"
+  ],
+  "user_id": "locomo_4_fe8ec031",
+  "reference_date": "1:41 pm on 12 January, 2024",
+  "retrieval": {
+    "search_query": "Which popular music composer's tunes does Tim enjoy playing on the piano?",
+    "search_results": [
+      {
+        "memory": "Tim loves playing various songs on the piano and his favorite piece to jam to is a theme from a movie he enjoys, which brings back many great memories",
+        "score": 0.6621,
+        "id": "2943bca2-4bdf-4d05-b337-4019c027f6d7",
+        "created_at": "2023-08-21T16:29:00+00:00",
+        "updated_at": "2026-11-19T04:35:08.622106+00:00"
+      },
+      {
+        "memory": "Tim has been playing the violin for about four months as of December 6, 2023, having started around early August 2023, and is enjoying his progress",
+        "score": 0.5128,
+        "id": "5ab1d733-5139-4b0d-ab76-c9c4c7851913",
+        "created_at": "2023-12-06T17:34:00+00:00",
+        "updated_at": "2026-11-19T05:34:06.306857+00:00"
+      },
+      {
+        "memory": "Tim recently started learning to play the piano, describing the learning curve as challenging but feeling satisfied with the progress made",
+        "score": 0.4797,
+        "id": "1e1dd66d-c990-44a2-aeff-f145b09506f3",
+        "created_at": "2023-08-21T16:29:00+00:00",
+        "updated_at": "2026-11-19T04:34:45.096104+00:00"
+      },
+      {
+        "memory": "Tim asked John how long he has been playing professionally",
+        "score": 0.4747,
+        "id": "fdf31b30-527a-4d69-8b57-2242b497e5fb",
+        "created_at": "2023-12-06T17:34:00+00:00",
+        "updated_at": "2026-11-19T05:32:07.827380+00:00"
+      },
+      {
+        "memory": "Tim loves going on road trips with friends and family, enjoys exploring, hiking, and playing board games during those trips",
+        "score": 0.4711,
+        "id": "c8a88ea8-9279-45ae-afcb-833b5e04e739",
+        "created_at": "2023-10-21T17:51:00+00:00",
+        "updated_at": "2026-11-19T05:10:40.350599+00:00"
+      },
+      {
+        "memory": "Tim asked John whether he was playing or watching",
+        "score": 0.4647,
+        "id": "c7f97009-f782-4f88-bccb-f7accc55050a",
+        "created_at": "2023-06-15T17:08:00+00:00",
+        "updated_at": "2026-11-19T04:10:08.265636+00:00"
+      },
+      {
+        "memory": "John says learning to play the piano is awesome and describes the instrument as beautiful",
+        "score": 0.4629,
+        "id": "271be14e-40fe-434c-8883-42c33e37df88",
+        "created_at": "2023-08-21T16:29:00+00:00",
+        "updated_at": "2026-11-19T04:34:58.874316+00:00"
+      },
+      {
+        "memory": "Tim is learning to play the violin, focusing on classical music while also interested in trying jazz and film scores, and says it is a great way to chill and get creative",
+        "score": 0.3762,
+        "id": "6b8d156f-0910-4fca-82d4-776922223f8e",
+        "created_at": "2023-12-06T17:34:00+00:00",
+        "updated_at": "2026-11-19T05:34:10.932978+00:00"
+      },
+      {
+        "memory": "Tim (Tim) is curious about John's playing position for the Minnesota Wolves and about any upcoming games",
+        "score": 0.3135,
+        "id": "509a79e5-bdb2-44a4-af8a-40357161dbbd",
+        "created_at": "2023-05-21T19:48:00+00:00",
+        "updated_at": "2026-11-19T04:03:40.043630+00:00"
+      },
+      {
+        "memory": "Tim (Tim) recently attended an event in early August 2023, found it fantastic, and enjoyed being with other fans who love it too",
+        "score": 0.2912,
+        "id": "3fdd6bc7-79f1-4682-bf8f-87d33bb842d9",
+        "created_at": "2023-08-11T13:08:00+00:00",
+        "updated_at": "2026-11-19T04:23:55.113926+00:00"
+      },
+      {
+        "memory": "Tim congratulated John on his recent performance making plays",
+        "score": 0.2475,
+        "id": "583c5de4-b3c9-4ac3-846b-ffe5e085371c",
+        "created_at": "2023-12-11T20:28:00+00:00",
+        "updated_at": "2026-11-19T05:40:39.280126+00:00"
+      },
+      {
+        "memory": "Tim (Tim) said he's okay and can look up the spices himself",
+        "score": 0.241,
+        "id": "f848967d-8d1a-4a55-ab7f-3d7f769b3e6b",
+        "created_at": "2023-08-31T14:52:00+00:00",
+        "updated_at": "2026-11-19T04:43:38.995603+00:00"
+      },
+      {
+        "memory": "John says LeBron's moments of determination and heart are incredible, and that this inspires him to enjoy playing basketball and pushing himself.",
+        "score": 0.24,
+        "id": "8e6c3e0c-c65d-4cf1-a434-0230bbfe2084",
+        "created_at": "2023-11-06T11:41:00+00:00",
+        "updated_at": "2026-11-19T05:13:36.073739+00:00"
+      },
+      {
+        "memory": "Tim enjoys reading Harry Potter books during downtime as a magical escape",
+        "score": 0.2344,
+        "id": "2ae1b9ed-f5f8-45da-a93d-0c43dc8d5369",
+        "created_at": "2023-12-26T15:35:00+00:00",
+        "updated_at": "2026-11-19T05:54:02.999314+00:00"
+      },
+      {
+        "memory": "Tim finds Thanksgiving always special, enjoys preparing the feast, talking about what they're thankful for, and watching movies afterwards",
+        "score": 0.2319,
+        "id": "e3c569ab-047c-4e09-90cb-ef067df83839",
+        "created_at": "2023-08-21T16:29:00+00:00",
+        "updated_at": "2026-11-19T04:36:59.090867+00:00"
+      },
+      {
+        "memory": "Tim joined a group of globetrotters who share his interests, enjoying getting to know them and hearing about their trips",
+        "score": 0.2285,
+        "id": "2750e0f2-4c00-4f12-aa1c-b037a55bef34",
+        "created_at": "2024-01-02T17:26:00+00:00",
+        "updated_at": "2026-11-19T05:55:34.810139+00:00"
+      },
+      {
+        "memory": "Tim has watched the Harry Potter movies and enjoys comparing them to the books, finding it amazing to see the story come alive",
+        "score": 0.2271,
+        "id": "e6b84be7-c60f-4c28-a2ef-e3f69e031a7a",
+        "created_at": "2023-12-26T15:35:00+00:00",
+        "updated_at": "2026-11-19T05:54:23.491434+00:00"
+      },
+      {
+        "memory": "John said he and Tim were teammates for four years in high school, indicating they have played together for quite some time",
+        "score": 0.2254,
+        "id": "6d93a2d1-3f7c-46ab-b73b-255024a857c5",
+        "created_at": "2023-08-26T18:59:00+00:00",
+        "updated_at": "2026-11-19T04:40:48.226696+00:00"
+      },
+      {
+        "memory": "Tim prefers reading fantasy novels and sinking into magical worlds rather than playing sports",
+        "score": 0.2222,
+        "id": "0659cc24-293a-4043-bdb9-de1f7255c5c4",
+        "created_at": "2023-08-26T18:59:00+00:00",
+        "updated_at": "2026-11-19T04:41:01.720261+00:00"
+      },
+      {
+        "memory": "Tim (Tim) said he is glad John liked it and offered to give more suggestions if needed",
+        "score": 0.2216,
+        "id": "1e9fe03a-9829-43c9-8a49-7b40c11096c5",
+        "created_at": "2023-09-21T20:17:00+00:00",
+        "updated_at": "2026-11-19T04:46:42.369879+00:00"
+      },
+      {
+        "memory": "Tim describes certain authors as goldmines of inspiration for his creative work",
+        "score": 0.2176,
+        "id": "1980a0f8-dd5b-4b09-b892-44fad51d39fc",
+        "created_at": "2023-10-21T17:51:00+00:00",
+        "updated_at": "2026-11-19T05:06:28.141714+00:00"
+      },
+      {
+        "memory": "Tim (Tim) has Italy on his travel list and is eager to visit the country",
+        "score": 0.214,
+        "id": "62de6ab4-92e6-4d20-95af-11bc24cd6b41",
+        "created_at": "2024-01-02T17:26:00+00:00",
+        "updated_at": "2026-11-19T05:55:47.619602+00:00"
+      },
+      {
+        "memory": "Tim (Tim) says he will have a blast and looks forward to letting John know how it goes",
+        "score": 0.2129,
+        "id": "98724d93-5a4a-42cd-a51b-352b9be18ff3",
+        "created_at": "2023-08-31T14:52:00+00:00",
+        "updated_at": "2026-11-19T04:44:20.203057+00:00"
+      },
+      {
+        "memory": "Tim (Tim) is asking John about his favorite basketball team or player",
+        "score": 0.2125,
+        "id": "d07e61d3-ce6f-40d8-bc67-b99e1fabf702",
+        "created_at": "2023-10-02T15:00:00+00:00",
+        "updated_at": "2026-11-19T04:54:11.454199+00:00"
+      },
+      {
+        "memory": "Tim recently started learning an instrument around early December 2023, finding it challenging but fun and noting a long-time admiration for musicians",
+        "score": 0.2076,
+        "id": "70e42e43-5436-41fc-810a-cedcd2580367",
+        "created_at": "2023-12-06T17:34:00+00:00",
+        "updated_at": "2026-11-19T05:34:00.332493+00:00"
+      },
+      {
+        "memory": "Tim lists \"The Alchemist\" as one of his favorite books",
+        "score": 0.2075,
+        "id": "e4f7f034-7733-4ca8-bef3-74b325a52aca",
+        "created_at": "2023-09-21T20:17:00+00:00",
+        "updated_at": "2026-11-19T04:49:32.212593+00:00"
+      },
+      {
+        "memory": "Tim says books, movies, and real-life experiences all fire up his creativity",
+        "score": 0.2074,
+        "id": "ede70c48-e877-4a5d-8c77-61901ad00cc7",
+        "created_at": "2023-10-21T17:51:00+00:00",
+        "updated_at": "2026-11-19T05:06:28.141714+00:00"
+      },
+      {
+        "memory": "User's name is Tim",
+        "score": 0.207,
+        "id": "086f91b6-9a9f-4316-8d94-d71d0c7bb795",
+        "created_at": "2023-05-21T19:48:00+00:00",
+        "updated_at": "2026-11-19T04:02:43.353094+00:00"
+      },
+      {
+        "memory": "Tim believes John’s basketball shoes reflect his hard work, successes, and the amazing times he’s had playing basketball",
+        "score": 0.2065,
+        "id": "50f9ec63-a132-4e0f-9666-8e50ce0f7a10",
+        "created_at": "2023-08-11T13:08:00+00:00",
+        "updated_at": "2026-11-19T04:26:14.673234+00:00"
+      },
+      {
+        "memory": "Tim (Tim) expressed that he is glad John's journey has been rewarding",
+        "score": 0.2064,
+        "id": "b53c34ba-d263-4db3-a6cf-5b9de14b9d58",
+        "created_at": "2023-12-06T17:34:00+00:00",
+        "updated_at": "2026-11-19T05:32:27.057305+00:00"
+      },
+      {
+        "memory": "Tim is a huge fan of Emma Watson",
+        "score": 0.2056,
+        "id": "a3da7b9e-e3f4-43f2-a357-6c39c632f1d0",
+        "created_at": "2023-12-26T15:35:00+00:00",
+        "updated_at": "2026-11-19T05:52:28.161217+00:00"
+      },
+      {
+        "memory": "Tim (Tim) is excited to watch the upcoming show \"The Wheel of Time\", which is based on a book series he loves",
+        "score": 0.2056,
+        "id": "bb77cf25-9c57-437c-82fd-4387ab253502",
+        "created_at": "2023-12-26T15:35:00+00:00",
+        "updated_at": "2026-11-19T05:55:13.912384+00:00"
+      },
+      {
+        "memory": "Tim (Tim) would like to explore real Harry Potter locations someday and asks if John has been to any",
+        "score": 0.2054,
+        "id": "87b7bf58-b8e0-4710-96b4-8691e00743c9",
+        "created_at": "2023-05-21T19:48:00+00:00",
+        "updated_at": "2026-11-19T04:06:24.002258+00:00"
+      },
+      {
+        "memory": "Tim says he has been reading regularly as usual",
+        "score": 0.2052,
+        "id": "47fde287-5faa-41f4-9485-df94c2487a7a",
+        "created_at": "2023-11-11T15:36:00+00:00",
+        "updated_at": "2026-11-19T05:14:41.362380+00:00"
+      },
+      {
+        "memory": "Tim is interested in favorite characters from the fantasy movies in his collection",
+        "score": 0.2048,
+        "id": "189a7c8a-5681-4d48-88f7-284fff40529a",
+        "created_at": "2024-01-02T17:26:00+00:00",
+        "updated_at": "2026-11-19T05:58:51.386405+00:00"
+      },
+      {
+        "memory": "Tim (Tim) is excited to explore nature, describing it as looking amazing",
+        "score": 0.2046,
+        "id": "0799aa9e-8862-4038-963a-9a1bfcb55658",
+        "created_at": "2024-01-07T17:24:00+00:00",
+        "updated_at": "2026-11-19T06:02:18.517976+00:00"
+      },
+      {
+        "memory": "Tim (Tim) visited a Harry Potter-themed location in London a few years ago and went on an amazing tour there",
+        "score": 0.2044,
+        "id": "c1c3d4d1-a258-4a6c-815e-e4a57f49386b",
+        "created_at": "2023-05-21T19:48:00+00:00",
+        "updated_at": "2026-11-19T04:06:24.002258+00:00"
+      },
+      {
+        "memory": "Tim (Tim) asked John about memorable experiences working with his outdoor gear endorsement partner",
+        "score": 0.203,
+        "id": "772cfb6a-56a2-4158-8cab-025361c838bd",
+        "created_at": "2023-12-26T15:35:00+00:00",
+        "updated_at": "2026-11-19T05:53:19.991350+00:00"
+      },
+      {
+        "memory": "Tim says he will always love reading",
+        "score": 0.2026,
+        "id": "c5e79fe5-8eb4-4b1c-8eb8-08700462d655",
+        "created_at": "2024-01-02T17:26:00+00:00",
+        "updated_at": "2026-11-19T05:57:55.607323+00:00"
+      },
+      {
+        "memory": "Tim thought the signature was sweet",
+        "score": 0.2006,
+        "id": "a3eefec1-5bd9-4c51-a759-82ea716906a0",
+        "created_at": "2023-08-02T16:17:00+00:00",
+        "updated_at": "2026-11-19T04:19:53.209912+00:00"
+      },
+      {
+        "memory": "Tim (Tim) joined a fantasy literature forum on June 14, 2023, and had an enriching discussion about his favorite books.",
+        "score": 0.1996,
+        "id": "7fb694e0-f654-470f-93ff-3c2b63cf3516",
+        "created_at": "2023-06-15T17:08:00+00:00",
+        "updated_at": "2026-11-19T04:07:02.432136+00:00"
+      },
+      {
+        "memory": "Tim (Tim) asks John for the recipe for his honey garlic chicken with roasted vegetables",
+        "score": 0.199,
+        "id": "10345ec2-1aea-4941-bff9-ea03463787d2",
+        "created_at": "2023-10-21T17:51:00+00:00",
+        "updated_at": "2026-11-19T05:11:36.868962+00:00"
+      },
+      {
+        "memory": "Tim (Tim) reached out to John to catch up and asked about recent basketball games",
+        "score": 0.1978,
+        "id": "3e1a0d35-caa1-4d8a-90ba-ea9cdebc59ba",
+        "created_at": "2023-12-16T15:37:00+00:00",
+        "updated_at": "2026-11-19T05:43:17.174198+00:00"
+      },
+      {
+        "memory": "Family time is very important to Tim; he says it means a lot to him.",
+        "score": 0.1972,
+        "id": "9b83a4ab-cfba-4c9f-96ab-40dc836f2ba1",
+        "created_at": "2023-08-21T16:29:00+00:00",
+        "updated_at": "2026-11-19T04:36:43.564967+00:00"
+      },
+      {
+        "memory": "Tim asked John to share a picture of his yoga poses so Tim can try them",
+        "score": 0.1971,
+        "id": "2c3f981d-30e7-4815-a888-bba5f0a2b8fa",
+        "created_at": "2023-12-01T09:52:00+00:00",
+        "updated_at": "2026-11-19T05:26:02.988019+00:00"
+      },
+      {
+        "memory": "John believes in Tim, as expressed by Tim's gratitude for John's belief",
+        "score": 0.197,
+        "id": "107f3da3-1e01-452f-8296-18ed9424ff0d",
+        "created_at": "2023-10-21T17:51:00+00:00",
+        "updated_at": "2026-11-19T05:05:36.638897+00:00"
+      },
+      {
+        "memory": "Tim is starting some big new things",
+        "score": 0.1968,
+        "id": "4610160b-fa96-42cd-bbba-8a96119f3400",
+        "created_at": "2023-12-26T15:35:00+00:00",
+        "updated_at": "2026-11-19T05:51:06.523550+00:00"
+      },
+      {
+        "memory": "John expressed gratitude to Tim, saying he is lucky to have Tim in his life and that Tim brings him love and joy",
+        "score": 0.1967,
+        "id": "0cc74a7b-d748-4df7-8b9f-321f76b6dbad",
+        "created_at": "2023-10-02T15:00:00+00:00",
+        "updated_at": "2026-11-19T04:52:55.919416+00:00"
+      },
+      {
+        "memory": "Tim (Tim) has not been to Universal Studios before and is planning his first visit, feeling super excited about the Harry Potter attractions there",
+        "score": 0.1959,
+        "id": "4463bd91-2f18-45ae-8cfa-c729d5077d58",
+        "created_at": "2023-08-31T14:52:00+00:00",
+        "updated_at": "2026-11-19T04:44:06.281370+00:00"
+      },
+      {
+        "memory": "John shared a photo of John and Tim dancing, which Tim described as an incredible moment",
+        "score": 0.1958,
+        "id": "dcb0c9d0-9650-44fa-845b-c05579652143",
+        "created_at": "2023-10-02T15:00:00+00:00",
+        "updated_at": "2026-11-19T04:51:56.990062+00:00"
+      }
+    ],
+    "search_latency_ms": 494.4,
+    "total_results": 50
+  },
+  "cutoff_results": {
+    "top_50": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "Movie themes—his favorite piece to jam on is a theme from a film he loves (no specific composer is named).",
+      "memories_evaluated": 50,
+      "reason": "The generated answer mentions generic movie themes without identifying John Williams or an equivalent specific composer, so it matches none of the gold answer items."
+    }
+  }
+}

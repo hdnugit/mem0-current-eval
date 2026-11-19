@@ -1,0 +1,380 @@
+{
+  "question_id": "conv6_q25",
+  "conversation_idx": 6,
+  "category": 3,
+  "category_name": "open-domain",
+  "question": "Are John and James fans of the same football team?",
+  "ground_truth_answer": "No, James is a Liverpool fan and John is a Manchester City fan.",
+  "evidence": [
+    "D13:12",
+    "D13:15"
+  ],
+  "user_id": "locomo_6_fe8ec031",
+  "reference_date": "8:57 pm on 7 November, 2022",
+  "retrieval": {
+    "search_query": "Are John and James fans of the same football team?",
+    "search_results": [
+      {
+        "memory": "John commented that James really roots for this team",
+        "score": 0.6727,
+        "id": "725d6ac9-a19e-45a1-8228-0a2e0c4a3c22",
+        "created_at": "2022-06-13T16:30:00+00:00",
+        "updated_at": "2026-11-19T04:53:44.041181+00:00"
+      },
+      {
+        "memory": "John asked James if he chose the course because he loves football",
+        "score": 0.6709,
+        "id": "1b763cdb-7c40-4d19-8308-4e5205ab8bd2",
+        "created_at": "2022-06-13T16:30:00+00:00",
+        "updated_at": "2026-11-19T04:52:49.625271+00:00"
+      },
+      {
+        "memory": "John is a Manchester City fan and believes his team will win the championship",
+        "score": 0.6121,
+        "id": "32f4fc93-55c1-4959-b0b7-3197003970a8",
+        "created_at": "2022-06-13T16:30:00+00:00",
+        "updated_at": "2026-11-19T04:54:14.029946+00:00"
+      },
+      {
+        "memory": "James predicts that he and his team will finish higher than John in the final standings",
+        "score": 0.5458,
+        "id": "4a6ce320-127c-4de9-ae62-98e8b1c4be79",
+        "created_at": "2022-06-13T16:30:00+00:00",
+        "updated_at": "2026-11-19T04:54:33.225399+00:00"
+      },
+      {
+        "memory": "James says the team he supports is forever in his heart, is a great team, and hopes they become champions next season",
+        "score": 0.5348,
+        "id": "8e3f7672-1fa7-42eb-a3d2-85b48a6263ea",
+        "created_at": "2022-06-13T16:30:00+00:00",
+        "updated_at": "2026-11-19T04:54:06.656250+00:00"
+      },
+      {
+        "memory": "James loves football and says the most important reason to engage is self-improvement, noting it’s nice when it’s connected with something you like",
+        "score": 0.5139,
+        "id": "704bd4b9-4336-403b-a589-afa034771b93",
+        "created_at": "2022-06-13T16:30:00+00:00",
+        "updated_at": "2026-11-19T04:53:04.816377+00:00"
+      },
+      {
+        "memory": "John is hooked on the football video game FIFA 23, which offers online play with players worldwide",
+        "score": 0.4735,
+        "id": "506abca3-3b5a-493f-b6c2-bb4a55c4c9bf",
+        "created_at": "2022-11-05T17:20:00+00:00",
+        "updated_at": "2026-11-19T05:55:01.833639+00:00"
+      },
+      {
+        "memory": "James received autographs from the whole team at the gaming tournament and felt very happy about it",
+        "score": 0.4575,
+        "id": "38bd1c22-64da-4161-a293-32184a5da067",
+        "created_at": "2022-04-04T14:13:00+00:00",
+        "updated_at": "2026-11-19T04:17:47.171222+00:00"
+      },
+      {
+        "memory": "James believes football is the best sport, saying there is no sport better than football",
+        "score": 0.3854,
+        "id": "39ae58cc-e9ec-4e9d-8155-967402f8edc7",
+        "created_at": "2022-06-13T16:30:00+00:00",
+        "updated_at": "2026-11-19T04:53:22.956874+00:00"
+      },
+      {
+        "memory": "James expressed that he and John can do this together",
+        "score": 0.3852,
+        "id": "c88863c3-f4fe-4501-b485-bc9f55cba6fa",
+        "created_at": "2022-06-19T21:59:00+00:00",
+        "updated_at": "2026-11-19T05:04:46.635794+00:00"
+      },
+      {
+        "memory": "James says John is the best",
+        "score": 0.371,
+        "id": "d712e8cc-094a-4a1c-bd6f-b843d39a35a9",
+        "created_at": "2022-09-01T18:53:00+00:00",
+        "updated_at": "2026-11-19T05:30:41.930426+00:00"
+      },
+      {
+        "memory": "James feels proud of John",
+        "score": 0.3675,
+        "id": "c429e048-e05a-4098-b7a9-d217a7cb1d4c",
+        "created_at": "2022-05-08T00:45:00+00:00",
+        "updated_at": "2026-11-19T04:44:43.228384+00:00"
+      },
+      {
+        "memory": "John expressed excitement to catch up with James",
+        "score": 0.3657,
+        "id": "177dd8b5-6bfa-43ab-815a-299f8ff59979",
+        "created_at": "2022-10-21T19:36:00+00:00",
+        "updated_at": "2026-11-19T05:45:29.307507+00:00"
+      },
+      {
+        "memory": "James says he has something to show John",
+        "score": 0.3612,
+        "id": "528b2e7f-a5ba-4f7a-8682-9e421618d987",
+        "created_at": "2022-03-20T21:26:00+00:00",
+        "updated_at": "2026-11-19T04:10:46.405596+00:00"
+      },
+      {
+        "memory": "John feels that James's support means a lot to him.",
+        "score": 0.3592,
+        "id": "f3f437f5-46da-4c1a-9eca-18d3c64f4c08",
+        "created_at": "2022-08-06T13:45:00+00:00",
+        "updated_at": "2026-11-19T05:14:25.056036+00:00"
+      },
+      {
+        "memory": "John asked James what happened to James's puppy and whether it is okay",
+        "score": 0.3578,
+        "id": "7b24c0c8-4335-4417-8f10-9ac8b8b24a22",
+        "created_at": "2022-08-06T13:45:00+00:00",
+        "updated_at": "2026-11-19T05:16:00.092270+00:00"
+      },
+      {
+        "memory": "John loves hearing about the joy that James's furry friends bring into James's life",
+        "score": 0.3546,
+        "id": "4d5193c3-da27-4299-91f6-c30af1240150",
+        "created_at": "2022-05-04T19:01:00+00:00",
+        "updated_at": "2026-11-19T04:40:22.750531+00:00"
+      },
+      {
+        "memory": "John expressed that James' support means a lot to him",
+        "score": 0.3535,
+        "id": "0de1c030-381f-475d-9af9-f358e2ceabb6",
+        "created_at": "2022-10-03T09:20:00+00:00",
+        "updated_at": "2026-11-19T05:41:39.027991+00:00"
+      },
+      {
+        "memory": "John told James that he is a great host",
+        "score": 0.345,
+        "id": "0fbd7d2d-73e9-4042-89e3-3dab1900b2fd",
+        "created_at": "2022-08-06T13:45:00+00:00",
+        "updated_at": "2026-11-19T05:16:42.800841+00:00"
+      },
+      {
+        "memory": "John says James's support means a lot to him and calls James a true friend",
+        "score": 0.3446,
+        "id": "463a146c-6e6b-40b5-ba21-603918e90d12",
+        "created_at": "2022-07-22T09:49:00+00:00",
+        "updated_at": "2026-11-19T05:09:34.917831+00:00"
+      },
+      {
+        "memory": "John recommended that James practice a little before they can play together",
+        "score": 0.3431,
+        "id": "a87359fe-63e9-4877-a884-a7cf7869974a",
+        "created_at": "2022-11-05T17:20:00+00:00",
+        "updated_at": "2026-11-19T05:55:15.987827+00:00"
+      },
+      {
+        "memory": "John said he was glad James enjoyed it",
+        "score": 0.3428,
+        "id": "e6f6b0ff-b6d5-4b90-b482-68df392a6046",
+        "created_at": "2022-10-31T00:37:00+00:00",
+        "updated_at": "2026-11-19T05:52:06.188365+00:00"
+      },
+      {
+        "memory": "James asked John how he's doing and what new games he's into",
+        "score": 0.3421,
+        "id": "0ba8fc9b-1662-4b44-a7dd-001902f37eb3",
+        "created_at": "2022-05-08T00:45:00+00:00",
+        "updated_at": "2026-11-19T04:42:47.731125+00:00"
+      },
+      {
+        "memory": "John said he will definitely take James's advice and called James the best",
+        "score": 0.3406,
+        "id": "eb552078-9c95-4198-8342-e8058197fdf9",
+        "created_at": "2022-09-20T20:56:00+00:00",
+        "updated_at": "2026-11-19T05:40:47.875892+00:00"
+      },
+      {
+        "memory": "James said John's trophy looks awesome",
+        "score": 0.3382,
+        "id": "6cbdbaf1-33a2-4de2-bec1-0385458483ef",
+        "created_at": "2022-05-23T19:33:00+00:00",
+        "updated_at": "2026-11-19T04:49:49.939886+00:00"
+      },
+      {
+        "memory": "James expressed that it would be nice to play with John one day",
+        "score": 0.3368,
+        "id": "a7bc2f8c-515b-4fb0-b22f-4299d3bcde9d",
+        "created_at": "2022-03-17T15:47:00+00:00",
+        "updated_at": "2026-11-19T04:07:16.286348+00:00"
+      },
+      {
+        "memory": "James asked John whether he still plays with his siblings these days",
+        "score": 0.3348,
+        "id": "57e20d4f-730a-4912-9d3c-0f3dde6ad699",
+        "created_at": "2022-08-21T15:57:00+00:00",
+        "updated_at": "2026-11-19T05:23:12.437184+00:00"
+      },
+      {
+        "memory": "John expressed that he loves the games James created, showing enthusiasm for James's Unity strategy game.",
+        "score": 0.3345,
+        "id": "8de5dca7-d98d-4221-b4d3-201c4da8a299",
+        "created_at": "2022-09-01T18:53:00+00:00",
+        "updated_at": "2026-11-19T05:27:56.665522+00:00"
+      },
+      {
+        "memory": "James expressed enthusiasm about John's news and asked him what he did",
+        "score": 0.3338,
+        "id": "1d78d659-1c2d-486c-b421-8738426ca592",
+        "created_at": "2022-11-05T17:20:00+00:00",
+        "updated_at": "2026-11-19T05:53:37.717205+00:00"
+      },
+      {
+        "memory": "John thinks James's puppy is cute",
+        "score": 0.3335,
+        "id": "5b90332f-a65f-424c-a696-87a15417f80f",
+        "created_at": "2022-08-26T21:18:00+00:00",
+        "updated_at": "2026-11-19T05:24:44.623259+00:00"
+      },
+      {
+        "memory": "John asked James when he would be coming back",
+        "score": 0.3332,
+        "id": "72957b52-0fdc-4bae-b979-c3222c552aa9",
+        "created_at": "2022-07-09T17:13:00+00:00",
+        "updated_at": "2026-11-19T05:07:13.717765+00:00"
+      },
+      {
+        "memory": "James cannot remember the game John mentioned",
+        "score": 0.3327,
+        "id": "df3f3327-8724-49b6-8cb9-51dca6e8a579",
+        "created_at": "2022-04-29T14:36:00+00:00",
+        "updated_at": "2026-11-19T04:37:57.739820+00:00"
+      },
+      {
+        "memory": "James is excited about the world and story of the game John recommended and thanks John for the recommendation",
+        "score": 0.3323,
+        "id": "50fb33a1-78b5-4fb8-98cc-9fe2bb5c9ac2",
+        "created_at": "2022-10-03T09:20:00+00:00",
+        "updated_at": "2026-11-19T05:42:16.722784+00:00"
+      },
+      {
+        "memory": "James wishes John to have fun at his family game night",
+        "score": 0.3296,
+        "id": "a25c3ac7-b267-4d08-9ab5-ddf0659b7c4a",
+        "created_at": "2022-08-21T15:57:00+00:00",
+        "updated_at": "2026-11-19T05:24:13.413089+00:00"
+      },
+      {
+        "memory": "John says he is always happy to help and believes James will love the trilogy",
+        "score": 0.3263,
+        "id": "7e663e35-dc56-4d3f-902c-05ab972e228f",
+        "created_at": "2022-04-29T14:36:00+00:00",
+        "updated_at": "2026-11-19T04:35:09.983360+00:00"
+      },
+      {
+        "memory": "James thanked John for his suggestion",
+        "score": 0.3259,
+        "id": "a99f85b6-727e-44ed-89fd-7f70950f45d4",
+        "created_at": "2022-11-05T17:20:00+00:00",
+        "updated_at": "2026-11-19T05:54:58.310674+00:00"
+      },
+      {
+        "memory": "James wishes John good luck in this matter",
+        "score": 0.3256,
+        "id": "101b145c-fadf-4eac-9ba9-fbdb5f449ad8",
+        "created_at": "2022-03-20T21:26:00+00:00",
+        "updated_at": "2026-11-19T04:10:46.405596+00:00"
+      },
+      {
+        "memory": "John said James looks happy and that it is a great achievement",
+        "score": 0.3256,
+        "id": "4aa432eb-550f-4bbd-bcb4-e26a857f562a",
+        "created_at": "2022-06-16T17:07:00+00:00",
+        "updated_at": "2026-11-19T04:58:31.084215+00:00"
+      },
+      {
+        "memory": "John believes that James's advice will help James develop in the game",
+        "score": 0.3251,
+        "id": "23a135b4-102c-4c21-8ec7-3e8243ee32ca",
+        "created_at": "2022-04-04T14:13:00+00:00",
+        "updated_at": "2026-11-19T04:17:35.054210+00:00"
+      },
+      {
+        "memory": "John confirms that James's dog is named Ned",
+        "score": 0.325,
+        "id": "ac9261e5-1267-441d-8b3b-d397231ac2cd",
+        "created_at": "2022-08-26T21:18:00+00:00",
+        "updated_at": "2026-11-19T05:24:50.859969+00:00"
+      },
+      {
+        "memory": "John said he will look after James's pockets",
+        "score": 0.3245,
+        "id": "a531b5cd-48e4-4d83-9140-50c217f0b117",
+        "created_at": "2022-03-17T15:47:00+00:00",
+        "updated_at": "2026-11-19T04:07:40.862452+00:00"
+      },
+      {
+        "memory": "John encouraged James to call the girl and said everything will work out",
+        "score": 0.323,
+        "id": "86921e12-7737-4763-bd76-e8c8f2ba7d18",
+        "created_at": "2022-08-10T09:16:00+00:00",
+        "updated_at": "2026-11-19T05:20:08.487945+00:00"
+      },
+      {
+        "memory": "James will keep John updated on the progress of the project",
+        "score": 0.323,
+        "id": "84069770-8613-4b2e-9919-e9f0ce603564",
+        "created_at": "2022-03-17T15:47:00+00:00",
+        "updated_at": "2026-11-19T04:06:27.206024+00:00"
+      },
+      {
+        "memory": "James has been playing his favourite game Apex Legends with his team, describing it as intense, and shared a screenshot showing a video game screen with two robots.",
+        "score": 0.3227,
+        "id": "37515d1a-11a9-4afb-8b45-9056fac136b5",
+        "created_at": "2022-04-04T14:13:00+00:00",
+        "updated_at": "2026-11-19T04:19:43.854305+00:00"
+      },
+      {
+        "memory": "James says John has always been there for him and thanks him for having his back",
+        "score": 0.3214,
+        "id": "e672f29d-4476-4715-929e-1b8cc54906b4",
+        "created_at": "2022-10-13T14:14:00+00:00",
+        "updated_at": "2026-11-19T05:45:24.060630+00:00"
+      },
+      {
+        "memory": "James will definitely take John's advice and thanks John for avoiding spoilers",
+        "score": 0.3202,
+        "id": "28e08013-5971-4064-b4d7-d52964cfcf76",
+        "created_at": "2022-10-21T19:36:00+00:00",
+        "updated_at": "2026-11-19T05:50:55.795011+00:00"
+      },
+      {
+        "memory": "James asks John for any photos from the gaming tournament",
+        "score": 0.3195,
+        "id": "10dbfeb8-98f1-4c6f-9a5d-be15ea5e11eb",
+        "created_at": "2022-10-31T00:37:00+00:00",
+        "updated_at": "2026-11-19T05:51:37.887783+00:00"
+      },
+      {
+        "memory": "John congratulated James on releasing his game",
+        "score": 0.319,
+        "id": "319d79ff-ac95-4f57-86ed-1217432d01ed",
+        "created_at": "2022-10-13T14:14:00+00:00",
+        "updated_at": "2026-11-19T05:43:04.798685+00:00"
+      },
+      {
+        "memory": "James asked John what else is new in his life",
+        "score": 0.3187,
+        "id": "f0e5fa1c-1048-43d0-9694-a1ed55af61d7",
+        "created_at": "2022-09-04T21:23:00+00:00",
+        "updated_at": "2026-11-19T05:32:09.035096+00:00"
+      },
+      {
+        "memory": "James says that you always need to communicate correctly with the team and never put your ego above team success",
+        "score": 0.3168,
+        "id": "d0842edb-cccb-4722-a8b1-407121970c3d",
+        "created_at": "2022-04-04T14:13:00+00:00",
+        "updated_at": "2026-11-19T04:18:06.591379+00:00"
+      }
+    ],
+    "search_latency_ms": 378.9,
+    "total_results": 50
+  },
+  "cutoff_results": {
+    "top_50": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "No. John supports Manchester City, while James supports a different (unspecified) team and predicted his team would finish higher than John’s.",
+      "memories_evaluated": 50,
+      "reason": "It correctly states they support different teams and identifies John as a Manchester City fan, even though it omits that James supports Liverpool."
+    }
+  }
+}

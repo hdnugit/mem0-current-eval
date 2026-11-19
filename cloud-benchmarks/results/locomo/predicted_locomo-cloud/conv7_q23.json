@@ -1,0 +1,380 @@
+{
+  "question_id": "conv7_q23",
+  "conversation_idx": 7,
+  "category": 3,
+  "category_name": "open-domain",
+  "question": "Why did Jolene sometimes put off doing yoga?",
+  "ground_truth_answer": "She's more interested in playing video games",
+  "evidence": [
+    "D3:11",
+    "D2:30"
+  ],
+  "user_id": "locomo_7_fe8ec031",
+  "reference_date": "10:17 am on 20 September, 2023",
+  "retrieval": {
+    "search_query": "Why did Jolene sometimes put off doing yoga?",
+    "search_results": [
+      {
+        "memory": "Jolene wants to try yoga on the beach",
+        "score": 0.6523,
+        "id": "383fe2a9-983f-4ed7-9798-59afb7e8f2e8",
+        "created_at": "2023-02-22T16:12:00+00:00",
+        "updated_at": "2026-11-19T04:24:38.949780+00:00"
+      },
+      {
+        "memory": "Jolene shared a photo of a woman sitting on a yoga mat doing a yoga pose",
+        "score": 0.6293,
+        "id": "84fd8fa4-3f21-4f38-aad3-1f8098aed13a",
+        "created_at": "2023-02-25T16:50:00+00:00",
+        "updated_at": "2026-11-19T04:26:03.683257+00:00"
+      },
+      {
+        "memory": "Jolene's partner sometimes joins her for yoga, which they find bonding and relaxing, and it has brought them closer",
+        "score": 0.6225,
+        "id": "0d0ccbea-766d-4e7a-901e-0ccfced77e5a",
+        "created_at": "2023-02-25T16:50:00+00:00",
+        "updated_at": "2026-11-19T04:26:11.767708+00:00"
+      },
+      {
+        "memory": "Jolene did yoga and meditation on Friday, February 24, 2023",
+        "score": 0.6218,
+        "id": "48ab8267-8a58-493f-ac5b-e86a5d8b9a5e",
+        "created_at": "2023-03-02T19:18:00+00:00",
+        "updated_at": "2026-11-19T04:30:32.875351+00:00"
+      },
+      {
+        "memory": "Jolene did yoga on top of Mount Talkeetna on the morning of June 5, 2023",
+        "score": 0.6126,
+        "id": "ab36ebba-bbf1-4953-9b89-f19bd399bd1c",
+        "created_at": "2023-06-06T15:56:00+00:00",
+        "updated_at": "2026-11-19T04:47:15.666187+00:00"
+      },
+      {
+        "memory": "Jolene shared a photo of a woman in a pink shirt doing a yoga pose",
+        "score": 0.6066,
+        "id": "bc3f3cf8-691c-4f96-9a69-9bb77ab875fe",
+        "created_at": "2023-08-26T17:33:00+00:00",
+        "updated_at": "2026-11-19T05:27:47.833771+00:00"
+      },
+      {
+        "memory": "Jolene and her partner plan a camping trip to connect with nature and practice yoga",
+        "score": 0.5947,
+        "id": "81f26bd0-c666-4a8b-abf6-477d16290491",
+        "created_at": "2023-09-08T19:39:00+00:00",
+        "updated_at": "2026-11-19T05:42:15.149572+00:00"
+      },
+      {
+        "memory": "Deborah asked Jolene how long she has been practicing yoga and meditation",
+        "score": 0.5913,
+        "id": "264e394f-2999-4ec9-9b23-4763efd1d8f9",
+        "created_at": "2023-06-06T15:56:00+00:00",
+        "updated_at": "2026-11-19T04:47:32.162141+00:00"
+      },
+      {
+        "memory": "Jolene has been practicing yoga and meditation sporadically for about 3 years, and it has had a real positive effect on her",
+        "score": 0.5889,
+        "id": "47d8ffbf-b26e-4772-be5e-a528f68a00ca",
+        "created_at": "2023-06-06T15:56:00+00:00",
+        "updated_at": "2026-11-19T04:48:12.600985+00:00"
+      },
+      {
+        "memory": "Jolene shared a photo showing a woman doing a yoga pose on the beach",
+        "score": 0.5779,
+        "id": "80427b2a-c0ae-43bf-a11d-5a9d474eacef",
+        "created_at": "2023-09-12T14:18:00+00:00",
+        "updated_at": "2026-11-19T05:45:26.511995+00:00"
+      },
+      {
+        "memory": "Jolene has been into yoga and meditation lately; she finds they help her recharge, relieve tension, and calm her mind",
+        "score": 0.5729,
+        "id": "b1b49fa6-27dc-4cca-821f-f4bd90937273",
+        "created_at": "2023-08-26T17:33:00+00:00",
+        "updated_at": "2026-11-19T05:27:47.833771+00:00"
+      },
+      {
+        "memory": "Jolene feels she chills out and gains perspective when she does yoga, and afterward feels more alert and motivated",
+        "score": 0.5715,
+        "id": "4e0ecc9f-71df-4d83-8766-099e487562de",
+        "created_at": "2023-02-25T16:50:00+00:00",
+        "updated_at": "2026-11-19T04:26:03.683257+00:00"
+      },
+      {
+        "memory": "Jolene shared a photo showing a cardboard yoga mat with a cup of coffee on it",
+        "score": 0.5692,
+        "id": "db962966-2fd0-45ae-a1d8-09d414b3ebd5",
+        "created_at": "2023-03-28T16:03:00+00:00",
+        "updated_at": "2026-11-19T04:40:44.369533+00:00"
+      },
+      {
+        "memory": "The image shared by Jolene depicts a woman performing a yoga pose in front of a mirror at a Colombian yoga studio with vibrant colors",
+        "score": 0.5671,
+        "id": "7a45fe9a-fbd0-4c06-a2eb-4ddbf1cae437",
+        "created_at": "2023-08-30T11:46:00+00:00",
+        "updated_at": "2026-11-19T05:30:14.249640+00:00"
+      },
+      {
+        "memory": "Deborah notes that yoga helps Jolene rest and recharge, and is great for reflection and self-care",
+        "score": 0.5667,
+        "id": "bf9eede4-7eb1-4cad-9284-5d373ecd6c3a",
+        "created_at": "2023-08-26T17:33:00+00:00",
+        "updated_at": "2026-11-19T05:27:55.610654+00:00"
+      },
+      {
+        "memory": "Jolene has been practicing yoga and meditation for 3 years, using it as a way to escape studying and work stress",
+        "score": 0.5632,
+        "id": "74cb18f0-924d-4af3-add0-8e071b396a03",
+        "created_at": "2023-08-21T09:11:00+00:00",
+        "updated_at": "2026-11-19T05:19:24.616808+00:00"
+      },
+      {
+        "memory": "Jolene has shared her newfound love for yoga with her partner and they are planning to go on a meditation retreat together to enhance their practice",
+        "score": 0.562,
+        "id": "890eabb4-391f-4195-956e-55b455360a49",
+        "created_at": "2023-08-26T17:33:00+00:00",
+        "updated_at": "2026-11-19T05:27:47.833771+00:00"
+      },
+      {
+        "memory": "Deborah said yoga and meditation are helping Jolene regroup and recharge, expressing belief that they benefit her",
+        "score": 0.5562,
+        "id": "e3d9b3ea-3098-4132-a9e9-5610ba1be4ce",
+        "created_at": "2023-06-06T15:56:00+00:00",
+        "updated_at": "2026-11-19T04:47:32.162141+00:00"
+      },
+      {
+        "memory": "Jolene likes to create her own serene yoga space using candles and essential oils for extra chill vibes",
+        "score": 0.5545,
+        "id": "31305b55-7095-4512-ba7a-0e3b0bf792c6",
+        "created_at": "2023-09-15T15:09:00+00:00",
+        "updated_at": "2026-11-19T05:49:59.522758+00:00"
+      },
+      {
+        "memory": "Jolene felt connected to nature and herself, experiencing deep peace and thankfulness while doing yoga with a scenic backdrop",
+        "score": 0.5544,
+        "id": "562c8bc2-b59f-415b-9b06-f419452a05cd",
+        "created_at": "2023-09-20T10:17:00+00:00",
+        "updated_at": "2026-11-19T05:57:06.775130+00:00"
+      },
+      {
+        "memory": "Jolene thanked Deborah for the tips, said she will check them out, and noted that having new music for yoga is always good",
+        "score": 0.5477,
+        "id": "2a41a568-3920-48bd-b735-1294beac9d33",
+        "created_at": "2023-03-28T16:03:00+00:00",
+        "updated_at": "2026-11-19T04:42:45.797469+00:00"
+      },
+      {
+        "memory": "Jolene has a room in her mother's house that she uses as a serene yoga studio, featuring a bench and a window, and she has many memories there",
+        "score": 0.5464,
+        "id": "c4097b1e-9b25-4cb4-a669-a8d13e985540",
+        "created_at": "2023-01-23T16:06:00+00:00",
+        "updated_at": "2026-11-19T04:03:25.657017+00:00"
+      },
+      {
+        "memory": "Jolene and her partner returned from a trip to Rio de Janeiro on August 29, 2023, where they attended yoga classes",
+        "score": 0.5326,
+        "id": "af0421f1-bc53-4c02-8224-c129e17c5879",
+        "created_at": "2023-08-30T11:46:00+00:00",
+        "updated_at": "2026-11-19T05:30:14.249640+00:00"
+      },
+      {
+        "memory": "Jolene shared a photo of a person lying on the floor with a paper bag while practicing savasana on a yoga mat",
+        "score": 0.5084,
+        "id": "31ff0169-6652-4643-ab44-faf187f25026",
+        "created_at": "2023-08-21T09:11:00+00:00",
+        "updated_at": "2026-11-19T05:18:49.970379+00:00"
+      },
+      {
+        "memory": "Jolene said the country she visited was awesome, introduced her to different kinds of yoga and their backgrounds, which increased her appreciation, and she visited many delicious cafes during the trip",
+        "score": 0.4937,
+        "id": "47a87aab-187e-496b-860a-542c3dca3526",
+        "created_at": "2023-08-30T11:46:00+00:00",
+        "updated_at": "2026-11-19T05:30:30.527151+00:00"
+      },
+      {
+        "memory": "Jolene maintains a routine with a schedule for classes, studying, and personal time, and uses self‑care activities like yoga and meditation to stay balanced and relax",
+        "score": 0.4835,
+        "id": "7449d918-a24c-49ef-a03b-1d46060d18a0",
+        "created_at": "2023-09-08T19:39:00+00:00",
+        "updated_at": "2026-11-19T05:42:33.600039+00:00"
+      },
+      {
+        "memory": "Jolene loves listening to Nils Frahm and Ólafur Arnalds during her yoga practice, describing the music as calming and headspace‑shifting",
+        "score": 0.4735,
+        "id": "ac40b2f8-a0e8-4040-8bb6-dd6d06b04cc9",
+        "created_at": "2023-03-28T16:03:00+00:00",
+        "updated_at": "2026-11-19T04:42:20.413842+00:00"
+      },
+      {
+        "memory": "Jolene finds calm when she does yoga or meditates, using essential oils and soft, soothing music to create a peaceful atmosphere that helps her chill out and center herself",
+        "score": 0.4632,
+        "id": "941a1828-2d90-472c-abec-08f61a26282f",
+        "created_at": "2023-09-15T15:09:00+00:00",
+        "updated_at": "2026-11-19T05:50:08.037587+00:00"
+      },
+      {
+        "memory": "Jolene reported that she and her partner had an awesome yoga retreat in South America, describing the place as peaceful and the sunrise during yoga as lighting up the sky with bright colors, making them feel alive and grateful, and she shared a photo showing a sunset over a valley with a horse.",
+        "score": 0.4537,
+        "id": "a2c17553-3ae1-4564-84d0-583fec187d19",
+        "created_at": "2023-09-20T10:17:00+00:00",
+        "updated_at": "2026-11-19T05:56:48.249864+00:00"
+      },
+      {
+        "memory": "Deborah says yoga helped her find peace during a rough time, and now she is passionate about sharing yoga with others.",
+        "score": 0.4408,
+        "id": "4e879e9a-5af1-45af-ab56-f31da80803a0",
+        "created_at": "2023-01-23T16:06:00+00:00",
+        "updated_at": "2026-11-19T04:04:17.533442+00:00"
+      },
+      {
+        "memory": "Deborah is considering resuming yoga",
+        "score": 0.3975,
+        "id": "c5b98a32-7fd7-4b66-a797-8cee32acdc96",
+        "created_at": "2023-02-01T19:03:00+00:00",
+        "updated_at": "2026-11-19T04:12:15.238647+00:00"
+      },
+      {
+        "memory": "Jolene has been trying to squeeze in some me-time",
+        "score": 0.3804,
+        "id": "a5fd262b-a5f6-4f40-8c2a-4da6b56f631d",
+        "created_at": "2023-03-02T19:18:00+00:00",
+        "updated_at": "2026-11-19T04:30:32.875351+00:00"
+      },
+      {
+        "memory": "Deborah suggested taking breaks and doing yoga to relax and unwind",
+        "score": 0.3768,
+        "id": "cb4990ca-806f-44b8-9ef6-b41fce90c484",
+        "created_at": "2023-06-06T15:56:00+00:00",
+        "updated_at": "2026-11-19T04:47:00.198340+00:00"
+      },
+      {
+        "memory": "Jolene says she is really finding her zen again",
+        "score": 0.3765,
+        "id": "6c9b5a2d-613f-4099-b810-e96a5252abe0",
+        "created_at": "2023-08-21T09:11:00+00:00",
+        "updated_at": "2026-11-19T05:19:34.442453+00:00"
+      },
+      {
+        "memory": "Jolene goes to a nearby tranquil spot to meditate",
+        "score": 0.3748,
+        "id": "d747d41a-f4eb-4696-b602-aa8d0a259eaf",
+        "created_at": "2023-08-30T11:46:00+00:00",
+        "updated_at": "2026-11-19T05:31:18.451113+00:00"
+      },
+      {
+        "memory": "Jolene experimented with a method and found it really helped her",
+        "score": 0.3742,
+        "id": "e2d7eaf1-8331-4cab-8fb9-4ce2c6a63794",
+        "created_at": "2023-09-08T19:39:00+00:00",
+        "updated_at": "2026-11-19T05:42:53.562677+00:00"
+      },
+      {
+        "memory": "Deborah had a tough week and a storm forced the cancellation of her planned yoga getaway",
+        "score": 0.3733,
+        "id": "6e29208d-e2ec-4384-92fb-0b75a365ab4a",
+        "created_at": "2023-09-08T19:39:00+00:00",
+        "updated_at": "2026-11-19T05:41:43.739531+00:00"
+      },
+      {
+        "memory": "Jolene said she will make sure to take it.",
+        "score": 0.3684,
+        "id": "21f19254-c02a-4580-88d0-4bd1de11e0a5",
+        "created_at": "2023-03-13T11:22:00+00:00",
+        "updated_at": "2026-11-19T04:35:45.302140+00:00"
+      },
+      {
+        "memory": "Jolene learned to play on her own as a child",
+        "score": 0.3664,
+        "id": "63506ae9-4501-4d45-8021-e65999a60131",
+        "created_at": "2023-01-27T09:49:00+00:00",
+        "updated_at": "2026-11-19T04:09:01.132342+00:00"
+      },
+      {
+        "memory": "Jolene has snakes",
+        "score": 0.3662,
+        "id": "3f4e9435-e6a5-4ae3-8d92-3add1cb0edcd",
+        "created_at": "2023-08-26T17:33:00+00:00",
+        "updated_at": "2026-11-19T05:27:55.610654+00:00"
+      },
+      {
+        "memory": "Jolene loves going for walks whenever she can to take it all in",
+        "score": 0.3658,
+        "id": "f7927764-1427-42af-ac26-415f10d915fd",
+        "created_at": "2023-07-09T19:37:00+00:00",
+        "updated_at": "2026-11-19T04:58:17.679559+00:00"
+      },
+      {
+        "memory": "Jolene used to bake cookies with someone close to her",
+        "score": 0.3589,
+        "id": "3ac8493b-9b06-4fc5-b472-ac2c8fb56564",
+        "created_at": "2023-09-17T13:24:00+00:00",
+        "updated_at": "2026-11-19T05:53:01.373161+00:00"
+      },
+      {
+        "memory": "Jolene expressed that she could really use some chill time and described it as peaceful",
+        "score": 0.3568,
+        "id": "9d88b372-0c9a-46d0-8ed5-6411c4904f9a",
+        "created_at": "2023-06-26T09:17:00+00:00",
+        "updated_at": "2026-11-19T04:52:07.600796+00:00"
+      },
+      {
+        "memory": "Deborah expressed pride in Jolene's recent accomplishment and acknowledged that Jolene must have worked really hard",
+        "score": 0.3561,
+        "id": "becc7858-de72-4ce0-af85-a610137abbb5",
+        "created_at": "2023-02-04T09:48:00+00:00",
+        "updated_at": "2026-11-19T04:13:29.259284+00:00"
+      },
+      {
+        "memory": "Deborah noted that Jolene has a place where she can relax and tune out",
+        "score": 0.3557,
+        "id": "e5ad6bda-7a24-4de9-b1ac-1157d586d4fd",
+        "created_at": "2023-07-09T19:37:00+00:00",
+        "updated_at": "2026-11-19T04:59:18.003897+00:00"
+      },
+      {
+        "memory": "Jolene explored new places",
+        "score": 0.3548,
+        "id": "b3926e04-6a3f-4665-b756-8a4f91a0efeb",
+        "created_at": "2023-03-02T19:18:00+00:00",
+        "updated_at": "2026-11-19T04:31:50.971990+00:00"
+      },
+      {
+        "memory": "Deborah offered to suggest routines for Jolene to try",
+        "score": 0.3541,
+        "id": "75dc2fff-a7b3-4ab1-b2c3-dba567ada23f",
+        "created_at": "2023-08-01T09:26:00+00:00",
+        "updated_at": "2026-11-19T05:01:42.949765+00:00"
+      },
+      {
+        "memory": "Jolene said she will keep Deborah posted if she decides to go there",
+        "score": 0.3532,
+        "id": "c42f68b1-e28c-480f-b78d-b873d277ecb5",
+        "created_at": "2023-02-22T16:12:00+00:00",
+        "updated_at": "2026-11-19T04:24:52.996715+00:00"
+      },
+      {
+        "memory": "Jolene finds that music helps her",
+        "score": 0.3524,
+        "id": "78a294bb-d888-4a4b-a953-b829867fc596",
+        "created_at": "2023-03-28T16:03:00+00:00",
+        "updated_at": "2026-11-19T04:42:13.466072+00:00"
+      },
+      {
+        "memory": "Jolene says her way to relax is connecting with nature",
+        "score": 0.3512,
+        "id": "e43c05a6-53cd-4df9-a394-f972602eb2e1",
+        "created_at": "2023-08-24T09:34:00+00:00",
+        "updated_at": "2026-11-19T05:20:25.287044+00:00"
+      }
+    ],
+    "search_latency_ms": 481.9,
+    "total_results": 50
+  },
+  "cutoff_results": {
+    "top_50": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "Because she was swamped with classes, studying, and work, making it hard to squeeze in me-time—so her practice was sporadic.",
+      "memories_evaluated": 50,
+      "reason": "The generated answer blames being busy with school and work, whereas the gold answer cites preferring video games, so there is no overlap."
+    }
+  }
+}

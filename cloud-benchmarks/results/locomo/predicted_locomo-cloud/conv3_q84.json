@@ -1,0 +1,380 @@
+{
+  "question_id": "conv3_q84",
+  "conversation_idx": 3,
+  "category": 3,
+  "category_name": "open-domain",
+  "question": "Was the first half of September 2022 a good month career-wise for Nate and Joanna? Answer yes or no.",
+  "ground_truth_answer": "No; because both of them faced setbacks in their career",
+  "evidence": [
+    "D20:1",
+    "D21:1"
+  ],
+  "user_id": "locomo_3_fe8ec031",
+  "reference_date": "12:06 am on 11 November, 2022",
+  "retrieval": {
+    "search_query": "Was the first half of September 2022 a good month career-wise for Nate and Joanna? Answer yes or no.",
+    "search_results": [
+      {
+        "memory": "Joanna will see Nate on 2022-11-10",
+        "score": 0.5858,
+        "id": "d7d4b60f-c6ac-40b1-8053-207886a50065",
+        "created_at": "2022-11-09T17:54:00+00:00",
+        "updated_at": "2026-11-19T05:49:30.907604+00:00"
+      },
+      {
+        "memory": "Joanna last talked with Nate around May 5, 2022",
+        "score": 0.5614,
+        "id": "68b33d6f-93e3-4798-8732-b6f2c21ad3eb",
+        "created_at": "2022-05-12T15:35:00+00:00",
+        "updated_at": "2026-11-19T04:43:51.328803+00:00"
+      },
+      {
+        "memory": "Nate wishes Joanna good luck with her project",
+        "score": 0.5477,
+        "id": "f9f1fcef-c4c1-411c-9a9b-7b489c26e074",
+        "created_at": "2022-03-24T13:43:00+00:00",
+        "updated_at": "2026-11-19T04:27:04.658794+00:00"
+      },
+      {
+        "memory": "Joanna congratulated Nate on his tournament win and said it must feel great to turn his passion into a career.",
+        "score": 0.5353,
+        "id": "5d4b0ea6-0f9d-48e8-a552-c5723351ac35",
+        "created_at": "2022-08-22T10:57:00+00:00",
+        "updated_at": "2026-11-19T05:11:46.124436+00:00"
+      },
+      {
+        "memory": "Joanna will come over to Nate's place on 2022-11-05",
+        "score": 0.5133,
+        "id": "91e4af70-44d3-47bc-b5f7-61359025c06b",
+        "created_at": "2022-11-04T15:56:00+00:00",
+        "updated_at": "2026-11-19T05:37:17.511723+00:00"
+      },
+      {
+        "memory": "Joanna hasn't talked with Nate for a few days as of January 23, 2022",
+        "score": 0.5128,
+        "id": "77897cf3-1afa-468a-bce6-38aa090629e1",
+        "created_at": "2022-01-23T14:01:00+00:00",
+        "updated_at": "2026-11-19T04:29:04.372915+00:00"
+      },
+      {
+        "memory": "Nate said he hadn't talked with Joanna in a while as of April 17, 2022",
+        "score": 0.5086,
+        "id": "78877b4b-33f0-48a5-b0ab-801656b31e55",
+        "created_at": "2022-04-17T18:44:00+00:00",
+        "updated_at": "2026-11-19T04:41:01.875529+00:00"
+      },
+      {
+        "memory": "Joanna wishes Nate the best for his upcoming party and hopes he has a blast",
+        "score": 0.4897,
+        "id": "75d512f7-f710-4624-bf47-9647009fbccd",
+        "created_at": "2022-06-03T17:44:00+00:00",
+        "updated_at": "2026-11-19T04:59:40.161210+00:00"
+      },
+      {
+        "memory": "Nate indicated that it has been about a week since his last conversation with Joanna, placing their previous talk around May 13, 2022.",
+        "score": 0.4357,
+        "id": "6118f651-37a6-4c2e-a173-c769373b250d",
+        "created_at": "2022-05-20T19:49:00+00:00",
+        "updated_at": "2026-11-19T04:44:00.053601+00:00"
+      },
+      {
+        "memory": "On October 6, 2022, Joanna congratulated Nate on his tournament win and asked if he saved the cash for something special.",
+        "score": 0.4356,
+        "id": "6e57fe06-c560-4a9c-b6c6-328468be5754",
+        "created_at": "2022-10-06T11:15:00+00:00",
+        "updated_at": "2026-11-19T05:22:35.473771+00:00"
+      },
+      {
+        "memory": "Nate won a big video game tournament around September 29, 2022, earning a significant cash prize",
+        "score": 0.4223,
+        "id": "f5744dfa-40b6-4c7b-af89-6bdbe7615fa5",
+        "created_at": "2022-10-06T11:15:00+00:00",
+        "updated_at": "2026-11-19T05:22:24.497159+00:00"
+      },
+      {
+        "memory": "Nate experienced a setback in a video game tournament around early September 2022, saying he didn't do too great but is trying to stay positive.",
+        "score": 0.4132,
+        "id": "21c1d012-9fb8-4c3b-9db7-e5f0fdc750e3",
+        "created_at": "2022-09-05T18:03:00+00:00",
+        "updated_at": "2026-11-19T05:16:13.298371+00:00"
+      },
+      {
+        "memory": "Joanna finished writing her book around September 29, 2022, after many late‑night editing sessions, and expressed pride in completing it.",
+        "score": 0.4129,
+        "id": "5f48af7f-0db5-428b-a4ea-eec2a0348361",
+        "created_at": "2022-10-06T11:15:00+00:00",
+        "updated_at": "2026-11-19T05:24:24.436850+00:00"
+      },
+      {
+        "memory": "Nate said the stuffed animal is meant to remind Joanna of good vibes",
+        "score": 0.4066,
+        "id": "755e29d9-6dd8-4b41-a4a1-a6b9331b8a8d",
+        "created_at": "2022-05-25T15:00:00+00:00",
+        "updated_at": "2026-11-19T04:54:28.164571+00:00"
+      },
+      {
+        "memory": "Nate said the frosting on Joanna's dairy-free cake looked really good and that he loved how it turned out",
+        "score": 0.3913,
+        "id": "55bb9aff-d9e7-4cc9-9188-01eb488bd926",
+        "created_at": "2022-05-02T11:54:00+00:00",
+        "updated_at": "2026-11-19T04:39:41.325730+00:00"
+      },
+      {
+        "memory": "Joanna agreed to see Nate later",
+        "score": 0.3906,
+        "id": "19cf38a8-152c-4b57-a99d-af6e432fb65e",
+        "created_at": "2022-05-12T15:35:00+00:00",
+        "updated_at": "2026-11-19T04:43:35.491889+00:00"
+      },
+      {
+        "memory": "Nate will give Joanna the vegan coconut milk ice cream recipe on June 25, 2022",
+        "score": 0.3827,
+        "id": "64e67724-11c9-47ee-b5f5-d0e427c21234",
+        "created_at": "2022-06-24T10:55:00+00:00",
+        "updated_at": "2026-11-19T05:04:49.864326+00:00"
+      },
+      {
+        "memory": "Joanna says goodbye to Nate",
+        "score": 0.3785,
+        "id": "eeaaf75d-e1f4-46ef-bed4-8bd2537db265",
+        "created_at": "2022-10-09T10:58:00+00:00",
+        "updated_at": "2026-11-19T05:28:59.520228+00:00"
+      },
+      {
+        "memory": "Nate suggested that he and Joanna should go together sometime",
+        "score": 0.3783,
+        "id": "acc9bdea-5b8e-45e1-9892-579a3b2eca81",
+        "created_at": "2022-05-12T15:35:00+00:00",
+        "updated_at": "2026-11-19T04:43:15.892518+00:00"
+      },
+      {
+        "memory": "Joanna wishes Nate good luck in his video game tournament, noting it involves many days of intense gaming",
+        "score": 0.3742,
+        "id": "bf6e424d-45a9-4e09-bd77-1185e5533c6a",
+        "created_at": "2022-03-24T13:43:00+00:00",
+        "updated_at": "2026-11-19T04:26:08.487069+00:00"
+      },
+      {
+        "memory": "Nate asked Joanna about her plans for the weekend",
+        "score": 0.3687,
+        "id": "8d8c5c82-427e-4642-8dd4-854c2bb35ae0",
+        "created_at": "2022-06-03T17:44:00+00:00",
+        "updated_at": "2026-11-19T04:59:01.228830+00:00"
+      },
+      {
+        "memory": "Joanna said Nate's boldness inspired her, reminding her of a gorgeous sunset she saw while hiking on April 14, 2022",
+        "score": 0.3681,
+        "id": "3e5c558c-a193-4321-865c-468bdfff8a7d",
+        "created_at": "2022-04-15T19:37:00+00:00",
+        "updated_at": "2026-11-19T04:28:12.294240+00:00"
+      },
+      {
+        "memory": "Nate thanks Joanna for her help and kind words",
+        "score": 0.3649,
+        "id": "463c66d4-e437-49a8-9c05-6b22c3e0298a",
+        "created_at": "2022-03-24T13:43:00+00:00",
+        "updated_at": "2026-11-19T04:27:04.658794+00:00"
+      },
+      {
+        "memory": "Joanna thanks Nate and says she is glad he is excited",
+        "score": 0.3644,
+        "id": "602091cf-70b8-4cc5-8bdc-92ea58399505",
+        "created_at": "2022-07-10T14:34:00+00:00",
+        "updated_at": "2026-11-19T05:08:46.508742+00:00"
+      },
+      {
+        "memory": "Joanna finished a presentation for producers on Friday, November 4, 2022, describing it as tough but looking good",
+        "score": 0.3628,
+        "id": "f0d84ce0-ef7c-4080-b2d8-39375793f3fa",
+        "created_at": "2022-11-07T20:10:00+00:00",
+        "updated_at": "2026-11-19T05:38:16.526779+00:00"
+      },
+      {
+        "memory": "Joanna (Joanna) says she will keep Nate posted and loves his creations",
+        "score": 0.3624,
+        "id": "e1122805-4ff4-4f87-8076-478d3c699db4",
+        "created_at": "2022-02-25T13:07:00+00:00",
+        "updated_at": "2026-11-19T04:18:25.678038+00:00"
+      },
+      {
+        "memory": "Joanna asked Nate about his current projects",
+        "score": 0.3615,
+        "id": "a0e45c62-de48-4386-a045-f602478951a5",
+        "created_at": "2022-11-09T17:54:00+00:00",
+        "updated_at": "2026-11-19T05:46:28.398531+00:00"
+      },
+      {
+        "memory": "Joanna invites Nate to join her on the trails sometime",
+        "score": 0.3595,
+        "id": "8c38112b-188e-4dab-9f53-126330895274",
+        "created_at": "2022-05-12T15:35:00+00:00",
+        "updated_at": "2026-11-19T04:43:21.654166+00:00"
+      },
+      {
+        "memory": "Nate congratulated Joanna on wrapping up her second screenplay",
+        "score": 0.3594,
+        "id": "93f93983-b708-43ce-851c-0ee6c72d00df",
+        "created_at": "2022-03-18T18:59:00+00:00",
+        "updated_at": "2026-11-19T04:20:33.354484+00:00"
+      },
+      {
+        "memory": "Joanna thanks Nate for his support and says she will keep him updated",
+        "score": 0.3564,
+        "id": "e1335d5a-3aaf-4daa-ab86-ee9e706888c7",
+        "created_at": "2022-03-24T13:43:00+00:00",
+        "updated_at": "2026-11-19T04:25:45.525199+00:00"
+      },
+      {
+        "memory": "Nate says he is not doing anything at the moment and welcomes Joanna to join him",
+        "score": 0.3546,
+        "id": "0b212c0c-eeb8-4481-95fe-5edc2c119ca7",
+        "created_at": "2022-11-04T15:56:00+00:00",
+        "updated_at": "2026-11-19T05:37:24.765881+00:00"
+      },
+      {
+        "memory": "Nate encouraged Joanna not to quit and said the path forward will show up soon",
+        "score": 0.3537,
+        "id": "8278085c-b9e7-48ac-8347-0cdbc4041727",
+        "created_at": "2022-03-18T18:59:00+00:00",
+        "updated_at": "2026-11-19T04:23:55.365149+00:00"
+      },
+      {
+        "memory": "Joanna thinks Nate's cooking is amazing",
+        "score": 0.3531,
+        "id": "999678f7-c3ac-417d-baa3-8f4505cb246b",
+        "created_at": "2022-02-25T13:07:00+00:00",
+        "updated_at": "2026-11-19T04:22:35.050080+00:00"
+      },
+      {
+        "memory": "Joanna says competitive games can be difficult because players may get upset about each move, but notes they were also chill, and expresses glad that Nate had a good time.",
+        "score": 0.3502,
+        "id": "27dbea2c-cdee-49ca-a10f-c3a53a3ae55b",
+        "created_at": "2022-10-09T10:58:00+00:00",
+        "updated_at": "2026-11-19T05:26:23.990411+00:00"
+      },
+      {
+        "memory": "Nate expressed that Joanna can always count on him for support",
+        "score": 0.3487,
+        "id": "5f83f849-8783-4963-bc06-ffa7816dc120",
+        "created_at": "2022-10-06T11:15:00+00:00",
+        "updated_at": "2026-11-19T05:23:58.385723+00:00"
+      },
+      {
+        "memory": "Joanna asked Nate about his next move in the gaming world",
+        "score": 0.3472,
+        "id": "d4cd752a-3c3b-4e40-a44a-5eff7bc328a4",
+        "created_at": "2022-11-09T17:54:00+00:00",
+        "updated_at": "2026-11-19T05:45:18.224835+00:00"
+      },
+      {
+        "memory": "Joanna plans to relax and recharge with a long walk and reading during the weekend of August 27–28, 2022, describing it as a good break",
+        "score": 0.3435,
+        "id": "a29e6911-95a4-4da3-9987-ce3aacc0237d",
+        "created_at": "2022-08-22T10:57:00+00:00",
+        "updated_at": "2026-11-19T05:13:47.254252+00:00"
+      },
+      {
+        "memory": "Joanna congratulated Nate, saying his recent achievement was a huge success",
+        "score": 0.3435,
+        "id": "68df53bf-cc34-4cdc-a469-92f43110e548",
+        "created_at": "2022-06-24T10:55:00+00:00",
+        "updated_at": "2026-11-19T05:03:54.177222+00:00"
+      },
+      {
+        "memory": "Joanna appreciates mutual support with Nate in reaching their goals",
+        "score": 0.3424,
+        "id": "8e395908-4cb9-425c-ae7d-1d1948661aa5",
+        "created_at": "2022-11-09T17:54:00+00:00",
+        "updated_at": "2026-11-19T05:48:02.246842+00:00"
+      },
+      {
+        "memory": "Joanna (Joanna) asks Nate to let her know his thoughts on her screenplay after he reads it",
+        "score": 0.3423,
+        "id": "8504a44b-deb9-428d-9960-78a6f6a47f00",
+        "created_at": "2022-02-07T09:27:00+00:00",
+        "updated_at": "2026-11-19T04:15:42.767462+00:00"
+      },
+      {
+        "memory": "Joanna expressed that something Nate showed looks awesome",
+        "score": 0.3421,
+        "id": "212cc1df-df89-444f-9b56-1005e187f580",
+        "created_at": "2022-10-06T11:15:00+00:00",
+        "updated_at": "2026-11-19T05:24:03.546646+00:00"
+      },
+      {
+        "memory": "Joanna says Nate's cooking skills are awesome",
+        "score": 0.3416,
+        "id": "b3f4a4b7-908e-49b8-89f5-3944390364c7",
+        "created_at": "2022-02-07T09:27:00+00:00",
+        "updated_at": "2026-11-19T04:14:34.810321+00:00"
+      },
+      {
+        "memory": "Joanna says she would love to do either of the suggested activities with Nate",
+        "score": 0.3415,
+        "id": "e9f86455-d22f-492e-9aad-9caf1db1b029",
+        "created_at": "2022-11-09T17:54:00+00:00",
+        "updated_at": "2026-11-19T05:49:18.931460+00:00"
+      },
+      {
+        "memory": "Joanna asked Nate what inspired him",
+        "score": 0.3414,
+        "id": "cf4b9d74-00d6-4ca6-bf50-27cd2f73fb67",
+        "created_at": "2022-10-06T11:15:00+00:00",
+        "updated_at": "2026-11-19T05:24:03.546646+00:00"
+      },
+      {
+        "memory": "Nate encouraged Joanna to keep trying and believe in herself, saying her next work will do just as well as her last one",
+        "score": 0.3385,
+        "id": "feae85c9-91a2-4ede-8ca1-9959f479a9b7",
+        "created_at": "2022-07-10T14:34:00+00:00",
+        "updated_at": "2026-11-19T05:08:00.274043+00:00"
+      },
+      {
+        "memory": "Joanna thanks Nate for his help and says she will keep trying new things",
+        "score": 0.338,
+        "id": "daf3d384-e616-4eba-8148-95dec11b070f",
+        "created_at": "2022-05-02T11:54:00+00:00",
+        "updated_at": "2026-11-19T04:40:43.264231+00:00"
+      },
+      {
+        "memory": "Nate expressed hope that Joanna has been able to take some time to relax after completing her second screenplay",
+        "score": 0.3374,
+        "id": "7011bc08-eb57-48c3-87de-a07f49a397fd",
+        "created_at": "2022-03-18T18:59:00+00:00",
+        "updated_at": "2026-11-19T04:20:33.354484+00:00"
+      },
+      {
+        "memory": "Joanna says she will not give up on her goals as long as Nate supports her",
+        "score": 0.3369,
+        "id": "62445e94-e6e8-4aa3-a1ac-0f64a33ead51",
+        "created_at": "2022-10-06T11:15:00+00:00",
+        "updated_at": "2026-11-19T05:23:52.717055+00:00"
+      },
+      {
+        "memory": "Joanna praised Nate for being able to go out and meet people, encouraging him to keep it up",
+        "score": 0.3355,
+        "id": "73fbde29-1e1c-4247-90f1-85868865afc8",
+        "created_at": "2022-05-25T15:00:00+00:00",
+        "updated_at": "2026-11-19T04:48:44.088362+00:00"
+      },
+      {
+        "memory": "Joanna hopes for good news soon",
+        "score": 0.3343,
+        "id": "086baae4-8dcb-4734-8695-d8239033cbc5",
+        "created_at": "2022-04-15T19:37:00+00:00",
+        "updated_at": "2026-11-19T04:28:31.367147+00:00"
+      }
+    ],
+    "search_latency_ms": 361.8,
+    "total_results": 50
+  },
+  "cutoff_results": {
+    "top_50": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "no",
+      "memories_evaluated": 50,
+      "reason": "The generated answer says 'no,' matching the gold answer 'No.'"
+    }
+  }
+}
