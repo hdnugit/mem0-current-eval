@@ -64,7 +64,20 @@ different pipeline, top 30, and gpt-4o-mini answerer/judge, so the two are not d
 Files: `results/locomo/locomo_results_20261119_171820.json` (summary) and
 `results/locomo/predicted_locomo-cloud/` (per question, plus `_ingestion_<conv>.json` user ids).
 
+
+## Result: adversarial (category 5), top 50, Mem0 Cloud (job 35397155, 2026-11-19)
+
+Correct 50.4% (225/446): DECLINED 212, REATTRIBUTED 13, TRAP 120, OTHER 101. Answers by gpt-5 with
+the suite's answer prompt; labels by `../evaluation/eval_adversarial.py` (gpt-4o-mini judge, no
+hand labels for these answers). 0 failed searches, every question retrieved 50 memories.
+For reference, the OSS base run in `../evaluation` scores 37.7% with its own pipeline and prompt.
+Caveats: 3 answers came back empty from gpt-5 (judged OTHER, REATTRIBUTED, OTHER; the
+REATTRIBUTED one is a judge error). The judge was validated on the OSS run's short answers; these
+answers are longer (median 108 characters), so its agreement with hand labels here is untested.
+Files: `adversarial_answers_top50.json`, `adversarial_metrics_top50.json` in
+`results/locomo/predicted_locomo-cloud/`.
+Mem0 retrieval requests used by this project so far: 96 + 446 + 1 test = 543 of the 1,000/month.
 Status 2026-11-19: first job (35393360) failed on every add for the reason above and was cancelled;
 its output was deleted. Job 35393380 (categories 1-4) ingested about 10% and was stopped cleanly
 (SIGINT, no failures, no searches) to switch to category 3 only. Job 35393456 resumed ingestion from
-its checkpoints and finished cleanly. Adversarial step submitted as job 35397155.
+its checkpoints and finished cleanly. Adversarial step ran as job 35397155 (first run of answer_adversarial.py, no errors).
