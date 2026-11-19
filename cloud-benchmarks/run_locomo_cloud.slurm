@@ -40,6 +40,13 @@ if [ ! -x .venv/bin/python ]; then
     .venv/bin/pip install --quiet -r requirements.txt
 fi
 
+# The suite (commit 4b61c5d) posts adds to /v3/memories/, which Mem0 Cloud now treats as
+# "list memories" (400 "Filters are required"); the add endpoint is /v3/memories/add/.
+if git apply --check "$HERE/mem0_client_add_endpoint.patch" 2>/dev/null; then
+    git apply "$HERE/mem0_client_add_endpoint.patch"
+fi
+grep -q "/v3/memories/add/" benchmarks/common/mem0_client.py || { echo "add-endpoint patch not applied"; exit 1; }
+
 echo "Host: $(hostname)   memory-benchmarks commit: $(git rev-parse --short HEAD)   Started: $(date)"
 .venv/bin/python -m benchmarks.locomo.run \
     --project-name "$PROJECT" \

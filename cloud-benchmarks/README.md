@@ -38,4 +38,18 @@ sbatch run_adversarial_cloud.slurm            # same project name as the main ru
 Needs the main run's results folder and the memories still present in the Mem0 account.
 Output: `adversarial_answers_top50.json` and `adversarial_metrics_top50.json` in the run's results folder.
 
-Status 2026-11-19: scripts written, not yet run.
+## Fix needed for Mem0 Cloud (2026-11-19)
+
+The suite (commit 4b61c5d, May 2026) posts adds to `/v3/memories/`. Mem0 Cloud now treats that as
+"list memories" and returns 400 "Filters are required"; the add endpoint is `/v3/memories/add/`
+(as in `mem0/client/main.py`). `mem0_client_add_endpoint.patch` fixes the one line and
+`run_locomo_cloud.slurm` applies it to `../../mem0/evaluation` before running. Search and event
+polling endpoints still work unchanged.
+
+The suite marks a chunk as done even when its add failed, so a run with add failures must not be
+resumed: delete its `predicted_<project-name>/` folder and start again. After a run, check the log
+for `Ingestion failed` (should be 0).
+
+Status 2026-11-19: first job (35393360) failed on every add for the reason above and was cancelled;
+its output was deleted. Full run resubmitted as job 35393380 (project `locomo-cloud`), ingesting
+without failures at the time of writing. Adversarial step not yet run.
