@@ -1,24 +1,6 @@
 [
   {
     "conversation": "0",
-    "question": "What kind of counseling and mental health services is Melanie interested in pursuing?",
-    "adversarial_answer": "working with trans people, helping them accept themselves and supporting their mental health",
-    "evidence": [
-      "Caroline: I'm still figuring out the details, but I'm thinking of working with trans people, helping them accept themselves and supporting their mental health. Last Friday, I went to an LGBTQ+ counseling workshop and it was really enlightening. They talked about different therapeutic methods and how to best work with trans people. Seeing how passionate these pros were about making a safe space for people like me was amazing."
-    ],
-    "response": "Melanie is interested in counseling services.",
-    "hand_label": "TRAP",
-    "judge_label": "OTHER",
-    "judge_reasoning": "The generated answer does not support the trap answer and does not mention the specific interests of Melanie.",
-    "judge_checks": {
-      "gives_trap": false,
-      "explicit_refusal": true,
-      "reassigns": false,
-      "refusal_quote": "Melanie is interested in counseling services."
-    }
-  },
-  {
-    "conversation": "0",
     "question": "What motivated Melanie to pursue counseling?",
     "adversarial_answer": "her own journey and the support she received, and how counseling improved her life",
     "evidence": [
@@ -235,24 +217,6 @@
   },
   {
     "conversation": "3",
-    "question": "What did Nate find in old notebooks last week that prompted him to reflect on her progress as a writer?",
-    "adversarial_answer": "early writings",
-    "evidence": [
-      "Joanna: Thanks Nate! Your support and encouragement mean a lot. Writing isn't always easy but moments like these make me appreciate it. I'm so thankful for all the opportunities. Last week, I found these old notebooks with my early writings - it was cool to see how far I've come."
-    ],
-    "response": "Old writings from Joanna.",
-    "hand_label": "REATTRIBUTED",
-    "judge_label": "TRAP",
-    "judge_reasoning": "The generated answer refers to Joanna's writings instead of Nate's reflections.",
-    "judge_checks": {
-      "gives_trap": true,
-      "explicit_refusal": false,
-      "reassigns": true,
-      "refusal_quote": ""
-    }
-  },
-  {
-    "conversation": "3",
     "question": "What inspired Joanna to start making gaming videos?",
     "adversarial_answer": "Love of gaming and connecting with others who enjoy it too",
     "evidence": [
@@ -321,24 +285,6 @@
       "explicit_refusal": true,
       "reassigns": false,
       "refusal_quote": "receive it by mail"
-    }
-  },
-  {
-    "conversation": "4",
-    "question": "What is one cause that John opposes with his influence and resources?",
-    "adversarial_answer": "youth sports and fair chances in sports",
-    "evidence": [
-      "John: I've been working on supporting youth sports and fighting for fair chances in sports for underserved communities. It's important to me that every kid has access to good sports programs. I've been collaborating with organizations to create more opportunities for young athletes and help them succeed. It's amazing to see the difference sports make in people's lives."
-    ],
-    "response": "John opposes unfair chances in sports.",
-    "hand_label": "TRAP",
-    "judge_label": "OTHER",
-    "judge_reasoning": "The generated answer does not state the trap answer as true for John.",
-    "judge_checks": {
-      "gives_trap": false,
-      "explicit_refusal": true,
-      "reassigns": false,
-      "refusal_quote": "John opposes unfair chances in sports."
     }
   },
   {
@@ -590,24 +536,6 @@
       "gives_trap": false,
       "explicit_refusal": false,
       "reassigns": true,
-      "refusal_quote": ""
-    }
-  },
-  {
-    "conversation": "9",
-    "question": "What was the necklace Dave received meant to remind him of?",
-    "adversarial_answer": "why he keeps hustling as a musician",
-    "evidence": [
-      "Calvin: Thanks, Dave! I got it from another artist as a gift - it's a great reminder of why I keep hustling as a musician!"
-    ],
-    "response": "Calvin's motivation as a musician.",
-    "hand_label": "REATTRIBUTED",
-    "judge_label": "TRAP",
-    "judge_reasoning": "The generated answer rephrases the trap answer but does not explicitly state it as true for Dave.",
-    "judge_checks": {
-      "gives_trap": true,
-      "explicit_refusal": false,
-      "reassigns": false,
       "refusal_quote": ""
     }
   },

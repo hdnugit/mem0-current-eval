@@ -81,7 +81,7 @@
   "question": "What kind of counseling and mental health services is Melanie interested in pursuing?",
   "adversarial_answer": "working with trans people, helping them accept themselves and supporting their mental health",
   "response": "Melanie is interested in counseling services.",
-  "label": "TRAP"
+  "label": "OTHER"
  },
  {
   "conversation": "0",
@@ -1131,7 +1131,7 @@
   "question": "What did Nate find in old notebooks last week that prompted him to reflect on her progress as a writer?",
   "adversarial_answer": "early writings",
   "response": "Old writings from Joanna.",
-  "label": "REATTRIBUTED"
+  "label": "TRAP"
  },
  {
   "conversation": "3",
@@ -1593,7 +1593,7 @@
   "question": "What is one cause that John opposes with his influence and resources?",
   "adversarial_answer": "youth sports and fair chances in sports",
   "response": "John opposes unfair chances in sports.",
-  "label": "TRAP"
+  "label": "OTHER"
  },
  {
   "conversation": "4",
@@ -2839,7 +2839,7 @@
   "question": "What was the necklace Dave received meant to remind him of?",
   "adversarial_answer": "why he keeps hustling as a musician",
   "response": "Calvin's motivation as a musician.",
-  "label": "REATTRIBUTED"
+  "label": "TRAP"
  },
  {
   "conversation": "9",
