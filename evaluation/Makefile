@@ -54,6 +54,29 @@ stats-mem0-abstain:
 
 mem0-abstain-all: run-mem0-abstain eval-mem0-abstain scores-mem0-abstain eval-adversarial-abstain
 
+# --- Soft abstain variant: answers by default, declines only when the fact belongs to a
+# different person or no memory is about the topic (ANSWER_PROMPT_ABSTAIN_SOFT).
+MEM0_ABSTAIN_SOFT_RESULTS = results/mem0_abstain_soft_results_top_30_filter_False_graph_False.json
+MEM0_ABSTAIN_SOFT_METRICS = results/mem0_abstain_soft_evaluation_metrics.json
+MEM0_ABSTAIN_SOFT_ADVERSARIAL = results/mem0_abstain_soft_adversarial_metrics.json
+
+run-mem0-abstain-soft:  # resumable
+	$(PYTHON) run_abstain_baseline.py --variant soft --input_file $(MEM0_RESULTS) --output_file $(MEM0_ABSTAIN_SOFT_RESULTS)
+
+eval-mem0-abstain-soft:
+	$(PYTHON) evals.py --input_file $(MEM0_ABSTAIN_SOFT_RESULTS) --output_file $(MEM0_ABSTAIN_SOFT_METRICS) --num_runs 10
+
+scores-mem0-abstain-soft:
+	$(PYTHON) generate_scores.py --input_file $(MEM0_ABSTAIN_SOFT_METRICS)
+
+eval-adversarial-abstain-soft:
+	$(PYTHON) eval_adversarial.py --input_file $(MEM0_ABSTAIN_SOFT_RESULTS) --output_file $(MEM0_ABSTAIN_SOFT_ADVERSARIAL)
+
+stats-mem0-abstain-soft:
+	$(PYTHON) run_abstain_baseline.py --output_file $(MEM0_ABSTAIN_SOFT_RESULTS) --stats_only
+
+mem0-abstain-soft-all: run-mem0-abstain-soft eval-mem0-abstain-soft scores-mem0-abstain-soft eval-adversarial-abstain-soft
+
 run-rag:
 	$(PYTHON) run_experiments.py --technique_type rag --chunk_size 500 --num_chunks 1 --output_folder results/
 

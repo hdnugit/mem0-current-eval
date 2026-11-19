@@ -132,6 +132,27 @@ _LAST_INSTRUCTION = "    8. The answer should be less than 5-6 words.\n"
 assert ANSWER_PROMPT.count(_LAST_INSTRUCTION) == 1
 ANSWER_PROMPT_ABSTAIN = ANSWER_PROMPT.replace(_LAST_INSTRUCTION, _LAST_INSTRUCTION + _ABSTAIN_INSTRUCTIONS)
 
+# Soft variant. The strict prompt above declined 487 of the 1,540 answerable questions
+# (289 of them answered correctly by the normal prompt): its premise check refused when a
+# detail of the question was not confirmed word for word, and "do not contain the
+# information" ruled out combining memories and inference. This variant answers by default
+# and declines in two cases only: the fact belongs to a different person, or no memory is
+# about the topic.
+_ABSTAIN_SOFT_INSTRUCTIONS = """    9. Answer whenever the memories support an answer. You may combine several memories,
+       calculate dates from the timestamps, and make a reasonable inference from what the
+       memories say about the person. A detail in the question that the memories do not
+       mention is not a reason to decline.
+    10. Decline in two cases only: (a) the memories show that the fact asked about belongs to a
+       different person than the one named in the question (for example, the question asks
+       what Ana did, but the memory says Ben did it); or (b) none of the memories is about the
+       topic of the question. In these two cases reply with exactly:
+       {phrase}
+""".format(phrase=ABSTAIN_PHRASE)
+
+ANSWER_PROMPT_ABSTAIN_SOFT = ANSWER_PROMPT.replace(_LAST_INSTRUCTION, _LAST_INSTRUCTION + _ABSTAIN_SOFT_INSTRUCTIONS)
+
+ABSTAIN_PROMPTS = {"strict": ANSWER_PROMPT_ABSTAIN, "soft": ANSWER_PROMPT_ABSTAIN_SOFT}
+
 
 ANSWER_PROMPT_ZEP = """
     You are an intelligent memory assistant tasked with retrieving accurate information from conversation memories.

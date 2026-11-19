@@ -248,6 +248,28 @@ retrievals with the normal prompt):
 The prompt lifts adversarial accuracy from 37.7% to 89.0% but declines 487 of the 1,540
 answerable questions, costing 18.7 points of overall J (36 points in Open Domain).
 
+#### Soft variant
+
+Of the 487 answerable questions the prompt above declined, the normal prompt had answered
+289 correctly. Two things caused it: the premise check refused when a detail of the
+question was not confirmed word for word (129 single-hop questions, 88% of them with the
+gold answer in a retrieved memory), and "do not contain the information" ruled out
+combining memories, date arithmetic and inference (multi-hop, temporal, open-domain).
+
+`ANSWER_PROMPT_ABSTAIN_SOFT` answers by default, explicitly allows combining memories,
+date calculation and reasonable inference, and declines in two cases only: the memories
+show the fact belongs to a different person than the one asked about, or no memory is
+about the topic. It no longer declines because a detail differs, so it is expected to miss
+most adversarial questions that change a detail but keep the right person (111 of 446).
+
+```bash
+sbatch mem0_abstain_soft.slurm    # on Spartan; log in slurm_logs/
+make mem0-abstain-soft-all        # or directly
+make stats-mem0-abstain-soft
+```
+
+Outputs: the same three files as above with `mem0_abstain_soft_` in the name.
+
 ### 📈 Generating Scores
 
 Generate final scores with:
