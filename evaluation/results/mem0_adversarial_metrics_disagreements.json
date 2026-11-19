@@ -577,24 +577,6 @@
   },
   {
     "conversation": "8",
-    "question": "What class is Evan taking to learn how to make healthier meals?",
-    "adversarial_answer": "cooking class",
-    "evidence": [
-      "Sam: Hey Evan, sorry to hear about what happened. I can imagine how hard it must have been for you. Things haven't been easy for me either. Had a tough week and a doc's appointment, so it was kinda like a wake-up call to take better care of myself. On a bright side, I'm taking a cooking class to learn how to make healthier meals."
-    ],
-    "response": "Evan is not taking a cooking class.",
-    "hand_label": "TRAP",
-    "judge_label": "DECLINED",
-    "judge_reasoning": "The generated answer explicitly denies the trap answer.",
-    "judge_checks": {
-      "gives_trap": false,
-      "explicit_refusal": true,
-      "reassigns": false,
-      "refusal_quote": "Evan is not taking a cooking class."
-    }
-  },
-  {
-    "conversation": "8",
     "question": "What electronics issue has been frustrating Evan lately?",
     "adversarial_answer": "malfunctioning navigation app on the new phone",
     "evidence": [

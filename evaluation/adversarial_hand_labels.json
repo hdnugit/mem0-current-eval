@@ -2601,7 +2601,7 @@
   "question": "What class is Evan taking to learn how to make healthier meals?",
   "adversarial_answer": "cooking class",
   "response": "Evan is not taking a cooking class.",
-  "label": "TRAP"
+  "label": "DECLINED"
  },
  {
   "conversation": "8",
