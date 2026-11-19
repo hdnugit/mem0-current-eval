@@ -10,3 +10,5 @@ __pycache__/
 evaluation/mem0_store_obsdate/
 evaluation/mem0paper_store/
 evaluation/slurm_logs/
+
+cloud-benchmarks/slurm_logs/
