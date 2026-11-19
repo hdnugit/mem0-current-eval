@@ -192,8 +192,7 @@ The judge does not pick the label itself. It answers three yes/no checks (does t
 state the trap, does it explicitly refuse or deny the premise, does it move the fact to
 another person) and `metrics/adversarial_rules.py` derives the label. A refusal counts
 only if the words the judge quotes for it are really in the answer and contain a refusal
-word. The same judge is validated in the mem0-paper-impl repo (96.4% correct/wrong
-agreement with hand labels there).
+word.
 
 ```bash
 sbatch eval_adversarial.slurm                            # on Spartan; log in slurm_logs/
