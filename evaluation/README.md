@@ -207,6 +207,32 @@ and so does an answer that gives the trap fact with the altered detail corrected
 --report_only --hand_labels adversarial_hand_labels.json` re-derives the labels from the
 stored checks without calling the judge. The Table 1 metrics file is not changed.
 
+### 🙅 Abstain baseline (not in the paper)
+
+The paper's answer prompt never tells the model it may decline, so it answers adversarial
+questions from whatever memories were retrieved. This baseline changes one thing: the
+answer prompt (`ANSWER_PROMPT_ABSTAIN` in `prompts.py`) gets two more instructions, to
+check the question's premise against the memories and to reply `No information available`
+when the memories do not support an answer.
+
+`run_abstain_baseline.py` re-answers every question from the memories the normal Mem0 run
+already retrieved (they are stored per question in its results file), so retrieval is
+identical and only the answer prompt differs. The memory store is not used.
+
+```bash
+sbatch mem0_abstain.slurm     # on Spartan; log in slurm_logs/
+make mem0-abstain-all         # or directly: answer, judge x10, Table 1 scores, adversarial judge
+make stats-mem0-abstain       # how often it abstained, per category
+```
+
+Outputs, all in `results/`: `mem0_abstain_results_top_30_filter_False_graph_False.json`
+(answers), `mem0_abstain_evaluation_metrics.json` (Table 1 metrics) and
+`mem0_abstain_adversarial_metrics.json` (adversarial judge). The base run's files are not
+changed. An abstention on an answerable question (categories 1-4) is a wrong answer, so
+the Table 1 scores show what the instruction costs and the adversarial judge shows what it
+gains. The hand labels in `adversarial_hand_labels.json` belong to the base run's answers
+and do not apply to this baseline.
+
 ### 📈 Generating Scores
 
 Generate final scores with:

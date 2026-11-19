@@ -31,6 +31,29 @@ eval-adversarial:
 
 mem0-all: run-mem0-add run-mem0-search eval-mem0 scores-mem0
 
+# --- Abstain baseline (not in the paper): same retrievals as the Mem0 run above,
+# answered with ANSWER_PROMPT_ABSTAIN. Needs $(MEM0_RESULTS); the memory store is not used.
+MEM0_ABSTAIN_RESULTS = results/mem0_abstain_results_top_30_filter_False_graph_False.json
+MEM0_ABSTAIN_METRICS = results/mem0_abstain_evaluation_metrics.json
+MEM0_ABSTAIN_ADVERSARIAL = results/mem0_abstain_adversarial_metrics.json
+
+run-mem0-abstain:      # resumable; rerun the same command after an interruption
+	$(PYTHON) run_abstain_baseline.py --input_file $(MEM0_RESULTS) --output_file $(MEM0_ABSTAIN_RESULTS)
+
+eval-mem0-abstain:
+	$(PYTHON) evals.py --input_file $(MEM0_ABSTAIN_RESULTS) --output_file $(MEM0_ABSTAIN_METRICS) --num_runs 10
+
+scores-mem0-abstain:
+	$(PYTHON) generate_scores.py --input_file $(MEM0_ABSTAIN_METRICS)
+
+eval-adversarial-abstain:
+	$(PYTHON) eval_adversarial.py --input_file $(MEM0_ABSTAIN_RESULTS) --output_file $(MEM0_ABSTAIN_ADVERSARIAL)
+
+stats-mem0-abstain:
+	$(PYTHON) run_abstain_baseline.py --output_file $(MEM0_ABSTAIN_RESULTS) --stats_only
+
+mem0-abstain-all: run-mem0-abstain eval-mem0-abstain scores-mem0-abstain eval-adversarial-abstain
+
 run-rag:
 	$(PYTHON) run_experiments.py --technique_type rag --chunk_size 500 --num_chunks 1 --output_folder results/
 

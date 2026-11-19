@@ -107,6 +107,32 @@ ANSWER_PROMPT = """
     """
 
 
+# ---------------------------------------------------------------------------
+# Abstain baseline (not in the paper)
+#
+# The paper's ANSWER_PROMPT never tells the model it may decline, so it answers
+# questions whose premise is false (LOCOMO category 5) from whatever memories
+# were retrieved. This variant is the same prompt plus two instructions: check
+# the premise against the memories, and reply with a fixed phrase when the
+# memories do not support an answer. Nothing else changes.
+# ---------------------------------------------------------------------------
+ABSTAIN_PHRASE = "No information available"
+
+_ABSTAIN_INSTRUCTIONS = """    9. Before answering, check the premise of the question against the memories. The person,
+       thing and event named in the question must match what the memories say. A fact about one
+       speaker must not be used to answer a question about the other speaker.
+    10. If the memories do not contain the information needed to answer, or they do not support
+       the premise of the question (for example, the fact belongs to the other person, or a
+       detail in the question differs from the memories), reply with exactly:
+       {phrase}
+       Do not guess, and do not give the closest fact instead.
+""".format(phrase=ABSTAIN_PHRASE)
+
+_LAST_INSTRUCTION = "    8. The answer should be less than 5-6 words.\n"
+assert ANSWER_PROMPT.count(_LAST_INSTRUCTION) == 1
+ANSWER_PROMPT_ABSTAIN = ANSWER_PROMPT.replace(_LAST_INSTRUCTION, _LAST_INSTRUCTION + _ABSTAIN_INSTRUCTIONS)
+
+
 ANSWER_PROMPT_ZEP = """
     You are an intelligent memory assistant tasked with retrieving accurate information from conversation memories.
 
