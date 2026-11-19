@@ -9,3 +9,4 @@ __pycache__/
 # vector stores (large, rebuildable; GitHub rejects files >100MB)
 evaluation/mem0_store_obsdate/
 evaluation/mem0paper_store/
+evaluation/slurm_logs/

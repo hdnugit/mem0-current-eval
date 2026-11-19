@@ -172,6 +172,40 @@ This script:
 3. Uses an LLM judge to evaluate answer correctness
 4. Saves the combined results to the output file
 
+### 🎭 Adversarial questions (LOCOMO category 5)
+
+Not part of the paper: the paper and `evals.py` skip category 5 because those questions
+have no gold answer. Each one asks about something that is not true of the person named
+(usually a fact about the other speaker); the dataset's `adversarial_answer` is the trap.
+`eval_adversarial.py` judges only these 446 answers with a separate, strict judge
+(`evaluate_adversarial_judge` in `metrics/llm_judge.py`), which sees the question, the trap
+answer, the evidence turn with its real speaker, and the generated answer.
+
+| Label | Meaning | Scored as |
+|---|---|---|
+| `DECLINED` | says it is not mentioned, or rejects the premise | correct |
+| `REATTRIBUTED` | gives the fact but assigns it to the right person | correct |
+| `TRAP` | gives the trap answer (or a paraphrase) for the person asked about | wrong |
+| `OTHER` | accepts the premise and gives a different answer | wrong |
+
+The judge does not pick the label itself. It answers three yes/no checks (does the answer
+state the trap, does it explicitly refuse or deny the premise, does it move the fact to
+another person) and `metrics/adversarial_rules.py` derives the label. A refusal counts
+only if the words the judge quotes for it are really in the answer and contain a refusal
+word. The same judge is validated in the mem0-paper-impl repo (96.4% correct/wrong
+agreement with hand labels there).
+
+```bash
+sbatch eval_adversarial.slurm                            # on Spartan; log in slurm_logs/
+make eval-adversarial HAND=adversarial_hand_labels.json  # or directly
+```
+
+This writes `results/mem0_adversarial_metrics.json` and, with `HAND=`, compares the judge
+with `adversarial_hand_labels.json` (hand labels for the 446 answers of the committed run:
+39.2% correct) and writes the disagreements next to it. `python eval_adversarial.py
+--report_only --hand_labels adversarial_hand_labels.json` re-derives the labels from the
+stored checks without calling the judge. The Table 1 metrics file is not changed.
+
 ### 📈 Generating Scores
 
 Generate final scores with:

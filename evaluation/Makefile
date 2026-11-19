@@ -6,6 +6,7 @@ PYTHON ?= $(abspath ../.venv/bin/python)
 # --- Mem0 (OSS backend, Table 1 "Mem0" row) ---
 MEM0_RESULTS = results/mem0_results_top_30_filter_False_graph_False.json
 MEM0_METRICS = results/mem0_evaluation_metrics.json
+MEM0_ADVERSARIAL = results/mem0_adversarial_metrics.json
 
 run-mem0-add:
 	$(PYTHON) run_experiments.py --technique_type mem0 --method add
@@ -22,6 +23,11 @@ eval-mem0:
 
 scores-mem0:
 	$(PYTHON) generate_scores.py --input_file $(MEM0_METRICS)
+
+# LOCOMO category 5 (adversarial); separate judge, not part of the paper's Table 1.
+# Add HAND=adversarial_hand_labels.json to compare the judge with hand labels.
+eval-adversarial:
+	$(PYTHON) eval_adversarial.py --input_file $(MEM0_RESULTS) --output_file $(MEM0_ADVERSARIAL) $(if $(HAND),--hand_labels $(HAND))
 
 mem0-all: run-mem0-add run-mem0-search eval-mem0 scores-mem0
 
