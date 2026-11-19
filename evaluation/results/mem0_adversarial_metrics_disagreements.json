@@ -7,7 +7,7 @@
       "Caroline: Thanks, Melanie. It really mattered. My own journey and the support I got made a huge difference. Now I want to help people go through it too. I saw how counseling and support groups improved my life, so I started caring more about mental health and understanding myself. Now I'm passionate about creating a safe, inviting place for people to grow."
     ],
     "response": "Caroline's journey and support.",
-    "hand_label": "OTHER",
+    "hand_label": "TRAP",
     "judge_label": "REATTRIBUTED",
     "judge_reasoning": "The generated answer incorrectly attributes the motivation to Caroline instead of Melanie.",
     "judge_checks": {
@@ -104,6 +104,24 @@
       "gives_trap": false,
       "explicit_refusal": false,
       "reassigns": false,
+      "refusal_quote": ""
+    }
+  },
+  {
+    "conversation": "2",
+    "question": "How long was Max a part of Maria's family?",
+    "adversarial_answer": "10 years",
+    "evidence": [
+      "John: Hey Maria, long time no talk! Life's been pretty wild lately. The toughest thing to deal with is that we had to say goodbye to Max. He was such an important part of our family for 10 years and it's so hard to think he's not here wagging that tail anymore."
+    ],
+    "response": "Max was part of John's family for 10 years.",
+    "hand_label": "REATTRIBUTED",
+    "judge_label": "TRAP",
+    "judge_reasoning": "The generated answer incorrectly attributes the duration of Max's time to John's family instead of Maria's.",
+    "judge_checks": {
+      "gives_trap": true,
+      "explicit_refusal": false,
+      "reassigns": true,
       "refusal_quote": ""
     }
   },
@@ -213,6 +231,24 @@
       "explicit_refusal": true,
       "reassigns": false,
       "refusal_quote": "Nate encourages Joanna to persist."
+    }
+  },
+  {
+    "conversation": "3",
+    "question": "What game is Joanna currently playing and recommends to others on November 7, 2022?",
+    "adversarial_answer": "\"Xenoblade Chronicles\"",
+    "evidence": [
+      "Nate: Yep! I'm currently playing this awesome fantasy RPG called \"Xeonoblade Chronicles\" and it's been a blast! I highly reccomend it if you've never played it before. "
+    ],
+    "response": "Joanna is not playing a game; she recommends 'Xenoblade Chronicles'.",
+    "hand_label": "TRAP",
+    "judge_label": "DECLINED",
+    "judge_reasoning": "The generated answer states that Joanna is not playing a game, which contradicts the trap answer.",
+    "judge_checks": {
+      "gives_trap": false,
+      "explicit_refusal": true,
+      "reassigns": false,
+      "refusal_quote": "Joanna is not playing a game"
     }
   },
   {

@@ -201,7 +201,9 @@ make eval-adversarial HAND=adversarial_hand_labels.json  # or directly
 
 This writes `results/mem0_adversarial_metrics.json` and, with `HAND=`, compares the judge
 with `adversarial_hand_labels.json` (hand labels for the 446 answers of the committed run:
-39.0% correct; a short answer that only names the other person's thing counts as TRAP) and writes the disagreements next to it. `python eval_adversarial.py
+39.0% correct; a short answer that only names the other person's thing counts as TRAP,
+and so does an answer that gives the trap fact with the altered detail corrected, such as
+"a necklace from grandma" when asked about grandpa's gift) and writes the disagreements next to it. `python eval_adversarial.py
 --report_only --hand_labels adversarial_hand_labels.json` re-derives the labels from the
 stored checks without calling the judge. The Table 1 metrics file is not changed.
 

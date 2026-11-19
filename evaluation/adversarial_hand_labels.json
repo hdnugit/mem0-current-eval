@@ -95,7 +95,7 @@
   "question": "What motivated Melanie to pursue counseling?",
   "adversarial_answer": "her own journey and the support she received, and how counseling improved her life",
   "response": "Caroline's journey and support.",
-  "label": "OTHER"
+  "label": "TRAP"
  },
  {
   "conversation": "0",
@@ -627,7 +627,7 @@
   "question": "How long was Max a part of Maria's family?",
   "adversarial_answer": "10 years",
   "response": "Max was part of John's family for 10 years.",
-  "label": "TRAP"
+  "label": "REATTRIBUTED"
  },
  {
   "conversation": "2",
@@ -1138,7 +1138,7 @@
   "question": "What game is Joanna currently playing and recommends to others on November 7, 2022?",
   "adversarial_answer": "\"Xenoblade Chronicles\"",
   "response": "Joanna is not playing a game; she recommends 'Xenoblade Chronicles'.",
-  "label": "DECLINED"
+  "label": "TRAP"
  },
  {
   "conversation": "3",
