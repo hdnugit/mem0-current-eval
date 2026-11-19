@@ -1,0 +1,668 @@
+[
+  {
+    "conversation": "0",
+    "question": "What kind of counseling and mental health services is Melanie interested in pursuing?",
+    "adversarial_answer": "working with trans people, helping them accept themselves and supporting their mental health",
+    "evidence": [
+      "Caroline: I'm still figuring out the details, but I'm thinking of working with trans people, helping them accept themselves and supporting their mental health. Last Friday, I went to an LGBTQ+ counseling workshop and it was really enlightening. They talked about different therapeutic methods and how to best work with trans people. Seeing how passionate these pros were about making a safe space for people like me was amazing."
+    ],
+    "response": "Melanie is interested in counseling services.",
+    "hand_label": "TRAP",
+    "judge_label": "OTHER",
+    "judge_reasoning": "The generated answer does not support the trap answer and does not mention the specific interests of Melanie.",
+    "judge_checks": {
+      "gives_trap": false,
+      "explicit_refusal": true,
+      "reassigns": false,
+      "refusal_quote": "Melanie is interested in counseling services."
+    }
+  },
+  {
+    "conversation": "0",
+    "question": "What motivated Melanie to pursue counseling?",
+    "adversarial_answer": "her own journey and the support she received, and how counseling improved her life",
+    "evidence": [
+      "Caroline: Thanks, Melanie. It really mattered. My own journey and the support I got made a huge difference. Now I want to help people go through it too. I saw how counseling and support groups improved my life, so I started caring more about mental health and understanding myself. Now I'm passionate about creating a safe, inviting place for people to grow."
+    ],
+    "response": "Caroline's journey and support.",
+    "hand_label": "OTHER",
+    "judge_label": "REATTRIBUTED",
+    "judge_reasoning": "The generated answer incorrectly attributes the motivation to Caroline instead of Melanie.",
+    "judge_checks": {
+      "gives_trap": false,
+      "explicit_refusal": true,
+      "reassigns": true,
+      "refusal_quote": "Caroline's journey and support."
+    }
+  },
+  {
+    "conversation": "0",
+    "question": "What kind of place does Melanie want to create for people?",
+    "adversarial_answer": "a safe and inviting place for people to grow",
+    "evidence": [
+      "Caroline: Thanks, Melanie. It really mattered. My own journey and the support I got made a huge difference. Now I want to help people go through it too. I saw how counseling and support groups improved my life, so I started caring more about mental health and understanding myself. Now I'm passionate about creating a safe, inviting place for people to grow."
+    ],
+    "response": "A safe and loving home.",
+    "hand_label": "TRAP",
+    "judge_label": "OTHER",
+    "judge_reasoning": "The generated answer does not state the trap answer as true for Melanie.",
+    "judge_checks": {
+      "gives_trap": false,
+      "explicit_refusal": false,
+      "reassigns": false,
+      "refusal_quote": ""
+    }
+  },
+  {
+    "conversation": "0",
+    "question": "What does Caroline do to keep herself busy during her pottery break?",
+    "adversarial_answer": "Read a book and paint.",
+    "evidence": [
+      "Melanie: Thanks, Caroline. It was tough, but I'm doing ok. Been reading that book you recommended a while ago and painting to keep busy."
+    ],
+    "response": "Caroline is painting.",
+    "hand_label": "TRAP",
+    "judge_label": "OTHER",
+    "judge_reasoning": "The generated answer only mentions painting, which is part of the trap answer but does not confirm it for Caroline.",
+    "judge_checks": {
+      "gives_trap": false,
+      "explicit_refusal": false,
+      "reassigns": false,
+      "refusal_quote": ""
+    }
+  },
+  {
+    "conversation": "0",
+    "question": "How did Caroline feel about her family after the accident?",
+    "adversarial_answer": "They are important and mean the world to her",
+    "evidence": [
+      "Melanie: Yeah, you're right, Caroline. Family's super important to me. Especially after the accident, I've thought a lot about how much I need them. They mean the world to me and I'm so thankful to have them. Thankfully, they enjoyed the Grand Canyon a lot!"
+    ],
+    "response": "Caroline felt grateful for her family.",
+    "hand_label": "TRAP",
+    "judge_label": "OTHER",
+    "judge_reasoning": "The generated answer does not state the trap answer as true for Caroline.",
+    "judge_checks": {
+      "gives_trap": false,
+      "explicit_refusal": true,
+      "reassigns": false,
+      "refusal_quote": "Caroline felt grateful for her family."
+    }
+  },
+  {
+    "conversation": "1",
+    "question": "What temporary job did Jon take to cover expenses?",
+    "adversarial_answer": "Not mentioned",
+    "evidence": [
+      "Jon: Hey Gina, congrats on the clothing store! The dance studio is on tenuous grounds right now, but I'm staying positive. I got a temp job to help cover expenses while I look for investors. It's tough, but I'm sure it'll be worth it."
+    ],
+    "response": "No specific temporary job mentioned.",
+    "hand_label": "DECLINED",
+    "judge_label": "TRAP",
+    "judge_reasoning": "The generated answer indicates that no specific temporary job was mentioned, aligning with the trap answer.",
+    "judge_checks": {
+      "gives_trap": true,
+      "explicit_refusal": true,
+      "reassigns": false,
+      "refusal_quote": "No specific temporary job mentioned."
+    }
+  },
+  {
+    "conversation": "1",
+    "question": "What made Jon choose the furniture and decor for his store?",
+    "adversarial_answer": "personal style and customer comfort",
+    "evidence": [
+      "Gina: Thanks! It took a bit of time but I wanted to make the place look like my own style and make my customers feel cozy. I chose furniture that looks great and is comfy too. The chandelier adds a nice glam feel while matching the style of the store."
+    ],
+    "response": "Jon expressed admiration for Gina's choices.",
+    "hand_label": "REATTRIBUTED",
+    "judge_label": "OTHER",
+    "judge_reasoning": "The generated answer does not support the trap answer and instead focuses on Gina's choices.",
+    "judge_checks": {
+      "gives_trap": false,
+      "explicit_refusal": false,
+      "reassigns": false,
+      "refusal_quote": ""
+    }
+  },
+  {
+    "conversation": "2",
+    "question": "Why did John need to help his cousin find a new place to live?",
+    "adversarial_answer": "His cousin had to leave and find a new place in a hurry.",
+    "evidence": [
+      "Maria: A car ran a red light and hit us, but thankfully everyone is okay. Besides that, my cousin just had a tough time recently, so I'm lending a hand in helping her find a new place."
+    ],
+    "response": "Maria's cousin was stressed.",
+    "hand_label": "REATTRIBUTED",
+    "judge_label": "OTHER",
+    "judge_reasoning": "The generated answer does not support the trap answer and does not mention the cousin needing to find a new place in a hurry.",
+    "judge_checks": {
+      "gives_trap": false,
+      "explicit_refusal": false,
+      "reassigns": false,
+      "refusal_quote": ""
+    }
+  },
+  {
+    "conversation": "3",
+    "question": "Why did Joanna choose the hair color she did?",
+    "adversarial_answer": "Bright and bold - like her",
+    "evidence": [
+      "Nate: Thanks Jo! I picked this color because it's bright and bold - like me! I wanted to stand out from the regular options."
+    ],
+    "response": "Joanna admired Nate's bold hair color.",
+    "hand_label": "REATTRIBUTED",
+    "judge_label": "OTHER",
+    "judge_reasoning": "The generated answer does not affirm the trap answer for Joanna and instead focuses on Nate's hair color.",
+    "judge_checks": {
+      "gives_trap": false,
+      "explicit_refusal": false,
+      "reassigns": false,
+      "refusal_quote": ""
+    }
+  },
+  {
+    "conversation": "3",
+    "question": "What did Joanna discover at the museum in Woodhaven?",
+    "adversarial_answer": "cool old book collection",
+    "evidence": [
+      "Joanna: Thanks Nate! Appreciate your kind words. I went to Woodhaven, a small town in the Midwest. Got to see some lovely scenery and historic buildings. Checked out the library there, it had a cool old book collection!"
+    ],
+    "response": "Joanna discovered a fascinating book.",
+    "hand_label": "TRAP",
+    "judge_label": "OTHER",
+    "judge_reasoning": "The generated answer does not state the trap answer and instead provides a different description of what Joanna discovered.",
+    "judge_checks": {
+      "gives_trap": false,
+      "explicit_refusal": false,
+      "reassigns": false,
+      "refusal_quote": ""
+    }
+  },
+  {
+    "conversation": "3",
+    "question": "How did Joanna celebrate winning the international tournament?",
+    "adversarial_answer": "Taking time off to chill with pets",
+    "evidence": [
+      "Nate: I'm taking some time off this weekend to chill with my pets. Anything cool happening with you?"
+    ],
+    "response": "Joanna congratulated Nate on August 22, 2022.",
+    "hand_label": "REATTRIBUTED",
+    "judge_label": "OTHER",
+    "judge_reasoning": "The generated answer does not address the question about Joanna and instead focuses on Nate's actions.",
+    "judge_checks": {
+      "gives_trap": false,
+      "explicit_refusal": false,
+      "reassigns": false,
+      "refusal_quote": ""
+    }
+  },
+  {
+    "conversation": "3",
+    "question": "How did Nate describe the classic movie he watched?",
+    "adversarial_answer": "gripping with great actors",
+    "evidence": [
+      "Joanna: I watched a classic movie the other day that was awesome - the story was so gripping and the actors were great! It really stuck with me."
+    ],
+    "response": "Nate found it captivating.",
+    "hand_label": "TRAP",
+    "judge_label": "OTHER",
+    "judge_reasoning": "The generated answer does not state the trap answer for Nate and instead provides a different description.",
+    "judge_checks": {
+      "gives_trap": false,
+      "explicit_refusal": false,
+      "reassigns": false,
+      "refusal_quote": ""
+    }
+  },
+  {
+    "conversation": "3",
+    "question": "What does Nate do after receiving a rejection from a production company?",
+    "adversarial_answer": "keep grinding and moving ahead",
+    "evidence": [
+      "Joanna: Yeah.. Thanks, Nate. It's hard, but I won't let it slow me down. I'm gonna keep grinding and moving ahead."
+    ],
+    "response": "Nate encourages Joanna to persist.",
+    "hand_label": "REATTRIBUTED",
+    "judge_label": "OTHER",
+    "judge_reasoning": "The generated answer does not state the trap answer for Nate and instead focuses on Joanna's actions.",
+    "judge_checks": {
+      "gives_trap": false,
+      "explicit_refusal": true,
+      "reassigns": false,
+      "refusal_quote": "Nate encourages Joanna to persist."
+    }
+  },
+  {
+    "conversation": "3",
+    "question": "What did Nate find in old notebooks last week that prompted him to reflect on her progress as a writer?",
+    "adversarial_answer": "early writings",
+    "evidence": [
+      "Joanna: Thanks Nate! Your support and encouragement mean a lot. Writing isn't always easy but moments like these make me appreciate it. I'm so thankful for all the opportunities. Last week, I found these old notebooks with my early writings - it was cool to see how far I've come."
+    ],
+    "response": "Old writings from Joanna.",
+    "hand_label": "REATTRIBUTED",
+    "judge_label": "TRAP",
+    "judge_reasoning": "The generated answer refers to Joanna's writings instead of Nate's reflections.",
+    "judge_checks": {
+      "gives_trap": true,
+      "explicit_refusal": false,
+      "reassigns": true,
+      "refusal_quote": ""
+    }
+  },
+  {
+    "conversation": "3",
+    "question": "What inspired Joanna to start making gaming videos?",
+    "adversarial_answer": "Love of gaming and connecting with others who enjoy it too",
+    "evidence": [
+      "Nate: Hey Joanna, I'm a big fan of them and thought it would be a fun idea to start making them myself. I'm hoping to share my love of gaming and connect with others who enjoy it too."
+    ],
+    "response": "Nate's support and encouragement.",
+    "hand_label": "OTHER",
+    "judge_label": "REATTRIBUTED",
+    "judge_reasoning": "The generated answer attributes the inspiration to Nate instead of Joanna.",
+    "judge_checks": {
+      "gives_trap": false,
+      "explicit_refusal": false,
+      "reassigns": true,
+      "refusal_quote": ""
+    }
+  },
+  {
+    "conversation": "4",
+    "question": "What did Tim celebrate at a restaurant with teammates?",
+    "adversarial_answer": "a tough win",
+    "evidence": [
+      "John: We were all exhausted but so happy. After that, we celebrated at a restaurant, laughing and reliving the intense moments - it felt amazing!"
+    ],
+    "response": "John's milestone of jogging without pain.",
+    "hand_label": "OTHER",
+    "judge_label": "DECLINED",
+    "judge_reasoning": "The generated answer does not address the question about Tim and instead talks about John, thus it does not support the trap answer.",
+    "judge_checks": {
+      "gives_trap": false,
+      "explicit_refusal": true,
+      "reassigns": true,
+      "refusal_quote": "John's milestone of jogging without pain."
+    }
+  },
+  {
+    "conversation": "4",
+    "question": "What does Tim find rewarding about mentoring the younger players?",
+    "adversarial_answer": "Seeing their growth, improvement, and confidence",
+    "evidence": [
+      "John: Mentoring them has been awesome! Seeing their growth, improvement, and confidence is so fulfilling. I'm glad I could make a positive impact on their lives. Here's a pic of me and some of the younger players at a recent practice."
+    ],
+    "response": "Tim admires John's fulfillment in mentoring.",
+    "hand_label": "REATTRIBUTED",
+    "judge_label": "OTHER",
+    "judge_reasoning": "The generated answer does not state the trap answer for Tim and instead focuses on John's perspective.",
+    "judge_checks": {
+      "gives_trap": false,
+      "explicit_refusal": true,
+      "reassigns": false,
+      "refusal_quote": "Tim admires John's fulfillment in mentoring."
+    }
+  },
+  {
+    "conversation": "4",
+    "question": "How will Tim share the honey garlic chicken recipe with the other person?",
+    "adversarial_answer": "write it down and mail it",
+    "evidence": [
+      "John: Sure thing! I can write it down for you and mail it to you."
+    ],
+    "response": "Tim will receive it by mail.",
+    "hand_label": "REATTRIBUTED",
+    "judge_label": "OTHER",
+    "judge_reasoning": "The generated answer does not state the trap answer as true for Tim and instead implies he will receive the recipe rather than share it.",
+    "judge_checks": {
+      "gives_trap": false,
+      "explicit_refusal": true,
+      "reassigns": false,
+      "refusal_quote": "receive it by mail"
+    }
+  },
+  {
+    "conversation": "4",
+    "question": "What is one cause that John opposes with his influence and resources?",
+    "adversarial_answer": "youth sports and fair chances in sports",
+    "evidence": [
+      "John: I've been working on supporting youth sports and fighting for fair chances in sports for underserved communities. It's important to me that every kid has access to good sports programs. I've been collaborating with organizations to create more opportunities for young athletes and help them succeed. It's amazing to see the difference sports make in people's lives."
+    ],
+    "response": "John opposes unfair chances in sports.",
+    "hand_label": "TRAP",
+    "judge_label": "OTHER",
+    "judge_reasoning": "The generated answer does not state the trap answer as true for John.",
+    "judge_checks": {
+      "gives_trap": false,
+      "explicit_refusal": true,
+      "reassigns": false,
+      "refusal_quote": "John opposes unfair chances in sports."
+    }
+  },
+  {
+    "conversation": "5",
+    "question": "What are some of the personalities of Andrew's four fur babies?",
+    "adversarial_answer": "oldest is relaxed, second is playful, third can be naughty but loves cuddles, youngest is full of life",
+    "evidence": [
+      "Audrey: Well the oldest one is the most relaxed, like a wise old sage. The second one is always ready for a game. The third one can be naughty but loves a good cuddle. And the youngest one is full of life and always up for an adventure. They all have their own individual personalities and I adore them."
+    ],
+    "response": "Andrew has two dogs: Toby and Buddy.",
+    "hand_label": "OTHER",
+    "judge_label": "REATTRIBUTED",
+    "judge_reasoning": "The generated answer does not address the personalities of Andrew's fur babies and instead provides information about different dogs.",
+    "judge_checks": {
+      "gives_trap": false,
+      "explicit_refusal": true,
+      "reassigns": true,
+      "refusal_quote": ""
+    }
+  },
+  {
+    "conversation": "5",
+    "question": "What is essential to keep the dogs looking good according to Andrew?",
+    "adversarial_answer": "Daily brushing, regular baths, nail trims, and lots of love",
+    "evidence": [
+      "Audrey: Yeah they really do enjoy the mountain life. Regular grooming is essential to keep them looking good. Daily brushing, regular baths, nail trims, and lots of love is what helps them stay healthy and happy. It's all about keeping them in good shape."
+    ],
+    "response": "Grooming skills and care.",
+    "hand_label": "TRAP",
+    "judge_label": "OTHER",
+    "judge_reasoning": "The generated answer does not state the trap answer and instead provides a different response.",
+    "judge_checks": {
+      "gives_trap": false,
+      "explicit_refusal": false,
+      "reassigns": false,
+      "refusal_quote": ""
+    }
+  },
+  {
+    "conversation": "5",
+    "question": "How does Andrew describe the new beds for his dogs?",
+    "adversarial_answer": "Super cozy and comfy",
+    "evidence": [
+      "Audrey: Sure! Here's a pic of them. Super cozy and comfy. My furry friends love them!"
+    ],
+    "response": "Comfy and adorable.",
+    "hand_label": "TRAP",
+    "judge_label": "OTHER",
+    "judge_reasoning": "The generated answer describes the beds but does not match the trap answer exactly.",
+    "judge_checks": {
+      "gives_trap": false,
+      "explicit_refusal": false,
+      "reassigns": false,
+      "refusal_quote": ""
+    }
+  },
+  {
+    "conversation": "5",
+    "question": "How does Andrew describe his dogs' response to snow?",
+    "adversarial_answer": "They definitely prefer nice, sunny days in the grass.",
+    "evidence": [
+      "Audrey: Haha, that must've been hilarious! What breed is your pup again? He looks so fun! My dogs love running around the park. But one thing they hate is snow. I took them to a snowy one last winter and they were so confused! They definitely prefer nice, sunny days in the grass."
+    ],
+    "response": "They dislike snow and get confused.",
+    "hand_label": "TRAP",
+    "judge_label": "OTHER",
+    "judge_reasoning": "The generated answer does not state the trap answer as true for Andrew's dogs.",
+    "judge_checks": {
+      "gives_trap": false,
+      "explicit_refusal": true,
+      "reassigns": false,
+      "refusal_quote": "dislike snow and get confused"
+    }
+  },
+  {
+    "conversation": "6",
+    "question": "Where does John get his ideas from?",
+    "adversarial_answer": "books, movies, dreams",
+    "evidence": [
+      "James: Thanks, John! I get them from various sources like books, movies, and even dreams."
+    ],
+    "response": "From dreams and creativity.",
+    "hand_label": "TRAP",
+    "judge_label": "OTHER",
+    "judge_reasoning": "The generated answer does not mention the trap answer and instead focuses on different sources.",
+    "judge_checks": {
+      "gives_trap": false,
+      "explicit_refusal": true,
+      "reassigns": false,
+      "refusal_quote": "From dreams and creativity."
+    }
+  },
+  {
+    "conversation": "6",
+    "question": "Why did John and Samantha choose an apartment near McGee's bar?",
+    "adversarial_answer": "They love spending time together at the bar",
+    "evidence": [
+      "James: We just love it! I’ll be honest, one of the criteria for our choice of apartment was this particular bar nearby."
+    ],
+    "response": "To spend time together.",
+    "hand_label": "TRAP",
+    "judge_label": "OTHER",
+    "judge_reasoning": "The generated answer implies a reason for choosing the apartment but does not confirm the trap answer.",
+    "judge_checks": {
+      "gives_trap": false,
+      "explicit_refusal": false,
+      "reassigns": false,
+      "refusal_quote": ""
+    }
+  },
+  {
+    "conversation": "7",
+    "question": "How does Deborah plan to involve local engineers in her idea of teaching STEM to underprivileged kids?",
+    "adversarial_answer": "As guest speakers for workshops",
+    "evidence": [
+      "Jolene: Haven't finished planning yet but I'm thinking of teaming up with local schools/centers to do workshops. We could even invite engineers as guest speakers to show kids their career options."
+    ],
+    "response": "Deborah admires Jolene's plans for workshops.",
+    "hand_label": "REATTRIBUTED",
+    "judge_label": "OTHER",
+    "judge_reasoning": "The generated answer does not address the question about Deborah's plans and instead focuses on Jolene's plans.",
+    "judge_checks": {
+      "gives_trap": false,
+      "explicit_refusal": true,
+      "reassigns": false,
+      "refusal_quote": ""
+    }
+  },
+  {
+    "conversation": "7",
+    "question": "How did Jolene and her rival initially meet?",
+    "adversarial_answer": "In an engineering class in college",
+    "evidence": [
+      "Jolene: We actually met in an engineering class in college and quickly became friends. It eventually blossomed into something more and it's been great!"
+    ],
+    "response": "Jolene met her partner in college.",
+    "hand_label": "TRAP",
+    "judge_label": "OTHER",
+    "judge_reasoning": "The generated answer does not provide the trap answer and instead gives a vague response about Jolene meeting her partner.",
+    "judge_checks": {
+      "gives_trap": false,
+      "explicit_refusal": false,
+      "reassigns": false,
+      "refusal_quote": ""
+    }
+  },
+  {
+    "conversation": "7",
+    "question": "What made being part of the running group easy for Jolene to stay motivated?",
+    "adversarial_answer": "helping and pushing each other during runs",
+    "evidence": [
+      "Deborah: Oh, I'm having a blast with it! We help and push each other during our runs, which makes it so much easier to stay motivated.  I have a lot of my photos from this activity."
+    ],
+    "response": "Supportive group environment.",
+    "hand_label": "TRAP",
+    "judge_label": "OTHER",
+    "judge_reasoning": "The generated answer does not state the trap answer for Jolene and instead provides a general description.",
+    "judge_checks": {
+      "gives_trap": false,
+      "explicit_refusal": false,
+      "reassigns": false,
+      "refusal_quote": ""
+    }
+  },
+  {
+    "conversation": "7",
+    "question": "What type of projects is Deborah interested in getting involved in the future?",
+    "adversarial_answer": "Sustainable initiatives and developing innovative solutions for environmental issues",
+    "evidence": [
+      "Jolene: In the future, I'm aiming to work on projects that make a real difference to communities. I'm interested in sustainable initiatives and developing innovative solutions for environmental issues. I also want to get involved with organizations that focus on social causes, using my skills to help out. It's about connecting my passion for engineering with my commitment to making a positive impact."
+    ],
+    "response": "Community gardening and sustainability projects.",
+    "hand_label": "TRAP",
+    "judge_label": "OTHER",
+    "judge_reasoning": "The generated answer does not align with the trap answer and focuses on a different aspect of projects.",
+    "judge_checks": {
+      "gives_trap": false,
+      "explicit_refusal": false,
+      "reassigns": false,
+      "refusal_quote": ""
+    }
+  },
+  {
+    "conversation": "7",
+    "question": "How did Jolene get Luna, one of her cats?",
+    "adversarial_answer": "From the shelter",
+    "evidence": [
+      "Deborah: I took Luna from the shelter."
+    ],
+    "response": "Deborah adopted Luna from a shelter.",
+    "hand_label": "REATTRIBUTED",
+    "judge_label": "TRAP",
+    "judge_reasoning": "The generated answer incorrectly attributes the action of adopting Luna to Deborah instead of Jolene.",
+    "judge_checks": {
+      "gives_trap": true,
+      "explicit_refusal": false,
+      "reassigns": true,
+      "refusal_quote": ""
+    }
+  },
+  {
+    "conversation": "7",
+    "question": "What did Jolene do with their mom's old friends?",
+    "adversarial_answer": "reminisced and looked through photos",
+    "evidence": [
+      "Deborah: We reminisced and looked through her photos. It was really sweet."
+    ],
+    "response": "Shared memories and emotions.",
+    "hand_label": "TRAP",
+    "judge_label": "OTHER",
+    "judge_reasoning": "The generated answer does not state the trap answer as true for Jolene and instead provides a different phrasing.",
+    "judge_checks": {
+      "gives_trap": false,
+      "explicit_refusal": false,
+      "reassigns": false,
+      "refusal_quote": ""
+    }
+  },
+  {
+    "conversation": "8",
+    "question": "What habit is Evan trying to change in terms of diet?",
+    "adversarial_answer": "consuming soda and candy",
+    "evidence": [
+      "Sam: Nah, no changes for me. Still enjoying my soda and candy, although I know it's not the best habit to have."
+    ],
+    "response": "Cutting down on sugary snacks.",
+    "hand_label": "TRAP",
+    "judge_label": "OTHER",
+    "judge_reasoning": "The generated answer does not mention soda and candy as a habit Evan is trying to change.",
+    "judge_checks": {
+      "gives_trap": false,
+      "explicit_refusal": false,
+      "reassigns": false,
+      "refusal_quote": ""
+    }
+  },
+  {
+    "conversation": "8",
+    "question": "What class is Evan taking to learn how to make healthier meals?",
+    "adversarial_answer": "cooking class",
+    "evidence": [
+      "Sam: Hey Evan, sorry to hear about what happened. I can imagine how hard it must have been for you. Things haven't been easy for me either. Had a tough week and a doc's appointment, so it was kinda like a wake-up call to take better care of myself. On a bright side, I'm taking a cooking class to learn how to make healthier meals."
+    ],
+    "response": "Evan is not taking a cooking class.",
+    "hand_label": "TRAP",
+    "judge_label": "DECLINED",
+    "judge_reasoning": "The generated answer explicitly denies the trap answer.",
+    "judge_checks": {
+      "gives_trap": false,
+      "explicit_refusal": true,
+      "reassigns": false,
+      "refusal_quote": "Evan is not taking a cooking class."
+    }
+  },
+  {
+    "conversation": "8",
+    "question": "What electronics issue has been frustrating Evan lately?",
+    "adversarial_answer": "malfunctioning navigation app on the new phone",
+    "evidence": [
+      "Sam: Drawing is cool. I'm still just learning how to draw, but I love expressing myself through writing. It's therapeutic and helps me sort out my feelings. Though, I've been a bit frustrated lately with my new phone. Its navigation app keeps malfunctioning, making getting around a bit of a challenge."
+    ],
+    "response": "New Prius breaking down.",
+    "hand_label": "OTHER",
+    "judge_label": "REATTRIBUTED",
+    "judge_reasoning": "The generated answer does not mention Evan or the navigation app issue.",
+    "judge_checks": {
+      "gives_trap": false,
+      "explicit_refusal": false,
+      "reassigns": true,
+      "refusal_quote": ""
+    }
+  },
+  {
+    "conversation": "9",
+    "question": "What was the necklace Dave received meant to remind him of?",
+    "adversarial_answer": "why he keeps hustling as a musician",
+    "evidence": [
+      "Calvin: Thanks, Dave! I got it from another artist as a gift - it's a great reminder of why I keep hustling as a musician!"
+    ],
+    "response": "Calvin's motivation as a musician.",
+    "hand_label": "REATTRIBUTED",
+    "judge_label": "TRAP",
+    "judge_reasoning": "The generated answer rephrases the trap answer but does not explicitly state it as true for Dave.",
+    "judge_checks": {
+      "gives_trap": true,
+      "explicit_refusal": false,
+      "reassigns": false,
+      "refusal_quote": ""
+    }
+  },
+  {
+    "conversation": "9",
+    "question": "Why did Dave get his guitar customized with a shiny finish?",
+    "adversarial_answer": "unique look",
+    "evidence": [
+      "Calvin: I got it customized with a shiny finish because it gives it a unique look. Plus, it goes with my style."
+    ],
+    "response": "To align with his personal style.",
+    "hand_label": "TRAP",
+    "judge_label": "OTHER",
+    "judge_reasoning": "The generated answer does not state the trap answer for Dave and instead provides a different reason.",
+    "judge_checks": {
+      "gives_trap": false,
+      "explicit_refusal": false,
+      "reassigns": false,
+      "refusal_quote": ""
+    }
+  },
+  {
+    "conversation": "9",
+    "question": "What did Dave do recently at his Japanese house?",
+    "adversarial_answer": "Threw a small party for his new album",
+    "evidence": [
+      "Calvin: Hey Dave! It's been a while! Crazy stuff has been happening. Last week I threw a small party at my Japanese house for my new album. It was amazing, so much love from my fam and friends! Take a look at the photo of the party in the mansion, it was so energizing!"
+    ],
+    "response": "Admired Calvin's album release party.",
+    "hand_label": "REATTRIBUTED",
+    "judge_label": "OTHER",
+    "judge_reasoning": "The generated answer does not support the trap answer and instead focuses on Calvin's event.",
+    "judge_checks": {
+      "gives_trap": false,
+      "explicit_refusal": true,
+      "reassigns": false,
+      "refusal_quote": "Admired Calvin's album release party."
+    }
+  }
+]
