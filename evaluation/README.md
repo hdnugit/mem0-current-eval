@@ -270,6 +270,21 @@ make stats-mem0-abstain-soft
 
 Outputs: the same three files as above with `mem0_abstain_soft_` in the name.
 
+Results (job 35395858, 2026-11-19, commit ed82fe7, gpt-4o-mini answers, J over 10 judge runs):
+
+| Category | n | Base J | Strict J | Soft J | Soft F1 | Soft B1 | Soft abstained |
+|---|---|---|---|---|---|---|---|
+| Single Hop | 841 | 85.21 | 69.58 | 76.21 | 48.91 | 41.24 | 14.6% |
+| Multi-Hop | 282 | 66.67 | 47.70 | 59.47 | 32.39 | 23.11 | 20.2% |
+| Open Domain | 96 | 53.33 | 16.98 | 26.35 | 13.66 | 9.40 | 61.5% |
+| Temporal | 321 | 80.00 | 58.88 | 69.10 | 54.96 | 46.85 | 19.3% |
+| Overall | 1540 | 78.74 | 60.06 | 68.55 | 44.95 | 37.10 | 19.5% |
+| Adversarial (judge: correct) | 446 | 37.7% | 89.0% | 82.5% | | | 82.7% |
+
+The soft prompt recovers 8.5 of the 18.7 points of overall J that the strict prompt lost, for 6.5
+points of adversarial accuracy. It still declines 301 answerable questions (19.5%), 59 of them in
+Open Domain (61.5%). Adversarial labels: DECLINED 368, TRAP 48, OTHER 30.
+
 ### 📈 Generating Scores
 
 Generate final scores with:
