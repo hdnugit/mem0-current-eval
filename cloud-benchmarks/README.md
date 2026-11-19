@@ -6,7 +6,12 @@ README ("Option A: Mem0 Cloud"). This is separate from `../evaluation/`, which r
 paper's Table 1 with the open-source Memory class.
 
 Decisions (2026-11-19):
-- LOCOMO only (no LongMemEval/BEAM, no other baselines), categories 1-4 as in Table 1.
+- LOCOMO only (no LongMemEval/BEAM, no other baselines).
+- Questions: open-domain (category 3, 96 questions) plus all 446 adversarial (category 5) = 542 searches.
+  Reason: the Mem0 free plan allows 1,000 retrieval requests/month (10,000 adds), and all of
+  categories 1-4 would need 1,540 (multi-hop 282, temporal 321, open-domain 96, single-hop 841).
+  All 10 conversations are still ingested (about 5,900 adds). Other categories can be added later
+  with `sbatch run_locomo_cloud.slurm locomo-cloud --resume --categories 1,3` once quota allows.
 - Top 50 memories only (`--top-k 50 --top-k-cutoffs 50`); the suite's default is 200 with cutoffs 10/20/50/200.
 - Answerer and judge are the suite's code default, `gpt-5` (its README says `gpt-4o`).
 - The suite reports the LLM-judge score (J) only, not F1/B1.
@@ -14,11 +19,11 @@ Decisions (2026-11-19):
 Keys: `MEM0_API_KEY` and `OPENAI_API_KEY` in `../../mem0/evaluation/.env` (gitignored, not in this repo).
 The run writes the LOCOMO conversations into that Mem0 account as memories.
 
-## Main run (categories 1-4)
+## Main run (category 3)
 
 ```bash
 sbatch run_locomo_cloud.slurm smoke --conversations 0 --max-questions 20   # quick test
-sbatch run_locomo_cloud.slurm                                              # full run, project "locomo-cloud"
+sbatch run_locomo_cloud.slurm                                              # category 3, project "locomo-cloud"
 sbatch run_locomo_cloud.slurm locomo-cloud --resume                        # continue a stopped run
 ```
 
@@ -51,5 +56,6 @@ resumed: delete its `predicted_<project-name>/` folder and start again. After a 
 for `Ingestion failed` (should be 0).
 
 Status 2026-11-19: first job (35393360) failed on every add for the reason above and was cancelled;
-its output was deleted. Full run resubmitted as job 35393380 (project `locomo-cloud`), ingesting
-without failures at the time of writing. Adversarial step not yet run.
+its output was deleted. Job 35393380 (categories 1-4) ingested about 10% and was stopped cleanly
+(SIGINT, no failures, no searches) to switch to category 3 only. Job 35393456 resumed ingestion from
+its checkpoints and is running at the time of writing. Adversarial step not yet run.

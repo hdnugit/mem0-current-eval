@@ -6,7 +6,7 @@
 # (MEM0_API_KEY and OPENAI_API_KEY).
 #
 # Submit from this folder:
-#   sbatch run_locomo_cloud.slurm                       # full run: LOCOMO Table 1 categories (1-4), top 50 memories only
+#   sbatch run_locomo_cloud.slurm                       # full run: open-domain (category 3) only, top 50 memories; see README for why
 #   sbatch run_locomo_cloud.slurm smoke --conversations 0 --max-questions 20
 #   sbatch run_locomo_cloud.slurm <project-name> --resume   # continue a stopped run
 # First argument = project name (default: locomo-cloud); the rest is passed to
@@ -53,6 +53,6 @@ echo "Host: $(hostname)   memory-benchmarks commit: $(git rev-parse --short HEAD
     --backend cloud \
     --output-dir "$HERE/results/locomo" \
     --top-k 50 --top-k-cutoffs 50 \
-    --categories 1,2,3,4 \
+    --categories 3 \
     "$@"
 echo "Finished: $(date)"
