@@ -233,6 +233,21 @@ the Table 1 scores show what the instruction costs and the adversarial judge sho
 gains. The hand labels in `adversarial_hand_labels.json` belong to the base run's answers
 and do not apply to this baseline.
 
+Results (job 35394022, 2026-11-19, gpt-4o-mini answers, J over 10 judge runs; base = same
+retrievals with the normal prompt):
+
+| Category | n | Base F1 | Base B1 | Base J | Abstain F1 | Abstain B1 | Abstain J | Abstained |
+|---|---|---|---|---|---|---|---|---|
+| Single Hop | 841 | 54.93 | 45.01 | 85.21 | 46.23 | 40.29 | 69.58 | 22.9% |
+| Multi-Hop | 282 | 36.59 | 25.27 | 66.67 | 26.30 | 18.61 | 47.70 | 39.7% |
+| Open Domain | 96 | 27.27 | 20.03 | 53.33 | 8.68 | 6.79 | 16.98 | 80.2% |
+| Temporal | 321 | 62.01 | 51.73 | 80.00 | 48.13 | 41.60 | 58.88 | 32.7% |
+| Overall | 1540 | 51.32 | 41.24 | 78.74 | 40.63 | 34.50 | 60.06 | 31.6% |
+| Adversarial (judge: correct) | 446 | | | 37.7% | | | 89.0% | 89.5% |
+
+The prompt lifts adversarial accuracy from 37.7% to 89.0% but declines 487 of the 1,540
+answerable questions, costing 18.7 points of overall J (36 points in Open Domain).
+
 ### 📈 Generating Scores
 
 Generate final scores with:
