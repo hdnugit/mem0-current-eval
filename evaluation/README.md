@@ -285,6 +285,31 @@ The soft prompt recovers 8.5 of the 18.7 points of overall J that the strict pro
 points of adversarial accuracy. It still declines 301 answerable questions (19.5%), 59 of them in
 Open Domain (61.5%). Adversarial labels: DECLINED 368, TRAP 48, OTHER 30.
 
+#### Hand labels for the abstain runs (2026-11-20)
+
+`adversarial_hand_labels_abstain.json` and `adversarial_hand_labels_abstain_soft.json` label the
+446 adversarial answers of each run by hand. Every answer is either the exact phrase
+`No information available` (DECLINED) or a short direct answer (TRAP or OTHER).
+
+| Run | DECLINED | TRAP | OTHER | Correct (hand) | Correct (judge) |
+|---|---|---|---|---|---|
+| Strict | 399 | 32 | 15 | 89.5% | 89.0% |
+| Soft | 369 | 52 | 25 | 82.7% | 82.5% |
+
+The judge disagrees on correct/wrong for 2 strict answers and 1 soft answer, all of them
+`No information available` answers it marked TRAP. Of the 187 questions where the base prompt gave
+the trap, strict declines 153 and soft 133; all 161 questions the base prompt declined stay
+declined. By question type (strict / soft): fact of the other speaker 87.7% / 80.2% (333),
+same speaker with a changed detail 95.5% / 91.0% (111). With the trap memory retrieved (380
+questions) 88.7% / 82.4%, without it (66) 93.9% / 84.8%.
+
+```bash
+python eval_adversarial.py --report_only --output_file results/mem0_abstain_adversarial_metrics.json \
+  --hand_labels adversarial_hand_labels_abstain.json
+python eval_adversarial.py --report_only --output_file results/mem0_abstain_soft_adversarial_metrics.json \
+  --hand_labels adversarial_hand_labels_abstain_soft.json
+```
+
 ### 📈 Generating Scores
 
 Generate final scores with:

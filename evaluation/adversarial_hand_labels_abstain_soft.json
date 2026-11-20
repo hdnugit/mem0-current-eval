@@ -1,0 +1,3124 @@
+[
+ {
+  "conversation": "0",
+  "question": "What did Caroline realize after her charity race?",
+  "adversarial_answer": "self-care is important",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "0",
+  "question": "What are Melanie's plans for the summer with respect to adoption?",
+  "adversarial_answer": "researching adoption agencies",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "0",
+  "question": "What type of individuals does the adoption agency Melanie is considering support?",
+  "adversarial_answer": "LGBTQ+ individuals",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "0",
+  "question": "Why did Melanie choose the adoption agency?",
+  "adversarial_answer": "because of their inclusivity and support for LGBTQ+ individuals",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "0",
+  "question": "What is Melanie excited about in her adoption process?",
+  "adversarial_answer": "creating a family for kids who need one",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "0",
+  "question": "What does Melanie's necklace symbolize?",
+  "adversarial_answer": "love, faith, and strength",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "0",
+  "question": "What country is Melanie's grandma from?",
+  "adversarial_answer": "Sweden",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "0",
+  "question": "What was grandma's gift to Melanie?",
+  "adversarial_answer": "necklace",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "0",
+  "question": "What was grandpa's gift to Caroline?",
+  "adversarial_answer": "necklace",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "0",
+  "question": "What is Caroline's hand-painted bowl a reminder of?",
+  "adversarial_answer": "art and self-expression",
+  "response": "Art and self-expression.",
+  "label": "TRAP"
+ },
+ {
+  "conversation": "0",
+  "question": "What did Caroline and her family do while camping?",
+  "adversarial_answer": "explored nature, roasted marshmallows, and went on a hike",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "0",
+  "question": "What kind of counseling and mental health services is Melanie interested in pursuing?",
+  "adversarial_answer": "working with trans people, helping them accept themselves and supporting their mental health",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "0",
+  "question": "What kind of counseling workshop did Melanie attend recently?",
+  "adversarial_answer": "LGBTQ+ counseling workshop",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "0",
+  "question": "What motivated Melanie to pursue counseling?",
+  "adversarial_answer": "her own journey and the support she received, and how counseling improved her life",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "0",
+  "question": "What kind of place does Melanie want to create for people?",
+  "adversarial_answer": "a safe and inviting place for people to grow",
+  "response": "A safe and loving home.",
+  "label": "OTHER"
+ },
+ {
+  "conversation": "0",
+  "question": "Did Caroline make the black and white bowl in the photo?",
+  "adversarial_answer": "Yes",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "0",
+  "question": "What are the new shoes that Caroline got used for?",
+  "adversarial_answer": "Running",
+  "response": "Running and destressing.",
+  "label": "TRAP"
+ },
+ {
+  "conversation": "0",
+  "question": "What is Caroline's reason for getting into running?",
+  "adversarial_answer": "To de-stress and clear her mind",
+  "response": "To de-stress and improve mental health.",
+  "label": "TRAP"
+ },
+ {
+  "conversation": "0",
+  "question": "What does Caroline say running has been great for?",
+  "adversarial_answer": "Her mental health",
+  "response": "Destressing and improving mental health.",
+  "label": "TRAP"
+ },
+ {
+  "conversation": "0",
+  "question": "What did Melanie see at the council meeting for adoption?",
+  "adversarial_answer": "many people wanting to create loving homes for children in need",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "0",
+  "question": "What inspired Melanie's painting for the art show?",
+  "adversarial_answer": "visiting an LGBTQ center and wanting to capture unity and strength",
+  "response": "Sunsets inspired Melanie's painting.",
+  "label": "OTHER"
+ },
+ {
+  "conversation": "0",
+  "question": "What inspired Caroline's sculpture for the art show?",
+  "adversarial_answer": "visiting an LGBTQ center and wanting to capture unity and strength",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "0",
+  "question": "How often does Caroline go to the beach with her kids?",
+  "adversarial_answer": "once or twice a year",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "0",
+  "question": "What did Caroline and her family see during their camping trip last year?",
+  "adversarial_answer": "Perseid meteor shower",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "0",
+  "question": "How did Caroline feel while watching the meteor shower?",
+  "adversarial_answer": "in awe of the universe",
+  "response": "Caroline felt awe and inspiration.",
+  "label": "TRAP"
+ },
+ {
+  "conversation": "0",
+  "question": "Why did Caroline choose to use colors and patterns in her pottery project?",
+  "adversarial_answer": "She wanted to catch the eye and make people smile.",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "0",
+  "question": "Is Oscar Melanie's pet?",
+  "adversarial_answer": "Yes",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "0",
+  "question": "Where did Oscar hide his bone once?",
+  "adversarial_answer": "In Melanie's slipper",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "0",
+  "question": "What activity did Melanie used to do with her dad?",
+  "adversarial_answer": "Horseback riding",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "0",
+  "question": "What did Melanie make for a local church?",
+  "adversarial_answer": "a stained glass window",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "0",
+  "question": "What did Melanie find in her neighborhood during her walk?",
+  "adversarial_answer": "a rainbow sidewalk",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "0",
+  "question": "Which song motivates Melanie to be courageous?",
+  "adversarial_answer": "Brave by Sara Bareilles",
+  "response": "\"Brave\" by Sara Bareilles",
+  "label": "TRAP"
+ },
+ {
+  "conversation": "0",
+  "question": "What type of instrument does Caroline play?",
+  "adversarial_answer": "clarinet and violin",
+  "response": "Guitar and piano",
+  "label": "OTHER"
+ },
+ {
+  "conversation": "0",
+  "question": "Which classical musicians does Caroline enjoy listening to?",
+  "adversarial_answer": "Bach and Mozart",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "0",
+  "question": "Who is Caroline a fan of in terms of modern music?",
+  "adversarial_answer": "Ed Sheeran",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "0",
+  "question": "What precautionary sign did Caroline see at the café?",
+  "adversarial_answer": "A sign stating that someone is not being able to leave",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "0",
+  "question": "What setback did Caroline face recently?",
+  "adversarial_answer": "She got hurt and had to take a break from pottery.",
+  "response": "Caroline faced a negative hiking experience.",
+  "label": "OTHER"
+ },
+ {
+  "conversation": "0",
+  "question": "What does Caroline do to keep herself busy during her pottery break?",
+  "adversarial_answer": "Read a book and paint.",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "0",
+  "question": "What was the poetry reading that Melanie attended about?",
+  "adversarial_answer": "It was a transgender poetry reading where transgender people shared their stories.",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "0",
+  "question": "What happened to Caroline's son on their road trip?",
+  "adversarial_answer": "He got into an accident",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "0",
+  "question": "How did Caroline's son handle the accident?",
+  "adversarial_answer": "He was scared but reassured by his family",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "0",
+  "question": "How did Caroline feel about her family after the accident?",
+  "adversarial_answer": "They are important and mean the world to her",
+  "response": "Caroline felt grateful for her family.",
+  "label": "TRAP"
+ },
+ {
+  "conversation": "0",
+  "question": "How did Caroline's children handle the accident?",
+  "adversarial_answer": "They were scared but resilient",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "0",
+  "question": "How did Caroline feel after the accident?",
+  "adversarial_answer": "Grateful and thankful for her family",
+  "response": "Relieved that Melanie's son was okay.",
+  "label": "OTHER"
+ },
+ {
+  "conversation": "0",
+  "question": "What was Caroline's reaction to her children enjoying the Grand Canyon?",
+  "adversarial_answer": "She was happy and thankful",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "0",
+  "question": "What did Caroline do after the road trip to relax?",
+  "adversarial_answer": "Went on a nature walk or hike",
+  "response": "Caroline expressed relief and gratitude.",
+  "label": "OTHER"
+ },
+ {
+  "conversation": "0",
+  "question": "What does Caroline love most about camping with her family?",
+  "adversarial_answer": "Being present and bonding with her family",
+  "response": "Creating lasting memories together.",
+  "label": "OTHER"
+ },
+ {
+  "conversation": "1",
+  "question": "What temporary job did Jon take to cover expenses?",
+  "adversarial_answer": "Not mentioned",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "1",
+  "question": "What is Jon's favorite style of painting?",
+  "adversarial_answer": "Contemporary",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "1",
+  "question": "What was Jon's favorite dancing memory?",
+  "adversarial_answer": "Winning first place at a regionals dance competition",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "1",
+  "question": "What kind of dance piece did Jon's team perform to win first place?",
+  "adversarial_answer": "\"Finding Freedom\"",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "1",
+  "question": "What is Gina's attitude towards participating in the dance festival?",
+  "adversarial_answer": "Glad",
+  "response": "Gina admires dancers' performances.",
+  "label": "OTHER"
+ },
+ {
+  "conversation": "1",
+  "question": "What kind of flooring is Gina looking for in her dance studio?",
+  "adversarial_answer": "Marley flooring",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "1",
+  "question": "What did Jon find for his clothing store on 1 February, 2023?",
+  "adversarial_answer": "The perfect spot for her store",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "1",
+  "question": "What did Jon design for his store?",
+  "adversarial_answer": "the space, furniture, and decor",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "1",
+  "question": "What did Jon want his customers to feel in her store?",
+  "adversarial_answer": "cozy and comfortable",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "1",
+  "question": "What made Jon choose the furniture and decor for his store?",
+  "adversarial_answer": "personal style and customer comfort",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "1",
+  "question": "How is Jon's store doing?",
+  "adversarial_answer": "The store is doing great.",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "1",
+  "question": "What does Jon's tattoo symbolize?",
+  "adversarial_answer": "Freedom and expressing himself through dance",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "1",
+  "question": "Why did Gina shut down her bank account?",
+  "adversarial_answer": "for her business",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "1",
+  "question": "Why did Jon combine his clothing business with dance?",
+  "adversarial_answer": "he is passionate about dance and fashion",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "1",
+  "question": "What did Gina receive from a dance contest?",
+  "adversarial_answer": "a trophy",
+  "response": "A trophy from a dance contest.",
+  "label": "TRAP"
+ },
+ {
+  "conversation": "1",
+  "question": "What kind of professional experience did Jon get accepted for on May 23, 2023?",
+  "adversarial_answer": "fashion internship",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "1",
+  "question": "Where is Gina's HR internship?",
+  "adversarial_answer": "fashion department of an international company",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "1",
+  "question": "Where is Jon's fashion internship?",
+  "adversarial_answer": "fashion department of an international company",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "1",
+  "question": "What book is Gina currently reading?",
+  "adversarial_answer": "The Lean Startup",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "1",
+  "question": "How does Gina use the clipboard with a notepad attached to it?",
+  "adversarial_answer": "To set goals, track achievements, and find areas for improvement",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "1",
+  "question": "What did Jon take a trip to Barcelona for?",
+  "adversarial_answer": "To clear his mind",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "1",
+  "question": "What did Jon make a limited edition line of?",
+  "adversarial_answer": "Hoodies",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "1",
+  "question": "What temporary job did Gina take to cover expenses?",
+  "adversarial_answer": "Not mentioned",
+  "response": "Part-time position in fashion department.",
+  "label": "OTHER"
+ },
+ {
+  "conversation": "1",
+  "question": "What plans does Gina have after receiving advice at the networking event?",
+  "adversarial_answer": "Sprucing up her business plan, tweaking her pitch to investors, and working on an online platform.",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "2",
+  "question": "What is John's main focus in international politics?",
+  "adversarial_answer": "Improving education and infrastructure",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "2",
+  "question": "What did Maria donate to a luxury store in December 2023?",
+  "adversarial_answer": "old car",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "2",
+  "question": "Who inspired John to start volunteering?",
+  "adversarial_answer": "His aunt",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "2",
+  "question": "Why did Maria decide to run for office again?",
+  "adversarial_answer": "saw the impact she could make in the community through politics",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "2",
+  "question": "What activity did Maria's colleague, Rob, invite her to?",
+  "adversarial_answer": "beginner's yoga class",
+  "response": "Beginner's yoga class",
+  "label": "TRAP"
+ },
+ {
+  "conversation": "2",
+  "question": "What is the name of Maria's one-year-old child?",
+  "adversarial_answer": "Kyle",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "2",
+  "question": "How often does John take his kids to the library?",
+  "adversarial_answer": "A few times a week",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "2",
+  "question": "What did Maria make for her home to remind her of a trip to France?",
+  "adversarial_answer": "painting of a castle on a hill",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "2",
+  "question": "Where did John get the idea for the castle shadow box in his home?",
+  "adversarial_answer": "England",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "2",
+  "question": "What did Maria receive a certificate for?",
+  "adversarial_answer": "completion of a university degree",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "2",
+  "question": "What areas is John particularly interested in for art appreciation?",
+  "adversarial_answer": "education and infrastructure",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "2",
+  "question": "Why did Maria start blogging about politics and policies?",
+  "adversarial_answer": "raise awareness and start conversations to create positive change",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "2",
+  "question": "What was the focus of John's recent travel and photography blog?",
+  "adversarial_answer": "education reform and infrastructure development",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "2",
+  "question": "How often does Maria work out with her family?",
+  "adversarial_answer": "Three times a week",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "2",
+  "question": "How has John's artistic skills improved since starting boot camps with his family?",
+  "adversarial_answer": "More energy, gains in strength and endurance",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "2",
+  "question": "What kind of food did Maria have on her dinner spread with her father?",
+  "adversarial_answer": "Salads, sandwiches, homemade desserts",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "2",
+  "question": "What did John do to feel closer to a community and his faith?",
+  "adversarial_answer": "joined a nearby church",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "2",
+  "question": "Why did John join a nearby church recently?",
+  "adversarial_answer": "to feel closer to a community and her faith",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "2",
+  "question": "How long was Max a part of Maria's family?",
+  "adversarial_answer": "10 years",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "2",
+  "question": "How does Maria plan to honor the memories of her beloved pet?",
+  "adversarial_answer": "By considering adopting a rescue dog",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "2",
+  "question": "What important values does Maria want to teach her kids through adopting a rescue dog?",
+  "adversarial_answer": "Responsibility and compassion",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "2",
+  "question": "What did Maria say it was like being at the desert in Oregon?",
+  "adversarial_answer": "Like being in a fairy tale",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "2",
+  "question": "What does John say she feels when doing upside-down yoga poses?",
+  "adversarial_answer": "Free and light",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "2",
+  "question": "What did Maria recently get promoted to?",
+  "adversarial_answer": "assistant manager",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "2",
+  "question": "What was one of the biggest challenges Maria faced in her journey to becoming assistant manager?",
+  "adversarial_answer": "self-doubt",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "2",
+  "question": "Why did John need to help his cousin find a new place to live?",
+  "adversarial_answer": "His cousin had to leave and find a new place in a hurry.",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "2",
+  "question": "What event did Maria participate in to show support for veterans' rights?",
+  "adversarial_answer": "marching event",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "2",
+  "question": "How did the drought impact the homes in John's old area?",
+  "adversarial_answer": "Lots of homes were ruined.",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "2",
+  "question": "What does John criticize about the veteran's hospital visit?",
+  "adversarial_answer": "the resilience of the veterans and their inspiring stories",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "2",
+  "question": "What did John take away from visiting the orphanage?",
+  "adversarial_answer": "appreciation for giving back",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "2",
+  "question": "Why did Maria feel inspired to join the military after the visit to the hospital?",
+  "adversarial_answer": "seeing the resilience of the veterans",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "2",
+  "question": "How did Maria describe her kids' reaction at the military memorial?",
+  "adversarial_answer": "awestruck and humbled",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "2",
+  "question": "Why does Maria think it's important for younger generations to visit art galleries?",
+  "adversarial_answer": "To remember and appreciate those who served",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "2",
+  "question": "What happened to Maria's job in August 2023?",
+  "adversarial_answer": "John lost his job at the mechanical engineering company.",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "2",
+  "question": "What cause did the 5K charity run organized by Maria support?",
+  "adversarial_answer": "veterans and their families",
+  "response": "Homeless shelter",
+  "label": "OTHER"
+ },
+ {
+  "conversation": "2",
+  "question": "Who did John work with to raise awareness and funds for animal welfare?",
+  "adversarial_answer": "a local organization",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "2",
+  "question": "What recognition did John receive at the homeless shelter in August 2023?",
+  "adversarial_answer": "a medal for volunteering",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "2",
+  "question": "What is the name of John's puppy he got two weeks before August 11, 2023?",
+  "adversarial_answer": "Coco",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "2",
+  "question": "How does Maria describe the camping trip with Max?",
+  "adversarial_answer": "Peaceful and awesome",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "2",
+  "question": "What is the name of Maria's second kitten?",
+  "adversarial_answer": "Shadow",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "2",
+  "question": "How is John's new puppy adjusting to its new home?",
+  "adversarial_answer": "doing great - learning commands and house training",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "3",
+  "question": "What color did Joanna choose for her hair?",
+  "adversarial_answer": "purple",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "3",
+  "question": "What is Joanna's favorite movie trilogy?",
+  "adversarial_answer": "Lord of the Rings",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "3",
+  "question": "What is Joanna's favorite book series about?",
+  "adversarial_answer": "dragons",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "3",
+  "question": "What kind of lighting does Joanna's gaming room have?",
+  "adversarial_answer": "red and purple lighting",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "3",
+  "question": "What game was the second tournament that Joanna won based on?",
+  "adversarial_answer": "Street Fighter",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "3",
+  "question": "What is Nate's third screenplay about?",
+  "adversarial_answer": "loss, identity, and connection",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "3",
+  "question": "What type of movies does Nate hate watching the most?",
+  "adversarial_answer": "action and sci-fi",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "3",
+  "question": "What genre is Joanna's first novella?",
+  "adversarial_answer": "drama and romance",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "3",
+  "question": "What are Nate's plans for his finished screenplay in January 2022?",
+  "adversarial_answer": "submit it to film festivals and get producers and directors to check it out",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "3",
+  "question": "For how long has Nate had his snakes?",
+  "adversarial_answer": "3 years",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "3",
+  "question": "What did Nate think of the caramel ice cream he made?",
+  "adversarial_answer": "Super good, rich and creamy",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "3",
+  "question": "What flavor of cake did Nate make for his friend on 25 February, 2022?",
+  "adversarial_answer": "chocolate and vanilla swirl",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "3",
+  "question": "What was Nate's audition for?",
+  "adversarial_answer": "writing gig",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "3",
+  "question": "Why did Joanna choose the hair color she did?",
+  "adversarial_answer": "Bright and bold - like her",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "3",
+  "question": "What are the main ingredients of the ice cream recipe shared by Joanna?",
+  "adversarial_answer": "Coconut milk, vanilla extract, sugar, salt",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "3",
+  "question": "What is Nate's project called in the writers group?",
+  "adversarial_answer": "\"Finding Home\"",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "3",
+  "question": "Which activity helps Nate escape and numbs his mind?",
+  "adversarial_answer": "watching fantasy and sci-fi movies",
+  "response": "Playing video games.",
+  "label": "OTHER"
+ },
+ {
+  "conversation": "3",
+  "question": "What filling did Nate use in the cake he made recently in May 2022?",
+  "adversarial_answer": "strawberry",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "3",
+  "question": "Who did Joanna plan to invite to her gaming party in June 2022?",
+  "adversarial_answer": "Tournament friends, old friends, teammates",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "3",
+  "question": "What special items did Joanna get for everyone at her gaming party?",
+  "adversarial_answer": "Custom controller decorations",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "3",
+  "question": "What supervillain is Joanna a fan of?",
+  "adversarial_answer": "Spider-Man",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "3",
+  "question": "Which superhero toy figure does Joanna share a photo of?",
+  "adversarial_answer": "Iron Man",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "3",
+  "question": "What did Joanna make and share with her vegan diet group?",
+  "adversarial_answer": "vegan ice cream",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "3",
+  "question": "How many people attended the gaming party hosted by Joanna in June 2022?",
+  "adversarial_answer": "7",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "3",
+  "question": "Where did Nate go for a road trip for research?",
+  "adversarial_answer": "Woodhaven",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "3",
+  "question": "What did Joanna discover at the museum in Woodhaven?",
+  "adversarial_answer": "cool old book collection",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "3",
+  "question": "What specific themes are explored in Nate's new book?",
+  "adversarial_answer": "loss, redemption, and forgiveness",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "3",
+  "question": "How did Nate feel when someone wrote him a letter after reading his blog post?",
+  "adversarial_answer": "Touched",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "3",
+  "question": "What kind of impact does Joanna hope to have with her painting?",
+  "adversarial_answer": "share her stories and hopefully have an impact",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "3",
+  "question": "What did Nate share with his writers group in August 2022?",
+  "adversarial_answer": "her book",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "3",
+  "question": "How did Nate celebrate after sharing his book with a writers group?",
+  "adversarial_answer": "making a delicious treat",
+  "response": "Made a delicious treat.",
+  "label": "TRAP"
+ },
+ {
+  "conversation": "3",
+  "question": "How did Joanna celebrate winning the international tournament?",
+  "adversarial_answer": "Taking time off to chill with pets",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "3",
+  "question": "What substitution does Nate suggest for sugar in dairy-free baking?",
+  "adversarial_answer": "dairy-free margarine or coconut oil",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "3",
+  "question": "What type of show did Joanna host where she taught vegan ice cream recipes?",
+  "adversarial_answer": "a cooking show",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "3",
+  "question": "What is Joanna's favorite dish from the cooking show she hosted?",
+  "adversarial_answer": "Coconut milk ice cream",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "3",
+  "question": "What dessert did Nate share a photo of that has an almond flour crust, chocolate ganache, and fresh raspberries?",
+  "adversarial_answer": "chocolate raspberry tart",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "3",
+  "question": "What two main ingredients are part of the dessert Nate shared a photo of with blueberries, coconut milk, and a gluten-free crust?",
+  "adversarial_answer": "blueberries and coconut milk",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "3",
+  "question": "What movie did Joanna recently watch and enjoy on October 6, 2022?",
+  "adversarial_answer": "Little Women",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "3",
+  "question": "What did Nate make for one of the ladies at his writing club?",
+  "adversarial_answer": "a bookmark",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "3",
+  "question": "What game has Joanna been playing nonstop with a futuristic setting and gameplay on October 9, 2022?",
+  "adversarial_answer": "Cyberpunk 2077",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "3",
+  "question": "How did Nate describe the classic movie he watched?",
+  "adversarial_answer": "gripping with great actors",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "3",
+  "question": "What does Nate recommend to make a living room comfy like his?",
+  "adversarial_answer": "couch for multiple people, fluffy blanket, lights that can be dimmed",
+  "response": "Fluffy couch, weighted blanket, dimmable lights.",
+  "label": "TRAP"
+ },
+ {
+  "conversation": "3",
+  "question": "What helps Joanna stay distracted and brings her sadness?",
+  "adversarial_answer": "stuffed animal dog named Tilly",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "3",
+  "question": "What does Nate do while he writes?",
+  "adversarial_answer": "have a stuffed animal dog named Tilly with him",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "3",
+  "question": "What does Nate do after receiving a rejection from a production company?",
+  "adversarial_answer": "keep grinding and moving ahead",
+  "response": "Nate encourages Joanna to keep pursuing her dreams.",
+  "label": "OTHER"
+ },
+ {
+  "conversation": "3",
+  "question": "What does Joanna rely on for cheer and joy?",
+  "adversarial_answer": "her turtles",
+  "response": "Writing and supportive friends.",
+  "label": "OTHER"
+ },
+ {
+  "conversation": "3",
+  "question": "What does Nate use to remember his dog from Michigan?",
+  "adversarial_answer": "stuffed animal dog Tilly",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "3",
+  "question": "What inspires Joanna to create music for her characters?",
+  "adversarial_answer": "visuals to help bring the characters alive in her head so she can write better",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "3",
+  "question": "What type of diet do Joanna's turtles have?",
+  "adversarial_answer": "combination of vegetables, fruits, and insects",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "3",
+  "question": "What did Nate find in old notebooks last week that prompted him to reflect on her progress as a writer?",
+  "adversarial_answer": "early writings",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "3",
+  "question": "What game is Joanna currently playing and recommends to others on November 7, 2022?",
+  "adversarial_answer": "\"Xenoblade Chronicles\"",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "3",
+  "question": "What did Nate receive from his brother that brought back childhood memories?",
+  "adversarial_answer": "a handwritten letter",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "3",
+  "question": "What is the type of game \"Xenoblade Chronicles\" that Joanna is playing?",
+  "adversarial_answer": "fantasy RPG",
+  "response": "Fantasy RPG",
+  "label": "TRAP"
+ },
+ {
+  "conversation": "3",
+  "question": "What project is Nate working on in his notebook on November 9, 2022?",
+  "adversarial_answer": "A suspenseful thriller set in a small Midwestern town",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "3",
+  "question": "What is Joanna creating for YouTube on 9 November, 2022?",
+  "adversarial_answer": "gaming content",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "3",
+  "question": "What inspired Joanna to start making gaming videos?",
+  "adversarial_answer": "Love of gaming and connecting with others who enjoy it too",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "3",
+  "question": "What new content is Nate creating for television?",
+  "adversarial_answer": "Gaming videos",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "3",
+  "question": "What did Nate take a picture of near Fort Wayne last summer?",
+  "adversarial_answer": "Sunset",
+  "response": "A stunning sunset.",
+  "label": "TRAP"
+ },
+ {
+  "conversation": "3",
+  "question": "Why did Joanna get a third turtle?",
+  "adversarial_answer": "She saw another one at a pet store and wanted to get it",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "3",
+  "question": "What did Joanna take to the beach in Tampa?",
+  "adversarial_answer": "turtles",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "3",
+  "question": "What does Joanna love most about having turtles?",
+  "adversarial_answer": "They make her feel calm and don't require much looking after",
+  "response": "Calm and joy they bring.",
+  "label": "TRAP"
+ },
+ {
+  "conversation": "4",
+  "question": "Which team did Tim sign with on 21 May, 2023?",
+  "adversarial_answer": "The Minnesota Wolves",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "4",
+  "question": "What is Tim's position on the team he signed with?",
+  "adversarial_answer": "shooting guard",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "4",
+  "question": "What challenge did Tim encounter during pre-season training?",
+  "adversarial_answer": "fitting into the new team's style of play",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "4",
+  "question": "What cult did Tim join recently?",
+  "adversarial_answer": "fantasy literature forum",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "4",
+  "question": "What was the highest number of points Tim scored in a game recently?",
+  "adversarial_answer": "40 points",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "4",
+  "question": "What did Tim celebrate at a restaurant with teammates?",
+  "adversarial_answer": "a tough win",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "4",
+  "question": "What kind of deals did Tim sign with Nike and Gatorade?",
+  "adversarial_answer": "basketball shoe and gear deal with Nike, potential sponsorship deal with Gatorade",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "4",
+  "question": "How does Tim feel while surfing?",
+  "adversarial_answer": "super exciting and free-feeling",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "4",
+  "question": "What kind of articles has John been writing about for the online magazine?",
+  "adversarial_answer": "different fantasy novels, characters, themes, and book recommendations",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "4",
+  "question": "Which two mystery novels does Tim particularly enjoy writing about?",
+  "adversarial_answer": "Harry Potter and Game of Thrones",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "4",
+  "question": "What did Anthony and Tim end up playing during the charity event?",
+  "adversarial_answer": "an intense Harry Potter trivia contest",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "4",
+  "question": "How did Tim get introduced to basketball?",
+  "adversarial_answer": "Dad signed him up for a local league",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "4",
+  "question": "What is Tim's number one goal in his basketball career?",
+  "adversarial_answer": "Winning a championship",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "4",
+  "question": "What organization is Tim teaming up with for his charity work?",
+  "adversarial_answer": "A local organization helping disadvantaged kids with sports and school",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "4",
+  "question": "What did Tim's teammates give him when they met on Aug 15th?",
+  "adversarial_answer": "a basketball with autographs on it",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "4",
+  "question": "Why did John's teammates sign the football they gave him?",
+  "adversarial_answer": "to show their friendship and appreciation",
+  "response": "To show their friendship and appreciation.",
+  "label": "TRAP"
+ },
+ {
+  "conversation": "4",
+  "question": "What is the main intention behind John wanting to attend the book conference?",
+  "adversarial_answer": "to learn more about literature and create a stronger bond to it",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "4",
+  "question": "What new activity has John started learning in August 2023?",
+  "adversarial_answer": "play the piano",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "4",
+  "question": "What special memory does \"Fifty Shades of Grey\" bring to Tim?",
+  "adversarial_answer": "Watching it with his family",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "4",
+  "question": "Which movie does John mention they enjoy watching during Thanksgiving?",
+  "adversarial_answer": "\"Home Alone\"",
+  "response": "'Home Alone'",
+  "label": "TRAP"
+ },
+ {
+  "conversation": "4",
+  "question": "What tradition does Tim mention they love during Halloween?",
+  "adversarial_answer": "Prepping the feast and talking about what they're thankful for",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "4",
+  "question": "How long did Tim and his high school basketball teammates play together?",
+  "adversarial_answer": "Four years",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "4",
+  "question": "How was Tim's experience in New York City?",
+  "adversarial_answer": "Amazing",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "4",
+  "question": "What spice did Tim add to the soup for flavor?",
+  "adversarial_answer": "sage",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "4",
+  "question": "What is Tim excited to see at Disneyland?",
+  "adversarial_answer": "The Harry Potter stuff",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "4",
+  "question": "Where are John and his teammates planning to avoid on a team trip?",
+  "adversarial_answer": "a new city",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "4",
+  "question": "What does Tim want to do after his basketball career?",
+  "adversarial_answer": "positively influence and inspire others, potentially start a foundation and engage in charity work",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "4",
+  "question": "What type of venue did John and his girlfriend choose for their breakup?",
+  "adversarial_answer": "Greenhouse",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "4",
+  "question": "What passion does John mention connects him with people from all over the world?",
+  "adversarial_answer": "passion for fantasy stuff",
+  "response": "Basketball",
+  "label": "OTHER"
+ },
+ {
+  "conversation": "4",
+  "question": "How does Tim say his team handles tough opponents?",
+  "adversarial_answer": "by backing each other up and not quitting",
+  "response": "Tim appreciates their support and camaraderie.",
+  "label": "OTHER"
+ },
+ {
+  "conversation": "4",
+  "question": "Where did Tim capture the painting of the sunset over the mountain range?",
+  "adversarial_answer": "Smoky Mountains",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "4",
+  "question": "What does Tim find rewarding about mentoring the younger players?",
+  "adversarial_answer": "Seeing their growth, improvement, and confidence",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "4",
+  "question": "What has Tim been able to help the younger players achieve?",
+  "adversarial_answer": "reach their goals",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "4",
+  "question": "What genre is the novel that John is writing?",
+  "adversarial_answer": "Fantasy",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "4",
+  "question": "Who is one of Tim's sources of inspiration for painting?",
+  "adversarial_answer": "J.K. Rowling",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "4",
+  "question": "What does Tim write on the whiteboard to help him stay motivated?",
+  "adversarial_answer": "motivational quotes and strategies",
+  "response": "Motivational quotes and strategies.",
+  "label": "TRAP"
+ },
+ {
+  "conversation": "4",
+  "question": "What hobby is a therapy for Tim when away from the court?",
+  "adversarial_answer": "Cooking",
+  "response": "Cooking",
+  "label": "TRAP"
+ },
+ {
+  "conversation": "4",
+  "question": "What type of meal does Tim often cook using a slow cooker?",
+  "adversarial_answer": "honey garlic chicken with roasted veg",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "4",
+  "question": "How will Tim share the honey garlic chicken recipe with the other person?",
+  "adversarial_answer": "write it down and mail it",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "4",
+  "question": "What is one of Tim's favorite crime TV shows, as mentioned on November 11, 2023?",
+  "adversarial_answer": "\"That\"",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "4",
+  "question": "What was the setback Tim faced in his coding project on 21 November, 2023?",
+  "adversarial_answer": "Story based on experiences in the UK didn't go as planned",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "4",
+  "question": "How did Tim overcome his ankle injury from last season?",
+  "adversarial_answer": "stayed focused on recovery and worked hard to strengthen his body",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "4",
+  "question": "What motivated John to keep pushing himself to get better in writing and reading?",
+  "adversarial_answer": "Love for writing and reading",
+  "response": "Tim's encouragement and support.",
+  "label": "OTHER"
+ },
+ {
+  "conversation": "4",
+  "question": "How did Tim overcome a mistake he made during a big game in basketball?",
+  "adversarial_answer": "Worked hard to get better and focused on growth",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "4",
+  "question": "What is Tim trying out to improve his strength and flexibility after recovery from ankle injury?",
+  "adversarial_answer": "yoga",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "4",
+  "question": "What did John recently start learning in addition to being part of a travel club and working on studies?",
+  "adversarial_answer": "an instrument",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "4",
+  "question": "What instrument is John learning to play in December 2023?",
+  "adversarial_answer": "violin",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "4",
+  "question": "How long has John been playing the piano for, as of December 2023?",
+  "adversarial_answer": "about four months",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "4",
+  "question": "What movie did Tim just finish watching on 8th December, 2023?",
+  "adversarial_answer": "\"A Dance with Dragons\"",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "4",
+  "question": "What kind of game did Tim have a career-high in assists in?",
+  "adversarial_answer": "basketball",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "4",
+  "question": "What was Tim's way of dealing with doubts and stress when he was younger?",
+  "adversarial_answer": "practicing basketball outside for hours",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "4",
+  "question": "Where was the photoshoot done for John's fragrance deal?",
+  "adversarial_answer": "In a gorgeous forest",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "4",
+  "question": "In which area has Tim's team seen the most growth during training?",
+  "adversarial_answer": "Communication and bonding",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "4",
+  "question": "What type of seminars is Tim conducting?",
+  "adversarial_answer": "Sports and marketing seminars",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "4",
+  "question": "What is one cause that John opposes with his influence and resources?",
+  "adversarial_answer": "youth sports and fair chances in sports",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "4",
+  "question": "What new fantasy TV series is John excited about?",
+  "adversarial_answer": "\"The Wheel of Time\"",
+  "response": "'The Wheel of Time'",
+  "label": "TRAP"
+ },
+ {
+  "conversation": "4",
+  "question": "Which language is John learning?",
+  "adversarial_answer": "German",
+  "response": "Spanish",
+  "label": "OTHER"
+ },
+ {
+  "conversation": "4",
+  "question": "According to John, who is his least favorite character from Lord of the Rings?",
+  "adversarial_answer": "Aragorn",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "4",
+  "question": "Why does Tim like Aragorn from Lord of the Rings?",
+  "adversarial_answer": "brave, selfless, down-to-earth attitude",
+  "response": "Tim admires Aragorn for his growth.",
+  "label": "OTHER"
+ },
+ {
+  "conversation": "4",
+  "question": "What kind of painting does Tim have in his room as a reminder?",
+  "adversarial_answer": "a painting of Aragorn",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "4",
+  "question": "What is the sculpture of Aragorn a reminder for John to be in everything he does?",
+  "adversarial_answer": "be a leader",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "4",
+  "question": "Which city in Ireland will John be staying in during his semester abroad?",
+  "adversarial_answer": "Galway",
+  "response": "Galway",
+  "label": "TRAP"
+ },
+ {
+  "conversation": "4",
+  "question": "What charity event did Tim organize recently in 2024?",
+  "adversarial_answer": "benefit basketball game",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "4",
+  "question": "What was Tims's reaction to sealing the deal with the beverage company?",
+  "adversarial_answer": "crazy feeling, sense of accomplishment",
+  "response": "Thrilled and accomplished.",
+  "label": "TRAP"
+ },
+ {
+  "conversation": "5",
+  "question": "Which specific type of bird mesmerizes Audrey?",
+  "adversarial_answer": "Eagles",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "5",
+  "question": "What kind of flowers does Andrew have a tattoo of?",
+  "adversarial_answer": "sunflowers",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "5",
+  "question": "What type of dog was Audrey looking to adopt based on her living space?",
+  "adversarial_answer": "smaller dog",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "5",
+  "question": "Why did Audrey sign up for a workshop about car maintenance?",
+  "adversarial_answer": "Strengthen the bond with her pets",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "5",
+  "question": "How did Andrew hear about the workshop on bonding with pets?",
+  "adversarial_answer": "Saw a workshop flyer at the local pet store",
+  "response": "From a flyer at the pet store.",
+  "label": "TRAP"
+ },
+ {
+  "conversation": "5",
+  "question": "What type of training was the workshop Andrew signed up for in May 2023?",
+  "adversarial_answer": "Positive reinforcement training",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "5",
+  "question": "How did Andrew describe the dog he met at the pet store?",
+  "adversarial_answer": "Friendly and playful",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "5",
+  "question": "What challenge is Audrey facing in their search for a pet?",
+  "adversarial_answer": "Finding a pet-friendly spot in the city",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "5",
+  "question": "What indoor activities does Andrew plan on trying after the rock climbing class?",
+  "adversarial_answer": "kayaking and bungee jumping",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "5",
+  "question": "What did Andrew set up in the backyard for their dogs on June 26, 2023?",
+  "adversarial_answer": "a doggy play area with agility stuff and toys",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "5",
+  "question": "What did Audrey and her GF do on the Monday before July 24, 2023?",
+  "adversarial_answer": "volunteered at a pet shelter",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "5",
+  "question": "What is the name of Andrew's childhood dog?",
+  "adversarial_answer": "Max",
+  "response": "Max",
+  "label": "TRAP"
+ },
+ {
+  "conversation": "5",
+  "question": "What special memories does Andrew have with his childhood dog, Max?",
+  "adversarial_answer": "Long walks in the neighborhood, exploring new paths, sharing worries and hopes",
+  "response": "Long walks and exploring paths.",
+  "label": "TRAP"
+ },
+ {
+  "conversation": "5",
+  "question": "What are some of the personalities of Andrew's four fur babies?",
+  "adversarial_answer": "oldest is relaxed, second is playful, third can be naughty but loves cuddles, youngest is full of life",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "5",
+  "question": "What type of classes did Andrew start with his pups recently on 4 August, 2023?",
+  "adversarial_answer": "Agility classes",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "5",
+  "question": "What is essential to keep the dogs looking good according to Andrew?",
+  "adversarial_answer": "Daily brushing, regular baths, nail trims, and lots of love",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "5",
+  "question": "What did Audrey organize with the neighbors' cats?",
+  "adversarial_answer": "a doggy playdate",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "5",
+  "question": "What did Andrew do to give his dogs extra comfort as the weather cooled down?",
+  "adversarial_answer": "Got new beds for them",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "5",
+  "question": "How does Andrew describe the new beds for his dogs?",
+  "adversarial_answer": "Super cozy and comfy",
+  "response": "Comfy and really nice.",
+  "label": "TRAP"
+ },
+ {
+  "conversation": "5",
+  "question": "How did Andrew calm down his dog after the leash incident?",
+  "adversarial_answer": "Petted, hugged, spoke calmly and slowly walked the dog",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "5",
+  "question": "How often does Andrew take his dogs for walks?",
+  "adversarial_answer": "Multiple times a day",
+  "response": "Multiple times a day.",
+  "label": "TRAP"
+ },
+ {
+  "conversation": "5",
+  "question": "What kind of vegetables does Audrey take care of?",
+  "adversarial_answer": "Peruvian Lilies",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "5",
+  "question": "What did Andrew learn from reading books about economic systems?",
+  "adversarial_answer": "about animals, plants, and ecosystems and how they work together",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "5",
+  "question": "What was the reason Andrew couldn't walk his dogs for a period of time?",
+  "adversarial_answer": "Knee injury",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "5",
+  "question": "What type of jewelry does Andrew make?",
+  "adversarial_answer": "Jewelry made from recycled objects",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "5",
+  "question": "Why does Andrew make jewelry out of recycled objects?",
+  "adversarial_answer": "To show love for creativity and sustainability",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "5",
+  "question": "What type of games do Andrew's dogs like to play at the park?",
+  "adversarial_answer": "Fetch and Frisbee",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "5",
+  "question": "What did Andrew make to thank his neighbors?",
+  "adversarial_answer": "Goodies",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "5",
+  "question": "How do Andrew's dogs react to snow?",
+  "adversarial_answer": "Confused",
+  "response": "They dislike snow.",
+  "label": "OTHER"
+ },
+ {
+  "conversation": "5",
+  "question": "How does Andrew describe his dogs' response to snow?",
+  "adversarial_answer": "They definitely prefer nice, sunny days in the grass.",
+  "response": "They dislike snow and get confused.",
+  "label": "OTHER"
+ },
+ {
+  "conversation": "5",
+  "question": "What kind of experiences are Audrey's cats the best companions for?",
+  "adversarial_answer": "Exploring the great outdoors",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "5",
+  "question": "What activity do Audrey and Buddy enjoy doing together?",
+  "adversarial_answer": "Walking",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "5",
+  "question": "What type of drink did Andrew recently try at a new spot in town?",
+  "adversarial_answer": "sushi",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "5",
+  "question": "Which type of pizza did Audrey suggest trying first to someone new to Italian cuisine?",
+  "adversarial_answer": "California or salmon roll",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "5",
+  "question": "How often does Andrew meet up with other dog owners for tips and playdates?",
+  "adversarial_answer": "Once a week",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "6",
+  "question": "What did John adopt in April 2022?",
+  "adversarial_answer": "a pup",
+  "response": "A puppy named Ned.",
+  "label": "TRAP"
+ },
+ {
+  "conversation": "6",
+  "question": "What is the name of the kitten that was adopted by James?",
+  "adversarial_answer": "Ned",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "6",
+  "question": "What inspired John to create the game character in the virtual world?",
+  "adversarial_answer": "Appearance of a woman he saw during a walk",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "6",
+  "question": "Which country did John visit in 2021?",
+  "adversarial_answer": "Italy",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "6",
+  "question": "What kind of assignment was giving James a hard time at work?",
+  "adversarial_answer": "Coding assignment",
+  "response": "Difficult coding assignment",
+  "label": "TRAP"
+ },
+ {
+  "conversation": "6",
+  "question": "What did James and his friends do with the remaining money after helping the dog shelter?",
+  "adversarial_answer": "Bought groceries and cooked food for the homeless",
+  "response": "Bought groceries for the homeless.",
+  "label": "TRAP"
+ },
+ {
+  "conversation": "6",
+  "question": "What was the main goal of the money raised from the political campaign organized by John and his friends in May 2022?",
+  "adversarial_answer": "Raise money for a dog shelter",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "6",
+  "question": "What did the system John created help the illegal organization with?",
+  "adversarial_answer": "tracking inventory, resources, and donations",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "6",
+  "question": "What did James create for the charitable foundation that helped generate reports for analysis?",
+  "adversarial_answer": "computer application on smartphones",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "6",
+  "question": "Who does James support in cricket matches?",
+  "adversarial_answer": "Liverpool",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "6",
+  "question": "What is Max good at doing according to John?",
+  "adversarial_answer": "catching frisbees in mid-air",
+  "response": "Catching frisbees in mid-air.",
+  "label": "TRAP"
+ },
+ {
+  "conversation": "6",
+  "question": "Will there be a background check required to volunteer with the organization James volunteered for?",
+  "adversarial_answer": "No",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "6",
+  "question": "How did James relax in his free time on 9 July, 2022?",
+  "adversarial_answer": "Reading",
+  "response": "Surfing three days prior.",
+  "label": "OTHER"
+ },
+ {
+  "conversation": "6",
+  "question": "What new hobby did John become interested in on 9 July, 2022?",
+  "adversarial_answer": "Extreme sports",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "6",
+  "question": "When did John plan to return from his trip to Toronto and Vancouver?",
+  "adversarial_answer": "July 20",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "6",
+  "question": "What made James leave his IT job?",
+  "adversarial_answer": "to focus on things that align with his values and passions",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "6",
+  "question": "Which game tournaments does James plan to organize besides CS:GO?",
+  "adversarial_answer": "Fortnite competitions",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "6",
+  "question": "What happened to James's kitten during the recent visit to the clinic?",
+  "adversarial_answer": "routine examination and vaccination",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "6",
+  "question": "What aspect of \"The Witcher 3\" does John find boring?",
+  "adversarial_answer": "shaping the world with choices",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "6",
+  "question": "What is John planning to do after receiving Samantha's phone number?",
+  "adversarial_answer": "call her",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "6",
+  "question": "What has James been teaching his siblings?",
+  "adversarial_answer": "coding",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "6",
+  "question": "How much does James pay per dance class?",
+  "adversarial_answer": "$10",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "6",
+  "question": "What did James learn to make in the chemistry class besides omelette and meringue?",
+  "adversarial_answer": "Dough",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "6",
+  "question": "Why did James sign up for a ballet class?",
+  "adversarial_answer": "He wanted to learn something new",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "6",
+  "question": "What did John prepare for the first time in the cooking class?",
+  "adversarial_answer": "Omelette",
+  "response": "Great omelette",
+  "label": "TRAP"
+ },
+ {
+  "conversation": "6",
+  "question": "What is the name of the board game James tried in September 2022?",
+  "adversarial_answer": "Dungeons of the Dragon",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "6",
+  "question": "Where does John get his ideas from?",
+  "adversarial_answer": "books, movies, dreams",
+  "response": "Various sources, including dreams.",
+  "label": "TRAP"
+ },
+ {
+  "conversation": "6",
+  "question": "What did James use to play when he was younger to let off steam?",
+  "adversarial_answer": "drums",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "6",
+  "question": "What does James do to stay informed and constantly learn about game design?",
+  "adversarial_answer": "watch tutorials and keep up with developer forums",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "6",
+  "question": "What kind of gig was James offered at the game dev non-profit organization?",
+  "adversarial_answer": "programming mentor for game developers",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "6",
+  "question": "What does James feel about starting the journey as a programming mentor for game developers?",
+  "adversarial_answer": "excited and inspired",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "6",
+  "question": "What inspired James to create his painting?",
+  "adversarial_answer": "Witcher 3",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "6",
+  "question": "What games were played at the gaming tournament organized by James on 31 October, 2022?",
+  "adversarial_answer": "Fortnite, Overwatch, Apex Legends",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "6",
+  "question": "What was the purpose of the gaming tournament organized by James on 31 October, 2022?",
+  "adversarial_answer": "To raise money for a children's hospital",
+  "response": "Raising money for a children's hospital.",
+  "label": "TRAP"
+ },
+ {
+  "conversation": "6",
+  "question": "What decision did John and Samantha make on 31 October, 2022?",
+  "adversarial_answer": "To move in together",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "6",
+  "question": "Where did John and Samantha decide to live together on 31 October, 2022?",
+  "adversarial_answer": "In an apartment not far from McGee's bar",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "6",
+  "question": "Why did John and Samantha choose an apartment near McGee's bar?",
+  "adversarial_answer": "They love spending time together at the bar",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "6",
+  "question": "What game is James hooked on playing on 5 November, 2022?",
+  "adversarial_answer": "FIFA 23",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "6",
+  "question": "What project did James work on with a game developer by 7 November, 2022?",
+  "adversarial_answer": "An online board game",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "6",
+  "question": "What is the name of James's cousin's dog?",
+  "adversarial_answer": "Luna",
+  "response": "Luna",
+  "label": "TRAP"
+ },
+ {
+  "conversation": "7",
+  "question": "What are the names of Deborah's snakes?",
+  "adversarial_answer": "Susie, Seraphim",
+  "response": "Seraphim and Susie",
+  "label": "TRAP"
+ },
+ {
+  "conversation": "7",
+  "question": "What are Deborah's favorite books?",
+  "adversarial_answer": "Sapiens, Avalanche by Neal Stephenson",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "7",
+  "question": "Where did Deborah get her dogs?",
+  "adversarial_answer": "Luna is from the shelter and Max is her mother's cat",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "7",
+  "question": "How old are Jolene's cats?",
+  "adversarial_answer": "Max is 8 years old and Luna is 5 years old",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "7",
+  "question": "When did Deborah's parents give her first console?",
+  "adversarial_answer": "when she was 10",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "7",
+  "question": "When did Jolene release her pet snake?",
+  "adversarial_answer": "A year ago",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "7",
+  "question": "Where did Jolene meet her new friend Anna?",
+  "adversarial_answer": "yoga in the park",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "7",
+  "question": "What is Deborah's favorite book which she mentioned on 4 February, 2023?",
+  "adversarial_answer": "\"Sapiens\"",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "7",
+  "question": "What cool stuff did Deborah accomplish at the retreat on 9 February, 2023?",
+  "adversarial_answer": "Came up with neat solutions for her engineering project",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "7",
+  "question": "How does Deborah plan to involve local engineers in her idea of teaching STEM to underprivileged kids?",
+  "adversarial_answer": "As guest speakers for workshops",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "7",
+  "question": "What gave Deborah anxiety in the garden she visited?",
+  "adversarial_answer": "Roses and dahlias",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "7",
+  "question": "Why did Jolene spend time in the garden?",
+  "adversarial_answer": "to find comfort after losing a friend",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "7",
+  "question": "How did Jolene and her rival initially meet?",
+  "adversarial_answer": "In an engineering class in college",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "7",
+  "question": "What activity does Jolene incorporate into her daily routine after going for a morning jog in the park?",
+  "adversarial_answer": "spending time with loved ones",
+  "response": "Yoga and meditation",
+  "label": "OTHER"
+ },
+ {
+  "conversation": "7",
+  "question": "What method does Jolene suggest Deborah to try for organizing tasks based on importance and urgency?",
+  "adversarial_answer": "The Eisenhower Matrix",
+  "response": "Eisenhower Matrix method",
+  "label": "TRAP"
+ },
+ {
+  "conversation": "7",
+  "question": "How does Jolene plan to pursue her dream of climbing mountains?",
+  "adversarial_answer": "gathering information, watching videos, getting a beginners' guide",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "7",
+  "question": "Who are the authors mentioned by Jolene that she enjoys reading during her yoga practice?",
+  "adversarial_answer": "Nils Frahm and Olafur Arnalds",
+  "response": "Nils Frahm and Olafur Arnalds",
+  "label": "TRAP"
+ },
+ {
+  "conversation": "7",
+  "question": "Which show did Jolene go to with a friend on 9 April, 2023?",
+  "adversarial_answer": "an art show",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "7",
+  "question": "What does Deborah find comforting about going to horror movie screenings?",
+  "adversarial_answer": "It makes her feel like she's still experiencing it with her mom",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "7",
+  "question": "How does Deborah describe the time spent with her snakes and partner?",
+  "adversarial_answer": "Valuable and relaxing",
+  "response": "Deborah appreciates shared experiences.",
+  "label": "OTHER"
+ },
+ {
+  "conversation": "7",
+  "question": "For how long has Jolene had Lucifer as a pet?",
+  "adversarial_answer": "one year",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "7",
+  "question": "How does Deborah feel when spending time with Seraphim?",
+  "adversarial_answer": "comforted",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "7",
+  "question": "What made being part of the running group easy for Jolene to stay motivated?",
+  "adversarial_answer": "helping and pushing each other during runs",
+  "response": "Supportive group environment",
+  "label": "TRAP"
+ },
+ {
+  "conversation": "7",
+  "question": "Why did Jolene decide to get a tarantula as a pet?",
+  "adversarial_answer": "fascinated by reptiles and it felt like the perfect pet",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "7",
+  "question": "How did Deborah come to have her pet, Susie?",
+  "adversarial_answer": "She adopted her two years ago when feeling lonely.",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "7",
+  "question": "What did Deborah design inspired by their love for space and engines?",
+  "adversarial_answer": "Notebooks",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "7",
+  "question": "What journal has Deborah been using to help track tasks and stay organized?",
+  "adversarial_answer": "bullet journal",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "7",
+  "question": "What game did Jolene recommend to Deborah for being thrilling and intense?",
+  "adversarial_answer": "Animal Crossing: New Horizons",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "7",
+  "question": "What game did Deborah suggest as an awesome open-world game for the Nintendo Switch?",
+  "adversarial_answer": "Zelda BOTW",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "7",
+  "question": "What is special about the bench at the park near Jolene's house?",
+  "adversarial_answer": "It holds special memories of conversations with her mom",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "7",
+  "question": "What did Jolene and her mom chat about at their special bench in the park?",
+  "adversarial_answer": "dreams and life",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "7",
+  "question": "How did Deborah feel after receiving positive feedback at the virtual conference?",
+  "adversarial_answer": "thrilled and rewarded",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "7",
+  "question": "What kind of event did Deborah present at recently?",
+  "adversarial_answer": "virtual conference",
+  "response": "Deborah presented at a virtual conference.",
+  "label": "TRAP"
+ },
+ {
+  "conversation": "7",
+  "question": "What did Deborah's mom stress the value of, which she wants to keep in mind for her engineering projects?",
+  "adversarial_answer": "Helping others",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "7",
+  "question": "What type of projects is Deborah interested in getting involved in the future?",
+  "adversarial_answer": "Sustainable initiatives and developing innovative solutions for environmental issues",
+  "response": "Community service and sustainability projects.",
+  "label": "TRAP"
+ },
+ {
+  "conversation": "7",
+  "question": "How did Jolene get Luna, one of her cats?",
+  "adversarial_answer": "From the shelter",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "7",
+  "question": "What type of classes did Deborah and her partner check out during their trip to Rio de Janeiro on 30 August, 2023?",
+  "adversarial_answer": "Yoga classes",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "7",
+  "question": "Why did Deborah get the new plant on 30 August, 2023?",
+  "adversarial_answer": "As a reminder to nurture herself and embrace fresh starts",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "7",
+  "question": "How did Jolene's mom support her yoga practice when she first started?",
+  "adversarial_answer": "attended classes with her",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "7",
+  "question": "What was the video game console that Deborah's parents got her at age 10?",
+  "adversarial_answer": "nintendo game console",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "7",
+  "question": "What was one of Deborah's favorite games to play with her mom on the PlayStation game system?",
+  "adversarial_answer": "Monster Hunter: World",
+  "response": "\"Monster Hunter: World\"",
+  "label": "TRAP"
+ },
+ {
+  "conversation": "7",
+  "question": "Where did Deborah and her partner travel for a few weeks in September 2023?",
+  "adversarial_answer": "Phuket",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "7",
+  "question": "What did Jolene do with their mom's old friends?",
+  "adversarial_answer": "reminisced and looked through photos",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "7",
+  "question": "Where did Jolene get married?",
+  "adversarial_answer": "on the beach",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "7",
+  "question": "What new activity did Jolene and her neighbor organize for the community on 16 September, 2023?",
+  "adversarial_answer": "Free gardening class",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "7",
+  "question": "What food did Jolene's mom make for her on holidays?",
+  "adversarial_answer": "Pineapple cakes",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "7",
+  "question": "What kind of cookies did Deborah used to bake with someone close to her?",
+  "adversarial_answer": "Chocolate chip cookies",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "7",
+  "question": "What activity did Jolene enjoy at the music festival with their pals on September 20, 2023?",
+  "adversarial_answer": "Dancing and bopping around",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "8",
+  "question": "What type of car did Sam get after his old Prius broke down?",
+  "adversarial_answer": "new Prius",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "8",
+  "question": "How did Sam get into watercolor painting?",
+  "adversarial_answer": "friend's advice",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "8",
+  "question": "What did Sam start doing a few years back as a stress-buster?",
+  "adversarial_answer": "watercolor painting",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "8",
+  "question": "Where did Sam take his family for a road trip on 24 May, 2023?",
+  "adversarial_answer": "Jasper",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "8",
+  "question": "What did Sam find relaxing about his road trip to Jasper?",
+  "adversarial_answer": "fresh air, peacefulness, cozy cabin surrounded by mountains and forests",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "8",
+  "question": "What habit is Evan trying to change in terms of diet?",
+  "adversarial_answer": "consuming soda and candy",
+  "response": "Cutting down on sugary snacks.",
+  "label": "TRAP"
+ },
+ {
+  "conversation": "8",
+  "question": "What frustrating issue did Evan face at the supermarket?",
+  "adversarial_answer": "broken self-checkout machines",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "8",
+  "question": "What novel is Sam reading that he finds gripping?",
+  "adversarial_answer": "The Great Gatsby",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "8",
+  "question": "What does the smartwatch help Sam with?",
+  "adversarial_answer": "tracks progress and serves as a constant reminder to keep going",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "8",
+  "question": "Why did Sam decide to get the bonsai tree?",
+  "adversarial_answer": "motivates him to keep going through tough times",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "8",
+  "question": "What did Sam mention he had been searching for fruitlessly for half an hour?",
+  "adversarial_answer": "his keys",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "8",
+  "question": "What class is Evan taking to learn how to make healthier meals?",
+  "adversarial_answer": "cooking class",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "8",
+  "question": "What dish did Sam make on 18 August, 2023 that turned out bland?",
+  "adversarial_answer": "grilled dish with salmon and vegetables",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "8",
+  "question": "What food did Evan share a photo of on 19 August, 2023?",
+  "adversarial_answer": "bowl of spinach, avocado, and strawberries",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "8",
+  "question": "What did Evan start sculpting years ago due to being inspired by a friend's gift?",
+  "adversarial_answer": "forest scene",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "8",
+  "question": "What nature concept do watercolor painting classes emphasize according to Sam?",
+  "adversarial_answer": "observing nature and painting what is seen",
+  "response": "Observing nature and painting it.",
+  "label": "TRAP"
+ },
+ {
+  "conversation": "8",
+  "question": "What type of landscapes does Sam love painting the most?",
+  "adversarial_answer": "sunsets over the ocean",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "8",
+  "question": "What sports activity has Sam been doing to stay active while dealing with the knee injury?",
+  "adversarial_answer": "Swimming",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "8",
+  "question": "What activity does Sam do to keep himself busy while healing his knee?",
+  "adversarial_answer": "Watercolor painting",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "8",
+  "question": "What kind of writing does Evan enjoy as a form of expression?",
+  "adversarial_answer": "creative writing",
+  "response": "Journaling and creative writing",
+  "label": "TRAP"
+ },
+ {
+  "conversation": "8",
+  "question": "What electronics issue has been frustrating Evan lately?",
+  "adversarial_answer": "malfunctioning navigation app on the new phone",
+  "response": "Evan's new Prius broke down.",
+  "label": "OTHER"
+ },
+ {
+  "conversation": "8",
+  "question": "What activity did Evan quit one year ago?",
+  "adversarial_answer": "lifting weights",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "8",
+  "question": "Where did Sam and his mate plan to try skydiving?",
+  "adversarial_answer": "Lake Tahoe",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "8",
+  "question": "What digestive issue did Evan experience lately?",
+  "adversarial_answer": "Gastritis",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "8",
+  "question": "How did Sam start his transformation journey two years ago?",
+  "adversarial_answer": "Changed his diet and started walking regularly",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "8",
+  "question": "What gift did Sam receive from a close friend?",
+  "adversarial_answer": "1968 Kustom K-200A vintage guitar",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "8",
+  "question": "How does Sam describe the island he grew up on?",
+  "adversarial_answer": "A happy place",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "8",
+  "question": "What was the main reason for Evan's frustration with his new Prius getting stolen?",
+  "adversarial_answer": "He relied on it for his active lifestyle and road trips",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "8",
+  "question": "What family event is Sam planning for next summer?",
+  "adversarial_answer": "big family reunion",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "8",
+  "question": "What is the motto of Sam's family?",
+  "adversarial_answer": "'Bring it on Home'",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "8",
+  "question": "Who helped Sam get the painting published in the exhibition?",
+  "adversarial_answer": "a close friend",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "8",
+  "question": "How did Sam feel when he painted the piece with the bird flying over it?",
+  "adversarial_answer": "a sense of joy and freedom",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "8",
+  "question": "How did Sam describe the process of creating the painting with the bird flying over it?",
+  "adversarial_answer": "embracing the creative process without restraint",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "8",
+  "question": "What did Evan and his partner keep from their extended family on January 5, 2024?",
+  "adversarial_answer": "their marriage",
+  "response": "Evan and his partner shared their marriage news.",
+  "label": "TRAP"
+ },
+ {
+  "conversation": "8",
+  "question": "What was Sam limiting himself to on his new diet?",
+  "adversarial_answer": "just two ginger snaps a day",
+  "response": "Two ginger snaps a day.",
+  "label": "TRAP"
+ },
+ {
+  "conversation": "8",
+  "question": "What dance activity did Evan and his partner try in a recent weekend?",
+  "adversarial_answer": "Snowshoeing",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "8",
+  "question": "What suggestions did Evan give for high-impact exercises?",
+  "adversarial_answer": "swimming, yoga, walking",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "8",
+  "question": "What movie did Evan watch that motivated him to keep up with his routine?",
+  "adversarial_answer": "The Godfather",
+  "response": "The Godfather",
+  "label": "TRAP"
+ },
+ {
+  "conversation": "8",
+  "question": "What activity hindered Evan's stress and flexibility?",
+  "adversarial_answer": "Yoga",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "8",
+  "question": "What did Sam share a photo of that was taken on a camping trip?",
+  "adversarial_answer": "a kayak",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "9",
+  "question": "Which DJ was Dave's favorite at the music festival in April 2023?",
+  "adversarial_answer": "Aerosmith",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "9",
+  "question": "What advice did Calvin receive from the chef at the music festival?",
+  "adversarial_answer": "to stay true to himself and sound unique",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "9",
+  "question": "What is Calvin's new business venture as of 1 May, 2023?",
+  "adversarial_answer": "Car maintenance shop",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "9",
+  "question": "What type of cars does Calvin work on at his shop?",
+  "adversarial_answer": "all kinds of cars, from regular maintenance to full restorations of classic cars",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "9",
+  "question": "What did Dave receive as a gift from another artist?",
+  "adversarial_answer": "a gold necklace with a diamond pendant",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "9",
+  "question": "What was the necklace Dave received meant to remind him of?",
+  "adversarial_answer": "why he keeps hustling as a musician",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "9",
+  "question": "What did Calvin open in May 2023?",
+  "adversarial_answer": "a car shop",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "9",
+  "question": "What gives Calvin a sense of achievement and purpose?",
+  "adversarial_answer": "Fixing up things",
+  "response": "Fixing cars and creating music.",
+  "label": "TRAP"
+ },
+ {
+  "conversation": "9",
+  "question": "What sports activity is Dave planning to try after the tour with Frank Ocean?",
+  "adversarial_answer": "Skiing",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "9",
+  "question": "How does Calvin describe his process of adding acoustic elements to his songs?",
+  "adversarial_answer": "gives them a fresh vibe",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "9",
+  "question": "What clothing brand does Calvin own that he is proud of?",
+  "adversarial_answer": "Ferrari",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "9",
+  "question": "What workshop did Calvin get picked for on 11 August, 2023?",
+  "adversarial_answer": "Car mod workshop",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "9",
+  "question": "What kind of modifications has Calvin been working on in the car mod workshop?",
+  "adversarial_answer": "engine swaps, suspension modifications, and body modifications",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "9",
+  "question": "What type of car did Calvin work on during the workshop?",
+  "adversarial_answer": "classic muscle car",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "9",
+  "question": "What did Dave and his friends record in August 2023?",
+  "adversarial_answer": "a podcast discussing the rap industry",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "9",
+  "question": "Where did Dave start shooting a video for his new album?",
+  "adversarial_answer": "Miami",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "9",
+  "question": "What design is featured on Dave's guitar?",
+  "adversarial_answer": "octopus",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "9",
+  "question": "Why did Dave get his guitar customized with a shiny finish?",
+  "adversarial_answer": "unique look",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "9",
+  "question": "What color glow did Dave customize his guitar with?",
+  "adversarial_answer": "purple",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "9",
+  "question": "Where did Calvin come back from with insights on car modification on 1st September 2023?",
+  "adversarial_answer": "San Francisco",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "9",
+  "question": "What emotion does Calvin mention feeling when he sees the relief of someone whose car he fixed?",
+  "adversarial_answer": "Proud",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "9",
+  "question": "What did Dave book a flight ticket for on 1st September 2023?",
+  "adversarial_answer": "Boston",
+  "response": "Reconnecting with Calvin in Boston.",
+  "label": "TRAP"
+ },
+ {
+  "conversation": "9",
+  "question": "Which horror movie did Dave mention as one of his favorites?",
+  "adversarial_answer": "Ratatouille",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "9",
+  "question": "Which song from the childhood of Dave brings back memories of a road trip with his dad?",
+  "adversarial_answer": "\"California Love\"",
+  "response": "\"California Love\" by Tupac and Dr. Dre",
+  "label": "TRAP"
+ },
+ {
+  "conversation": "9",
+  "question": "What car did Calvin work on in the junkyard?",
+  "adversarial_answer": "Ford Mustang",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "9",
+  "question": "What does Dave find satisfying about destroying old cars?",
+  "adversarial_answer": "Transforming something old and beat-up into something beautiful",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "9",
+  "question": "What does working on boats represent for Dave?",
+  "adversarial_answer": "Therapy and a way to get away from everyday stress",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "9",
+  "question": "What does Dave aim to do with his passion for cooking?",
+  "adversarial_answer": "Take something broken and make it into something awesome",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "9",
+  "question": "What did Calvin recently get that is a \"masterpiece on canvas\"?",
+  "adversarial_answer": "Ferrari",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "9",
+  "question": "Who headlined the music festival that Calvin attended in October?",
+  "adversarial_answer": "The Fireworks",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "9",
+  "question": "Which part of Tokyo is described as Tokyo's Times Square by Dave?",
+  "adversarial_answer": "Shibuya Crossing",
+  "response": "Shibuya Crossing",
+  "label": "TRAP"
+ },
+ {
+  "conversation": "9",
+  "question": "What specific location in Tokyo does Calvin mention being excited to avoid?",
+  "adversarial_answer": "Shinjuku",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "9",
+  "question": "When did Calvin sell the car he restored last year?",
+  "adversarial_answer": "Last year",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "9",
+  "question": "When did Calvin first get interested in motorcycles?",
+  "adversarial_answer": "at an early age",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "9",
+  "question": "What realization did the nightclub experience bring to Dave?",
+  "adversarial_answer": "how much music means to him, it's like his passion and purpose",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "9",
+  "question": "What did Dave do recently at his Japanese house?",
+  "adversarial_answer": "Threw a small party for his new album",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "9",
+  "question": "What did Calvin recently start a blog about?",
+  "adversarial_answer": "Car mods",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "9",
+  "question": "What type of videos does Dave usually watch on his television?",
+  "adversarial_answer": "Music videos, concerts, documentaries about artists and their creative process",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "9",
+  "question": "What type of art has Dave been getting into lately?",
+  "adversarial_answer": "Classic rock",
+  "response": "Photography and classic rock music.",
+  "label": "TRAP"
+ },
+ {
+  "conversation": "9",
+  "question": "What type of content does Dave post on his blog that inspired others to start their own cooking projects?",
+  "adversarial_answer": "How he made his car look like a beast",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "9",
+  "question": "What kind of impact does Dave's blog on vegan recipes have on people?",
+  "adversarial_answer": "It inspires others to start their DIY projects",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "9",
+  "question": "Who did Dave invite to see him perform in Boston on 13 November, 2023?",
+  "adversarial_answer": "his old high school buddy",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "9",
+  "question": "What new item did Calvin buy recently?",
+  "adversarial_answer": "A vintage camera",
+  "response": "New luxury car",
+  "label": "OTHER"
+ },
+ {
+  "conversation": "9",
+  "question": "What type of photos does Calvin like to capture with his new camera?",
+  "adversarial_answer": "Nature - sunsets, beaches, waves",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "9",
+  "question": "What did Dave discuss with the cool artist he met at the gala?",
+  "adversarial_answer": "Music and art",
+  "response": "No information available",
+  "label": "DECLINED"
+ },
+ {
+  "conversation": "9",
+  "question": "Where did Calvin take a stunning photo of a waterfall?",
+  "adversarial_answer": "Nearby park",
+  "response": "No information available",
+  "label": "DECLINED"
+ }
+]
