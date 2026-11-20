@@ -81,3 +81,23 @@ Status 2026-11-19: first job (35393360) failed on every add for the reason above
 its output was deleted. Job 35393380 (categories 1-4) ingested about 10% and was stopped cleanly
 (SIGINT, no failures, no searches) to switch to category 3 only. Job 35393456 resumed ingestion from
 its checkpoints and finished cleanly. Adversarial step ran as job 35397155 (first run of answer_adversarial.py, no errors).
+
+### Hand labels for the adversarial answers (2026-11-20)
+
+`adversarial_hand_labels_cloud.json` has a hand label for each of the 446 answers above:
+DECLINED 219, REATTRIBUTED 30, TRAP 100, OTHER 97, so 249 correct (55.8%). The judge agrees on
+correct/wrong for 90.6% of answers and on all four labels for 89.2%. It marks 33 hand-correct
+answers wrong (23 give the fact but say in the same answer that it belongs to the other person,
+which the judge labels TRAP) and 9 hand-wrong answers correct (two of them empty answers).
+Rules used: an answer that gives the fact and explicitly assigns it to the other person is
+REATTRIBUTED; an answer that explicitly says a detail of the question is wrong ("it wasn't a
+cake, it was ice cream") is DECLINED; an answer that silently swaps the detail, or only names the
+other person's thing, is TRAP. By question type: fact of the other speaker 60.5% correct (332),
+same speaker with a changed detail 42.0% (112). Retrieved memories were not saved by this run, so
+whether the trap memory was retrieved cannot be checked.
+
+```bash
+cd ../evaluation && python eval_adversarial.py --report_only \
+  --output_file ../cloud-benchmarks/results/locomo/predicted_locomo-cloud/adversarial_metrics_top50.json \
+  --hand_labels ../cloud-benchmarks/adversarial_hand_labels_cloud.json
+```
